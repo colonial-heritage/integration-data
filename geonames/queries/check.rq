@@ -1,0 +1,18 @@
+PREFIX schema: <https://schema.org/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+# Check whether at least one dataset has been changed since the last run
+SELECT (?dateModified AS ?identifier) ?isChanged
+WHERE {
+  VALUES ?dataset {
+    <https://data.colonialcollections.nl/Bronbeek/Stamboeken>
+    <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects>
+    <https://data.colonialcollections.nl/nmvw/collection-archives>
+  }
+  ?dataset schema:dateModified ?rawDateModified .
+  BIND(xsd:dateTime(?rawDateModified) AS ?dateModified)
+  BIND("?_currentIdentifier"^^xsd:dateTime AS ?dateModifiedOfLastRun)
+  BIND(?dateModified > ?dateModifiedOfLastRun AS ?isChanged)
+}
+ORDER BY DESC(?isChanged) DESC(?dateModified)
+LIMIT 1
