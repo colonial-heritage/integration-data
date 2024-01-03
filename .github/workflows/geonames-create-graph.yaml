@@ -26,7 +26,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           path: ./code
-          repository: sdevalk/cc-integration-v2
+          repository: colonial-heritage/integration-layer
       - name: Install Node
         uses: actions/setup-node@v4
         with:
