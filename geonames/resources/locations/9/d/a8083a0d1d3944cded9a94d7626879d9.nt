@@ -1,0 +1,34 @@
+<https://sws.geonames.org/216661/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/216661/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/216661/about.rdf> .
+<https://sws.geonames.org/216661/> <http://www.geonames.org/ontology#name> "Equateur" .
+<https://sws.geonames.org/216661/> <http://www.geonames.org/ontology#alternateName> "Coquilhatville" .
+<https://sws.geonames.org/216661/> <http://www.geonames.org/ontology#shortName> "Equateur"@en .
+<https://sws.geonames.org/216661/> <http://www.geonames.org/ontology#shortName> "Equateur" .
+<https://sws.geonames.org/216661/> <http://www.geonames.org/ontology#shortName> "Équateur"@en .
+<https://sws.geonames.org/216661/> <http://www.geonames.org/ontology#officialName> "Équateur" .
+<https://sws.geonames.org/216661/> <http://www.geonames.org/ontology#officialName> "Équateur Province"@en .
+<https://sws.geonames.org/216661/> <http://www.geonames.org/ontology#alternateName> "Equator" .
+<https://sws.geonames.org/216661/> <http://www.geonames.org/ontology#alternateName> "Evenaar" .
+<https://sws.geonames.org/216661/> <http://www.geonames.org/ontology#alternateName> "Evenaars-Provincie" .
+<https://sws.geonames.org/216661/> <http://www.geonames.org/ontology#alternateName> "L’Equateur" .
+<https://sws.geonames.org/216661/> <http://www.geonames.org/ontology#alternateName> "Province de l’Équateur" .
+<https://sws.geonames.org/216661/> <http://www.geonames.org/ontology#alternateName> "Région de l’Équateur" .
+<https://sws.geonames.org/216661/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#A> .
+<https://sws.geonames.org/216661/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#A.ADM1> .
+<https://sws.geonames.org/216661/> <http://www.geonames.org/ontology#countryCode> "CD" .
+<https://sws.geonames.org/216661/> <http://www.geonames.org/ontology#population> "7500000" .
+<https://sws.geonames.org/216661/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "0.2" .
+<https://sws.geonames.org/216661/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "18.93333" .
+<https://sws.geonames.org/216661/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/203312/> .
+<https://sws.geonames.org/216661/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/203312/> .
+<https://sws.geonames.org/216661/> <http://www.geonames.org/ontology#childrenFeatures> <https://sws.geonames.org/216661/contains.rdf> .
+<https://sws.geonames.org/216661/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/216661/province-de-l-equateur.html> .
+<https://sws.geonames.org/216661/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Province_of_%C3%89quateur> .
+<https://sws.geonames.org/216661/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Province_of_%C3%89quateur> .
+<https://sws.geonames.org/216661/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/216661/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/216661/> .
+<https://sws.geonames.org/216661/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/216661/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/216661/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/216661/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/216661/about.rdf> <http://purl.org/dc/terms/modified> "2020-06-09"^^<https://www.w3.org/2001/XMLSchema#date> .
