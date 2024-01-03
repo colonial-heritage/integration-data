@@ -1,0 +1,29 @@
+<https://sws.geonames.org/2240444/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/2240444/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/2240444/about.rdf> .
+<https://sws.geonames.org/2240444/> <http://www.geonames.org/ontology#name> "Luanda" .
+<https://sws.geonames.org/2240444/> <http://www.geonames.org/ontology#alternateName> "Distrito de Luanda" .
+<https://sws.geonames.org/2240444/> <http://www.geonames.org/ontology#alternateName> "Loanda" .
+<https://sws.geonames.org/2240444/> <http://www.geonames.org/ontology#shortName> "Luanda"@en .
+<https://sws.geonames.org/2240444/> <http://www.geonames.org/ontology#alternateName> "Luanda"@fr .
+<https://sws.geonames.org/2240444/> <http://www.geonames.org/ontology#officialName> "Luanda" .
+<https://sws.geonames.org/2240444/> <http://www.geonames.org/ontology#officialName> "Luanda Province"@en .
+<https://sws.geonames.org/2240444/> <http://www.geonames.org/ontology#alternateName> "Província de Luanda" .
+<https://sws.geonames.org/2240444/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#A> .
+<https://sws.geonames.org/2240444/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#A.ADM1> .
+<https://sws.geonames.org/2240444/> <http://www.geonames.org/ontology#countryCode> "AO" .
+<https://sws.geonames.org/2240444/> <http://www.geonames.org/ontology#population> "6542942" .
+<https://sws.geonames.org/2240444/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "-8.91667" .
+<https://sws.geonames.org/2240444/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "13.33924" .
+<https://sws.geonames.org/2240444/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/3351879/> .
+<https://sws.geonames.org/2240444/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/3351879/> .
+<https://sws.geonames.org/2240444/> <http://www.geonames.org/ontology#childrenFeatures> <https://sws.geonames.org/2240444/contains.rdf> .
+<https://sws.geonames.org/2240444/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/2240444/luanda-province.html> .
+<https://sws.geonames.org/2240444/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Luanda_Province> .
+<https://sws.geonames.org/2240444/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Luanda_Province> .
+<https://sws.geonames.org/2240444/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/2240444/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/2240444/> .
+<https://sws.geonames.org/2240444/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/2240444/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/2240444/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/2240444/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/2240444/about.rdf> <http://purl.org/dc/terms/modified> "2016-05-04"^^<https://www.w3.org/2001/XMLSchema#date> .
