@@ -1,0 +1,40 @@
+<https://sws.geonames.org/352261/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/352261/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/352261/about.rdf> .
+<https://sws.geonames.org/352261/> <http://www.geonames.org/ontology#name> "Fostat" .
+<https://sws.geonames.org/352261/> <http://www.geonames.org/ontology#alternateName> "Al-Fustat"@it .
+<https://sws.geonames.org/352261/> <http://www.geonames.org/ontology#alternateName> "Al-Fustat" .
+<https://sws.geonames.org/352261/> <http://www.geonames.org/ontology#alternateName> "El Fostat" .
+<https://sws.geonames.org/352261/> <http://www.geonames.org/ontology#alternateName> "El Fustat" .
+<https://sws.geonames.org/352261/> <http://www.geonames.org/ontology#alternateName> "Fostat"@en .
+<https://sws.geonames.org/352261/> <http://www.geonames.org/ontology#alternateName> "Fostat"@fr .
+<https://sws.geonames.org/352261/> <http://www.geonames.org/ontology#alternateName> "Fustat"@de .
+<https://sws.geonames.org/352261/> <http://www.geonames.org/ontology#alternateName> "Masr al-Qadimah" .
+<https://sws.geonames.org/352261/> <http://www.geonames.org/ontology#alternateName> "Maṣr al-ʿAtīkaẗ" .
+<https://sws.geonames.org/352261/> <http://www.geonames.org/ontology#alternateName> "Misr al-qadima" .
+<https://sws.geonames.org/352261/> <http://www.geonames.org/ontology#alternateName> "Mişr al Qadīmah" .
+<https://sws.geonames.org/352261/> <http://www.geonames.org/ontology#alternateName> "Miṣr al-qadīmaẗ" .
+<https://sws.geonames.org/352261/> <http://www.geonames.org/ontology#alternateName> "Old Cairo" .
+<https://sws.geonames.org/352261/> <http://www.geonames.org/ontology#alternateName> "Vieux Caire"@fr .
+<https://sws.geonames.org/352261/> <http://www.geonames.org/ontology#alternateName> "Vieux Kaire"@fr .
+<https://sws.geonames.org/352261/> <http://www.geonames.org/ontology#alternateName> "الفسطاط"@ar .
+<https://sws.geonames.org/352261/> <http://www.geonames.org/ontology#alternateName> "مصر العتيكة"@ar .
+<https://sws.geonames.org/352261/> <http://www.geonames.org/ontology#alternateName> "مصر القديمة"@ar .
+<https://sws.geonames.org/352261/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#P> .
+<https://sws.geonames.org/352261/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#P.PPLX> .
+<https://sws.geonames.org/352261/> <http://www.geonames.org/ontology#countryCode> "EG" .
+<https://sws.geonames.org/352261/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "30.00737" .
+<https://sws.geonames.org/352261/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "31.23927" .
+<https://sws.geonames.org/352261/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/360995/> .
+<https://sws.geonames.org/352261/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/357994/> .
+<https://sws.geonames.org/352261/> <http://www.geonames.org/ontology#parentADM1> <https://sws.geonames.org/360631/> .
+<https://sws.geonames.org/352261/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/352261/nearby.rdf> .
+<https://sws.geonames.org/352261/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/352261/misr-al-qadimah.html> .
+<https://sws.geonames.org/352261/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Fustat> .
+<https://sws.geonames.org/352261/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Fustat> .
+<https://sws.geonames.org/352261/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/352261/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/352261/> .
+<https://sws.geonames.org/352261/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/352261/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/352261/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/352261/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/352261/about.rdf> <http://purl.org/dc/terms/modified> "2020-06-11"^^<https://www.w3.org/2001/XMLSchema#date> .
