@@ -2,13 +2,9 @@ name: Update Knowledge Graph with data from dataset 'GeoNames', based on IRIs in
 
 # Run every 3 hours. Don't run it more often; otherwise you might hit
 # GeoNames' hourly and daily request limits - http://www.geonames.org/export/
-# on:
-#   schedule:
-#     - cron: "0 */3 * * *"
-
 on:
-  push:
-    branches: ["main"]
+  schedule:
+    - cron: "0 */2 * * *"
 
 # Run a single workflow at a time
 concurrency:
@@ -55,7 +51,7 @@ jobs:
             --triplydb-dataset "${{ vars.TRIPLYDB_DATASET_KG }}" \
             --triplydb-service-name kg \
             --triplydb-service-type virtuoso \
-            --graph-name "https://data.colonialcollections.nl/geoname" \
+            --graph-name "https://data.colonialcollections.nl/geonames" \
             --temp-dir "$RUNNER_TEMP"
       - name: Save changes
         run: |
