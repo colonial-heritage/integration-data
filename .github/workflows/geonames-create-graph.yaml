@@ -55,7 +55,7 @@ jobs:
             --triplydb-dataset "${{ vars.TRIPLYDB_DATASET_KG }}" \
             --triplydb-service-name kg \
             --triplydb-service-type virtuoso \
-            --graph-name "https://data.colonialcollections.nl/geonames" \
+            --graph-name "https://data.colonialcollections.nl/geoname" \
             --temp-dir "$RUNNER_TEMP"
       - name: Save changes
         run: |
