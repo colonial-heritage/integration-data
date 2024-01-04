@@ -1,0 +1,67 @@
+name: Update Knowledge Graph with data from dataset 'AAT', based on IRIs in the Knowledge Graph
+
+# Every 12 hours
+on:
+  push:
+    branches: ["main"]
+
+# Run a single workflow at a time
+concurrency:
+  group: knowledge-graph
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout data repository
+        uses: actions/checkout@v4
+        with:
+          path: ./data
+      - name: Checkout code repository
+        uses: actions/checkout@v4
+        with:
+          path: ./code
+          repository: colonial-heritage/integration-layer
+      - name: Install Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Install app
+        run: |
+          cd ./code
+          npm ci
+          npx turbo run build --filter=@colonial-collections/graph-create
+      - name: Create a graph by querying a SPARQL endpoint
+        run: |
+          cd ./data
+          mkdir -p "$RUNNER_TEMP"
+          test -f ./aat/data/data.tar.gz && tar -xzf ./aat/data/data.tar.gz -C "$RUNNER_TEMP"
+          ../code/apps/graph-create/dist/cli.js create \
+            --resource-dir ./aat/resources \
+            --data-file "$RUNNER_TEMP/data.sqlite" \
+            --check-endpoint-url "${{ vars.SPARQL_ENDPOINT_URL_KG }}" \
+            --check-if-run-must-continue-query-file ./aat/queries/check.rq \
+            --iterate-endpoint-url "${{ vars.SPARQL_ENDPOINT_URL_KG }}" \
+            --iterate-query-file ./aat/queries/iterate.rq \
+            --generate-endpoint-url "https://vocab.getty.edu/sparql" \
+            --generate-query-file ./aat/queries/generate.rq \
+            --triplydb-instance-url "${{ vars.TRIPLYDB_INSTANCE_URL }}" \
+            --triplydb-api-token "${{ secrets.TRIPLYDB_API_TOKEN }}" \
+            --triplydb-account "${{ vars.TRIPLYDB_ACCOUNT }}" \
+            --triplydb-dataset "${{ vars.TRIPLYDB_DATASET_KG }}" \
+            --triplydb-service-name "kg" \
+            --triplydb-service-type "virtuoso" \
+            --graph-name "https://data.colonialcollections.nl/aat" \
+            --temp-dir "$RUNNER_TEMP"
+      - name: Save changes
+        run: |
+          cd ./data
+          mkdir -p ./aat/data
+          test -f "$RUNNER_TEMP/data.sqlite" && tar -czf ./aat/data/data.tar.gz -C "$RUNNER_TEMP" data.sqlite
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config pull.rebase false
+          git pull --quiet --no-edit origin
+          git add .
+          git commit --quiet -a -m "Save changes" || true
+          git push --force -u origin
