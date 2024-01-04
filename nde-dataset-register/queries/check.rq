@@ -14,11 +14,12 @@ WHERE {
     dct:modified ?rawDateModified .
 
   # Hack: the Dataset Register doesn't standardize on the datatypes of dates.
-  # First convert the raw date to a string and then to XSD, before
-  # comparing it with the date on file
-  BIND(SUBSTR(STR(?rawDateModified), 1, 10) AS ?dateModifiedAsStr)
-  BIND(xsd:date(?dateModifiedAsStr) AS ?dateModified)
-  BIND("?_currentIdentifier"^^xsd:date AS ?dateModifiedOfLastRun)
+  # First convert the raw date to an integer before comparing it with the date on file
+  BIND(xsd:integer(REPLACE(SUBSTR(STR(?rawDateModified), 1, 10), "-", "")) AS ?dateModified)
+
+  # If ?_currentIdentifier is an empty string, this check has not been done before.
+  # Make sure it results in '0' so as to flip ?isChanged to '1' and trigger a new run
+  BIND(xsd:integer(IF("?_currentIdentifier" = "", 0, "?_currentIdentifier")) AS ?dateModifiedOfLastRun)
 
   # GraphDB gives a xsd:boolean but the integration layer (with Virtuoso) expects a number
   BIND(IF(?dateModified > ?dateModifiedOfLastRun, 1, 0) AS ?isChanged)
