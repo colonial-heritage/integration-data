@@ -1,0 +1,109 @@
+###############################
+# Query for generating a search graph from dataset 'Stamboeken'
+###############################
+
+PREFIX cc: <https://colonialcollections.nl/schema#> # Internal ontology
+PREFIX pnv: <https://w3id.org/pnv#>
+PREFIX schema: <https://schema.org/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+CONSTRUCT {
+  ?this a cc:Person ;
+    cc:name ?name ;
+    cc:birthPlace ?birthPlaceName ;
+    cc:birthDate ?birthDate ;
+    cc:birthYear ?birthYear ;
+    cc:deathPlace ?deathPlaceName ;
+    cc:deathDate ?deathDate ;
+    cc:deathYear ?deathYear ;
+    cc:isPartOf ?datasetName ;
+    cc:publisher ?publisherName .
+}
+WHERE {
+  BIND(?_iri AS ?this)
+
+  ?this a schema:Person .
+
+  ####################
+  # Name
+  ####################
+
+  ?this pnv:hasName/pnv:literalName ?name .
+
+  ####################
+  # Birth place
+  ####################
+
+  OPTIONAL {
+    ?this schema:birthPlace ?birthPlace .
+    ?birthPlace schema:name ?birthPlaceName .
+  }
+
+  ####################
+  # Birth date
+  ####################
+
+  OPTIONAL {
+    ?this schema:birthDate ?birthDate .
+    # Ignore invalid dates - TBD: should we do this?
+    FILTER(DATATYPE(?birthDate) = xsd:date || DATATYPE(?birthDate) = xsd:gYear || DATATYPE(?birthDate) = xsd:gYearMonth)
+    # Values can have an xsd date type but not be a valid date (!) - ignore these
+    FILTER(COALESCE(xsd:date(STR(?birthDate)), '!') != '!')
+  }
+
+  ####################
+  # Birth year
+  ####################
+
+  BIND(IF(BOUND(?birthDate), YEAR(?birthDate), ?null) AS ?birthYear)
+
+  ####################
+  # Death place
+  ####################
+
+  OPTIONAL {
+    ?this schema:deathPlace ?deathPlace .
+    ?deathPlace schema:name ?deathPlaceName .
+  }
+
+  ####################
+  # Death date
+  ####################
+
+  OPTIONAL {
+    ?this schema:deathDate ?deathDate .
+    # Ignore invalid dates - TBD: should we do this?
+    FILTER(DATATYPE(?deathDate) = xsd:date || DATATYPE(?deathDate) = xsd:gYear || DATATYPE(?deathDate) = xsd:gYearMonth)
+    # Values can have an xsd date type but not be a valid date (!) - ignore these
+    FILTER(COALESCE(xsd:date(STR(?deathDate)), '!') != '!')
+  }
+
+  ####################
+  # Death year
+  ####################
+
+  BIND(IF(BOUND(?deathDate), YEAR(?deathDate), ?null) AS ?deathYear)
+
+  ####################
+  # Part of dataset
+  ####################
+
+  # FIXME: dataset is not correct
+  BIND(<https://data.colonialcollections.nl/Bronbeek/Stamboeken> AS ?dataset)
+  # ?this schema:isPartOf ?dataset .
+
+  OPTIONAL {
+    ?dataset schema:name ?datasetName
+    FILTER(LANG(?datasetName) = "" || LANGMATCHES(LANG(?datasetName), "en"))
+  }
+
+  ####################
+  # Publisher of dataset
+  ####################
+
+  OPTIONAL {
+    ?dataset schema:publisher [
+      schema:name ?publisherName ;
+    ] ;
+  }
+}

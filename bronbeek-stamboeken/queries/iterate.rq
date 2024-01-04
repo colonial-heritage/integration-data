@@ -1,0 +1,16 @@
+PREFIX schema: <https://schema.org/>
+
+# Use a 'scrollable cursor' - https://vos.openlinksw.com/owiki/wiki/VOS/VirtTipsAndTricksHowToHandleBandwidthLimitExceed
+SELECT *
+WHERE {
+  {
+    SELECT ?this
+    WHERE {
+      ?this a schema:Person ;
+        # FIXME: dataset is not correct
+        schema:isPartOf <https://colonial-heritage.triply.cc/Bronbeek/Stamboeken> .
+    }
+  }
+}
+LIMIT ?_limit
+OFFSET ?_offset
