@@ -1,14 +1,13 @@
-name: Update Knowledge Graph with data from dataset 'GeoNames', based on IRIs in the Knowledge Graph
+name: Update Search Graph with data from dataset 'Colonial Objects' in the Knowledge Graph
 
-# Run every 3 hours. Don't run it more often; otherwise you might hit
-# GeoNames' hourly and daily request limits - http://www.geonames.org/export/
+# Every hour
 on:
-  schedule:
-    - cron: "0 */3 * * *"
+  push:
+    branches: ["main"]
 
 # Run a single workflow at a time
 concurrency:
-  group: knowledge-graph
+  group: search-graph
 
 jobs:
   run:
@@ -31,33 +30,34 @@ jobs:
         run: |
           cd ./code
           npm ci
-          npx turbo run build --filter=@colonial-collections/graph-create-geonames
+          npx turbo run build --filter=@colonial-collections/graph-create
       - name: Create graph
         run: |
           cd ./data
           mkdir -p "$RUNNER_TEMP"
-          test -f ./geonames/data/data.tar.gz && tar -xzf ./geonames/data/data.tar.gz -C "$RUNNER_TEMP"
-          ../code/apps/graph-create-geonames/dist/cli.js create \
-            --resource-dir ./geonames/resources \
+          test -f ./rce-colonial-objects/data/data.tar.gz && tar -xzf ./rce-colonial-objects/data/data.tar.gz -C "$RUNNER_TEMP"
+          ../code/apps/graph-create/dist/cli.js create \
+            --resource-dir ./rce-colonial-objects/resources \
             --data-file "$RUNNER_TEMP/data.sqlite" \
             --check-endpoint-url "${{ vars.SPARQL_ENDPOINT_URL_KG }}" \
-            --check-if-run-must-continue-query-file ./geonames/queries/check.rq \
+            --check-if-run-must-continue-query-file ./rce-colonial-objects/queries/check.rq \
             --iterate-endpoint-url "${{ vars.SPARQL_ENDPOINT_URL_KG }}" \
-            --iterate-locations-query-file ./geonames/queries/iterate-locations.rq \
-            --iterate-countries-query-file ./geonames/queries/iterate-countries.rq \
+            --iterate-query-file ./rce-colonial-objects/queries/iterate.rq \
+            --generate-endpoint-url "${{ vars.SPARQL_ENDPOINT_URL_KG }}" \
+            --generate-query-file ./rce-colonial-objects/queries/generate.rq \
             --triplydb-instance-url "${{ vars.TRIPLYDB_INSTANCE_URL }}" \
             --triplydb-api-token "${{ secrets.TRIPLYDB_API_TOKEN }}" \
             --triplydb-account "${{ vars.TRIPLYDB_ACCOUNT }}" \
-            --triplydb-dataset "${{ vars.TRIPLYDB_DATASET_KG }}" \
-            --triplydb-service-name kg \
-            --triplydb-service-type virtuoso \
-            --graph-name "https://data.colonialcollections.nl/geonames" \
+            --triplydb-dataset "${{ vars.TRIPLYDB_DATASET_SG }}" \
+            --triplydb-service-name "search" \
+            --triplydb-service-type "elasticsearch" \
+            --graph-name "https://data.colonialcollections.nl/rce-colonial-objects" \
             --temp-dir "$RUNNER_TEMP"
       - name: Save changes
         run: |
           cd ./data
-          mkdir -p ./geonames/data
-          test -f "$RUNNER_TEMP/data.sqlite" && tar -czf ./geonames/data/data.tar.gz -C "$RUNNER_TEMP" data.sqlite
+          mkdir -p ./rce-colonial-objects/data
+          test -f "$RUNNER_TEMP/data.sqlite" && tar -czf ./rce-colonial-objects/data/data.tar.gz -C "$RUNNER_TEMP" data.sqlite
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config pull.rebase false
