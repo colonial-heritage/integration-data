@@ -1,0 +1,41 @@
+<https://sws.geonames.org/935221/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/935221/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/935221/about.rdf> .
+<https://sws.geonames.org/935221/> <http://www.geonames.org/ontology#name> "Saint-Paul" .
+<https://sws.geonames.org/935221/> <http://www.geonames.org/ontology#alternateName> "Saint-Paul" .
+<https://sws.geonames.org/935221/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#P> .
+<https://sws.geonames.org/935221/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#P.PPL> .
+<https://sws.geonames.org/935221/> <http://www.geonames.org/ontology#countryCode> "RE" .
+<https://sws.geonames.org/935221/> <http://www.geonames.org/ontology#population> "103208" .
+<https://sws.geonames.org/935221/> <http://www.geonames.org/ontology#postalCode> "97411" .
+<https://sws.geonames.org/935221/> <http://www.geonames.org/ontology#postalCode> "97422" .
+<https://sws.geonames.org/935221/> <http://www.geonames.org/ontology#postalCode> "97423" .
+<https://sws.geonames.org/935221/> <http://www.geonames.org/ontology#postalCode> "97434" .
+<https://sws.geonames.org/935221/> <http://www.geonames.org/ontology#postalCode> "97435" .
+<https://sws.geonames.org/935221/> <http://www.geonames.org/ontology#postalCode> "97460" .
+<https://sws.geonames.org/935221/> <http://www.geonames.org/ontology#postalCode> "97861 CEDEX" .
+<https://sws.geonames.org/935221/> <http://www.geonames.org/ontology#postalCode> "97862 CEDEX" .
+<https://sws.geonames.org/935221/> <http://www.geonames.org/ontology#postalCode> "97863 CEDEX" .
+<https://sws.geonames.org/935221/> <http://www.geonames.org/ontology#postalCode> "97864 CEDEX" .
+<https://sws.geonames.org/935221/> <http://www.geonames.org/ontology#postalCode> "97865 CEDEX" .
+<https://sws.geonames.org/935221/> <http://www.geonames.org/ontology#postalCode> "97866 CEDEX" .
+<https://sws.geonames.org/935221/> <http://www.geonames.org/ontology#postalCode> "97867 CEDEX" .
+<https://sws.geonames.org/935221/> <http://www.geonames.org/ontology#postalCode> "97868 CEDEX" .
+<https://sws.geonames.org/935221/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "-21.00961" .
+<https://sws.geonames.org/935221/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "55.27134" .
+<https://sws.geonames.org/935221/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/6690299/> .
+<https://sws.geonames.org/935221/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/935317/> .
+<https://sws.geonames.org/935221/> <http://www.geonames.org/ontology#parentADM1> <https://sws.geonames.org/6690283/> .
+<https://sws.geonames.org/935221/> <http://www.geonames.org/ontology#parentADM2> <https://sws.geonames.org/6690284/> .
+<https://sws.geonames.org/935221/> <http://www.geonames.org/ontology#parentADM3> <https://sws.geonames.org/935220/> .
+<https://sws.geonames.org/935221/> <http://www.geonames.org/ontology#parentADM4> <https://sws.geonames.org/6690299/> .
+<https://sws.geonames.org/935221/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/935221/nearby.rdf> .
+<https://sws.geonames.org/935221/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/935221/saint-paul.html> .
+<https://sws.geonames.org/935221/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Saint-Paul%2C_R%C3%A9union> .
+<https://sws.geonames.org/935221/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Saint-Paul%2C_R%C3%A9union> .
+<https://sws.geonames.org/935221/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/935221/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/935221/> .
+<https://sws.geonames.org/935221/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/935221/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/935221/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/935221/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/935221/about.rdf> <http://purl.org/dc/terms/modified> "2022-10-23"^^<https://www.w3.org/2001/XMLSchema#date> .
