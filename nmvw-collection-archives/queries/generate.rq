@@ -1,0 +1,165 @@
+###############################
+# Query for generating a search graph from dataset 'Collection Archives'
+###############################
+
+PREFIX cc: <https://colonialcollections.nl/schema#> # Internal ontology
+PREFIX crm: <http://www.cidoc-crm.org/cidoc-crm/>
+PREFIX dig: <http://www.ics.forth.gr/isl/CRMdig/>
+PREFIX gn: <http://www.geonames.org/ontology#>
+PREFIX la: <https://linked.art/ns/terms/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX schema: <https://schema.org/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+CONSTRUCT {
+  ?this a cc:HeritageObject ;
+    cc:identifier ?identifier ;
+    cc:name ?name ;
+    cc:description ?description ;
+    cc:material ?materialName ;
+    cc:inscription ?inscription ;
+    cc:creator ?creatorName ;
+    cc:yearCreatedStart ?beginOfTheBeginYear ;
+    cc:yearCreatedEnd ?endOfTheEndYear ;
+    cc:locationCreated ?locationCreatedName ;
+    cc:alternateName ?alternateLocationCreatedName ; # Only for indexing
+    cc:countryCreated ?countryCreatedName ;
+    cc:publisher ?publisherName .
+}
+WHERE {
+  BIND(?_iri AS ?this)
+
+  ####################
+  # Identifier
+  ####################
+
+  OPTIONAL {
+    ?this crm:P1_is_identified_by [
+      a crm:E42_Identifier ;
+      crm:P2_has_type <http://vocab.getty.edu/aat/300404626> ; # Identification number
+      crm:P190_has_symbolic_content ?identifier
+    ] .
+  }
+
+  ####################
+  # Name
+  ####################
+
+  OPTIONAL {
+    ?this crm:P1_is_identified_by [
+      a crm:E33_E41_Linguistic_Appellation ;
+      crm:P2_has_type <http://vocab.getty.edu/aat/300404670> ; # Name
+      crm:P190_has_symbolic_content ?name
+    ] .
+  }
+
+  ####################
+  # Description
+  ####################
+
+  OPTIONAL {
+    ?this crm:P67i_is_referred_to_by [
+      crm:P2_has_type <http://vocab.getty.edu/aat/300435416> ; # Description
+      crm:P190_has_symbolic_content ?description
+    ] .
+  }
+
+  ####################
+  # Material
+  ####################
+
+  OPTIONAL {
+    ?this crm:P45_consists_of [
+      rdfs:label ?materialName
+    ] .
+  }
+
+  ####################
+  # Inscription
+  ####################
+
+  OPTIONAL {
+    ?this crm:P128_carries [
+      crm:P2_has_type <http://vocab.getty.edu/aat/300028702> ; # Inscription
+      crm:P190_has_symbolic_content ?inscription ;
+    ] .
+  }
+
+  ####################
+  # Creator
+  ####################
+
+  OPTIONAL {
+    ?this crm:P108i_was_produced_by/crm:P14_carried_out_by [
+      rdfs:label ?creatorName
+    ] .
+  }
+
+  ####################
+  # Date of creation
+  ####################
+
+  OPTIONAL {
+    ?this crm:P108i_was_produced_by/crm:P4_has_time-span/crm:P82a_begin_of_the_begin ?beginOfTheBegin .
+    FILTER(DATATYPE(?beginOfTheBegin) = xsd:date || DATATYPE(?beginOfTheBegin) = xsd:gYear || DATATYPE(?beginOfTheBegin) = xsd:gYearMonth)
+    # Values can have an xsd date type but not be a valid date (!) - ignore these
+    FILTER(COALESCE(xsd:date(STR(?beginOfTheBegin)), '!') != '!')
+  }
+
+  BIND(IF(BOUND(?beginOfTheBegin), YEAR(?beginOfTheBegin), ?null) AS ?beginOfTheBeginYear)
+
+  OPTIONAL {
+    ?this crm:P108i_was_produced_by/crm:P4_has_time-span/crm:P82b_end_of_the_end ?endOfTheEnd .
+    FILTER(DATATYPE(?endOfTheEnd) = xsd:date || DATATYPE(?endOfTheEnd) = xsd:gYear || DATATYPE(?endOfTheEnd) = xsd:gYearMonth)
+    # Values can have an xsd date type but not be a valid date (!) - ignore these
+    FILTER(COALESCE(xsd:date(STR(?endOfTheEnd)), '!') != '!')
+  }
+
+  BIND(IF(BOUND(?endOfTheEnd), YEAR(?endOfTheEnd), ?null) AS ?endOfTheEndYear)
+
+  ####################
+  # Location of creation
+  ####################
+
+  OPTIONAL {
+    ?this crm:P108i_was_produced_by/crm:P7_took_place_at ?location .
+    ?location gn:name ?locationCreatedName ;
+      gn:featureCode ?featureCode .
+    FILTER(LANG(?locationCreatedName) = "" || LANGMATCHES(LANG(?locationCreatedName), "en"))
+
+    OPTIONAL {
+      ?location gn:alternateName ?alternateLocationCreatedName
+      FILTER(LANG(?alternateLocationCreatedName) = "" || LANGMATCHES(LANG(?alternateLocationCreatedName), "en"))
+    }
+
+    # Country of which the location is a part
+    OPTIONAL {
+      ?location gn:parentCountry ?country .
+      ?country gn:name ?tmpCountryCreatedName .
+      FILTER(LANG(?tmpCountryCreatedName) = "" || LANGMATCHES(LANG(?tmpCountryCreatedName), "en"))
+    }
+
+    # Location could be a country
+    # https://www.geonames.org/export/codes.html
+    BIND(IF(?featureCode = <https://www.geonames.org/ontology#A.PCLI>, ?locationCreatedName, ?tmpCountryCreatedName) AS ?countryCreatedName)
+  }
+
+  ####################
+  # Part of dataset
+  ####################
+
+  # FIXME: dataset is not correct
+  BIND(<https://data.colonialcollections.nl/nmvw/collection-archives> AS ?dataset)
+  # ?this la:member_of ?dataset .
+
+  ####################
+  # Publisher of dataset
+  ####################
+
+  OPTIONAL {
+    ?dataset schema:publisher [
+      schema:name ?publisherName ;
+    ] .
+  }
+}
