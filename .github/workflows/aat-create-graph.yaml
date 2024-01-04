@@ -1,9 +1,9 @@
 name: Update Knowledge Graph with data from dataset 'AAT', based on IRIs in the Knowledge Graph
 
-# Every 12 hours
+# Every 12 hours (data doesn't change often)
 on:
-  push:
-    branches: ["main"]
+  schedule:
+    - cron: "0 */12 * * *"
 
 # Run a single workflow at a time
 concurrency:
@@ -31,7 +31,7 @@ jobs:
           cd ./code
           npm ci
           npx turbo run build --filter=@colonial-collections/graph-create
-      - name: Create a graph by querying a SPARQL endpoint
+      - name: Create graph
         run: |
           cd ./data
           mkdir -p "$RUNNER_TEMP"
