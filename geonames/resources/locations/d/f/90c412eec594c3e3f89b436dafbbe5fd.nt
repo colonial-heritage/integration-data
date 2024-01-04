@@ -1,0 +1,30 @@
+<https://sws.geonames.org/1853904/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/1853904/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/1853904/about.rdf> .
+<https://sws.geonames.org/1853904/> <http://www.geonames.org/ontology#name> "Ōsaka" .
+<https://sws.geonames.org/1853904/> <http://www.geonames.org/ontology#officialName> "오사카 부"@ko .
+<https://sws.geonames.org/1853904/> <http://www.geonames.org/ontology#shortName> "Osaka"@en .
+<https://sws.geonames.org/1853904/> <http://www.geonames.org/ontology#officialName> "Ōsaka"@en .
+<https://sws.geonames.org/1853904/> <http://www.geonames.org/ontology#alternateName> "Osaka Prefecture"@en .
+<https://sws.geonames.org/1853904/> <http://www.geonames.org/ontology#alternateName> "Ōsaka Prefecture"@en .
+<https://sws.geonames.org/1853904/> <http://www.geonames.org/ontology#alternateName> "おおさかふ"@ja .
+<https://sws.geonames.org/1853904/> <http://www.geonames.org/ontology#alternateName> "大阪"@ja .
+<https://sws.geonames.org/1853904/> <http://www.geonames.org/ontology#officialName> "大阪府"@ja .
+<https://sws.geonames.org/1853904/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#A> .
+<https://sws.geonames.org/1853904/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#A.ADM1> .
+<https://sws.geonames.org/1853904/> <http://www.geonames.org/ontology#countryCode> "JP" .
+<https://sws.geonames.org/1853904/> <http://www.geonames.org/ontology#population> "8823358" .
+<https://sws.geonames.org/1853904/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.68631" .
+<https://sws.geonames.org/1853904/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.51968" .
+<https://sws.geonames.org/1853904/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/1859449/> .
+<https://sws.geonames.org/1853904/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/1861060/> .
+<https://sws.geonames.org/1853904/> <http://www.geonames.org/ontology#childrenFeatures> <https://sws.geonames.org/1853904/contains.rdf> .
+<https://sws.geonames.org/1853904/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/1853904/osaka-fu.html> .
+<https://sws.geonames.org/1853904/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Osaka_Prefecture> .
+<https://sws.geonames.org/1853904/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Osaka_Prefecture> .
+<https://sws.geonames.org/1853904/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/1853904/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/1853904/> .
+<https://sws.geonames.org/1853904/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/1853904/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/1853904/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/1853904/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/1853904/about.rdf> <http://purl.org/dc/terms/modified> "2022-12-10"^^<https://www.w3.org/2001/XMLSchema#date> .
