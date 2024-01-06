@@ -1,9 +1,9 @@
-name: Update Search Graph with data from dataset 'Colonial Objects' in the Knowledge Graph
+name: Update Search Graph with data from dataset 'NDE Dataset Register' in the Knowledge Graph
 
-# Every 3 hours
+# Every 12 hours (data doesn't change often)
 on:
   schedule:
-    - cron: "0 */3 * * *"
+    - cron: "0 */12 * * *"
 
 # Run a single workflow at a time
 concurrency:
@@ -35,29 +35,29 @@ jobs:
         run: |
           cd ./data
           mkdir -p "$RUNNER_TEMP"
-          test -f ./rce-colonial-objects/data/data.tar.gz && tar -xzf ./rce-colonial-objects/data/data.tar.gz -C "$RUNNER_TEMP"
+          test -f ./datasets/data/data.tar.gz && tar -xzf ./datasets/data/data.tar.gz -C "$RUNNER_TEMP"
           ../code/apps/graph-create/dist/cli.js create \
-            --resource-dir ./rce-colonial-objects/resources \
+            --resource-dir ./datasets/resources \
             --data-file "$RUNNER_TEMP/data.sqlite" \
             --check-endpoint-url "${{ vars.SPARQL_ENDPOINT_URL_KG }}" \
-            --check-if-run-must-continue-query-file ./rce-colonial-objects/queries/check.rq \
+            --check-if-run-must-continue-query-file ./datasets/queries/check.rq \
             --iterate-endpoint-url "${{ vars.SPARQL_ENDPOINT_URL_KG }}" \
-            --iterate-query-file ./rce-colonial-objects/queries/iterate.rq \
+            --iterate-query-file ./datasets/queries/iterate.rq \
             --generate-endpoint-url "${{ vars.SPARQL_ENDPOINT_URL_KG }}" \
-            --generate-query-file ./rce-colonial-objects/queries/generate.rq \
+            --generate-query-file ./datasets/queries/generate.rq \
             --triplydb-instance-url "${{ vars.TRIPLYDB_INSTANCE_URL }}" \
             --triplydb-api-token "${{ secrets.TRIPLYDB_API_TOKEN }}" \
             --triplydb-account "${{ vars.TRIPLYDB_ACCOUNT }}" \
             --triplydb-dataset "${{ vars.TRIPLYDB_DATASET_SG }}" \
             --triplydb-service-name "search" \
             --triplydb-service-type "elasticsearch" \
-            --graph-name "https://data.colonialcollections.nl/rce-colonial-objects" \
+            --graph-name "https://data.colonialcollections.nl/datasets" \
             --temp-dir "$RUNNER_TEMP"
       - name: Save changes
         run: |
           cd ./data
-          mkdir -p ./rce-colonial-objects/data
-          test -f "$RUNNER_TEMP/data.sqlite" && tar -czf ./rce-colonial-objects/data/data.tar.gz -C "$RUNNER_TEMP" data.sqlite
+          mkdir -p ./datasets/data
+          test -f "$RUNNER_TEMP/data.sqlite" && tar -czf ./datasets/data/data.tar.gz -C "$RUNNER_TEMP" data.sqlite
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config pull.rebase false
