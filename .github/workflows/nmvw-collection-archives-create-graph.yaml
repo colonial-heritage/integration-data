@@ -35,7 +35,7 @@ jobs:
         run: |
           cd ./data
           mkdir -p "$RUNNER_TEMP"
-          test -f ./nmvw-collection-archives/data/data.tar.gz && tar -xzf ./nmvw-collection-archives/data/data.tar.gz -C "$RUNNER_TEMP"
+          test -f ./nmvw-collection-archives/data/data.tar.zst && tar --zstd -xf ./nmvw-collection-archives/data/data.tar.zst -C "$RUNNER_TEMP"
           ../code/apps/graph-create/dist/cli.js create \
             --resource-dir ./nmvw-collection-archives/resources \
             --data-file "$RUNNER_TEMP/data.sqlite" \
@@ -57,7 +57,7 @@ jobs:
         run: |
           cd ./data
           mkdir -p ./nmvw-collection-archives/data
-          test -f "$RUNNER_TEMP/data.sqlite" && tar -czf ./nmvw-collection-archives/data/data.tar.gz -C "$RUNNER_TEMP" data.sqlite
+          test -f "$RUNNER_TEMP/data.sqlite" && tar --zstd -cf ./nmvw-collection-archives/data/data.tar.zst -C "$RUNNER_TEMP" data.sqlite
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config pull.rebase false
