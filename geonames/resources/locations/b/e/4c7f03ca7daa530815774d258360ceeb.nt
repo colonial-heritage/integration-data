@@ -1,0 +1,42 @@
+<https://sws.geonames.org/4197000/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/4197000/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/4197000/about.rdf> .
+<https://sws.geonames.org/4197000/> <http://www.geonames.org/ontology#name> "Georgia" .
+<https://sws.geonames.org/4197000/> <http://www.geonames.org/ontology#alternateName> "조지아"@ko .
+<https://sws.geonames.org/4197000/> <http://www.geonames.org/ontology#alternateName> "Chacha" .
+<https://sws.geonames.org/4197000/> <http://www.geonames.org/ontology#alternateName> "Estado de Georgia"@es .
+<https://sws.geonames.org/4197000/> <http://www.geonames.org/ontology#officialName> "Georgia"@en .
+<https://sws.geonames.org/4197000/> <http://www.geonames.org/ontology#officialName> "Georgia"@es .
+<https://sws.geonames.org/4197000/> <http://www.geonames.org/ontology#officialName> "Georgia" .
+<https://sws.geonames.org/4197000/> <http://www.geonames.org/ontology#alternateName> "Geórgia"@pt .
+<https://sws.geonames.org/4197000/> <http://www.geonames.org/ontology#alternateName> "Georgie" .
+<https://sws.geonames.org/4197000/> <http://www.geonames.org/ontology#alternateName> "Géorgie"@fr .
+<https://sws.geonames.org/4197000/> <http://www.geonames.org/ontology#officialName> "Georgio"@eo .
+<https://sws.geonames.org/4197000/> <http://www.geonames.org/ontology#alternateName> "Peach State"@en .
+<https://sws.geonames.org/4197000/> <http://www.geonames.org/ontology#alternateName> "State of Georgia"@en .
+<https://sws.geonames.org/4197000/> <http://www.geonames.org/ontology#alternateName> "The Colony of Georgia in America" .
+<https://sws.geonames.org/4197000/> <http://www.geonames.org/ontology#alternateName> "Джорджия"@ru .
+<https://sws.geonames.org/4197000/> <http://www.geonames.org/ontology#alternateName> "จอร์เจีย"@th .
+<https://sws.geonames.org/4197000/> <http://www.geonames.org/ontology#officialName> "ジョージア州"@ja .
+<https://sws.geonames.org/4197000/> <http://www.geonames.org/ontology#alternateName> "乔治亚"@zh .
+<https://sws.geonames.org/4197000/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#A> .
+<https://sws.geonames.org/4197000/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#A.ADM1> .
+<https://sws.geonames.org/4197000/> <http://www.geonames.org/ontology#countryCode> "US" .
+<https://sws.geonames.org/4197000/> <http://www.geonames.org/ontology#population> "8975842" .
+<https://sws.geonames.org/4197000/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "32.75042" .
+<https://sws.geonames.org/4197000/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-83.50018" .
+<https://sws.geonames.org/4197000/> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "155" .
+<https://sws.geonames.org/4197000/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/12110877/> .
+<https://sws.geonames.org/4197000/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/12212303/> .
+<https://sws.geonames.org/4197000/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/11887752/> .
+<https://sws.geonames.org/4197000/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/6252001/> .
+<https://sws.geonames.org/4197000/> <http://www.geonames.org/ontology#childrenFeatures> <https://sws.geonames.org/4197000/contains.rdf> .
+<https://sws.geonames.org/4197000/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/4197000/georgia.html> .
+<https://sws.geonames.org/4197000/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Georgia_(U.S._state)> .
+<https://sws.geonames.org/4197000/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Georgia_%28U.S._state%29> .
+<https://sws.geonames.org/4197000/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/4197000/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/4197000/> .
+<https://sws.geonames.org/4197000/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/4197000/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/4197000/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/4197000/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/4197000/about.rdf> <http://purl.org/dc/terms/modified> "2023-12-04"^^<https://www.w3.org/2001/XMLSchema#date> .

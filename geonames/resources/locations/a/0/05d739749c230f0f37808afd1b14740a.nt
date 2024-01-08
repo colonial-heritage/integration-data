@@ -1,0 +1,30 @@
+<https://sws.geonames.org/1996551/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/1996551/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/1996551/about.rdf> .
+<https://sws.geonames.org/1996551/> <http://www.geonames.org/ontology#name> "Riau Islands" .
+<https://sws.geonames.org/1996551/> <http://www.geonames.org/ontology#alternateName> "Kepulauan Riau"@id .
+<https://sws.geonames.org/1996551/> <http://www.geonames.org/ontology#officialName> "Kepulauan Riau" .
+<https://sws.geonames.org/1996551/> <http://www.geonames.org/ontology#alternateName> "Provinsi Kepulauan Riau" .
+<https://sws.geonames.org/1996551/> <http://www.geonames.org/ontology#alternateName> "Riau Islands"@en .
+<https://sws.geonames.org/1996551/> <http://www.geonames.org/ontology#alternateName> "Riau Islands" .
+<https://sws.geonames.org/1996551/> <http://www.geonames.org/ontology#alternateName> "Riau-øyane"@nn .
+<https://sws.geonames.org/1996551/> <http://www.geonames.org/ontology#alternateName> "Riau-øyene"@nb .
+<https://sws.geonames.org/1996551/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#A> .
+<https://sws.geonames.org/1996551/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#A.ADM1> .
+<https://sws.geonames.org/1996551/> <http://www.geonames.org/ontology#countryCode> "ID" .
+<https://sws.geonames.org/1996551/> <http://www.geonames.org/ontology#population> "2118239" .
+<https://sws.geonames.org/1996551/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "0.63333" .
+<https://sws.geonames.org/1996551/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "107.01868" .
+<https://sws.geonames.org/1996551/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/1643084/> .
+<https://sws.geonames.org/1996551/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/1643084/> .
+<https://sws.geonames.org/1996551/> <http://www.geonames.org/ontology#childrenFeatures> <https://sws.geonames.org/1996551/contains.rdf> .
+<https://sws.geonames.org/1996551/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/1996551/provinsi-kepulauan-riau.html> .
+<https://sws.geonames.org/1996551/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Riau_Islands_Province> .
+<https://sws.geonames.org/1996551/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Riau_Islands_Province> .
+<https://sws.geonames.org/1996551/> <http://www.geonames.org/ontology#wikipediaArticle> <https://ru.wikipedia.org/wiki/%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0_%D0%A0%D0%B8%D0%B0%D1%83> .
+<https://sws.geonames.org/1996551/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/1996551/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/1996551/> .
+<https://sws.geonames.org/1996551/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/1996551/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/1996551/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/1996551/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/1996551/about.rdf> <http://purl.org/dc/terms/modified> "2022-12-16"^^<https://www.w3.org/2001/XMLSchema#date> .
