@@ -1,6 +1,6 @@
 <https://sws.geonames.org/2081918/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
 <https://sws.geonames.org/2081918/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/2081918/about.rdf> .
-<https://sws.geonames.org/2081918/> <http://www.geonames.org/ontology#name> "FSM" .
+<https://sws.geonames.org/2081918/> <http://www.geonames.org/ontology#name> "Micronesia" .
 <https://sws.geonames.org/2081918/> <http://www.geonames.org/ontology#officialName> "미크로네시아"@ko .
 <https://sws.geonames.org/2081918/> <http://www.geonames.org/ontology#alternateName> "미크로네시아 연방"@ko .
 <https://sws.geonames.org/2081918/> <http://www.geonames.org/ontology#officialName> "An Mhicrinéis"@ga .
@@ -28,7 +28,7 @@
 <https://sws.geonames.org/2081918/> <http://www.geonames.org/ontology#alternateName> "Féderasi Mikronésia"@su .
 <https://sws.geonames.org/2081918/> <http://www.geonames.org/ontology#alternateName> "Federata Mikroneziane"@sq .
 <https://sws.geonames.org/2081918/> <http://www.geonames.org/ontology#alternateName> "Federata Stati di Mikronezia"@io .
-<https://sws.geonames.org/2081918/> <http://www.geonames.org/ontology#alternateName> "Federated States of Micronesia"@en .
+<https://sws.geonames.org/2081918/> <http://www.geonames.org/ontology#officialName> "Federated States of Micronesia"@en .
 <https://sws.geonames.org/2081918/> <http://www.geonames.org/ontology#alternateName> "Federated States of Micronesia"@pam .
 <https://sws.geonames.org/2081918/> <http://www.geonames.org/ontology#alternateName> "Federated States of Micronesia" .
 <https://sws.geonames.org/2081918/> <http://www.geonames.org/ontology#alternateName> "Federatit States o Micronesie"@sco .
@@ -38,7 +38,6 @@
 <https://sws.geonames.org/2081918/> <http://www.geonames.org/ontology#alternateName> "Föderierte Staaten von Mikronesien"@als .
 <https://sws.geonames.org/2081918/> <http://www.geonames.org/ontology#alternateName> "Föderierte Staaten von Mikronesien"@de .
 <https://sws.geonames.org/2081918/> <http://www.geonames.org/ontology#alternateName> "Foederatae Micronesiae Civitates"@la .
-<https://sws.geonames.org/2081918/> <http://www.geonames.org/ontology#shortName> "FSM"@en .
 <https://sws.geonames.org/2081918/> <http://www.geonames.org/ontology#alternateName> "Gefedereerde State van Mikronesië"@af .
 <https://sws.geonames.org/2081918/> <http://www.geonames.org/ontology#officialName> "i-Micronesia"@zu .
 <https://sws.geonames.org/2081918/> <http://www.geonames.org/ontology#alternateName> "Liên bang Micronesia"@vi .
@@ -47,7 +46,7 @@
 <https://sws.geonames.org/2081918/> <http://www.geonames.org/ontology#alternateName> "Maykronisya"@bcl .
 <https://sws.geonames.org/2081918/> <http://www.geonames.org/ontology#alternateName> "Mga Estadong Pederado ng Mikronesya"@tl .
 <https://sws.geonames.org/2081918/> <http://www.geonames.org/ontology#officialName> "Micronesia"@cy .
-<https://sws.geonames.org/2081918/> <http://www.geonames.org/ontology#officialName> "Micronesia"@en .
+<https://sws.geonames.org/2081918/> <http://www.geonames.org/ontology#shortName> "Micronesia"@en .
 <https://sws.geonames.org/2081918/> <http://www.geonames.org/ontology#officialName> "Micronesia"@es .
 <https://sws.geonames.org/2081918/> <http://www.geonames.org/ontology#officialName> "Micronesia"@gl .
 <https://sws.geonames.org/2081918/> <http://www.geonames.org/ontology#officialName> "Micronesia"@ia .
@@ -261,4 +260,4 @@
 <https://sws.geonames.org/2081918/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
 <https://sws.geonames.org/2081918/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
 <https://sws.geonames.org/2081918/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
-<https://sws.geonames.org/2081918/about.rdf> <http://purl.org/dc/terms/modified> "2023-12-04"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/2081918/about.rdf> <http://purl.org/dc/terms/modified> "2024-01-04"^^<https://www.w3.org/2001/XMLSchema#date> .
