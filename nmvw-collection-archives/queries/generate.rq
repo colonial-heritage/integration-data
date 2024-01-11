@@ -23,8 +23,8 @@ CONSTRUCT {
     cc:yearCreatedStart ?beginOfTheBeginYear ;
     cc:yearCreatedEnd ?endOfTheEndYear ;
     cc:locationCreated ?locationCreatedName ;
-    cc:alternateName ?alternateLocationCreatedName ; # Only for indexing
     cc:countryCreated ?countryCreatedName ;
+    cc:alternateName ?alternateLocationCreatedName, ?alternateCountryCreatedName ; # Only for indexing
     cc:publisher ?publisherName .
 }
 WHERE {
@@ -130,7 +130,6 @@ WHERE {
 
     OPTIONAL {
       ?location gn:alternateName ?alternateLocationCreatedName
-      FILTER(LANG(?alternateLocationCreatedName) = "" || LANGMATCHES(LANG(?alternateLocationCreatedName), "en"))
     }
 
     # Country of which the location is a part
@@ -138,6 +137,10 @@ WHERE {
       ?location gn:parentCountry ?country .
       ?country gn:name ?tmpCountryCreatedName .
       FILTER(LANG(?tmpCountryCreatedName) = "" || LANGMATCHES(LANG(?tmpCountryCreatedName), "en"))
+
+      OPTIONAL {
+        ?country gn:alternateName ?alternateCountryCreatedName
+      }
     }
 
     # Location could be a country

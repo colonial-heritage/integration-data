@@ -21,7 +21,7 @@ CONSTRUCT {
     cc:material ?materialName ;
     cc:creator ?creatorName ;
     cc:locationCreated ?locationCreatedName ;
-    cc:alternateName ?alternateLocationCreatedName ; # Only for indexing
+    cc:alternateName ?alternateLocationCreatedName, ?alternateCountryCreatedName ; # Only for indexing
     cc:countryCreated ?countryCreatedName ;
     cc:publisher ?publisherName .
 }
@@ -143,7 +143,6 @@ WHERE {
 
     OPTIONAL {
       ?location gn:alternateName ?alternateLocationCreatedName
-      FILTER(LANG(?alternateLocationCreatedName) = "" || LANGMATCHES(LANG(?alternateLocationCreatedName), "en"))
     }
 
     # Country of which the location is a part
@@ -151,6 +150,10 @@ WHERE {
       ?location gn:parentCountry ?country .
       ?country gn:name ?tmpCountryCreatedName .
       FILTER(LANG(?tmpCountryCreatedName) = "" || LANGMATCHES(LANG(?tmpCountryCreatedName), "en"))
+
+      OPTIONAL {
+        ?country gn:alternateName ?alternateCountryCreatedName
+      }
     }
 
     # Location could be a country
