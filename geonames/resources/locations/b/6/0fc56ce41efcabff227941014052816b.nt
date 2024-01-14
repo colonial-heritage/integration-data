@@ -1,0 +1,41 @@
+<https://sws.geonames.org/323784/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/323784/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/323784/about.rdf> .
+<https://sws.geonames.org/323784/> <http://www.geonames.org/ontology#name> "Ankara" .
+<https://sws.geonames.org/323784/> <http://www.geonames.org/ontology#alternateName> "Ancara"@pt .
+<https://sws.geonames.org/323784/> <http://www.geonames.org/ontology#alternateName> "Angora" .
+<https://sws.geonames.org/323784/> <http://www.geonames.org/ontology#alternateName> "Anguriyah" .
+<https://sws.geonames.org/323784/> <http://www.geonames.org/ontology#alternateName> "Ankara"@az .
+<https://sws.geonames.org/323784/> <http://www.geonames.org/ontology#alternateName> "Ankara"@de .
+<https://sws.geonames.org/323784/> <http://www.geonames.org/ontology#shortName> "Ankara"@en .
+<https://sws.geonames.org/323784/> <http://www.geonames.org/ontology#alternateName> "Ankara"@fr .
+<https://sws.geonames.org/323784/> <http://www.geonames.org/ontology#alternateName> "Ankara"@hu .
+<https://sws.geonames.org/323784/> <http://www.geonames.org/ontology#alternateName> "Ankara"@nl .
+<https://sws.geonames.org/323784/> <http://www.geonames.org/ontology#alternateName> "Ankara"@tr .
+<https://sws.geonames.org/323784/> <http://www.geonames.org/ontology#alternateName> "Ankara"@uz .
+<https://sws.geonames.org/323784/> <http://www.geonames.org/ontology#shortName> "Ankara" .
+<https://sws.geonames.org/323784/> <http://www.geonames.org/ontology#alternateName> "Ankara Province"@en .
+<https://sws.geonames.org/323784/> <http://www.geonames.org/ontology#alternateName> "Ankara Vilâyeti" .
+<https://sws.geonames.org/323784/> <http://www.geonames.org/ontology#alternateName> "Ankura" .
+<https://sws.geonames.org/323784/> <http://www.geonames.org/ontology#alternateName> "Lankariän"@vo .
+<https://sws.geonames.org/323784/> <http://www.geonames.org/ontology#alternateName> "Provincia de Ankara"@es .
+<https://sws.geonames.org/323784/> <http://www.geonames.org/ontology#alternateName> "Provinsi Ankara"@id .
+<https://sws.geonames.org/323784/> <http://www.geonames.org/ontology#alternateName> "安卡拉省"@zh .
+<https://sws.geonames.org/323784/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#A> .
+<https://sws.geonames.org/323784/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#A.ADM1> .
+<https://sws.geonames.org/323784/> <http://www.geonames.org/ontology#countryCode> "TR" .
+<https://sws.geonames.org/323784/> <http://www.geonames.org/ontology#population> "5782285" .
+<https://sws.geonames.org/323784/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "39.92063" .
+<https://sws.geonames.org/323784/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "32.85403" .
+<https://sws.geonames.org/323784/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/10922504/> .
+<https://sws.geonames.org/323784/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/298795/> .
+<https://sws.geonames.org/323784/> <http://www.geonames.org/ontology#childrenFeatures> <https://sws.geonames.org/323784/contains.rdf> .
+<https://sws.geonames.org/323784/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/323784/ankara.html> .
+<https://sws.geonames.org/323784/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Ankara_Province> .
+<https://sws.geonames.org/323784/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Ankara_Province> .
+<https://sws.geonames.org/323784/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/323784/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/323784/> .
+<https://sws.geonames.org/323784/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/323784/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/323784/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/323784/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/323784/about.rdf> <http://purl.org/dc/terms/modified> "2023-11-15"^^<https://www.w3.org/2001/XMLSchema#date> .

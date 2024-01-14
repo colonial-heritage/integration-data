@@ -1,0 +1,34 @@
+<https://sws.geonames.org/2395524/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/2395524/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/2395524/about.rdf> .
+<https://sws.geonames.org/2395524/> <http://www.geonames.org/ontology#name> "Atakora" .
+<https://sws.geonames.org/2395524/> <http://www.geonames.org/ontology#alternateName> "Atacora"@fr .
+<https://sws.geonames.org/2395524/> <http://www.geonames.org/ontology#alternateName> "Atacora" .
+<https://sws.geonames.org/2395524/> <http://www.geonames.org/ontology#shortName> "Atakora"@en .
+<https://sws.geonames.org/2395524/> <http://www.geonames.org/ontology#shortName> "Atakora" .
+<https://sws.geonames.org/2395524/> <http://www.geonames.org/ontology#officialName> "Atakora Department"@en .
+<https://sws.geonames.org/2395524/> <http://www.geonames.org/ontology#alternateName> "Attacora" .
+<https://sws.geonames.org/2395524/> <http://www.geonames.org/ontology#alternateName> "Attagora" .
+<https://sws.geonames.org/2395524/> <http://www.geonames.org/ontology#alternateName> "Département de l’ Atakora" .
+<https://sws.geonames.org/2395524/> <http://www.geonames.org/ontology#alternateName> "Département du Nord-Ouest" .
+<https://sws.geonames.org/2395524/> <http://www.geonames.org/ontology#alternateName> "Northwest" .
+<https://sws.geonames.org/2395524/> <http://www.geonames.org/ontology#alternateName> "Province de l’ Atacora" .
+<https://sws.geonames.org/2395524/> <http://www.geonames.org/ontology#alternateName> "Province de l’ Atakora" .
+<https://sws.geonames.org/2395524/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#A> .
+<https://sws.geonames.org/2395524/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#A.ADM1> .
+<https://sws.geonames.org/2395524/> <http://www.geonames.org/ontology#countryCode> "BJ" .
+<https://sws.geonames.org/2395524/> <http://www.geonames.org/ontology#population> "586734" .
+<https://sws.geonames.org/2395524/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "10.75" .
+<https://sws.geonames.org/2395524/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.66667" .
+<https://sws.geonames.org/2395524/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/2395170/> .
+<https://sws.geonames.org/2395524/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/2395170/> .
+<https://sws.geonames.org/2395524/> <http://www.geonames.org/ontology#childrenFeatures> <https://sws.geonames.org/2395524/contains.rdf> .
+<https://sws.geonames.org/2395524/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/2395524/atakora-department.html> .
+<https://sws.geonames.org/2395524/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Atakora_Department> .
+<https://sws.geonames.org/2395524/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Atakora_Department> .
+<https://sws.geonames.org/2395524/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/2395524/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/2395524/> .
+<https://sws.geonames.org/2395524/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/2395524/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/2395524/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/2395524/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/2395524/about.rdf> <http://purl.org/dc/terms/modified> "2017-12-20"^^<https://www.w3.org/2001/XMLSchema#date> .
