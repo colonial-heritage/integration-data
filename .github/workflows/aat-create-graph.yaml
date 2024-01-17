@@ -60,8 +60,6 @@ jobs:
           test -f "$RUNNER_TEMP/data.sqlite" && tar -czf ./aat/data/data.tar.gz -C "$RUNNER_TEMP" data.sqlite
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git config pull.rebase false
-          git pull --quiet --no-edit origin
           git add .
           git commit --quiet -a -m "Save changes" || true
           git push --force -u origin
