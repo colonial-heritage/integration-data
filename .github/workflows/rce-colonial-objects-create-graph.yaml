@@ -35,7 +35,7 @@ jobs:
         run: |
           cd ./data
           mkdir -p "$RUNNER_TEMP"
-          test -f ./rce-colonial-objects/data/data.tar.gz && tar -xzf ./rce-colonial-objects/data/data.tar.gz -C "$RUNNER_TEMP"
+          test -f ./rce-colonial-objects/data/data.tar.zst && tar --zstd -xf ./rce-colonial-objects/data/data.tar.zst -C "$RUNNER_TEMP"
           ../code/apps/graph-create/dist/cli.js create \
             --resource-dir ./rce-colonial-objects/resources \
             --data-file "$RUNNER_TEMP/data.sqlite" \
@@ -57,7 +57,7 @@ jobs:
         run: |
           cd ./data
           mkdir -p ./rce-colonial-objects/data
-          test -f "$RUNNER_TEMP/data.sqlite" && tar -czf ./rce-colonial-objects/data/data.tar.gz -C "$RUNNER_TEMP" data.sqlite
+          test -f "$RUNNER_TEMP/data.sqlite" && tar --zstd -cf ./rce-colonial-objects/data/data.tar.zst -C "$RUNNER_TEMP" data.sqlite
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add .
