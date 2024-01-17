@@ -1,0 +1,39 @@
+###############################
+# Information about organizations, e.g. data providers
+# This dataset contains information that cannot be extracted from other sources, e.g. the NDE Dataset Register
+###############################
+
+@prefix schema: <https://schema.org/> .
+
+<https://data.colonialcollections.nl/nmvw>
+  a schema:Organization ;
+  schema:url <http://www.wereldculturen.nl> ;
+  schema:address [
+    a schema:PostalAddress ;
+    schema:streetAddress "Steenstraat 1" ;
+    schema:postalCode "2312 BS" ;
+    schema:addressLocality "Leiden" ;
+    schema:addressCountry "Nederland"@nl, "Netherlands"@en
+  ] .
+
+<https://linkeddata.cultureelerfgoed.nl/rce>
+  a schema:Organization ;
+  schema:url <https://www.cultureelerfgoed.nl/> ;
+  schema:address [
+    a schema:PostalAddress ;
+    schema:streetAddress "Smallepad 5" ;
+    schema:postalCode "3811 MG" ;
+    schema:addressLocality "Amersfoort" ;
+    schema:addressCountry "Nederland"@nl, "Netherlands"@en
+  ] .
+
+<https://data.colonialcollections.nl/Bronbeek>
+  a schema:Organization ;
+  schema:url <http://museumbronbeek.nl/> ;
+  schema:address [
+    a schema:PostalAddress ;
+    schema:streetAddress "Velperweg 147" ;
+    schema:postalCode "6824 MB" ;
+    schema:addressLocality "Arnhem" ;
+    schema:addressCountry "Nederland"@nl, "Netherlands"@en
+  ] .
