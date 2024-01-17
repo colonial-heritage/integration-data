@@ -35,7 +35,7 @@ jobs:
         run: |
           cd ./data
           mkdir -p "$RUNNER_TEMP"
-          test -f ./aat/data/data.tar.gz && tar -xzf ./aat/data/data.tar.gz -C "$RUNNER_TEMP"
+          test -f ./aat/data/data.tar.zst && tar --zstd -xf ./aat/data/data.tar.zst -C "$RUNNER_TEMP"
           ../code/apps/graph-create/dist/cli.js create \
             --resource-dir ./aat/resources \
             --data-file "$RUNNER_TEMP/data.sqlite" \
@@ -57,7 +57,7 @@ jobs:
         run: |
           cd ./data
           mkdir -p ./aat/data
-          test -f "$RUNNER_TEMP/data.sqlite" && tar -czf ./aat/data/data.tar.gz -C "$RUNNER_TEMP" data.sqlite
+          test -f "$RUNNER_TEMP/data.sqlite" && tar --zstd -cf ./aat/data/data.tar.zst -C "$RUNNER_TEMP" data.sqlite
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add .
