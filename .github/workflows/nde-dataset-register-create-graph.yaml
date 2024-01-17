@@ -35,7 +35,7 @@ jobs:
         run: |
           cd ./data
           mkdir -p "$RUNNER_TEMP"
-          test -f ./nde-dataset-register/data/data.tar.gz && tar -xzf ./nde-dataset-register/data/data.tar.gz -C "$RUNNER_TEMP"
+          test -f ./nde-dataset-register/data/data.tar.zst && tar --zstd -xf ./nde-dataset-register/data/data.tar.zst -C "$RUNNER_TEMP"
           ../code/apps/graph-create/dist/cli.js create \
             --resource-dir ./nde-dataset-register/resources \
             --data-file "$RUNNER_TEMP/data.sqlite" \
@@ -57,7 +57,7 @@ jobs:
         run: |
           cd ./data
           mkdir -p ./nde-dataset-register/data
-          test -f "$RUNNER_TEMP/data.sqlite" && tar -czf ./nde-dataset-register/data/data.tar.gz -C "$RUNNER_TEMP" data.sqlite
+          test -f "$RUNNER_TEMP/data.sqlite" && tar --zstd -cf ./nde-dataset-register/data/data.tar.zst -C "$RUNNER_TEMP" data.sqlite
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add .
