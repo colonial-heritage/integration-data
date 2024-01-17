@@ -36,7 +36,7 @@ jobs:
         run: |
           cd ./data
           mkdir -p "$RUNNER_TEMP"
-          test -f ./geonames/data/data.tar.gz && tar -xzf ./geonames/data/data.tar.gz -C "$RUNNER_TEMP"
+          test -f ./geonames/data/data.tar.zst && tar --zstd -xf ./geonames/data/data.tar.zst -C "$RUNNER_TEMP"
           ../code/apps/graph-create-geonames/dist/cli.js create \
             --resource-dir ./geonames/resources \
             --data-file "$RUNNER_TEMP/data.sqlite" \
@@ -57,7 +57,7 @@ jobs:
         run: |
           cd ./data
           mkdir -p ./geonames/data
-          test -f "$RUNNER_TEMP/data.sqlite" && tar -czf ./geonames/data/data.tar.gz -C "$RUNNER_TEMP" data.sqlite
+          test -f "$RUNNER_TEMP/data.sqlite" && tar --zstd -cf ./geonames/data/data.tar.zst -C "$RUNNER_TEMP" data.sqlite
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add .
