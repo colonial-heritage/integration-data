@@ -35,7 +35,7 @@ jobs:
         run: |
           cd ./data
           mkdir -p "$RUNNER_TEMP"
-          test -f ./bronbeek-stamboeken/data/data.tar.gz && tar -xzf ./bronbeek-stamboeken/data/data.tar.gz -C "$RUNNER_TEMP"
+          test -f ./bronbeek-stamboeken/data/data.tar.zst && tar --zstd -xf ./bronbeek-stamboeken/data/data.tar.zst -C "$RUNNER_TEMP"
           ../code/apps/graph-create/dist/cli.js create \
             --resource-dir ./bronbeek-stamboeken/resources \
             --data-file "$RUNNER_TEMP/data.sqlite" \
@@ -57,7 +57,7 @@ jobs:
         run: |
           cd ./data
           mkdir -p ./bronbeek-stamboeken/data
-          test -f "$RUNNER_TEMP/data.sqlite" && tar -czf ./bronbeek-stamboeken/data/data.tar.gz -C "$RUNNER_TEMP" data.sqlite
+          test -f "$RUNNER_TEMP/data.sqlite" && tar --zstd -cf ./bronbeek-stamboeken/data/data.tar.zst -C "$RUNNER_TEMP" data.sqlite
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add .
