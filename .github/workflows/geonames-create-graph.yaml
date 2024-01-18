@@ -18,6 +18,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           path: ./data
+          sparse-checkout: geonames
       - name: Checkout code repository
         uses: actions/checkout@v4
         with:
