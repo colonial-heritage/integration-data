@@ -1,7 +1,10 @@
 <https://n2t.net/ark:/27023/e48225018de84bf9450bc0cc79fa47ba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e48225018de84bf9450bc0cc79fa47ba> <https://colonialcollections.nl/schema#identifier> "RV-3600-7253" .
 <https://n2t.net/ark:/27023/e48225018de84bf9450bc0cc79fa47ba> <https://colonialcollections.nl/schema#name> "Pijlpunt" .
-<https://n2t.net/ark:/27023/e48225018de84bf9450bc0cc79fa47ba> <https://colonialcollections.nl/schema#material> "hout, palmhout" .
+<https://n2t.net/ark:/27023/e48225018de84bf9450bc0cc79fa47ba> <https://colonialcollections.nl/schema#material> "hout : hout, palmhout" .
+<https://n2t.net/ark:/27023/e48225018de84bf9450bc0cc79fa47ba> <https://colonialcollections.nl/schema#material> "palmhout" .
+<https://n2t.net/ark:/27023/e48225018de84bf9450bc0cc79fa47ba> <https://colonialcollections.nl/schema#material> "hout" .
+<https://n2t.net/ark:/27023/e48225018de84bf9450bc0cc79fa47ba> <https://colonialcollections.nl/schema#material> "palmen (hout)" .
 <https://n2t.net/ark:/27023/e48225018de84bf9450bc0cc79fa47ba> <https://colonialcollections.nl/schema#yearCreatedStart> "1959"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/e48225018de84bf9450bc0cc79fa47ba> <https://colonialcollections.nl/schema#yearCreatedEnd> "1959"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/e48225018de84bf9450bc0cc79fa47ba> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,22 +1,24 @@
 <https://n2t.net/ark:/27023/d11934a0545f76aa6143f9d4a04d16b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d11934a0545f76aa6143f9d4a04d16b6> <https://colonialcollections.nl/schema#identifier> "WM-904718" .
 <https://n2t.net/ark:/27023/d11934a0545f76aa6143f9d4a04d16b6> <https://colonialcollections.nl/schema#description> "woonhuis & haven" .
-<https://n2t.net/ark:/27023/d11934a0545f76aa6143f9d4a04d16b6> <https://colonialcollections.nl/schema#material> "karton, papier, albuminedruk" .
+<https://n2t.net/ark:/27023/d11934a0545f76aa6143f9d4a04d16b6> <https://colonialcollections.nl/schema#material> "papier (vezelproduct)" .
+<https://n2t.net/ark:/27023/d11934a0545f76aa6143f9d4a04d16b6> <https://colonialcollections.nl/schema#material> "karton" .
+<https://n2t.net/ark:/27023/d11934a0545f76aa6143f9d4a04d16b6> <https://colonialcollections.nl/schema#material> "cardboard" .
 <https://n2t.net/ark:/27023/d11934a0545f76aa6143f9d4a04d16b6> <https://colonialcollections.nl/schema#inscription> "titel geschreven in negatief" .
 <https://n2t.net/ark:/27023/d11934a0545f76aa6143f9d4a04d16b6> <https://colonialcollections.nl/schema#creator> "Bonfils" .
 <https://n2t.net/ark:/27023/d11934a0545f76aa6143f9d4a04d16b6> <https://colonialcollections.nl/schema#yearCreatedStart> "1867"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/d11934a0545f76aa6143f9d4a04d16b6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1907"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/d11934a0545f76aa6143f9d4a04d16b6> <https://colonialcollections.nl/schema#locationCreated> "Palestine" .
-<https://n2t.net/ark:/27023/d11934a0545f76aa6143f9d4a04d16b6> <https://colonialcollections.nl/schema#alternateName> "occupied Palestinian Territory"@en .
-<https://n2t.net/ark:/27023/d11934a0545f76aa6143f9d4a04d16b6> <https://colonialcollections.nl/schema#alternateName> "Palestinian Territory"@en .
-<https://n2t.net/ark:/27023/d11934a0545f76aa6143f9d4a04d16b6> <https://colonialcollections.nl/schema#alternateName> "Staat Palästina"@de .
 <https://n2t.net/ark:/27023/d11934a0545f76aa6143f9d4a04d16b6> <https://colonialcollections.nl/schema#alternateName> "Palestinian Territories"@en .
-<https://n2t.net/ark:/27023/d11934a0545f76aa6143f9d4a04d16b6> <https://colonialcollections.nl/schema#alternateName> "Territori palestinesi"@it .
-<https://n2t.net/ark:/27023/d11934a0545f76aa6143f9d4a04d16b6> <https://colonialcollections.nl/schema#alternateName> "Stato di Palestina"@it .
-<https://n2t.net/ark:/27023/d11934a0545f76aa6143f9d4a04d16b6> <https://colonialcollections.nl/schema#alternateName> "מדינה פלסטינית"@he .
-<https://n2t.net/ark:/27023/d11934a0545f76aa6143f9d4a04d16b6> <https://colonialcollections.nl/schema#alternateName> "État de Palestine"@fr .
-<https://n2t.net/ark:/27023/d11934a0545f76aa6143f9d4a04d16b6> <https://colonialcollections.nl/schema#alternateName> "State of Palestine"@en .
-<https://n2t.net/ark:/27023/d11934a0545f76aa6143f9d4a04d16b6> <https://colonialcollections.nl/schema#alternateName> "oPT"@en .
 <https://n2t.net/ark:/27023/d11934a0545f76aa6143f9d4a04d16b6> <https://colonialcollections.nl/schema#alternateName> "دولة فلسطين"@ar .
+<https://n2t.net/ark:/27023/d11934a0545f76aa6143f9d4a04d16b6> <https://colonialcollections.nl/schema#alternateName> "Palestinian Territory"@en .
 <https://n2t.net/ark:/27023/d11934a0545f76aa6143f9d4a04d16b6> <https://colonialcollections.nl/schema#alternateName> "Država Palestina"@hr .
+<https://n2t.net/ark:/27023/d11934a0545f76aa6143f9d4a04d16b6> <https://colonialcollections.nl/schema#alternateName> "État de Palestine"@fr .
+<https://n2t.net/ark:/27023/d11934a0545f76aa6143f9d4a04d16b6> <https://colonialcollections.nl/schema#alternateName> "Staat Palästina"@de .
+<https://n2t.net/ark:/27023/d11934a0545f76aa6143f9d4a04d16b6> <https://colonialcollections.nl/schema#alternateName> "oPT"@en .
+<https://n2t.net/ark:/27023/d11934a0545f76aa6143f9d4a04d16b6> <https://colonialcollections.nl/schema#alternateName> "Stato di Palestina"@it .
+<https://n2t.net/ark:/27023/d11934a0545f76aa6143f9d4a04d16b6> <https://colonialcollections.nl/schema#alternateName> "occupied Palestinian Territory"@en .
+<https://n2t.net/ark:/27023/d11934a0545f76aa6143f9d4a04d16b6> <https://colonialcollections.nl/schema#alternateName> "Territori palestinesi"@it .
+<https://n2t.net/ark:/27023/d11934a0545f76aa6143f9d4a04d16b6> <https://colonialcollections.nl/schema#alternateName> "State of Palestine"@en .
+<https://n2t.net/ark:/27023/d11934a0545f76aa6143f9d4a04d16b6> <https://colonialcollections.nl/schema#alternateName> "מדינה פלסטינית"@he .
 <https://n2t.net/ark:/27023/d11934a0545f76aa6143f9d4a04d16b6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

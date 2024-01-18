@@ -1,102 +1,104 @@
 <https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#identifier> "RV-A29-170" .
 <https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#name> "\"DILIGEAN OP DEN WEG TUSSCHEN TIFLIS (TBLISI) EN ERIVAN\"" .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#material> "Materiaal: papier ; karton\r\nMontage: op karton geplakt" .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#material> "papier (vezelproduct)" .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#material> "cardboard" .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#material> "karton" .
 <https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#creator> "A.P.H. (Albertus Paulus Hermanus) Hotz" .
 <https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#creator> "J. Thomson" .
 <https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#yearCreatedStart> "1860"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#yearCreatedEnd> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#locationCreated> "Dilijan" .
 <https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#countryCreated> "Armenia" .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Armenja"@mt .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Arminya"@qu .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Dili P’ok’r" .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Dilidžan"@et .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Armenia"@scn .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "អារមេនី"@km .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Republic of Armenia"@en .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Армєнїꙗ"@cu .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Հայաստանի Հանրապետութիւն"@hy .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Armenska"@hsb .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Դիլիջան"@hy .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Armenya"@war .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Dilican"@az .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "დილიჯანი"@ka .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Hayastan" .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Armenia" .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Dilijan" .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Hin" .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "ارمينيا"@ar .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "დილიჯანი"@xmf .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "आर्मीनिया"@sa .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Armenia"@ilo .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Hayastani Hanrapetut’yun"@hy .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Delijan" .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "ܐܪܡܢܝܐ"@arc .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Hajio"@eo .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Armenië"@li .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Dilidschan"@de .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Arminiya"@na .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Әрменстан"@kk .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Diližanas"@lt .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Jermenija"@hbs .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Armeni"@kw .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Ác-mê-ni-a"@vi .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Armenia"@pam .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Armenia"@la .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Armenia"@pms .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "სასომხეთი"@ka .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Delishan" .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Dili" .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Дилиџан"@sr .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "República d'Armènia"@ca .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Dilidżan"@pl .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "អារមីនៀ"@km .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Tilichan" .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Армэнія"@be .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Armenien"@nds .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "迪利然"@zh .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "دیلیجان"@fa .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Dilizhan" .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "আর্মেনিয়া"@bn .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Armenia"@an .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Эрмени"@cv .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Armenia"@io .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Армения"@ro .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "دیلیجان"@mzn .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "आर्मीनिया"@hi .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Дилижан"@ce .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Armienii"@olo .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Dilidjan"@fr .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Arménia"@pt .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "ئەرمەنستان"@ckb .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Diliĝano"@eo .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Ermenija"@bs .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Armeenje"@fy .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Armenia"@nn .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Armenia"@oc .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Арменија"@sr .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Armenian Soviet Socialist Republic" .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Armenio"@eo .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Дилижан"@os .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "亞美尼亞"@zh .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Armenya"@tl .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Dilican"@tr .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Tili" .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Dilijan"@en .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Armenia"@sq .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Armenia"@ast .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Larmeniyän"@vo .
 <https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "ארמעניע"@yi .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Дилиджан"@bg .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Діліжан"@uk .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "ܐܪܡܢܝܐ"@arc .
 <https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Dilichan" .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Armènie"@frp .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Armenio"@eo .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "ارمينيا"@ar .
 <https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Dilishan" .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Armyanskaya Sovetskaya Sotsialisticheskaya Respublika" .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Arminiya"@na .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "دیلیجان"@fa .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Ác-mê-ni-a"@vi .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "អារមីនៀ"@km .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Armenia"@pms .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "আর্মেনিয়া"@bn .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "სასომხეთი"@ka .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Арменија"@sr .
 <https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "ອາມິເນຍ"@lo .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Дилижан"@ru .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Armenia"@oc .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Tilichan" .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Armenia"@la .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Armenia"@ilo .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Dilican"@tr .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Republic of Armenia"@en .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Dilijan"@en .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Armenya"@war .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Дилиџан"@sr .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Dilidjan"@fr .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Հայաստանի Հանրապետութիւն"@hy .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Діліжан"@uk .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Diliĝano"@eo .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Arminya"@qu .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Delishan" .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Армэнія"@be .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Armenia"@pam .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Әрменстан"@kk .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Armeenje"@fy .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Dilizhan" .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Armenia"@scn .
 <https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Armenia - Հայաստան"@gl .
-<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "ประเทศอาร์มีเนีย"@th .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Դիլիջան"@hy .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Delijan" .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Armènie"@frp .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Дилижан"@ru .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "República d'Armènia"@ca .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Hin" .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Hajio"@eo .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Dili" .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "迪利然"@zh .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Dilidżan"@pl .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Armenië"@li .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Armenya"@tl .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Armenian Soviet Socialist Republic" .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Dilidschan"@de .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Jermenija"@hbs .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Diližanas"@lt .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Дилиджан"@bg .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Armienii"@olo .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Armenska"@hsb .
 <https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Delizhan" .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Армєнїꙗ"@cu .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Армения"@ro .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "ئەرمەنستان"@ckb .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Armeni"@kw .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "आर्मीनिया"@sa .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Эрмени"@cv .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Armenia"@nn .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Armyanskaya Sovetskaya Sotsialisticheskaya Respublika" .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Armenia"@an .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Armenia" .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Armenja"@mt .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Tili" .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "ประเทศอาร์มีเนีย"@th .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Hayastani Hanrapetut’yun"@hy .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "დილიჯანი"@xmf .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Dilican"@az .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Larmeniyän"@vo .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "आर्मीनिया"@hi .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Dilijan" .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "دیلیجان"@mzn .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Дилижан"@os .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Arménia"@pt .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Armenia"@ast .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Armenia"@sq .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "亞美尼亞"@zh .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Дилижан"@ce .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Hayastan" .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "დილიჯანი"@ka .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Dili P’ok’r" .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "អារមេនី"@km .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Armenia"@io .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Ermenija"@bs .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Dilidžan"@et .
+<https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#alternateName> "Armenien"@nds .
 <https://n2t.net/ark:/27023/dbb32da4c98e7f3908a3af35f9090c67> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
