@@ -1,7 +1,12 @@
 <https://n2t.net/ark:/27023/075716668d28ce9b032979aa7a01149e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/075716668d28ce9b032979aa7a01149e> <https://colonialcollections.nl/schema#identifier> "RV-1327-312a" .
 <https://n2t.net/ark:/27023/075716668d28ce9b032979aa7a01149e> <https://colonialcollections.nl/schema#description> "Courtisane van hoge rang paradeert onder de kersenbloesems, geflankeerd door een shinzô (courtisane in opleiding) en een kamuro (meisje dat nog shinzô moet worden). De kimono van de courtisane bestaat uit vele lagen, hoofdzakelijk lichtgroen van kleur." .
-<https://n2t.net/ark:/27023/075716668d28ce9b032979aa7a01149e> <https://colonialcollections.nl/schema#material> "papier ; inkt ; pigmenten ; drukwerk ; houtsnede ; kleurenhoutsnede (nishikie)" .
+<https://n2t.net/ark:/27023/075716668d28ce9b032979aa7a01149e> <https://colonialcollections.nl/schema#material> "papier (vezelproduct)" .
+<https://n2t.net/ark:/27023/075716668d28ce9b032979aa7a01149e> <https://colonialcollections.nl/schema#material> "inkt" .
+<https://n2t.net/ark:/27023/075716668d28ce9b032979aa7a01149e> <https://colonialcollections.nl/schema#material> "vezelstof" .
+<https://n2t.net/ark:/27023/075716668d28ce9b032979aa7a01149e> <https://colonialcollections.nl/schema#material> "ink" .
+<https://n2t.net/ark:/27023/075716668d28ce9b032979aa7a01149e> <https://colonialcollections.nl/schema#material> "pigment" .
+<https://n2t.net/ark:/27023/075716668d28ce9b032979aa7a01149e> <https://colonialcollections.nl/schema#material> "vezelstof : papier" .
 <https://n2t.net/ark:/27023/075716668d28ce9b032979aa7a01149e> <https://colonialcollections.nl/schema#creator> "Keisai Eisen" .
 <https://n2t.net/ark:/27023/075716668d28ce9b032979aa7a01149e> <https://colonialcollections.nl/schema#yearCreatedStart> "1811"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/075716668d28ce9b032979aa7a01149e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1848"^^<http://www.w3.org/2001/XMLSchema#integer> .

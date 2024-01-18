@@ -1,9 +1,11 @@
 <https://n2t.net/ark:/27023/154b0f518cd23be18ffb5ba47daaafc5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/154b0f518cd23be18ffb5ba47daaafc5> <https://colonialcollections.nl/schema#identifier> "RV-A5-1-10" .
 <https://n2t.net/ark:/27023/154b0f518cd23be18ffb5ba47daaafc5> <https://colonialcollections.nl/schema#name> "\"9. DE PAPANDAJAN-KRATER. (WEST-JAVA)\"" .
-<https://n2t.net/ark:/27023/154b0f518cd23be18ffb5ba47daaafc5> <https://colonialcollections.nl/schema#material> "Materiaal: papier ; karton\r\nTechniek: fotomechanische druk" .
-<https://n2t.net/ark:/27023/154b0f518cd23be18ffb5ba47daaafc5> <https://colonialcollections.nl/schema#creator> "Uitgeverij Kleynenberg & Co Haarlem" .
+<https://n2t.net/ark:/27023/154b0f518cd23be18ffb5ba47daaafc5> <https://colonialcollections.nl/schema#material> "karton" .
+<https://n2t.net/ark:/27023/154b0f518cd23be18ffb5ba47daaafc5> <https://colonialcollections.nl/schema#material> "cardboard" .
+<https://n2t.net/ark:/27023/154b0f518cd23be18ffb5ba47daaafc5> <https://colonialcollections.nl/schema#material> "papier (vezelproduct)" .
 <https://n2t.net/ark:/27023/154b0f518cd23be18ffb5ba47daaafc5> <https://colonialcollections.nl/schema#creator> "Dhr. J. (Jean) Demmeni" .
+<https://n2t.net/ark:/27023/154b0f518cd23be18ffb5ba47daaafc5> <https://colonialcollections.nl/schema#creator> "Uitgeverij Kleynenberg & Co Haarlem" .
 <https://n2t.net/ark:/27023/154b0f518cd23be18ffb5ba47daaafc5> <https://colonialcollections.nl/schema#yearCreatedStart> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/154b0f518cd23be18ffb5ba47daaafc5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1914"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/154b0f518cd23be18ffb5ba47daaafc5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

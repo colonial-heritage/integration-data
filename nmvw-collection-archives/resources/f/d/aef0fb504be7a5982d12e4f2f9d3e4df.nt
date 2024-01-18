@@ -1,7 +1,9 @@
 <https://n2t.net/ark:/27023/0932c761887b476b599b3ff666af9967> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0932c761887b476b599b3ff666af9967> <https://colonialcollections.nl/schema#identifier> "RV-A7-8" .
 <https://n2t.net/ark:/27023/0932c761887b476b599b3ff666af9967> <https://colonialcollections.nl/schema#name> "\"GRAN CANARIA. LAS PALMAS, \"IM HOFE DES HÔTEL DE L'EUROPE.\"" .
-<https://n2t.net/ark:/27023/0932c761887b476b599b3ff666af9967> <https://colonialcollections.nl/schema#material> "Materiaal: papier ; karton\r\nMontage: op karton geplakt ; op systeemkaart geplakt ; titels opgeplakt" .
+<https://n2t.net/ark:/27023/0932c761887b476b599b3ff666af9967> <https://colonialcollections.nl/schema#material> "karton" .
+<https://n2t.net/ark:/27023/0932c761887b476b599b3ff666af9967> <https://colonialcollections.nl/schema#material> "papier (vezelproduct)" .
+<https://n2t.net/ark:/27023/0932c761887b476b599b3ff666af9967> <https://colonialcollections.nl/schema#material> "cardboard" .
 <https://n2t.net/ark:/27023/0932c761887b476b599b3ff666af9967> <https://colonialcollections.nl/schema#creator> "J. (Johann) Büttikofer" .
 <https://n2t.net/ark:/27023/0932c761887b476b599b3ff666af9967> <https://colonialcollections.nl/schema#yearCreatedStart> "1886"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0932c761887b476b599b3ff666af9967> <https://colonialcollections.nl/schema#yearCreatedEnd> "1886"^^<http://www.w3.org/2001/XMLSchema#integer> .

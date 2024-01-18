@@ -1,86 +1,88 @@
 <https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#identifier> "TM-4345-3b" .
 <https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#name> "HOOFDDOEK VOOR MANNEN IN VERPAKKING" .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#material> "katoen" .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#material> "cotton" .
 <https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#locationCreated> "Madhab" .
 <https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#locationCreated> "Oman" .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#countryCreated> "Oman" .
 <https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#countryCreated> "Yemen" .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Йемен"@os .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Oman"@frp .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Yaman" .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Yemen"@pam .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Oman"@nn .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Sultanate of Musqat and Oman" .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Оман"@os .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Iemèn"@oc .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Ô-man"@vi .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Omán - عُمان"@gl .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Sultanate of Muscat and Oman" .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "سلطنة عمان"@ar .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Omán"@ast .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Mutra" .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Yemen"@kw .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Omani"@sq .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Sultanate of Oman and Muscat" .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Oman"@pam .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Madhab" .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Oman"@io .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "عومان"@ckb .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Yaman"@qu .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#countryCreated> "Oman" .
 <https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Salţanat Masqaţ wa ‘Umān" .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Oman"@nn .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Йемен"@os .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Yemen"@scn .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Jemen"@hsb .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Sultanate of Musqat and Oman" .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Yemen"@an .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Jemeni"@sq .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Оман"@os .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "ஓமான்"@ta .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Yemen"@tl .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Oman"@ilo .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "ओमान"@sa .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Oman"@nds .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Y-ê-men"@vi .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Jeme"@li .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "ประเทศโอมาน"@th .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Omán"@ast .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Al Yaman" .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Yèmen"@frp .
 <https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Arabia Felix / Arabia eudaímōn"@en .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Oman"@hbs .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Omani"@sw .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "عمان"@ar .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "سلطنة عمان"@ar .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Sultanat Masqat wah Oman" .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Jemen"@nds .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Iemèn"@oc .
 <https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "ܝܡܢ"@arc .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Йемен"@udm .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Yaman"@qu .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Oman"@hsb .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Omán"@an .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "ประเทศเยเมน"@th .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "ইমেন"@bn .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Ô-man"@vi .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "يمن"@ps .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Yaman" .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Yemen"@sw .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "عومان"@ckb .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Oman"@io .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "ओमान"@ks .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Oman"@pam .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Masqat and Oman" .
 <https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Yämän"@vo .
 <https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Iémen"@pt .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Oman"@nds .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "‘Umān"@ar .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Al Yaman" .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Yemen"@scn .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Omán"@an .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "ইমেন"@bn .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Omaan"@li .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Sultanate of Oman"@en .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Iemen - اليمن"@gl .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Republic of Yemen"@en .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Yeme"@ast .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Masqat and Oman" .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Oman"@hsb .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Jemen"@nds .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "يمن"@ps .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Oman"@oc .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Jemeni"@sq .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "ܥܘܡܐܢ"@arc .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "ஓமான்"@ta .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Lomän"@vo .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Yemen"@ilo .
 <https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Salţanat ‘Umān" .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Йемен"@udm .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Oman"@oc .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Yemen"@kw .
 <https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "עומן"@he .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Jemen"@nn .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Oman"@ang .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "ประเทศเยเมน"@th .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "عمان"@ar .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Oman"@kw .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Sultanate of Oman"@en .
 <https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Iemenia"@la .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Yemen"@tl .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Yèmen"@frp .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Omani"@sw .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Oman"@ilo .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Sultanat Masqat wah Oman" .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "ओमान"@sa .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Yemen"@sw .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Al Jumhūrīyah al Yamanīyah" .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Jemen"@hsb .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Емэн"@be .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "ประเทศโอมาน"@th .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Jeme"@li .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Yemen"@an .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Omán - عُمان"@gl .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Omani"@sq .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Lomän"@vo .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Jemen"@nn .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Mutra" .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Yemen"@pam .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Oman"@frp .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Oman"@hbs .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Omaan"@li .
 <https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Omàn"@ht .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "ܥܘܡܐܢ"@arc .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "‘Umān"@ar .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Емэн"@be .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Yemen"@ilo .
 <https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Oman"@tl .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "ओमान"@ks .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Jemen"@hbs .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Oman"@ang .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Yeme"@ast .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Madhab" .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Sultanate of Oman and Muscat" .
 <https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Uman"@qu .
-<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Y-ê-men"@vi .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Oman"@kw .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Republic of Yemen"@en .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Sultanate of Muscat and Oman" .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Jemen"@hbs .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Al Jumhūrīyah al Yamanīyah" .
+<https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#alternateName> "Iemen - اليمن"@gl .
 <https://n2t.net/ark:/27023/14de2c5303912f3476535fad96bdd82a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

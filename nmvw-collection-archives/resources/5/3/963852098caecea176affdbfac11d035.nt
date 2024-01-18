@@ -1,7 +1,11 @@
 <https://n2t.net/ark:/27023/14a25b578b252f3ffa74ea059facef5a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/14a25b578b252f3ffa74ea059facef5a> <https://colonialcollections.nl/schema#identifier> "RV-1926-305" .
 <https://n2t.net/ark:/27023/14a25b578b252f3ffa74ea059facef5a> <https://colonialcollections.nl/schema#name> "DOEK" .
-<https://n2t.net/ark:/27023/14a25b578b252f3ffa74ea059facef5a> <https://colonialcollections.nl/schema#material> "boombast ; geklopt" .
+<https://n2t.net/ark:/27023/14a25b578b252f3ffa74ea059facef5a> <https://colonialcollections.nl/schema#material> "bast : boombast" .
+<https://n2t.net/ark:/27023/14a25b578b252f3ffa74ea059facef5a> <https://colonialcollections.nl/schema#material> "geklopte boombast" .
+<https://n2t.net/ark:/27023/14a25b578b252f3ffa74ea059facef5a> <https://colonialcollections.nl/schema#material> "bast" .
+<https://n2t.net/ark:/27023/14a25b578b252f3ffa74ea059facef5a> <https://colonialcollections.nl/schema#material> "boombast" .
+<https://n2t.net/ark:/27023/14a25b578b252f3ffa74ea059facef5a> <https://colonialcollections.nl/schema#material> "bastdoek" .
 <https://n2t.net/ark:/27023/14a25b578b252f3ffa74ea059facef5a> <https://colonialcollections.nl/schema#yearCreatedStart> "1916"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/14a25b578b252f3ffa74ea059facef5a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1916"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/14a25b578b252f3ffa74ea059facef5a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
