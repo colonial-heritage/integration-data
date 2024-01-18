@@ -1,6 +1,8 @@
 <https://n2t.net/ark:/27023/1ec15d1b5b1dbe791cfd7ef6742262c0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/1ec15d1b5b1dbe791cfd7ef6742262c0> <https://colonialcollections.nl/schema#identifier> "RV-A44-111" .
-<https://n2t.net/ark:/27023/1ec15d1b5b1dbe791cfd7ef6742262c0> <https://colonialcollections.nl/schema#material> "Materiaal: papier ; karton\r\nTechniek: albuminedruk\r\nMontage: op karton geplakt en op registratiekaarten geplakt" .
+<https://n2t.net/ark:/27023/1ec15d1b5b1dbe791cfd7ef6742262c0> <https://colonialcollections.nl/schema#material> "papier (vezelproduct)" .
+<https://n2t.net/ark:/27023/1ec15d1b5b1dbe791cfd7ef6742262c0> <https://colonialcollections.nl/schema#material> "karton" .
+<https://n2t.net/ark:/27023/1ec15d1b5b1dbe791cfd7ef6742262c0> <https://colonialcollections.nl/schema#material> "cardboard" .
 <https://n2t.net/ark:/27023/1ec15d1b5b1dbe791cfd7ef6742262c0> <https://colonialcollections.nl/schema#creator> "Lindberg" .
 <https://n2t.net/ark:/27023/1ec15d1b5b1dbe791cfd7ef6742262c0> <https://colonialcollections.nl/schema#yearCreatedStart> "1878"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/1ec15d1b5b1dbe791cfd7ef6742262c0> <https://colonialcollections.nl/schema#yearCreatedEnd> "1879"^^<http://www.w3.org/2001/XMLSchema#integer> .

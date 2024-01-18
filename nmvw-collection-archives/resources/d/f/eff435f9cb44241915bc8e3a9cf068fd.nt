@@ -1,6 +1,12 @@
 <https://n2t.net/ark:/27023/135b2a081de04fee233f4d032a6ff454> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/135b2a081de04fee233f4d032a6ff454> <https://colonialcollections.nl/schema#identifier> "RV-929-234" .
-<https://n2t.net/ark:/27023/135b2a081de04fee233f4d032a6ff454> <https://colonialcollections.nl/schema#material> "kralen ; textiel ; textiel, katoen" .
+<https://n2t.net/ark:/27023/135b2a081de04fee233f4d032a6ff454> <https://colonialcollections.nl/schema#material> "textiel : textiel, katoen" .
+<https://n2t.net/ark:/27023/135b2a081de04fee233f4d032a6ff454> <https://colonialcollections.nl/schema#material> "katoen" .
+<https://n2t.net/ark:/27023/135b2a081de04fee233f4d032a6ff454> <https://colonialcollections.nl/schema#material> "textiel : textiel" .
+<https://n2t.net/ark:/27023/135b2a081de04fee233f4d032a6ff454> <https://colonialcollections.nl/schema#material> "x : kralen" .
+<https://n2t.net/ark:/27023/135b2a081de04fee233f4d032a6ff454> <https://colonialcollections.nl/schema#material> "textielmaterialen" .
+<https://n2t.net/ark:/27023/135b2a081de04fee233f4d032a6ff454> <https://colonialcollections.nl/schema#material> "glas (materiaal)" .
+<https://n2t.net/ark:/27023/135b2a081de04fee233f4d032a6ff454> <https://colonialcollections.nl/schema#material> "cotton" .
 <https://n2t.net/ark:/27023/135b2a081de04fee233f4d032a6ff454> <https://colonialcollections.nl/schema#yearCreatedStart> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/135b2a081de04fee233f4d032a6ff454> <https://colonialcollections.nl/schema#yearCreatedEnd> "1888"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/135b2a081de04fee233f4d032a6ff454> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
