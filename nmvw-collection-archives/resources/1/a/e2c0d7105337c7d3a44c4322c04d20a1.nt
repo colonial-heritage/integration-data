@@ -1,7 +1,12 @@
 <https://n2t.net/ark:/27023/dd7264c90e59ffd7e19bfbf192f85d39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/dd7264c90e59ffd7e19bfbf192f85d39> <https://colonialcollections.nl/schema#identifier> "RV-1353-2030" .
 <https://n2t.net/ark:/27023/dd7264c90e59ffd7e19bfbf192f85d39> <https://colonialcollections.nl/schema#description> "De akteur Ichikawa Ebijuro (I: 1777-1827; 1815-27/ II: 1806-1829; 1828-29/ III: 1787-1836; 1830-36) in de rol van" .
-<https://n2t.net/ark:/27023/dd7264c90e59ffd7e19bfbf192f85d39> <https://colonialcollections.nl/schema#material> "papier ; inkt ; pigmenten ; drukwerk ; houtsnede ; kleurenhoutsnede (nishikie)" .
+<https://n2t.net/ark:/27023/dd7264c90e59ffd7e19bfbf192f85d39> <https://colonialcollections.nl/schema#material> "papier (vezelproduct)" .
+<https://n2t.net/ark:/27023/dd7264c90e59ffd7e19bfbf192f85d39> <https://colonialcollections.nl/schema#material> "ink" .
+<https://n2t.net/ark:/27023/dd7264c90e59ffd7e19bfbf192f85d39> <https://colonialcollections.nl/schema#material> "pigment" .
+<https://n2t.net/ark:/27023/dd7264c90e59ffd7e19bfbf192f85d39> <https://colonialcollections.nl/schema#material> "vezelstof : papier" .
+<https://n2t.net/ark:/27023/dd7264c90e59ffd7e19bfbf192f85d39> <https://colonialcollections.nl/schema#material> "vezelstof" .
+<https://n2t.net/ark:/27023/dd7264c90e59ffd7e19bfbf192f85d39> <https://colonialcollections.nl/schema#material> "inkt" .
 <https://n2t.net/ark:/27023/dd7264c90e59ffd7e19bfbf192f85d39> <https://colonialcollections.nl/schema#creator> "Ashiyuki" .
 <https://n2t.net/ark:/27023/dd7264c90e59ffd7e19bfbf192f85d39> <https://colonialcollections.nl/schema#yearCreatedStart> "1814"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/dd7264c90e59ffd7e19bfbf192f85d39> <https://colonialcollections.nl/schema#yearCreatedEnd> "1833"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,7 +1,8 @@
 <https://n2t.net/ark:/27023/d262397396068265fe8b1d2c1698eea9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/d262397396068265fe8b1d2c1698eea9> <https://colonialcollections.nl/schema#identifier> "WM-21220" .
 <https://n2t.net/ark:/27023/d262397396068265fe8b1d2c1698eea9> <https://colonialcollections.nl/schema#description> "[ST] voetstuk\r\n[KL] groen\r\n[DE] rand met rank (bij voetstuk)\r\n[VO] oppervlakte buitenzijde : geschulpt" .
-<https://n2t.net/ark:/27023/d262397396068265fe8b1d2c1698eea9> <https://colonialcollections.nl/schema#material> "aardewerk, glazuur (celadon)\r\ngebakken, geglazuurd (craquelé)\r\n[PL] China" .
+<https://n2t.net/ark:/27023/d262397396068265fe8b1d2c1698eea9> <https://colonialcollections.nl/schema#material> "celadon" .
+<https://n2t.net/ark:/27023/d262397396068265fe8b1d2c1698eea9> <https://colonialcollections.nl/schema#material> "aardewerk (materiaal)" .
 <https://n2t.net/ark:/27023/d262397396068265fe8b1d2c1698eea9> <https://colonialcollections.nl/schema#inscription> "[T] Ming-tijdperk\r\n     1368-1644" .
 <https://n2t.net/ark:/27023/d262397396068265fe8b1d2c1698eea9> <https://colonialcollections.nl/schema#yearCreatedStart> "1368"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/d262397396068265fe8b1d2c1698eea9> <https://colonialcollections.nl/schema#yearCreatedEnd> "1644"^^<http://www.w3.org/2001/XMLSchema#integer> .
