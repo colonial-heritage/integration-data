@@ -1,9 +1,13 @@
 name: Update Search Graph with data from dataset 'Collection Archives' in the Knowledge Graph
 
 # Every hour
+# on:
+#   schedule:
+#     - cron: "0 * * * *"
+
 on:
-  schedule:
-    - cron: "0 * * * *"
+  push:
+    branches: ["main"]
 
 # Run a single workflow at a time
 concurrency:
@@ -17,6 +21,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           path: ./data
+          sparse-checkout: nmvw-collection-archives
       - name: Checkout code repository
         uses: actions/checkout@v4
         with:
