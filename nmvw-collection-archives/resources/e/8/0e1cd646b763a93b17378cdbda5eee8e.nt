@@ -1,7 +1,11 @@
 <https://n2t.net/ark:/27023/bb87a30d7663d7a38ac97e9dc7574446> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/bb87a30d7663d7a38ac97e9dc7574446> <https://colonialcollections.nl/schema#identifier> "RV-A72-117" .
 <https://n2t.net/ark:/27023/bb87a30d7663d7a38ac97e9dc7574446> <https://colonialcollections.nl/schema#name> "Gezicht op tuin met kippenhok en -ren" .
-<https://n2t.net/ark:/27023/bb87a30d7663d7a38ac97e9dc7574446> <https://colonialcollections.nl/schema#material> "Materiaal: papier ; karton ; inkt\r\nMontage: op karton geplakt" .
+<https://n2t.net/ark:/27023/bb87a30d7663d7a38ac97e9dc7574446> <https://colonialcollections.nl/schema#material> "karton" .
+<https://n2t.net/ark:/27023/bb87a30d7663d7a38ac97e9dc7574446> <https://colonialcollections.nl/schema#material> "papier (vezelproduct)" .
+<https://n2t.net/ark:/27023/bb87a30d7663d7a38ac97e9dc7574446> <https://colonialcollections.nl/schema#material> "cardboard" .
+<https://n2t.net/ark:/27023/bb87a30d7663d7a38ac97e9dc7574446> <https://colonialcollections.nl/schema#material> "ink" .
+<https://n2t.net/ark:/27023/bb87a30d7663d7a38ac97e9dc7574446> <https://colonialcollections.nl/schema#material> "inkt" .
 <https://n2t.net/ark:/27023/bb87a30d7663d7a38ac97e9dc7574446> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/bb87a30d7663d7a38ac97e9dc7574446> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/bb87a30d7663d7a38ac97e9dc7574446> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .

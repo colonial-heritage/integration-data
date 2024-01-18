@@ -1,7 +1,18 @@
 <https://n2t.net/ark:/27023/803f902e5952044aa65cc20764605047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/803f902e5952044aa65cc20764605047> <https://colonialcollections.nl/schema#identifier> "RV-1917-268" .
 <https://n2t.net/ark:/27023/803f902e5952044aa65cc20764605047> <https://colonialcollections.nl/schema#name> "PIJL" .
-<https://n2t.net/ark:/27023/803f902e5952044aa65cc20764605047> <https://colonialcollections.nl/schema#material> "hout ; riet ; been ; textiel x? ; veer x?" .
+<https://n2t.net/ark:/27023/803f902e5952044aa65cc20764605047> <https://colonialcollections.nl/schema#material> "been : been" .
+<https://n2t.net/ark:/27023/803f902e5952044aa65cc20764605047> <https://colonialcollections.nl/schema#material> "veer" .
+<https://n2t.net/ark:/27023/803f902e5952044aa65cc20764605047> <https://colonialcollections.nl/schema#material> "gras : riet" .
+<https://n2t.net/ark:/27023/803f902e5952044aa65cc20764605047> <https://colonialcollections.nl/schema#material> "been" .
+<https://n2t.net/ark:/27023/803f902e5952044aa65cc20764605047> <https://colonialcollections.nl/schema#material> "wood" .
+<https://n2t.net/ark:/27023/803f902e5952044aa65cc20764605047> <https://colonialcollections.nl/schema#material> "hout" .
+<https://n2t.net/ark:/27023/803f902e5952044aa65cc20764605047> <https://colonialcollections.nl/schema#material> "bone" .
+<https://n2t.net/ark:/27023/803f902e5952044aa65cc20764605047> <https://colonialcollections.nl/schema#material> "textielmaterialen" .
+<https://n2t.net/ark:/27023/803f902e5952044aa65cc20764605047> <https://colonialcollections.nl/schema#material> "riet" .
+<https://n2t.net/ark:/27023/803f902e5952044aa65cc20764605047> <https://colonialcollections.nl/schema#material> "hout : hout" .
+<https://n2t.net/ark:/27023/803f902e5952044aa65cc20764605047> <https://colonialcollections.nl/schema#material> "textiel : textiel x?" .
+<https://n2t.net/ark:/27023/803f902e5952044aa65cc20764605047> <https://colonialcollections.nl/schema#material> "veer : veer x?" .
 <https://n2t.net/ark:/27023/803f902e5952044aa65cc20764605047> <https://colonialcollections.nl/schema#yearCreatedStart> "1915"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/803f902e5952044aa65cc20764605047> <https://colonialcollections.nl/schema#yearCreatedEnd> "1915"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/803f902e5952044aa65cc20764605047> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

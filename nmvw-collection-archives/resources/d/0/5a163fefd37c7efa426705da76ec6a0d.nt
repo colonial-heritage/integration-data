@@ -1,7 +1,9 @@
 <https://n2t.net/ark:/27023/3ffafe55dc6d1a79604bd5d77e27e7fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3ffafe55dc6d1a79604bd5d77e27e7fb> <https://colonialcollections.nl/schema#identifier> "RV-A294-9" .
 <https://n2t.net/ark:/27023/3ffafe55dc6d1a79604bd5d77e27e7fb> <https://colonialcollections.nl/schema#name> "EEN AANTAL VISSERS AAN HET WERK MET AAN DE LINKERZIJDE EEN HUISJE STAAND IN HET WATER" .
-<https://n2t.net/ark:/27023/3ffafe55dc6d1a79604bd5d77e27e7fb> <https://colonialcollections.nl/schema#material> "Materiaal: papier ; karton\r\nTechniek: fotomechanische druk\r\nMontage: op registratiekaart geplakt" .
+<https://n2t.net/ark:/27023/3ffafe55dc6d1a79604bd5d77e27e7fb> <https://colonialcollections.nl/schema#material> "papier (vezelproduct)" .
+<https://n2t.net/ark:/27023/3ffafe55dc6d1a79604bd5d77e27e7fb> <https://colonialcollections.nl/schema#material> "karton" .
+<https://n2t.net/ark:/27023/3ffafe55dc6d1a79604bd5d77e27e7fb> <https://colonialcollections.nl/schema#material> "cardboard" .
 <https://n2t.net/ark:/27023/3ffafe55dc6d1a79604bd5d77e27e7fb> <https://colonialcollections.nl/schema#creator> "Robert Visser" .
 <https://n2t.net/ark:/27023/3ffafe55dc6d1a79604bd5d77e27e7fb> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/3ffafe55dc6d1a79604bd5d77e27e7fb> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,14 +1,20 @@
 <https://n2t.net/ark:/27023/3fdecd4f472d5527c6fb45b092a523b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3fdecd4f472d5527c6fb45b092a523b4> <https://colonialcollections.nl/schema#identifier> "TM-3597-189" .
 <https://n2t.net/ark:/27023/3fdecd4f472d5527c6fb45b092a523b4> <https://colonialcollections.nl/schema#name> "SPINSTOKJE" .
+<https://n2t.net/ark:/27023/3fdecd4f472d5527c6fb45b092a523b4> <https://colonialcollections.nl/schema#material> "clay" .
+<https://n2t.net/ark:/27023/3fdecd4f472d5527c6fb45b092a523b4> <https://colonialcollections.nl/schema#material> "kleurstof" .
+<https://n2t.net/ark:/27023/3fdecd4f472d5527c6fb45b092a523b4> <https://colonialcollections.nl/schema#material> "wood" .
+<https://n2t.net/ark:/27023/3fdecd4f472d5527c6fb45b092a523b4> <https://colonialcollections.nl/schema#material> "kleurmiddel" .
+<https://n2t.net/ark:/27023/3fdecd4f472d5527c6fb45b092a523b4> <https://colonialcollections.nl/schema#material> "klei" .
+<https://n2t.net/ark:/27023/3fdecd4f472d5527c6fb45b092a523b4> <https://colonialcollections.nl/schema#material> "hout" .
 <https://n2t.net/ark:/27023/3fdecd4f472d5527c6fb45b092a523b4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1966"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/3fdecd4f472d5527c6fb45b092a523b4> <https://colonialcollections.nl/schema#locationCreated> "Ecuador" .
 <https://n2t.net/ark:/27023/3fdecd4f472d5527c6fb45b092a523b4> <https://colonialcollections.nl/schema#countryCreated> "Ecuador" .
-<https://n2t.net/ark:/27023/3fdecd4f472d5527c6fb45b092a523b4> <https://colonialcollections.nl/schema#alternateName> "Ê-cu-a-đo"@vi .
-<https://n2t.net/ark:/27023/3fdecd4f472d5527c6fb45b092a523b4> <https://colonialcollections.nl/schema#alternateName> "Ecuador"@nn .
 <https://n2t.net/ark:/27023/3fdecd4f472d5527c6fb45b092a523b4> <https://colonialcollections.nl/schema#alternateName> "אקוואדור"@he .
-<https://n2t.net/ark:/27023/3fdecd4f472d5527c6fb45b092a523b4> <https://colonialcollections.nl/schema#alternateName> "اكوادور"@ar .
-<https://n2t.net/ark:/27023/3fdecd4f472d5527c6fb45b092a523b4> <https://colonialcollections.nl/schema#alternateName> "República del Ecuador"@es .
+<https://n2t.net/ark:/27023/3fdecd4f472d5527c6fb45b092a523b4> <https://colonialcollections.nl/schema#alternateName> "Ecuador"@nn .
 <https://n2t.net/ark:/27023/3fdecd4f472d5527c6fb45b092a523b4> <https://colonialcollections.nl/schema#alternateName> "Republic of Ecuador"@en .
+<https://n2t.net/ark:/27023/3fdecd4f472d5527c6fb45b092a523b4> <https://colonialcollections.nl/schema#alternateName> "República del Ecuador"@es .
+<https://n2t.net/ark:/27023/3fdecd4f472d5527c6fb45b092a523b4> <https://colonialcollections.nl/schema#alternateName> "اكوادور"@ar .
 <https://n2t.net/ark:/27023/3fdecd4f472d5527c6fb45b092a523b4> <https://colonialcollections.nl/schema#alternateName> "ইকোয়াডর"@bn .
+<https://n2t.net/ark:/27023/3fdecd4f472d5527c6fb45b092a523b4> <https://colonialcollections.nl/schema#alternateName> "Ê-cu-a-đo"@vi .
 <https://n2t.net/ark:/27023/3fdecd4f472d5527c6fb45b092a523b4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
