@@ -8,8 +8,7 @@ WHERE {
     SELECT ?this
     WHERE {
       ?this a crm:E22_Human-Made_Object ;
-        # FIXME: dataset is not correct
-        la:member_of <https://colonial-heritage.triply.cc/nmvw/collection-archives> .
+        la:member_of <https://data.colonialcollections.nl/nmvw/collection-archives> .
     }
   }
 }
