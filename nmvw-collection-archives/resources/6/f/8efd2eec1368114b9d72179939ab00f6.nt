@@ -1,7 +1,10 @@
 <https://n2t.net/ark:/27023/e90ca6e50a6ed53c16c45abe441c5fc3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e90ca6e50a6ed53c16c45abe441c5fc3> <https://colonialcollections.nl/schema#identifier> "RV-451-8" .
 <https://n2t.net/ark:/27023/e90ca6e50a6ed53c16c45abe441c5fc3> <https://colonialcollections.nl/schema#name> "SCHOEN" .
-<https://n2t.net/ark:/27023/e90ca6e50a6ed53c16c45abe441c5fc3> <https://colonialcollections.nl/schema#material> "huid, rendierhuid" .
+<https://n2t.net/ark:/27023/e90ca6e50a6ed53c16c45abe441c5fc3> <https://colonialcollections.nl/schema#material> "huid (zoogdieren)" .
+<https://n2t.net/ark:/27023/e90ca6e50a6ed53c16c45abe441c5fc3> <https://colonialcollections.nl/schema#material> "huid : huid, rendierhuid" .
+<https://n2t.net/ark:/27023/e90ca6e50a6ed53c16c45abe441c5fc3> <https://colonialcollections.nl/schema#material> "huid" .
+<https://n2t.net/ark:/27023/e90ca6e50a6ed53c16c45abe441c5fc3> <https://colonialcollections.nl/schema#material> "zoogdierenhuid" .
 <https://n2t.net/ark:/27023/e90ca6e50a6ed53c16c45abe441c5fc3> <https://colonialcollections.nl/schema#yearCreatedStart> "1820"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/e90ca6e50a6ed53c16c45abe441c5fc3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/e90ca6e50a6ed53c16c45abe441c5fc3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
