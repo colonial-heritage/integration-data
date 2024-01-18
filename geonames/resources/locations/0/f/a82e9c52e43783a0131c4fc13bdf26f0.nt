@@ -1,0 +1,32 @@
+<https://sws.geonames.org/128508/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/128508/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/128508/about.rdf> .
+<https://sws.geonames.org/128508/> <http://www.geonames.org/ontology#name> "Rūdkhāneh-ye Kārūn" .
+<https://sws.geonames.org/128508/> <http://www.geonames.org/ontology#alternateName> "Karūn"@fa .
+<https://sws.geonames.org/128508/> <http://www.geonames.org/ontology#alternateName> "Karūn" .
+<https://sws.geonames.org/128508/> <http://www.geonames.org/ontology#alternateName> "Karūn Rūd"@fa .
+<https://sws.geonames.org/128508/> <http://www.geonames.org/ontology#alternateName> "Karūn Rūd" .
+<https://sws.geonames.org/128508/> <http://www.geonames.org/ontology#alternateName> "Rūd-e Kārūn"@fa .
+<https://sws.geonames.org/128508/> <http://www.geonames.org/ontology#alternateName> "Rūdkhāneh-ye Kārūn" .
+<https://sws.geonames.org/128508/> <http://www.geonames.org/ontology#alternateName> "رودخانه کارون"@fa .
+<https://sws.geonames.org/128508/> <http://www.geonames.org/ontology#alternateName> "رود کارون"@fa .
+<https://sws.geonames.org/128508/> <http://www.geonames.org/ontology#alternateName> "كَرون"@fa .
+<https://sws.geonames.org/128508/> <http://www.geonames.org/ontology#alternateName> "كَرون رود"@fa .
+<https://sws.geonames.org/128508/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#H> .
+<https://sws.geonames.org/128508/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#H.STM> .
+<https://sws.geonames.org/128508/> <http://www.geonames.org/ontology#countryCode> "IR" .
+<https://sws.geonames.org/128508/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "30.42784" .
+<https://sws.geonames.org/128508/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "48.16588" .
+<https://sws.geonames.org/128508/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/127082/> .
+<https://sws.geonames.org/128508/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/130758/> .
+<https://sws.geonames.org/128508/> <http://www.geonames.org/ontology#parentADM1> <https://sws.geonames.org/127082/> .
+<https://sws.geonames.org/128508/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/128508/nearby.rdf> .
+<https://sws.geonames.org/128508/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/128508/rudkhaneh-ye-karun.html> .
+<https://sws.geonames.org/128508/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Karun> .
+<https://sws.geonames.org/128508/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Karun> .
+<https://sws.geonames.org/128508/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/128508/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/128508/> .
+<https://sws.geonames.org/128508/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/128508/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/128508/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/128508/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/128508/about.rdf> <http://purl.org/dc/terms/modified> "2012-07-04"^^<https://www.w3.org/2001/XMLSchema#date> .
