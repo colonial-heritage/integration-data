@@ -152,9 +152,7 @@ WHERE {
   # Part of dataset
   ####################
 
-  # FIXME: dataset is not correct
-  BIND(<https://data.colonialcollections.nl/nmvw/collection-archives> AS ?dataset)
-  # ?this la:member_of ?dataset .
+  ?this la:member_of ?dataset .
 
   ####################
   # Publisher of dataset
