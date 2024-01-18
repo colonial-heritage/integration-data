@@ -1,7 +1,12 @@
 <https://n2t.net/ark:/27023/24e1b70208602c2bb72f2f9e5a12e85c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/24e1b70208602c2bb72f2f9e5a12e85c> <https://colonialcollections.nl/schema#identifier> "RV-1353-706a" .
 <https://n2t.net/ark:/27023/24e1b70208602c2bb72f2f9e5a12e85c> <https://colonialcollections.nl/schema#description> "De akteur Nakamura Shikan II (1798-1852; 1825-35) in de rol van Miyamoto Musashi, in een opvoering van het stuk Katakiuchi nito eiyuki, III/1835 in het Kado Theater." .
-<https://n2t.net/ark:/27023/24e1b70208602c2bb72f2f9e5a12e85c> <https://colonialcollections.nl/schema#material> "papier ; inkt ; pigmenten ; drukwerk ; houtsnede ; kleurenhoutsnede (nishikie)" .
+<https://n2t.net/ark:/27023/24e1b70208602c2bb72f2f9e5a12e85c> <https://colonialcollections.nl/schema#material> "papier (vezelproduct)" .
+<https://n2t.net/ark:/27023/24e1b70208602c2bb72f2f9e5a12e85c> <https://colonialcollections.nl/schema#material> "pigment" .
+<https://n2t.net/ark:/27023/24e1b70208602c2bb72f2f9e5a12e85c> <https://colonialcollections.nl/schema#material> "vezelstof : papier" .
+<https://n2t.net/ark:/27023/24e1b70208602c2bb72f2f9e5a12e85c> <https://colonialcollections.nl/schema#material> "inkt" .
+<https://n2t.net/ark:/27023/24e1b70208602c2bb72f2f9e5a12e85c> <https://colonialcollections.nl/schema#material> "vezelstof" .
+<https://n2t.net/ark:/27023/24e1b70208602c2bb72f2f9e5a12e85c> <https://colonialcollections.nl/schema#material> "ink" .
 <https://n2t.net/ark:/27023/24e1b70208602c2bb72f2f9e5a12e85c> <https://colonialcollections.nl/schema#creator> "Shunkôsai Hokuei" .
 <https://n2t.net/ark:/27023/24e1b70208602c2bb72f2f9e5a12e85c> <https://colonialcollections.nl/schema#yearCreatedStart> "1835"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/24e1b70208602c2bb72f2f9e5a12e85c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1835"^^<http://www.w3.org/2001/XMLSchema#integer> .
