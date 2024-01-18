@@ -1,4 +1,5 @@
-PREFIX schema: <https://schema.org/>
+PREFIX crm: <http://www.cidoc-crm.org/cidoc-crm/>
+PREFIX la: <https://linked.art/ns/terms/>
 
 # Use a 'scrollable cursor' - https://vos.openlinksw.com/owiki/wiki/VOS/VirtTipsAndTricksHowToHandleBandwidthLimitExceed
 SELECT *
@@ -6,9 +7,8 @@ WHERE {
   {
     SELECT ?this
     WHERE {
-      ?this a schema:Person ;
-        # FIXME: dataset is not correct
-        schema:isPartOf <https://colonial-heritage.triply.cc/Bronbeek/Stamboeken> .
+      ?this a crm:E21_Person ;
+        la:member_of <https://data.colonialcollections.nl/Bronbeek/Stamboeken> .
     }
   }
 }

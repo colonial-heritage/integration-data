@@ -3,7 +3,8 @@
 ###############################
 
 PREFIX cc: <https://colonialcollections.nl/schema#> # Internal ontology
-PREFIX pnv: <https://w3id.org/pnv#>
+PREFIX crm: <http://www.cidoc-crm.org/cidoc-crm/>
+PREFIX la: <https://linked.art/ns/terms/>
 PREFIX schema: <https://schema.org/>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
@@ -16,39 +17,38 @@ CONSTRUCT {
     cc:deathPlace ?deathPlaceName ;
     cc:deathDate ?deathDate ;
     cc:deathYear ?deathYear ;
-    cc:isPartOf ?datasetName ;
+    cc:isPartOf ?datasetName ; # TBD: remove from search graph?
     cc:publisher ?publisherName .
 }
 WHERE {
   BIND(?_iri AS ?this)
 
-  ?this a schema:Person .
-
   ####################
   # Name
   ####################
 
-  ?this pnv:hasName/pnv:literalName ?name .
+  OPTIONAL {
+    ?this crm:P1_is_identified_by [
+      a crm:E33_E41_Linguistic_Appellation ;
+      crm:P2_has_type <http://vocab.getty.edu/aat/300404650> ; # Name
+      crm:P190_has_symbolic_content ?name
+    ] .
+  }
 
   ####################
   # Birth place
   ####################
 
   OPTIONAL {
-    ?this schema:birthPlace ?birthPlace .
-    ?birthPlace schema:name ?birthPlaceName .
+    ?this crm:P98i_was_born/crm:P7_took_place_at/crm:P1_is_identified_by/crm:P190_has_symbolic_content ?birthPlaceName .
   }
 
   ####################
-  # Birth date
+  # Birth date (earliest known)
   ####################
 
   OPTIONAL {
-    ?this schema:birthDate ?birthDate .
-    # Ignore invalid dates - TBD: should we do this?
-    FILTER(DATATYPE(?birthDate) = xsd:date || DATATYPE(?birthDate) = xsd:gYear || DATATYPE(?birthDate) = xsd:gYearMonth)
-    # Values can have an xsd date type but not be a valid date (!) - ignore these
-    FILTER(COALESCE(xsd:date(STR(?birthDate)), '!') != '!')
+    ?this crm:P98i_was_born/crm:P4_has_time-span/crm:P82a_begin_of_the_begin ?birthDate .
   }
 
   ####################
@@ -62,20 +62,15 @@ WHERE {
   ####################
 
   OPTIONAL {
-    ?this schema:deathPlace ?deathPlace .
-    ?deathPlace schema:name ?deathPlaceName .
+    ?this crm:P100i_died_in/crm:P7_took_place_at/crm:P1_is_identified_by/crm:P190_has_symbolic_content ?deathPlaceName .
   }
 
   ####################
-  # Death date
+  # Death date (earliest date)
   ####################
 
   OPTIONAL {
-    ?this schema:deathDate ?deathDate .
-    # Ignore invalid dates - TBD: should we do this?
-    FILTER(DATATYPE(?deathDate) = xsd:date || DATATYPE(?deathDate) = xsd:gYear || DATATYPE(?deathDate) = xsd:gYearMonth)
-    # Values can have an xsd date type but not be a valid date (!) - ignore these
-    FILTER(COALESCE(xsd:date(STR(?deathDate)), '!') != '!')
+    ?this crm:P100i_died_in/crm:P4_has_time-span/crm:P82a_begin_of_the_begin ?deathDate .
   }
 
   ####################
@@ -88,9 +83,7 @@ WHERE {
   # Part of dataset
   ####################
 
-  # FIXME: dataset is not correct
-  BIND(<https://data.colonialcollections.nl/Bronbeek/Stamboeken> AS ?dataset)
-  # ?this schema:isPartOf ?dataset .
+  ?this la:member_of ?dataset .
 
   OPTIONAL {
     ?dataset schema:name ?datasetName
