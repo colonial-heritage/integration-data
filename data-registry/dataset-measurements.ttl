@@ -144,6 +144,7 @@ cc-measurements:e1627408-2941-47e8-a495-c3002bc28636
   dqv:isMeasurementOf cc-metrics:open-format ;
   dqv:value "true"^^xsd:boolean .
 
+
 cc-measurements:06c06df2-b809-4cd7-ae7e-36b711345dc5
   a dqv:QualityMeasurement ;
   dqv:computedOn <https://data.colonialcollections.nl/Bronbeek/Stamboeken/sparql/Stamboeken> ;
