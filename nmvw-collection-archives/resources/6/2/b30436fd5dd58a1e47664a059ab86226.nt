@@ -1,6 +1,13 @@
 <https://n2t.net/ark:/27023/a7a1add99fc7609d32c414094f9fee65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a7a1add99fc7609d32c414094f9fee65> <https://colonialcollections.nl/schema#identifier> "RV-3696-102" .
 <https://n2t.net/ark:/27023/a7a1add99fc7609d32c414094f9fee65> <https://colonialcollections.nl/schema#name> "PIJL" .
-<https://n2t.net/ark:/27023/a7a1add99fc7609d32c414094f9fee65> <https://colonialcollections.nl/schema#material> "hout ; rotan ; schilreep" .
+<https://n2t.net/ark:/27023/a7a1add99fc7609d32c414094f9fee65> <https://colonialcollections.nl/schema#material> "rotan" .
+<https://n2t.net/ark:/27023/a7a1add99fc7609d32c414094f9fee65> <https://colonialcollections.nl/schema#material> "hout" .
+<https://n2t.net/ark:/27023/a7a1add99fc7609d32c414094f9fee65> <https://colonialcollections.nl/schema#material> "wood" .
+<https://n2t.net/ark:/27023/a7a1add99fc7609d32c414094f9fee65> <https://colonialcollections.nl/schema#material> "hout : hout" .
+<https://n2t.net/ark:/27023/a7a1add99fc7609d32c414094f9fee65> <https://colonialcollections.nl/schema#material> "vrucht : schilreep" .
+<https://n2t.net/ark:/27023/a7a1add99fc7609d32c414094f9fee65> <https://colonialcollections.nl/schema#material> "ratan" .
+<https://n2t.net/ark:/27023/a7a1add99fc7609d32c414094f9fee65> <https://colonialcollections.nl/schema#material> "schil (plantaardig materiaal)" .
+<https://n2t.net/ark:/27023/a7a1add99fc7609d32c414094f9fee65> <https://colonialcollections.nl/schema#material> "stengel : rotan" .
 <https://n2t.net/ark:/27023/a7a1add99fc7609d32c414094f9fee65> <https://colonialcollections.nl/schema#yearCreatedEnd> "1960"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/a7a1add99fc7609d32c414094f9fee65> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

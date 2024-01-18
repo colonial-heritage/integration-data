@@ -1,7 +1,11 @@
 <https://n2t.net/ark:/27023/b76f68efe780ecc6424762e7a8373e78> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b76f68efe780ecc6424762e7a8373e78> <https://colonialcollections.nl/schema#identifier> "RV-1-4425" .
 <https://n2t.net/ark:/27023/b76f68efe780ecc6424762e7a8373e78> <https://colonialcollections.nl/schema#name> "Schetsboek in drie delen" .
-<https://n2t.net/ark:/27023/b76f68efe780ecc6424762e7a8373e78> <https://colonialcollections.nl/schema#material> "papier ; inkt" .
+<https://n2t.net/ark:/27023/b76f68efe780ecc6424762e7a8373e78> <https://colonialcollections.nl/schema#material> "papier (vezelproduct)" .
+<https://n2t.net/ark:/27023/b76f68efe780ecc6424762e7a8373e78> <https://colonialcollections.nl/schema#material> "vezelstof : papier" .
+<https://n2t.net/ark:/27023/b76f68efe780ecc6424762e7a8373e78> <https://colonialcollections.nl/schema#material> "vezelstof" .
+<https://n2t.net/ark:/27023/b76f68efe780ecc6424762e7a8373e78> <https://colonialcollections.nl/schema#material> "ink" .
+<https://n2t.net/ark:/27023/b76f68efe780ecc6424762e7a8373e78> <https://colonialcollections.nl/schema#material> "inkt" .
 <https://n2t.net/ark:/27023/b76f68efe780ecc6424762e7a8373e78> <https://colonialcollections.nl/schema#inscription> "I-527" .
 <https://n2t.net/ark:/27023/b76f68efe780ecc6424762e7a8373e78> <https://colonialcollections.nl/schema#creator> "Yamaguchi Soken" .
 <https://n2t.net/ark:/27023/b76f68efe780ecc6424762e7a8373e78> <https://colonialcollections.nl/schema#yearCreatedStart> "1806"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,7 +1,12 @@
 <https://n2t.net/ark:/27023/aa481e211e522fd8394e0eea72133e34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/aa481e211e522fd8394e0eea72133e34> <https://colonialcollections.nl/schema#identifier> "RV-1353-2093" .
 <https://n2t.net/ark:/27023/aa481e211e522fd8394e0eea72133e34> <https://colonialcollections.nl/schema#name> "Prent" .
-<https://n2t.net/ark:/27023/aa481e211e522fd8394e0eea72133e34> <https://colonialcollections.nl/schema#material> "papier ; inkt ; pigmenten ; houtsnede ; kleurenhoutsnede (nishikie)" .
+<https://n2t.net/ark:/27023/aa481e211e522fd8394e0eea72133e34> <https://colonialcollections.nl/schema#material> "vezelstof" .
+<https://n2t.net/ark:/27023/aa481e211e522fd8394e0eea72133e34> <https://colonialcollections.nl/schema#material> "papier (vezelproduct)" .
+<https://n2t.net/ark:/27023/aa481e211e522fd8394e0eea72133e34> <https://colonialcollections.nl/schema#material> "vezelstof : papier" .
+<https://n2t.net/ark:/27023/aa481e211e522fd8394e0eea72133e34> <https://colonialcollections.nl/schema#material> "inkt" .
+<https://n2t.net/ark:/27023/aa481e211e522fd8394e0eea72133e34> <https://colonialcollections.nl/schema#material> "ink" .
+<https://n2t.net/ark:/27023/aa481e211e522fd8394e0eea72133e34> <https://colonialcollections.nl/schema#material> "pigment" .
 <https://n2t.net/ark:/27023/aa481e211e522fd8394e0eea72133e34> <https://colonialcollections.nl/schema#creator> "Utagawa Yoshitsuya" .
 <https://n2t.net/ark:/27023/aa481e211e522fd8394e0eea72133e34> <https://colonialcollections.nl/schema#yearCreatedStart> "1835"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/aa481e211e522fd8394e0eea72133e34> <https://colonialcollections.nl/schema#yearCreatedEnd> "1866"^^<http://www.w3.org/2001/XMLSchema#integer> .
