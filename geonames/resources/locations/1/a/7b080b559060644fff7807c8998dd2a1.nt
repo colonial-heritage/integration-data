@@ -1,0 +1,22 @@
+<https://sws.geonames.org/1273819/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/1273819/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/1273819/about.rdf> .
+<https://sws.geonames.org/1273819/> <http://www.geonames.org/ontology#name> "Coromandel Coast" .
+<https://sws.geonames.org/1273819/> <http://www.geonames.org/ontology#alternateName> "Coromandel Coast" .
+<https://sws.geonames.org/1273819/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#L> .
+<https://sws.geonames.org/1273819/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#L.CST> .
+<https://sws.geonames.org/1273819/> <http://www.geonames.org/ontology#countryCode> "IN" .
+<https://sws.geonames.org/1273819/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.39938" .
+<https://sws.geonames.org/1273819/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "80.34736" .
+<https://sws.geonames.org/1273819/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/1269750/> .
+<https://sws.geonames.org/1273819/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/1269750/> .
+<https://sws.geonames.org/1273819/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/1273819/nearby.rdf> .
+<https://sws.geonames.org/1273819/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/1273819/coromandel-coast.html> .
+<https://sws.geonames.org/1273819/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Coromandel_Coast> .
+<https://sws.geonames.org/1273819/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Coromandel_Coast> .
+<https://sws.geonames.org/1273819/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/1273819/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/1273819/> .
+<https://sws.geonames.org/1273819/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/1273819/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/1273819/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/1273819/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/1273819/about.rdf> <http://purl.org/dc/terms/modified> "2019-02-21"^^<https://www.w3.org/2001/XMLSchema#date> .
