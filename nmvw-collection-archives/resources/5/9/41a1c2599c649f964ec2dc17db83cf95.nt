@@ -1,7 +1,9 @@
 <https://n2t.net/ark:/27023/03e4247cbd8802dd55ebfadb757f05d9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/03e4247cbd8802dd55ebfadb757f05d9> <https://colonialcollections.nl/schema#identifier> "RV-3513-1523" .
 <https://n2t.net/ark:/27023/03e4247cbd8802dd55ebfadb757f05d9> <https://colonialcollections.nl/schema#name> "Tekening" .
-<https://n2t.net/ark:/27023/03e4247cbd8802dd55ebfadb757f05d9> <https://colonialcollections.nl/schema#material> "papier" .
+<https://n2t.net/ark:/27023/03e4247cbd8802dd55ebfadb757f05d9> <https://colonialcollections.nl/schema#material> "papier (vezelproduct)" .
+<https://n2t.net/ark:/27023/03e4247cbd8802dd55ebfadb757f05d9> <https://colonialcollections.nl/schema#material> "vezelstof : papier" .
+<https://n2t.net/ark:/27023/03e4247cbd8802dd55ebfadb757f05d9> <https://colonialcollections.nl/schema#material> "vezelstof" .
 <https://n2t.net/ark:/27023/03e4247cbd8802dd55ebfadb757f05d9> <https://colonialcollections.nl/schema#creator> "Totoya Hokkei" .
 <https://n2t.net/ark:/27023/03e4247cbd8802dd55ebfadb757f05d9> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/03e4247cbd8802dd55ebfadb757f05d9> <https://colonialcollections.nl/schema#yearCreatedEnd> "1848"^^<http://www.w3.org/2001/XMLSchema#integer> .

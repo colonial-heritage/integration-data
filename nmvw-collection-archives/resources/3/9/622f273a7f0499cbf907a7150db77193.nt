@@ -1,7 +1,12 @@
 <https://n2t.net/ark:/27023/0abfc5d7ba5dd8f6d7da5e5bdc1ddda8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0abfc5d7ba5dd8f6d7da5e5bdc1ddda8> <https://colonialcollections.nl/schema#identifier> "RV-1353-1804" .
 <https://n2t.net/ark:/27023/0abfc5d7ba5dd8f6d7da5e5bdc1ddda8> <https://colonialcollections.nl/schema#description> "De acteur Bandô Hikosabûrô als Oyamada Tarô en Matsumoto Kôshirô als Sagami Tsurirô. Houtsnede in 4 kleuren (benizuri-e)." .
-<https://n2t.net/ark:/27023/0abfc5d7ba5dd8f6d7da5e5bdc1ddda8> <https://colonialcollections.nl/schema#material> "papier ; inkt ; pigmenten ; drukwerk ; houtsnede ; kleurenhoutsnede (nishikie)" .
+<https://n2t.net/ark:/27023/0abfc5d7ba5dd8f6d7da5e5bdc1ddda8> <https://colonialcollections.nl/schema#material> "pigment" .
+<https://n2t.net/ark:/27023/0abfc5d7ba5dd8f6d7da5e5bdc1ddda8> <https://colonialcollections.nl/schema#material> "ink" .
+<https://n2t.net/ark:/27023/0abfc5d7ba5dd8f6d7da5e5bdc1ddda8> <https://colonialcollections.nl/schema#material> "vezelstof" .
+<https://n2t.net/ark:/27023/0abfc5d7ba5dd8f6d7da5e5bdc1ddda8> <https://colonialcollections.nl/schema#material> "inkt" .
+<https://n2t.net/ark:/27023/0abfc5d7ba5dd8f6d7da5e5bdc1ddda8> <https://colonialcollections.nl/schema#material> "vezelstof : papier" .
+<https://n2t.net/ark:/27023/0abfc5d7ba5dd8f6d7da5e5bdc1ddda8> <https://colonialcollections.nl/schema#material> "papier (vezelproduct)" .
 <https://n2t.net/ark:/27023/0abfc5d7ba5dd8f6d7da5e5bdc1ddda8> <https://colonialcollections.nl/schema#creator> "Torii Kiyotsune" .
 <https://n2t.net/ark:/27023/0abfc5d7ba5dd8f6d7da5e5bdc1ddda8> <https://colonialcollections.nl/schema#yearCreatedStart> "1755"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0abfc5d7ba5dd8f6d7da5e5bdc1ddda8> <https://colonialcollections.nl/schema#yearCreatedEnd> "1779"^^<http://www.w3.org/2001/XMLSchema#integer> .

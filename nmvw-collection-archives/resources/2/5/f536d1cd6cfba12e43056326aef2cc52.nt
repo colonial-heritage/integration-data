@@ -1,7 +1,11 @@
 <https://n2t.net/ark:/27023/03db69b30ef67b16d3754f8aab25f7a8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/03db69b30ef67b16d3754f8aab25f7a8> <https://colonialcollections.nl/schema#identifier> "RV-1-4361-2" .
 <https://n2t.net/ark:/27023/03db69b30ef67b16d3754f8aab25f7a8> <https://colonialcollections.nl/schema#name> "Prent" .
-<https://n2t.net/ark:/27023/03db69b30ef67b16d3754f8aab25f7a8> <https://colonialcollections.nl/schema#material> "papier ; inkt en pigmenten ; drukwerk (irozuri)" .
+<https://n2t.net/ark:/27023/03db69b30ef67b16d3754f8aab25f7a8> <https://colonialcollections.nl/schema#material> "inkt" .
+<https://n2t.net/ark:/27023/03db69b30ef67b16d3754f8aab25f7a8> <https://colonialcollections.nl/schema#material> "ink" .
+<https://n2t.net/ark:/27023/03db69b30ef67b16d3754f8aab25f7a8> <https://colonialcollections.nl/schema#material> "papier (vezelproduct)" .
+<https://n2t.net/ark:/27023/03db69b30ef67b16d3754f8aab25f7a8> <https://colonialcollections.nl/schema#material> "vezelstof" .
+<https://n2t.net/ark:/27023/03db69b30ef67b16d3754f8aab25f7a8> <https://colonialcollections.nl/schema#material> "vezelstof : papier" .
 <https://n2t.net/ark:/27023/03db69b30ef67b16d3754f8aab25f7a8> <https://colonialcollections.nl/schema#inscription> "I-397" .
 <https://n2t.net/ark:/27023/03db69b30ef67b16d3754f8aab25f7a8> <https://colonialcollections.nl/schema#creator> "Katsukawa Shunsen" .
 <https://n2t.net/ark:/27023/03db69b30ef67b16d3754f8aab25f7a8> <https://colonialcollections.nl/schema#yearCreatedStart> "1808"^^<http://www.w3.org/2001/XMLSchema#integer> .

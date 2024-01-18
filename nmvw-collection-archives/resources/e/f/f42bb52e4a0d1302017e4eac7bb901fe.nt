@@ -1,7 +1,10 @@
 <https://n2t.net/ark:/27023/0bcb85e6bb99ac0fce42f73036370c49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0bcb85e6bb99ac0fce42f73036370c49> <https://colonialcollections.nl/schema#identifier> "RV-2525-266" .
 <https://n2t.net/ark:/27023/0bcb85e6bb99ac0fce42f73036370c49> <https://colonialcollections.nl/schema#description> "Toneelspeler in de rol van een hofdignitaris. (informatie uit archief Meester Rob de Bruin)" .
-<https://n2t.net/ark:/27023/0bcb85e6bb99ac0fce42f73036370c49> <https://colonialcollections.nl/schema#material> "papier ; inkt ; pigmenten ; drukwerk ; houtsnede ; kleurenhoutsnede (nishikie)" .
+<https://n2t.net/ark:/27023/0bcb85e6bb99ac0fce42f73036370c49> <https://colonialcollections.nl/schema#material> "papier (vezelproduct)" .
+<https://n2t.net/ark:/27023/0bcb85e6bb99ac0fce42f73036370c49> <https://colonialcollections.nl/schema#material> "pigment" .
+<https://n2t.net/ark:/27023/0bcb85e6bb99ac0fce42f73036370c49> <https://colonialcollections.nl/schema#material> "inkt" .
+<https://n2t.net/ark:/27023/0bcb85e6bb99ac0fce42f73036370c49> <https://colonialcollections.nl/schema#material> "ink" .
 <https://n2t.net/ark:/27023/0bcb85e6bb99ac0fce42f73036370c49> <https://colonialcollections.nl/schema#creator> "Katsukawa Shun'ei" .
 <https://n2t.net/ark:/27023/0bcb85e6bb99ac0fce42f73036370c49> <https://colonialcollections.nl/schema#yearCreatedStart> "1785"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0bcb85e6bb99ac0fce42f73036370c49> <https://colonialcollections.nl/schema#yearCreatedEnd> "1790"^^<http://www.w3.org/2001/XMLSchema#integer> .
