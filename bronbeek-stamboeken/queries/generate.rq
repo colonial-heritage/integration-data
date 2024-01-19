@@ -30,7 +30,8 @@ WHERE {
   OPTIONAL {
     ?this crm:P1_is_identified_by [
       a crm:E33_E41_Linguistic_Appellation ;
-      crm:P2_has_type <http://vocab.getty.edu/aat/300404650> ; # Name
+      # FIXME: should be 'http'
+      crm:P2_has_type <https://vocab.getty.edu/aat/300404670> ; # Name
       crm:P190_has_symbolic_content ?name
     ] .
   }
@@ -49,6 +50,10 @@ WHERE {
 
   OPTIONAL {
     ?this crm:P98i_was_born/crm:P4_has_time-span/crm:P82a_begin_of_the_begin ?birthDate .
+
+    # Values can have an xsd date type but not be a valid date (!) - ignore these
+    FILTER(DATATYPE(?birthDate) = xsd:date || DATATYPE(?birthDate) = xsd:gYear || DATATYPE(?birthDate) = xsd:gYearMonth)
+    FILTER(COALESCE(xsd:date(STR(?birthDate)), '!') != '!')
   }
 
   ####################
@@ -71,6 +76,10 @@ WHERE {
 
   OPTIONAL {
     ?this crm:P100i_died_in/crm:P4_has_time-span/crm:P82a_begin_of_the_begin ?deathDate .
+
+    # Values can have an xsd date type but not be a valid date (!) - ignore these
+    FILTER(DATATYPE(?deathDate) = xsd:date || DATATYPE(?deathDate) = xsd:gYear || DATATYPE(?deathDate) = xsd:gYearMonth)
+    FILTER(COALESCE(xsd:date(STR(?deathDate)), '!') != '!')
   }
 
   ####################
