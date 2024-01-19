@@ -1,7 +1,10 @@
 <https://n2t.net/ark:/27023/3b33b7553fb0ebae10f7fd4f0550643f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3b33b7553fb0ebae10f7fd4f0550643f> <https://colonialcollections.nl/schema#identifier> "RV-1971-619" .
 <https://n2t.net/ark:/27023/3b33b7553fb0ebae10f7fd4f0550643f> <https://colonialcollections.nl/schema#name> "Oorlogspijl" .
-<https://n2t.net/ark:/27023/3b33b7553fb0ebae10f7fd4f0550643f> <https://colonialcollections.nl/schema#material> "hout, palmhout" .
+<https://n2t.net/ark:/27023/3b33b7553fb0ebae10f7fd4f0550643f> <https://colonialcollections.nl/schema#material> "palmhout" .
+<https://n2t.net/ark:/27023/3b33b7553fb0ebae10f7fd4f0550643f> <https://colonialcollections.nl/schema#material> "hout : hout, palmhout" .
+<https://n2t.net/ark:/27023/3b33b7553fb0ebae10f7fd4f0550643f> <https://colonialcollections.nl/schema#material> "palmen (hout)" .
+<https://n2t.net/ark:/27023/3b33b7553fb0ebae10f7fd4f0550643f> <https://colonialcollections.nl/schema#material> "hout" .
 <https://n2t.net/ark:/27023/3b33b7553fb0ebae10f7fd4f0550643f> <https://colonialcollections.nl/schema#yearCreatedStart> "1919"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/3b33b7553fb0ebae10f7fd4f0550643f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1919"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/3b33b7553fb0ebae10f7fd4f0550643f> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

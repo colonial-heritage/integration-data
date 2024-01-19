@@ -1,6 +1,10 @@
 <https://n2t.net/ark:/27023/c18b3f22719d38e57a9caaa1a0d5beba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c18b3f22719d38e57a9caaa1a0d5beba> <https://colonialcollections.nl/schema#identifier> "WM-29609" .
-<https://n2t.net/ark:/27023/c18b3f22719d38e57a9caaa1a0d5beba> <https://colonialcollections.nl/schema#material> "rendiergewei" .
+<https://n2t.net/ark:/27023/c18b3f22719d38e57a9caaa1a0d5beba> <https://colonialcollections.nl/schema#material> "hertshoorn" .
+<https://n2t.net/ark:/27023/c18b3f22719d38e57a9caaa1a0d5beba> <https://colonialcollections.nl/schema#material> "gewei" .
 <https://n2t.net/ark:/27023/c18b3f22719d38e57a9caaa1a0d5beba> <https://colonialcollections.nl/schema#yearCreatedStart> "1938"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/c18b3f22719d38e57a9caaa1a0d5beba> <https://colonialcollections.nl/schema#yearCreatedEnd> "1938"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/c18b3f22719d38e57a9caaa1a0d5beba> <https://colonialcollections.nl/schema#locationCreated> "Scandinavia" .
+<https://n2t.net/ark:/27023/c18b3f22719d38e57a9caaa1a0d5beba> <https://colonialcollections.nl/schema#alternateName> "Skandinavien"@de .
+<https://n2t.net/ark:/27023/c18b3f22719d38e57a9caaa1a0d5beba> <https://colonialcollections.nl/schema#alternateName> "Scandinavie"@fr .
 <https://n2t.net/ark:/27023/c18b3f22719d38e57a9caaa1a0d5beba> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

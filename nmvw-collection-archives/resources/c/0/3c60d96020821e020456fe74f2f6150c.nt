@@ -1,42 +1,81 @@
 <https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#identifier> "RV-6045-89" .
 <https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#name> "BAMAKO: LA SORTIE DE LA GRAND'MESSE" .
-<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#material> "papier" .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#material> "papier (vezelproduct)" .
 <https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#yearCreatedStart> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#yearCreatedEnd> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#locationCreated> "Europe" .
 <https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#locationCreated> "Mali" .
 <https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#countryCreated> "Mali" .
-<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Mali"@nn .
-<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Mali"@an .
-<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Mali"@tl .
-<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Mali"@nds .
-<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "马里共和国"@zh .
-<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "माली"@sa .
-<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Ma-li"@vi .
-<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Soudanese Republic" .
-<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Mali"@li .
-<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "ประเทศมาลี"@th .
-<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Mali"@hbs .
-<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Malí"@ast .
-<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Sudán Francés" .
-<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Mali"@io .
-<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Mālī"@ks .
-<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Soudan" .
-<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "French Sudan" .
-<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "マリ共和国"@ja .
-<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Mali"@ilo .
-<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Mali"@pam .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Europa"@pl .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Ewrop"@cy .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Republic of Mali" .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Europa"@sv .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Soudan Français" .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "欧洲"@zh .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Europa"@da .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Eurooppa"@fi .
 <https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Mali"@qu .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "マリ共和国"@ja .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Maliyän"@vo .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Malí - Mali"@gl .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "El viejo continente"@es .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Mali"@frp .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Europa"@no .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Europa"@pt .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Eiropa"@lv .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "माली"@sa .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "यूरोप"@hi .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Mali"@ilo .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "أوروبا"@ar .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Eurohpá"@se .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Mali"@an .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "République du Mali"@fr .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Evrópa"@is .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Avrupa"@tr .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Mali"@pam .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Europe"@fr .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Європа"@uk .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Soudan" .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "אירופה"@he .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Еўропа"@be .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Eŭropo"@eo .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Evropa"@cs .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Châu Âu"@vi .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "République du Mali" .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Europa"@eu .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "ยุโรป"@th .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Europa"@nb .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Рашка"@ru .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Mali"@hbs .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Evropa"@bs .
 <https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "République Soudanaise" .
 <https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Mali"@kw .
-<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Maliyän"@vo .
-<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Republic of Mali" .
-<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "République du Mali" .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "an Eoraip"@ga .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "French Sudan" .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Ma-li"@vi .
 <https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Малӣ"@tg .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Malí"@ast .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Европы"@ru .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Mali"@nn .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Europa"@it .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Soudanese Republic" .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Eropa"@id .
 <https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Mali"@oc .
-<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Malí - Mali"@gl .
-<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "République du Mali"@fr .
-<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Soudan Français" .
-<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Mali"@frp .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Mali"@nds .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Mali"@li .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Sudán Francés" .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Europa"@lt .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Europa"@la .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "ประเทศมาลี"@th .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Ewropa"@ku .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Mālī"@ks .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Европа"@bg .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "马里共和国"@zh .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Ευρώπη"@el .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Mali"@io .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Mali"@tl .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "ヨーロッパ"@ja .
+<https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#alternateName> "Európa"@hu .
 <https://n2t.net/ark:/27023/c823da89d4f0f1df7fec7df7ae1dff92> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
