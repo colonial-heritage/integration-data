@@ -1,7 +1,12 @@
 <https://n2t.net/ark:/27023/66f86f3fc2cba2ab5456180c9d4dc9bf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/66f86f3fc2cba2ab5456180c9d4dc9bf> <https://colonialcollections.nl/schema#identifier> "WM-26563" .
 <https://n2t.net/ark:/27023/66f86f3fc2cba2ab5456180c9d4dc9bf> <https://colonialcollections.nl/schema#description> "[ST] bloedgleuf in lemmet\r\n[DE] geometrische florale figuren (1 zijde van schede)" .
-<https://n2t.net/ark:/27023/66f86f3fc2cba2ab5456180c9d4dc9bf> <https://colonialcollections.nl/schema#material> "staal, hout, hoorn, goud, email" .
+<https://n2t.net/ark:/27023/66f86f3fc2cba2ab5456180c9d4dc9bf> <https://colonialcollections.nl/schema#material> "wood" .
+<https://n2t.net/ark:/27023/66f86f3fc2cba2ab5456180c9d4dc9bf> <https://colonialcollections.nl/schema#material> "hout" .
+<https://n2t.net/ark:/27023/66f86f3fc2cba2ab5456180c9d4dc9bf> <https://colonialcollections.nl/schema#material> "hoorn" .
+<https://n2t.net/ark:/27023/66f86f3fc2cba2ab5456180c9d4dc9bf> <https://colonialcollections.nl/schema#material> "horn" .
+<https://n2t.net/ark:/27023/66f86f3fc2cba2ab5456180c9d4dc9bf> <https://colonialcollections.nl/schema#material> "staal" .
+<https://n2t.net/ark:/27023/66f86f3fc2cba2ab5456180c9d4dc9bf> <https://colonialcollections.nl/schema#material> "goud" .
 <https://n2t.net/ark:/27023/66f86f3fc2cba2ab5456180c9d4dc9bf> <https://colonialcollections.nl/schema#yearCreatedStart> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/66f86f3fc2cba2ab5456180c9d4dc9bf> <https://colonialcollections.nl/schema#yearCreatedEnd> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/66f86f3fc2cba2ab5456180c9d4dc9bf> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

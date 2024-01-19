@@ -1,7 +1,9 @@
 <https://n2t.net/ark:/27023/4c3d52920272b7d55e0f7a279cdaae6e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4c3d52920272b7d55e0f7a279cdaae6e> <https://colonialcollections.nl/schema#identifier> "RV-A282-5" .
 <https://n2t.net/ark:/27023/4c3d52920272b7d55e0f7a279cdaae6e> <https://colonialcollections.nl/schema#name> "BEGRAAFPLAATS BIJ SOENGEI TALANG" .
-<https://n2t.net/ark:/27023/4c3d52920272b7d55e0f7a279cdaae6e> <https://colonialcollections.nl/schema#material> "Materiaal: papier ; karton\r\nMontage: op fotokarton geplakt ; op registratiekaart geplakt" .
+<https://n2t.net/ark:/27023/4c3d52920272b7d55e0f7a279cdaae6e> <https://colonialcollections.nl/schema#material> "cardboard" .
+<https://n2t.net/ark:/27023/4c3d52920272b7d55e0f7a279cdaae6e> <https://colonialcollections.nl/schema#material> "karton" .
+<https://n2t.net/ark:/27023/4c3d52920272b7d55e0f7a279cdaae6e> <https://colonialcollections.nl/schema#material> "papier (vezelproduct)" .
 <https://n2t.net/ark:/27023/4c3d52920272b7d55e0f7a279cdaae6e> <https://colonialcollections.nl/schema#creator> "Troostenburg de Bruyn" .
 <https://n2t.net/ark:/27023/4c3d52920272b7d55e0f7a279cdaae6e> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/4c3d52920272b7d55e0f7a279cdaae6e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,7 +1,12 @@
 <https://n2t.net/ark:/27023/58143cf82082dd085dcf588dbfa5176f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/58143cf82082dd085dcf588dbfa5176f> <https://colonialcollections.nl/schema#identifier> "7032-8" .
 <https://n2t.net/ark:/27023/58143cf82082dd085dcf588dbfa5176f> <https://colonialcollections.nl/schema#name> "ZALMSPEER" .
-<https://n2t.net/ark:/27023/58143cf82082dd085dcf588dbfa5176f> <https://colonialcollections.nl/schema#material> "hout ; been ; hoorn (muskusos) ; snijden" .
+<https://n2t.net/ark:/27023/58143cf82082dd085dcf588dbfa5176f> <https://colonialcollections.nl/schema#material> "been" .
+<https://n2t.net/ark:/27023/58143cf82082dd085dcf588dbfa5176f> <https://colonialcollections.nl/schema#material> "wood" .
+<https://n2t.net/ark:/27023/58143cf82082dd085dcf588dbfa5176f> <https://colonialcollections.nl/schema#material> "horn" .
+<https://n2t.net/ark:/27023/58143cf82082dd085dcf588dbfa5176f> <https://colonialcollections.nl/schema#material> "hoorn" .
+<https://n2t.net/ark:/27023/58143cf82082dd085dcf588dbfa5176f> <https://colonialcollections.nl/schema#material> "bone" .
+<https://n2t.net/ark:/27023/58143cf82082dd085dcf588dbfa5176f> <https://colonialcollections.nl/schema#material> "hout" .
 <https://n2t.net/ark:/27023/58143cf82082dd085dcf588dbfa5176f> <https://colonialcollections.nl/schema#creator> "G. (Guy) Kakiarniut" .
 <https://n2t.net/ark:/27023/58143cf82082dd085dcf588dbfa5176f> <https://colonialcollections.nl/schema#yearCreatedStart> "1990"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/58143cf82082dd085dcf588dbfa5176f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1995"^^<http://www.w3.org/2001/XMLSchema#integer> .
