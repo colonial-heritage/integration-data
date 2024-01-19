@@ -1,7 +1,10 @@
 <https://n2t.net/ark:/27023/ba524ae1c3f680fde17bf68651de60d6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ba524ae1c3f680fde17bf68651de60d6> <https://colonialcollections.nl/schema#identifier> "RV-1-4468-543" .
 <https://n2t.net/ark:/27023/ba524ae1c3f680fde17bf68651de60d6> <https://colonialcollections.nl/schema#description> "Geisha staand, op de grond een shamisen. Vgl. ook inv. nr. 1-4468-542, met andere kleuren." .
-<https://n2t.net/ark:/27023/ba524ae1c3f680fde17bf68651de60d6> <https://colonialcollections.nl/schema#material> "papier ; inkt ; pigmenten ; drukwerk ; houtsnede ; kleurenhoutsnede (nishikie)" .
+<https://n2t.net/ark:/27023/ba524ae1c3f680fde17bf68651de60d6> <https://colonialcollections.nl/schema#material> "papier (vezelproduct)" .
+<https://n2t.net/ark:/27023/ba524ae1c3f680fde17bf68651de60d6> <https://colonialcollections.nl/schema#material> "inkt" .
+<https://n2t.net/ark:/27023/ba524ae1c3f680fde17bf68651de60d6> <https://colonialcollections.nl/schema#material> "ink" .
+<https://n2t.net/ark:/27023/ba524ae1c3f680fde17bf68651de60d6> <https://colonialcollections.nl/schema#material> "pigment" .
 <https://n2t.net/ark:/27023/ba524ae1c3f680fde17bf68651de60d6> <https://colonialcollections.nl/schema#creator> "Keisai Eisen" .
 <https://n2t.net/ark:/27023/ba524ae1c3f680fde17bf68651de60d6> <https://colonialcollections.nl/schema#yearCreatedStart> "1811"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/ba524ae1c3f680fde17bf68651de60d6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1826"^^<http://www.w3.org/2001/XMLSchema#integer> .
