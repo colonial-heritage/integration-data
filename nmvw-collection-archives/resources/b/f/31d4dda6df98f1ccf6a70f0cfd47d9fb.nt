@@ -1,8 +1,54 @@
 <https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#identifier> "RV-A116-212" .
 <https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#name> "VERSTEEG IN ZIJN KORJAAL OP DE GONINI" .
-<https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#material> "Materiaal: papier" .
+<https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#material> "papier (vezelproduct)" .
 <https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#creator> "C.H. (Claudius Henricus) de Goeje" .
 <https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#yearCreatedStart> "1903"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1903"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#locationCreated> "Gonini River" .
+<https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#countryCreated> "Suriname" .
+<https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#alternateName> "Surinami"@scn .
+<https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#alternateName> "Xu-ri-nam"@vi .
+<https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#alternateName> "Nederlandsch Guyana" .
+<https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#alternateName> "Suriname"@frp .
+<https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#alternateName> "Surinam"@kw .
+<https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#alternateName> "Suriname"@ms .
+<https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#alternateName> "Dutch Guiana" .
+<https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#alternateName> "Surinän"@vo .
+<https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#alternateName> "Surinam" .
+<https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#alternateName> "Suriname"@tl .
+<https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#alternateName> "Surinam"@ast .
+<https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#alternateName> "Republiek van Suriname" .
+<https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#alternateName> "Surinam"@ilo .
+<https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#alternateName> "Surinam"@sw .
+<https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#alternateName> "Gonini River"@en .
+<https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#alternateName> "蘇利南"@zh .
+<https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#alternateName> "Surinam"@oc .
+<https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#alternateName> "Suriname"@li .
+<https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#alternateName> "ประเทศซูรินาม"@th .
+<https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#alternateName> "Surinam"@an .
+<https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#alternateName> "Gonini Rivier" .
+<https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#alternateName> "Suriname"@se .
+<https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#alternateName> "สุรินัม"@th .
+<https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#alternateName> "Surinam"@io .
+<https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#alternateName> "Surinam"@fr .
+<https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#alternateName> "Netherlands Guiana" .
+<https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#alternateName> "סורינאם"@yi .
+<https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#alternateName> "Suriname"@pam .
+<https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#alternateName> "Surinam"@nn .
+<https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#alternateName> "Surinamia"@la .
+<https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#alternateName> "सुरिनाम"@hi .
+<https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#alternateName> "Surinam"@nds .
+<https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#alternateName> "Republic of Surinam" .
+<https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#alternateName> "சுரிநாம்"@ta .
+<https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#alternateName> "सुरिनाम"@sa .
+<https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#alternateName> "Surinam"@hbs .
+<https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#alternateName> "Republic of Suriname"@en .
+<https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#alternateName> "Nederlandisch Guyana" .
+<https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#alternateName> "De Gonini" .
+<https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#alternateName> "Surinam"@fi .
+<https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#alternateName> "سورينام"@ps .
+<https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#alternateName> "Gonnini Rivier" .
+<https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#alternateName> "Republiek Suriname"@nl .
+<https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#alternateName> "Suriname"@tet .
 <https://n2t.net/ark:/27023/ce4eb7698fc0e28a8e353f59e87a9a9a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

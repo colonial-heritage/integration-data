@@ -1,7 +1,14 @@
 <https://n2t.net/ark:/27023/e0b9201796838e0031ed2b1a2ecc783b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e0b9201796838e0031ed2b1a2ecc783b> <https://colonialcollections.nl/schema#identifier> "RV-1917-259" .
 <https://n2t.net/ark:/27023/e0b9201796838e0031ed2b1a2ecc783b> <https://colonialcollections.nl/schema#name> "PIJL" .
-<https://n2t.net/ark:/27023/e0b9201796838e0031ed2b1a2ecc783b> <https://colonialcollections.nl/schema#material> "bamboe ; riet ; hars" .
+<https://n2t.net/ark:/27023/e0b9201796838e0031ed2b1a2ecc783b> <https://colonialcollections.nl/schema#material> "hars" .
+<https://n2t.net/ark:/27023/e0b9201796838e0031ed2b1a2ecc783b> <https://colonialcollections.nl/schema#material> "gras : bamboe" .
+<https://n2t.net/ark:/27023/e0b9201796838e0031ed2b1a2ecc783b> <https://colonialcollections.nl/schema#material> "gras : riet" .
+<https://n2t.net/ark:/27023/e0b9201796838e0031ed2b1a2ecc783b> <https://colonialcollections.nl/schema#material> "gras" .
+<https://n2t.net/ark:/27023/e0b9201796838e0031ed2b1a2ecc783b> <https://colonialcollections.nl/schema#material> "riet" .
+<https://n2t.net/ark:/27023/e0b9201796838e0031ed2b1a2ecc783b> <https://colonialcollections.nl/schema#material> "bamboe" .
+<https://n2t.net/ark:/27023/e0b9201796838e0031ed2b1a2ecc783b> <https://colonialcollections.nl/schema#material> "bamboo" .
+<https://n2t.net/ark:/27023/e0b9201796838e0031ed2b1a2ecc783b> <https://colonialcollections.nl/schema#material> "hars : hars" .
 <https://n2t.net/ark:/27023/e0b9201796838e0031ed2b1a2ecc783b> <https://colonialcollections.nl/schema#yearCreatedStart> "1915"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/e0b9201796838e0031ed2b1a2ecc783b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1915"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/e0b9201796838e0031ed2b1a2ecc783b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
