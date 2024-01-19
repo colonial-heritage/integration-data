@@ -1,7 +1,13 @@
 <https://n2t.net/ark:/27023/49bb1d00bb26b7f6fbfd83e668405e96> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/49bb1d00bb26b7f6fbfd83e668405e96> <https://colonialcollections.nl/schema#identifier> "WM-5068" .
 <https://n2t.net/ark:/27023/49bb1d00bb26b7f6fbfd83e668405e96> <https://colonialcollections.nl/schema#description> "1 = zwaard\r\n2 = schede\r\n      ([ST] gaten voor draagkoord & vlechtwerkbanden\r\n       [DE] snijwerk : geometrische figuren & bloem)" .
-<https://n2t.net/ark:/27023/49bb1d00bb26b7f6fbfd83e668405e96> <https://colonialcollections.nl/schema#material> "staal, hout, hoorn, rotan (vlechtwerkbanden)" .
+<https://n2t.net/ark:/27023/49bb1d00bb26b7f6fbfd83e668405e96> <https://colonialcollections.nl/schema#material> "ratan" .
+<https://n2t.net/ark:/27023/49bb1d00bb26b7f6fbfd83e668405e96> <https://colonialcollections.nl/schema#material> "wood" .
+<https://n2t.net/ark:/27023/49bb1d00bb26b7f6fbfd83e668405e96> <https://colonialcollections.nl/schema#material> "hoorn" .
+<https://n2t.net/ark:/27023/49bb1d00bb26b7f6fbfd83e668405e96> <https://colonialcollections.nl/schema#material> "horn" .
+<https://n2t.net/ark:/27023/49bb1d00bb26b7f6fbfd83e668405e96> <https://colonialcollections.nl/schema#material> "hout" .
+<https://n2t.net/ark:/27023/49bb1d00bb26b7f6fbfd83e668405e96> <https://colonialcollections.nl/schema#material> "staal" .
+<https://n2t.net/ark:/27023/49bb1d00bb26b7f6fbfd83e668405e96> <https://colonialcollections.nl/schema#material> "rotan" .
 <https://n2t.net/ark:/27023/49bb1d00bb26b7f6fbfd83e668405e96> <https://colonialcollections.nl/schema#inscription> "[T] Poso No. 36 zwaard" .
 <https://n2t.net/ark:/27023/49bb1d00bb26b7f6fbfd83e668405e96> <https://colonialcollections.nl/schema#yearCreatedStart> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/49bb1d00bb26b7f6fbfd83e668405e96> <https://colonialcollections.nl/schema#yearCreatedEnd> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,12 +1,14 @@
 <https://n2t.net/ark:/27023/4e717c55e3547ea8126278b72f35d39f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/4e717c55e3547ea8126278b72f35d39f> <https://colonialcollections.nl/schema#identifier> "WM-940016-6" .
 <https://n2t.net/ark:/27023/4e717c55e3547ea8126278b72f35d39f> <https://colonialcollections.nl/schema#description> "GE : architectuur\r\nHM : [AK] [VS] paard ; [PT] hek" .
-<https://n2t.net/ark:/27023/4e717c55e3547ea8126278b72f35d39f> <https://colonialcollections.nl/schema#material> "papier, inkt\r\ngedrukt" .
+<https://n2t.net/ark:/27023/4e717c55e3547ea8126278b72f35d39f> <https://colonialcollections.nl/schema#material> "papier (vezelproduct)" .
+<https://n2t.net/ark:/27023/4e717c55e3547ea8126278b72f35d39f> <https://colonialcollections.nl/schema#material> "ink" .
+<https://n2t.net/ark:/27023/4e717c55e3547ea8126278b72f35d39f> <https://colonialcollections.nl/schema#material> "inkt" .
 <https://n2t.net/ark:/27023/4e717c55e3547ea8126278b72f35d39f> <https://colonialcollections.nl/schema#inscription> "[T] 6. &\r\n[T] Java. &\r\n[T] WOONHUIZEN DER EUROPEANEN TE BATAVIA.\r\n     MAISONS DES EUR0PÉENS A BATAVIA. &\r\n[T] Uitgegeven bij Frans Buffa en Zonen te Amsterdam" .
-<https://n2t.net/ark:/27023/4e717c55e3547ea8126278b72f35d39f> <https://colonialcollections.nl/schema#creator> "Buffa en Zonen, F." .
 <https://n2t.net/ark:/27023/4e717c55e3547ea8126278b72f35d39f> <https://colonialcollections.nl/schema#creator> "Lauters, P." .
-<https://n2t.net/ark:/27023/4e717c55e3547ea8126278b72f35d39f> <https://colonialcollections.nl/schema#creator> "C.W.M. (Charles William Meredith) van de Velde" .
 <https://n2t.net/ark:/27023/4e717c55e3547ea8126278b72f35d39f> <https://colonialcollections.nl/schema#creator> "Spin & Zoon, C.A." .
+<https://n2t.net/ark:/27023/4e717c55e3547ea8126278b72f35d39f> <https://colonialcollections.nl/schema#creator> "C.W.M. (Charles William Meredith) van de Velde" .
+<https://n2t.net/ark:/27023/4e717c55e3547ea8126278b72f35d39f> <https://colonialcollections.nl/schema#creator> "Buffa en Zonen, F." .
 <https://n2t.net/ark:/27023/4e717c55e3547ea8126278b72f35d39f> <https://colonialcollections.nl/schema#yearCreatedStart> "1838"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/4e717c55e3547ea8126278b72f35d39f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1841"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/4e717c55e3547ea8126278b72f35d39f> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

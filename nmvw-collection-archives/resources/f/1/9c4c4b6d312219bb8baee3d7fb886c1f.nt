@@ -1,11 +1,9 @@
 <https://n2t.net/ark:/27023/205ce2a8d400cddf8fd65d80403074b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/205ce2a8d400cddf8fd65d80403074b1> <https://colonialcollections.nl/schema#identifier> "RV-1327-373" .
 <https://n2t.net/ark:/27023/205ce2a8d400cddf8fd65d80403074b1> <https://colonialcollections.nl/schema#material> "inkt" .
-<https://n2t.net/ark:/27023/205ce2a8d400cddf8fd65d80403074b1> <https://colonialcollections.nl/schema#material> "ink" .
-<https://n2t.net/ark:/27023/205ce2a8d400cddf8fd65d80403074b1> <https://colonialcollections.nl/schema#material> "pigment" .
-<https://n2t.net/ark:/27023/205ce2a8d400cddf8fd65d80403074b1> <https://colonialcollections.nl/schema#material> "vezelstof : papier" .
 <https://n2t.net/ark:/27023/205ce2a8d400cddf8fd65d80403074b1> <https://colonialcollections.nl/schema#material> "papier (vezelproduct)" .
-<https://n2t.net/ark:/27023/205ce2a8d400cddf8fd65d80403074b1> <https://colonialcollections.nl/schema#material> "vezelstof" .
+<https://n2t.net/ark:/27023/205ce2a8d400cddf8fd65d80403074b1> <https://colonialcollections.nl/schema#material> "pigment" .
+<https://n2t.net/ark:/27023/205ce2a8d400cddf8fd65d80403074b1> <https://colonialcollections.nl/schema#material> "ink" .
 <https://n2t.net/ark:/27023/205ce2a8d400cddf8fd65d80403074b1> <https://colonialcollections.nl/schema#creator> "Banmu" .
 <https://n2t.net/ark:/27023/205ce2a8d400cddf8fd65d80403074b1> <https://colonialcollections.nl/schema#yearCreatedStart> "1795"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/205ce2a8d400cddf8fd65d80403074b1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1805"^^<http://www.w3.org/2001/XMLSchema#integer> .
