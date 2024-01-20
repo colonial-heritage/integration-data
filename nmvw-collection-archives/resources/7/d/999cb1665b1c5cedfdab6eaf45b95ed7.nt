@@ -1,25 +1,17 @@
 <https://n2t.net/ark:/27023/9f9ddf77cc927e15e8783f4df3fc8d9b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/9f9ddf77cc927e15e8783f4df3fc8d9b> <https://colonialcollections.nl/schema#identifier> "TM-A-10260" .
 <https://n2t.net/ark:/27023/9f9ddf77cc927e15e8783f4df3fc8d9b> <https://colonialcollections.nl/schema#name> "VUURSTEENGEWEER" .
+<https://n2t.net/ark:/27023/9f9ddf77cc927e15e8783f4df3fc8d9b> <https://colonialcollections.nl/schema#material> "leer" .
+<https://n2t.net/ark:/27023/9f9ddf77cc927e15e8783f4df3fc8d9b> <https://colonialcollections.nl/schema#material> "geelkoper" .
+<https://n2t.net/ark:/27023/9f9ddf77cc927e15e8783f4df3fc8d9b> <https://colonialcollections.nl/schema#material> "wood" .
+<https://n2t.net/ark:/27023/9f9ddf77cc927e15e8783f4df3fc8d9b> <https://colonialcollections.nl/schema#material> "tombak" .
+<https://n2t.net/ark:/27023/9f9ddf77cc927e15e8783f4df3fc8d9b> <https://colonialcollections.nl/schema#material> "hout" .
+<https://n2t.net/ark:/27023/9f9ddf77cc927e15e8783f4df3fc8d9b> <https://colonialcollections.nl/schema#material> "plantenvezel" .
+<https://n2t.net/ark:/27023/9f9ddf77cc927e15e8783f4df3fc8d9b> <https://colonialcollections.nl/schema#material> "leder" .
+<https://n2t.net/ark:/27023/9f9ddf77cc927e15e8783f4df3fc8d9b> <https://colonialcollections.nl/schema#material> "leather" .
+<https://n2t.net/ark:/27023/9f9ddf77cc927e15e8783f4df3fc8d9b> <https://colonialcollections.nl/schema#material> "roodkoper" .
+<https://n2t.net/ark:/27023/9f9ddf77cc927e15e8783f4df3fc8d9b> <https://colonialcollections.nl/schema#material> "ijzer" .
+<https://n2t.net/ark:/27023/9f9ddf77cc927e15e8783f4df3fc8d9b> <https://colonialcollections.nl/schema#material> "messing" .
 <https://n2t.net/ark:/27023/9f9ddf77cc927e15e8783f4df3fc8d9b> <https://colonialcollections.nl/schema#inscription> "Op de kruitkamer: E.L.G. en een 5-puntig sterretje\r\nOp de slotplaat: L & C" .
 <https://n2t.net/ark:/27023/9f9ddf77cc927e15e8783f4df3fc8d9b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/9f9ddf77cc927e15e8783f4df3fc8d9b> <https://colonialcollections.nl/schema#locationCreated> "Tanganyika" .
-<https://n2t.net/ark:/27023/9f9ddf77cc927e15e8783f4df3fc8d9b> <https://colonialcollections.nl/schema#countryCreated> "Zambia" .
-<https://n2t.net/ark:/27023/9f9ddf77cc927e15e8783f4df3fc8d9b> <https://colonialcollections.nl/schema#alternateName> "Northern Rhodesia"@en .
-<https://n2t.net/ark:/27023/9f9ddf77cc927e15e8783f4df3fc8d9b> <https://colonialcollections.nl/schema#alternateName> "Northern Rhodesia" .
-<https://n2t.net/ark:/27023/9f9ddf77cc927e15e8783f4df3fc8d9b> <https://colonialcollections.nl/schema#alternateName> "Zambia"@nn .
-<https://n2t.net/ark:/27023/9f9ddf77cc927e15e8783f4df3fc8d9b> <https://colonialcollections.nl/schema#alternateName> "Republic of Zambia"@en .
-<https://n2t.net/ark:/27023/9f9ddf77cc927e15e8783f4df3fc8d9b> <https://colonialcollections.nl/schema#alternateName> "Rodezja Północna"@pl .
-<https://n2t.net/ark:/27023/9f9ddf77cc927e15e8783f4df3fc8d9b> <https://colonialcollections.nl/schema#alternateName> "北ローデシア"@ja .
-<https://n2t.net/ark:/27023/9f9ddf77cc927e15e8783f4df3fc8d9b> <https://colonialcollections.nl/schema#alternateName> "Zambia" .
-<https://n2t.net/ark:/27023/9f9ddf77cc927e15e8783f4df3fc8d9b> <https://colonialcollections.nl/schema#alternateName> "जाम्बिया"@hi .
-<https://n2t.net/ark:/27023/9f9ddf77cc927e15e8783f4df3fc8d9b> <https://colonialcollections.nl/schema#alternateName> "Lac Tanganyika"@fr .
-<https://n2t.net/ark:/27023/9f9ddf77cc927e15e8783f4df3fc8d9b> <https://colonialcollections.nl/schema#alternateName> "Lac Tanganika" .
-<https://n2t.net/ark:/27023/9f9ddf77cc927e15e8783f4df3fc8d9b> <https://colonialcollections.nl/schema#alternateName> "Dăm-bi-a"@vi .
-<https://n2t.net/ark:/27023/9f9ddf77cc927e15e8783f4df3fc8d9b> <https://colonialcollections.nl/schema#alternateName> "Norður-Ródesía"@is .
-<https://n2t.net/ark:/27023/9f9ddf77cc927e15e8783f4df3fc8d9b> <https://colonialcollections.nl/schema#alternateName> "Nordrhodesien"@de .
-<https://n2t.net/ark:/27023/9f9ddf77cc927e15e8783f4df3fc8d9b> <https://colonialcollections.nl/schema#alternateName> "Тангањика"@sr .
-<https://n2t.net/ark:/27023/9f9ddf77cc927e15e8783f4df3fc8d9b> <https://colonialcollections.nl/schema#alternateName> "Tanganyka Meer" .
-<https://n2t.net/ark:/27023/9f9ddf77cc927e15e8783f4df3fc8d9b> <https://colonialcollections.nl/schema#alternateName> "Tanganjika"@hr .
-<https://n2t.net/ark:/27023/9f9ddf77cc927e15e8783f4df3fc8d9b> <https://colonialcollections.nl/schema#alternateName> "Tanganjika See"@de .
 <https://n2t.net/ark:/27023/9f9ddf77cc927e15e8783f4df3fc8d9b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

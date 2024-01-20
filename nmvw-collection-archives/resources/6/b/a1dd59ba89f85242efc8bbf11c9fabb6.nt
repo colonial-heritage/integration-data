@@ -1,6 +1,9 @@
 <https://n2t.net/ark:/27023/8542024018f4c6034d4f486f4562eab2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8542024018f4c6034d4f486f4562eab2> <https://colonialcollections.nl/schema#identifier> "RV-1455-55b" .
-<https://n2t.net/ark:/27023/8542024018f4c6034d4f486f4562eab2> <https://colonialcollections.nl/schema#material> "papier ; inkt ; pigmenten ; drukwerk ; houtsnede ; kleurenhoutsnede (nishikie)" .
+<https://n2t.net/ark:/27023/8542024018f4c6034d4f486f4562eab2> <https://colonialcollections.nl/schema#material> "pigment" .
+<https://n2t.net/ark:/27023/8542024018f4c6034d4f486f4562eab2> <https://colonialcollections.nl/schema#material> "ink" .
+<https://n2t.net/ark:/27023/8542024018f4c6034d4f486f4562eab2> <https://colonialcollections.nl/schema#material> "papier (vezelproduct)" .
+<https://n2t.net/ark:/27023/8542024018f4c6034d4f486f4562eab2> <https://colonialcollections.nl/schema#material> "inkt" .
 <https://n2t.net/ark:/27023/8542024018f4c6034d4f486f4562eab2> <https://colonialcollections.nl/schema#creator> "Utagawa Kunisada" .
 <https://n2t.net/ark:/27023/8542024018f4c6034d4f486f4562eab2> <https://colonialcollections.nl/schema#yearCreatedStart> "1807"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/8542024018f4c6034d4f486f4562eab2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1865"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,7 +1,85 @@
 <https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#identifier> "RV-5899-354" .
 <https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#description> "Lapje ikat-weefsel, gecomplete breedte, vnl. in rood, geel, groen, zwart, wit." .
-<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#material> "zijde ;  geverfd met garen-afbindtechniek 'ikat' ;  machinaal geweven (satijnbinding)" .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#material> "zijde (textiel)" .
 <https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#yearCreatedEnd> "1996"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#locationCreated> "Samarkand" .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#countryCreated> "Uzbekistan" .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "उजबेकिस्तान"@hi .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Samarqand"@uz .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Uzbekistan"@hbs .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Uzbecia"@la .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Oesbekistan"@li .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Ŭzbekiston Respublikasi"@uz .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Uzbekistán"@ast .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "उजबेकिस्थान"@sa .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Samarcanda"@pt .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "סמרקנד"@he .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "უზბაკეთი"@ka .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Wsbecistan"@cy .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Ozbequistan"@oc .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Pow Ousbek"@kw .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Samarkandas"@lt .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Узбэкістан"@be .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "سمرقند"@ar .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Samarkand"@nn .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Uzbek Soviet Socialist Republic" .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Uzbequistán"@gl .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Samarkand"@is .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "سمرقند"@fa .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Samarkand"@sl .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Ուզբեկիստան"@hy .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Uzbekistan"@tl .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Samarcanda"@es .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Semerqend"@ug .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Samarkand"@da .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Samarkanda"@es .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "উজ্বেকিস্থান"@bn .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Uzbekistán"@an .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Uzbekskaya Sovetskaya Sotsialisticheskaya Respublika" .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Ӳспекстан"@cv .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Самарканд"@ru .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Republic of Uzbekistan"@en .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Samarkand"@nl .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Samarqand"@de .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Samarkand"@en .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "사마르칸트"@ko .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Usbekistan"@nds .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Lusbekän"@vo .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "撒马尔罕"@zh .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Usbekistan"@id .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Samarkand"@fi .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Samarkand"@sv .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Uzbekistan"@pam .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Semerkant"@tr .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Samarkand"@no .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Ӯзбакистон"@tg .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Uzbekistani"@sq .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Самарканд"@bg .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Samarcande"@fr .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Ozbèquistan"@frp .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "אוזבעקיסטאן"@yi .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Samarkando"@eo .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Самарканд"@sr .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Samarkand" .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Uzbekija"@lt .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "ประเทศอุซเบกิสถาน"@th .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "ازبكستان"@ar .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Uzbekistan"@hsb .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Узбекістан"@uk .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Samarqand" .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "L’Uzbekistan"@ca .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Samarkand"@id .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "U-dơ-bê-ki-xtan"@vi .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Uzbekio"@eo .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "אוזבקיסטאן"@he .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Usbekistan"@nn .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Uzbekistan"@io .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Samarcanda"@it .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Ouzbekistan"@ht .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "撒馬爾罕"@zh .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Samarkand"@ro .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "Samarkanda"@pl .
+<https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#alternateName> "サマルカンド"@ja .
 <https://n2t.net/ark:/27023/9f0a976ff1b3a933d00d94d4d2b55e15> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
