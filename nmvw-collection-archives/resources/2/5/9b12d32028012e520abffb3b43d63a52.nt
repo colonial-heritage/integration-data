@@ -1,7 +1,9 @@
 <https://n2t.net/ark:/27023/bf409d700a88ec8f1151e35f05b90336> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/bf409d700a88ec8f1151e35f05b90336> <https://colonialcollections.nl/schema#identifier> "RV-A294-12" .
 <https://n2t.net/ark:/27023/bf409d700a88ec8f1151e35f05b90336> <https://colonialcollections.nl/schema#name> "Gezicht op een handelspost" .
-<https://n2t.net/ark:/27023/bf409d700a88ec8f1151e35f05b90336> <https://colonialcollections.nl/schema#material> "Materiaal: papier ; karton\r\nTechniek: fotomechanische druk\r\nMontage: op registratiekaart geplakt" .
+<https://n2t.net/ark:/27023/bf409d700a88ec8f1151e35f05b90336> <https://colonialcollections.nl/schema#material> "karton" .
+<https://n2t.net/ark:/27023/bf409d700a88ec8f1151e35f05b90336> <https://colonialcollections.nl/schema#material> "cardboard" .
+<https://n2t.net/ark:/27023/bf409d700a88ec8f1151e35f05b90336> <https://colonialcollections.nl/schema#material> "papier (vezelproduct)" .
 <https://n2t.net/ark:/27023/bf409d700a88ec8f1151e35f05b90336> <https://colonialcollections.nl/schema#creator> "Robert Visser" .
 <https://n2t.net/ark:/27023/bf409d700a88ec8f1151e35f05b90336> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/bf409d700a88ec8f1151e35f05b90336> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .

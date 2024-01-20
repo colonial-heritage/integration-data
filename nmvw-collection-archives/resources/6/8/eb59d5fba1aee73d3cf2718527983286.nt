@@ -1,7 +1,9 @@
 <https://n2t.net/ark:/27023/9429406dab5622522e4725c3e34a8edb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/9429406dab5622522e4725c3e34a8edb> <https://colonialcollections.nl/schema#identifier> "RV-A15-3" .
 <https://n2t.net/ark:/27023/9429406dab5622522e4725c3e34a8edb> <https://colonialcollections.nl/schema#name> "OPSTELLING VAN SIERADEN GEDRAGEN DOOR LEDEN VAN DE NGUNI-STAM" .
-<https://n2t.net/ark:/27023/9429406dab5622522e4725c3e34a8edb> <https://colonialcollections.nl/schema#material> "Materiaal: papier ; karton\r\nTechniek: albuminedruk\r\nMontage: op karton geplakt ; beschrijving op achterzijde geplakt" .
+<https://n2t.net/ark:/27023/9429406dab5622522e4725c3e34a8edb> <https://colonialcollections.nl/schema#material> "karton" .
+<https://n2t.net/ark:/27023/9429406dab5622522e4725c3e34a8edb> <https://colonialcollections.nl/schema#material> "papier (vezelproduct)" .
+<https://n2t.net/ark:/27023/9429406dab5622522e4725c3e34a8edb> <https://colonialcollections.nl/schema#material> "cardboard" .
 <https://n2t.net/ark:/27023/9429406dab5622522e4725c3e34a8edb> <https://colonialcollections.nl/schema#creator> "Trappisten Missie Mariannhill" .
 <https://n2t.net/ark:/27023/9429406dab5622522e4725c3e34a8edb> <https://colonialcollections.nl/schema#yearCreatedStart> "1896"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/9429406dab5622522e4725c3e34a8edb> <https://colonialcollections.nl/schema#yearCreatedEnd> "1896"^^<http://www.w3.org/2001/XMLSchema#integer> .

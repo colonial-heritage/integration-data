@@ -1,7 +1,9 @@
 <https://n2t.net/ark:/27023/940ffc42538afab0e71fed3898cf3bf3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/940ffc42538afab0e71fed3898cf3bf3> <https://colonialcollections.nl/schema#identifier> "RV-A124-1-11" .
 <https://n2t.net/ark:/27023/940ffc42538afab0e71fed3898cf3bf3> <https://colonialcollections.nl/schema#name> "STRAATGEZICHT VAN EEN VAN DE HOOGST GELEGEN DORPEN OP HET DIENG PLATEAU OP JAVA" .
-<https://n2t.net/ark:/27023/940ffc42538afab0e71fed3898cf3bf3> <https://colonialcollections.nl/schema#material> "Materiaal: papier ; karton\r\nTechniek: daglicht gelatine zilverdruk\r\nMontage: op fotograaf-karton geplakt" .
+<https://n2t.net/ark:/27023/940ffc42538afab0e71fed3898cf3bf3> <https://colonialcollections.nl/schema#material> "karton" .
+<https://n2t.net/ark:/27023/940ffc42538afab0e71fed3898cf3bf3> <https://colonialcollections.nl/schema#material> "papier (vezelproduct)" .
+<https://n2t.net/ark:/27023/940ffc42538afab0e71fed3898cf3bf3> <https://colonialcollections.nl/schema#material> "cardboard" .
 <https://n2t.net/ark:/27023/940ffc42538afab0e71fed3898cf3bf3> <https://colonialcollections.nl/schema#creator> "Fotografisch Atelier O. Hisgen & Co. NV" .
 <https://n2t.net/ark:/27023/940ffc42538afab0e71fed3898cf3bf3> <https://colonialcollections.nl/schema#yearCreatedStart> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/940ffc42538afab0e71fed3898cf3bf3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .
