@@ -1,7 +1,11 @@
 <https://n2t.net/ark:/27023/78512f7957bbdb53d056437c264a8a76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/78512f7957bbdb53d056437c264a8a76> <https://colonialcollections.nl/schema#identifier> "WM-8" .
 <https://n2t.net/ark:/27023/78512f7957bbdb53d056437c264a8a76> <https://colonialcollections.nl/schema#description> "[ST] dak (afneembaar)\r\n[DE] touw & houtstukjes" .
-<https://n2t.net/ark:/27023/78512f7957bbdb53d056437c264a8a76> <https://colonialcollections.nl/schema#material> "kokosnoot, hout, bamboe" .
+<https://n2t.net/ark:/27023/78512f7957bbdb53d056437c264a8a76> <https://colonialcollections.nl/schema#material> "kokosnoot" .
+<https://n2t.net/ark:/27023/78512f7957bbdb53d056437c264a8a76> <https://colonialcollections.nl/schema#material> "bamboo" .
+<https://n2t.net/ark:/27023/78512f7957bbdb53d056437c264a8a76> <https://colonialcollections.nl/schema#material> "hout" .
+<https://n2t.net/ark:/27023/78512f7957bbdb53d056437c264a8a76> <https://colonialcollections.nl/schema#material> "wood" .
+<https://n2t.net/ark:/27023/78512f7957bbdb53d056437c264a8a76> <https://colonialcollections.nl/schema#material> "bamboe" .
 <https://n2t.net/ark:/27023/78512f7957bbdb53d056437c264a8a76> <https://colonialcollections.nl/schema#yearCreatedStart> "1884"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/78512f7957bbdb53d056437c264a8a76> <https://colonialcollections.nl/schema#yearCreatedEnd> "1884"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/78512f7957bbdb53d056437c264a8a76> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

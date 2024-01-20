@@ -1,77 +1,8 @@
 <https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#identifier> "TM-4706-11" .
 <https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#name> "VROUWENHOED" .
+<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#material> "cotton" .
+<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#material> "wol (haar)" .
+<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#material> "katoen" .
 <https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#yearCreatedEnd> "1981"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#locationCreated> "Puno" .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#countryCreated> "Peru" .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Peru"@pam .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Perù"@co .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Piruw"@ay .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Puno Jach’a Suyu"@ay .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "पेरु"@sa .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Peruvän"@vo .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Departemento de Puno"@eo .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Punu jacha suyu"@ay .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Peru"@ilo .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Peru"@hbs .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Пэру"@be .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Пуно"@mk .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Перу"@cv .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Piruw"@qu .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "プーノ県"@ja .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Incatlān"@nah .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Punu Suyu"@qu .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Pēru"@ks .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Puno-regionen"@nn .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Pê-ru"@vi .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Puno" .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "পিরু"@bn .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Pèrou"@frp .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Région de Puno"@fr .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Republic of Peru"@en .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "El Perú" .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "პუნო"@ka .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Region Puno"@pl .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Пуно"@ru .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Пуно"@bg .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Peru"@io .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Perou"@kw .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "República del Perú"@es .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Perú"@ast .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Puno departamentas"@lt .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Peruja"@sq .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Regió de Puno"@ca .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Region Puno"@id .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Пуно"@uk .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Peru"@tl .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "República del Perú" .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Punu suyu"@qu .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Peru"@rmy .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Perú"@gl .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "普诺大区"@zh .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Región de Puno" .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "پيرو"@ps .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Peruvia"@la .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Puno Department"@en .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Pérou" .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Рэгіён Пуна"@be .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Regio Punensis"@la .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "แคว้นปูโน"@th .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "ประเทศเปรู"@th .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Peru"@nds .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Perú"@an .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Punon alue"@fi .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Perù"@scn .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Perú"@tet .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Departamento Puno" .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "پیونو"@pnb .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Peru"@nn .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Wilayah Puno"@ms .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "פערו"@yi .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Departamento de Puno" .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Perù"@lij .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Puno Region"@sco .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Perw"@cy .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Pérou"@nrm .
-<https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#alternateName> "Regione di Puno"@it .
 <https://n2t.net/ark:/27023/6cbc684ec8f34d890e49fbed47c34661> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
