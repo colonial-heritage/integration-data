@@ -1,7 +1,9 @@
 <https://n2t.net/ark:/27023/8b9694795433052f98c5ea5948945d0d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8b9694795433052f98c5ea5948945d0d> <https://colonialcollections.nl/schema#identifier> "RV-3513-1678" .
 <https://n2t.net/ark:/27023/8b9694795433052f98c5ea5948945d0d> <https://colonialcollections.nl/schema#name> "Tekening" .
-<https://n2t.net/ark:/27023/8b9694795433052f98c5ea5948945d0d> <https://colonialcollections.nl/schema#material> "papier ; inkt (sumi) ; pigmenten ; (penseel)tekening’" .
+<https://n2t.net/ark:/27023/8b9694795433052f98c5ea5948945d0d> <https://colonialcollections.nl/schema#material> "pigment" .
+<https://n2t.net/ark:/27023/8b9694795433052f98c5ea5948945d0d> <https://colonialcollections.nl/schema#material> "sumi-e" .
+<https://n2t.net/ark:/27023/8b9694795433052f98c5ea5948945d0d> <https://colonialcollections.nl/schema#material> "papier (vezelproduct)" .
 <https://n2t.net/ark:/27023/8b9694795433052f98c5ea5948945d0d> <https://colonialcollections.nl/schema#creator> "Nonoyama Kōzan" .
 <https://n2t.net/ark:/27023/8b9694795433052f98c5ea5948945d0d> <https://colonialcollections.nl/schema#yearCreatedStart> "1802"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/8b9694795433052f98c5ea5948945d0d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1837"^^<http://www.w3.org/2001/XMLSchema#integer> .
