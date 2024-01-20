@@ -1,6 +1,9 @@
 <https://n2t.net/ark:/27023/f14796f1d34dc9269dcc08b8b76728db> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/f14796f1d34dc9269dcc08b8b76728db> <https://colonialcollections.nl/schema#identifier> "RV-2896-7" .
-<https://n2t.net/ark:/27023/f14796f1d34dc9269dcc08b8b76728db> <https://colonialcollections.nl/schema#material> "papier ; inkt ; pigmenten ; drukwerk ; houtsnede ; kleurenhoutsnede (nishikie)" .
+<https://n2t.net/ark:/27023/f14796f1d34dc9269dcc08b8b76728db> <https://colonialcollections.nl/schema#material> "pigment" .
+<https://n2t.net/ark:/27023/f14796f1d34dc9269dcc08b8b76728db> <https://colonialcollections.nl/schema#material> "inkt" .
+<https://n2t.net/ark:/27023/f14796f1d34dc9269dcc08b8b76728db> <https://colonialcollections.nl/schema#material> "ink" .
+<https://n2t.net/ark:/27023/f14796f1d34dc9269dcc08b8b76728db> <https://colonialcollections.nl/schema#material> "papier (vezelproduct)" .
 <https://n2t.net/ark:/27023/f14796f1d34dc9269dcc08b8b76728db> <https://colonialcollections.nl/schema#creator> "Hasegawa Munehiro" .
 <https://n2t.net/ark:/27023/f14796f1d34dc9269dcc08b8b76728db> <https://colonialcollections.nl/schema#yearCreatedStart> "1848"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/f14796f1d34dc9269dcc08b8b76728db> <https://colonialcollections.nl/schema#yearCreatedEnd> "1867"^^<http://www.w3.org/2001/XMLSchema#integer> .
