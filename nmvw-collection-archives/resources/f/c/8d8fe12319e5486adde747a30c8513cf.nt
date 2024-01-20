@@ -1,7 +1,12 @@
 <https://n2t.net/ark:/27023/6b3a9a12d2207c11833298c8318012bf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/6b3a9a12d2207c11833298c8318012bf> <https://colonialcollections.nl/schema#identifier> "RV-929-514" .
 <https://n2t.net/ark:/27023/6b3a9a12d2207c11833298c8318012bf> <https://colonialcollections.nl/schema#name> "VISSPEER" .
-<https://n2t.net/ark:/27023/6b3a9a12d2207c11833298c8318012bf> <https://colonialcollections.nl/schema#material> "hout (palm) ; rotan ; bamboe" .
+<https://n2t.net/ark:/27023/6b3a9a12d2207c11833298c8318012bf> <https://colonialcollections.nl/schema#material> "bamboo" .
+<https://n2t.net/ark:/27023/6b3a9a12d2207c11833298c8318012bf> <https://colonialcollections.nl/schema#material> "rotan" .
+<https://n2t.net/ark:/27023/6b3a9a12d2207c11833298c8318012bf> <https://colonialcollections.nl/schema#material> "palmen (hout)" .
+<https://n2t.net/ark:/27023/6b3a9a12d2207c11833298c8318012bf> <https://colonialcollections.nl/schema#material> "palmhout" .
+<https://n2t.net/ark:/27023/6b3a9a12d2207c11833298c8318012bf> <https://colonialcollections.nl/schema#material> "ratan" .
+<https://n2t.net/ark:/27023/6b3a9a12d2207c11833298c8318012bf> <https://colonialcollections.nl/schema#material> "bamboe" .
 <https://n2t.net/ark:/27023/6b3a9a12d2207c11833298c8318012bf> <https://colonialcollections.nl/schema#yearCreatedStart> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/6b3a9a12d2207c11833298c8318012bf> <https://colonialcollections.nl/schema#yearCreatedEnd> "1888"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/6b3a9a12d2207c11833298c8318012bf> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
