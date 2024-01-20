@@ -1,37 +1,10 @@
 <https://n2t.net/ark:/27023/efde73541263e38fd6e13d9157e838d8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/efde73541263e38fd6e13d9157e838d8> <https://colonialcollections.nl/schema#identifier> "RV-A7-11" .
 <https://n2t.net/ark:/27023/efde73541263e38fd6e13d9157e838d8> <https://colonialcollections.nl/schema#name> "\"CAPE PALMAS. RECHTS DAS KRANKENHAUS DER MISSION. LINKS DIE SEE MIT DER RUSSWURM-INSEL.\"" .
-<https://n2t.net/ark:/27023/efde73541263e38fd6e13d9157e838d8> <https://colonialcollections.nl/schema#material> "Materiaal: papier ; karton\r\nMontage: op karton geplakt ; op systeemkaart geplakt ; titels opgeplakt" .
+<https://n2t.net/ark:/27023/efde73541263e38fd6e13d9157e838d8> <https://colonialcollections.nl/schema#material> "cardboard" .
+<https://n2t.net/ark:/27023/efde73541263e38fd6e13d9157e838d8> <https://colonialcollections.nl/schema#material> "papier (vezelproduct)" .
+<https://n2t.net/ark:/27023/efde73541263e38fd6e13d9157e838d8> <https://colonialcollections.nl/schema#material> "karton" .
 <https://n2t.net/ark:/27023/efde73541263e38fd6e13d9157e838d8> <https://colonialcollections.nl/schema#creator> "J. (Johann) Büttikofer" .
 <https://n2t.net/ark:/27023/efde73541263e38fd6e13d9157e838d8> <https://colonialcollections.nl/schema#yearCreatedStart> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/efde73541263e38fd6e13d9157e838d8> <https://colonialcollections.nl/schema#yearCreatedEnd> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/efde73541263e38fd6e13d9157e838d8> <https://colonialcollections.nl/schema#locationCreated> "Cape Palmas" .
-<https://n2t.net/ark:/27023/efde73541263e38fd6e13d9157e838d8> <https://colonialcollections.nl/schema#countryCreated> "Liberia" .
-<https://n2t.net/ark:/27023/efde73541263e38fd6e13d9157e838d8> <https://colonialcollections.nl/schema#alternateName> "Liberän"@vo .
-<https://n2t.net/ark:/27023/efde73541263e38fd6e13d9157e838d8> <https://colonialcollections.nl/schema#alternateName> "Li-bê-ri-a"@vi .
-<https://n2t.net/ark:/27023/efde73541263e38fd6e13d9157e838d8> <https://colonialcollections.nl/schema#alternateName> "ประเทศไลบีเรีย"@th .
-<https://n2t.net/ark:/27023/efde73541263e38fd6e13d9157e838d8> <https://colonialcollections.nl/schema#alternateName> "Liberia"@nds .
-<https://n2t.net/ark:/27023/efde73541263e38fd6e13d9157e838d8> <https://colonialcollections.nl/schema#alternateName> "Liberia"@nn .
-<https://n2t.net/ark:/27023/efde73541263e38fd6e13d9157e838d8> <https://colonialcollections.nl/schema#alternateName> "Liberia"@io .
-<https://n2t.net/ark:/27023/efde73541263e38fd6e13d9157e838d8> <https://colonialcollections.nl/schema#alternateName> "Liberia"@li .
-<https://n2t.net/ark:/27023/efde73541263e38fd6e13d9157e838d8> <https://colonialcollections.nl/schema#alternateName> "Republic of Liberia" .
-<https://n2t.net/ark:/27023/efde73541263e38fd6e13d9157e838d8> <https://colonialcollections.nl/schema#alternateName> "Либериа"@mk .
-<https://n2t.net/ark:/27023/efde73541263e38fd6e13d9157e838d8> <https://colonialcollections.nl/schema#alternateName> "Liberia"@ast .
-<https://n2t.net/ark:/27023/efde73541263e38fd6e13d9157e838d8> <https://colonialcollections.nl/schema#alternateName> "Libéria"@fr .
-<https://n2t.net/ark:/27023/efde73541263e38fd6e13d9157e838d8> <https://colonialcollections.nl/schema#alternateName> "Liberia"@pam .
-<https://n2t.net/ark:/27023/efde73541263e38fd6e13d9157e838d8> <https://colonialcollections.nl/schema#alternateName> "Cape Palmas" .
-<https://n2t.net/ark:/27023/efde73541263e38fd6e13d9157e838d8> <https://colonialcollections.nl/schema#alternateName> "Liberia"@tl .
-<https://n2t.net/ark:/27023/efde73541263e38fd6e13d9157e838d8> <https://colonialcollections.nl/schema#alternateName> "Liberija"@hbs .
-<https://n2t.net/ark:/27023/efde73541263e38fd6e13d9157e838d8> <https://colonialcollections.nl/schema#alternateName> "Liberia"@an .
-<https://n2t.net/ark:/27023/efde73541263e38fd6e13d9157e838d8> <https://colonialcollections.nl/schema#alternateName> "Liberia"@ilo .
-<https://n2t.net/ark:/27023/efde73541263e38fd6e13d9157e838d8> <https://colonialcollections.nl/schema#alternateName> "Libèria"@oc .
-<https://n2t.net/ark:/27023/efde73541263e38fd6e13d9157e838d8> <https://colonialcollections.nl/schema#alternateName> "Liberia" .
-<https://n2t.net/ark:/27023/efde73541263e38fd6e13d9157e838d8> <https://colonialcollections.nl/schema#alternateName> "Libèria"@frp .
-<https://n2t.net/ark:/27023/efde73541263e38fd6e13d9157e838d8> <https://colonialcollections.nl/schema#alternateName> "Libèiria"@gd .
-<https://n2t.net/ark:/27023/efde73541263e38fd6e13d9157e838d8> <https://colonialcollections.nl/schema#alternateName> "Liberia"@la .
-<https://n2t.net/ark:/27023/efde73541263e38fd6e13d9157e838d8> <https://colonialcollections.nl/schema#alternateName> "লাইবিরিয়া"@bn .
-<https://n2t.net/ark:/27023/efde73541263e38fd6e13d9157e838d8> <https://colonialcollections.nl/schema#alternateName> "लायबीरिया"@sa .
-<https://n2t.net/ark:/27023/efde73541263e38fd6e13d9157e838d8> <https://colonialcollections.nl/schema#alternateName> "Liberia"@sq .
-<https://n2t.net/ark:/27023/efde73541263e38fd6e13d9157e838d8> <https://colonialcollections.nl/schema#alternateName> "Cap des Palmes" .
-<https://n2t.net/ark:/27023/efde73541263e38fd6e13d9157e838d8> <https://colonialcollections.nl/schema#alternateName> "Liberi"@kw .
 <https://n2t.net/ark:/27023/efde73541263e38fd6e13d9157e838d8> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
