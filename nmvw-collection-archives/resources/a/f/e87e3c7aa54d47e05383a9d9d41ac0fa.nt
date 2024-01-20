@@ -1,7 +1,14 @@
 <https://n2t.net/ark:/27023/b891dd8cc66f0d33e9f7bc36d54bd1be> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b891dd8cc66f0d33e9f7bc36d54bd1be> <https://colonialcollections.nl/schema#identifier> "RV-1971-778a" .
 <https://n2t.net/ark:/27023/b891dd8cc66f0d33e9f7bc36d54bd1be> <https://colonialcollections.nl/schema#name> "Oorlogspijl" .
-<https://n2t.net/ark:/27023/b891dd8cc66f0d33e9f7bc36d54bd1be> <https://colonialcollections.nl/schema#material> "bamboe ; hout, palmhout ; rotan ; vezel, vezelreep ; hars" .
+<https://n2t.net/ark:/27023/b891dd8cc66f0d33e9f7bc36d54bd1be> <https://colonialcollections.nl/schema#material> "palmhout" .
+<https://n2t.net/ark:/27023/b891dd8cc66f0d33e9f7bc36d54bd1be> <https://colonialcollections.nl/schema#material> "palmen (hout)" .
+<https://n2t.net/ark:/27023/b891dd8cc66f0d33e9f7bc36d54bd1be> <https://colonialcollections.nl/schema#material> "bamboo" .
+<https://n2t.net/ark:/27023/b891dd8cc66f0d33e9f7bc36d54bd1be> <https://colonialcollections.nl/schema#material> "bamboe" .
+<https://n2t.net/ark:/27023/b891dd8cc66f0d33e9f7bc36d54bd1be> <https://colonialcollections.nl/schema#material> "plantenvezel" .
+<https://n2t.net/ark:/27023/b891dd8cc66f0d33e9f7bc36d54bd1be> <https://colonialcollections.nl/schema#material> "rotan" .
+<https://n2t.net/ark:/27023/b891dd8cc66f0d33e9f7bc36d54bd1be> <https://colonialcollections.nl/schema#material> "ratan" .
+<https://n2t.net/ark:/27023/b891dd8cc66f0d33e9f7bc36d54bd1be> <https://colonialcollections.nl/schema#material> "hars" .
 <https://n2t.net/ark:/27023/b891dd8cc66f0d33e9f7bc36d54bd1be> <https://colonialcollections.nl/schema#yearCreatedStart> "1919"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/b891dd8cc66f0d33e9f7bc36d54bd1be> <https://colonialcollections.nl/schema#yearCreatedEnd> "1919"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/b891dd8cc66f0d33e9f7bc36d54bd1be> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,7 +1,12 @@
 <https://n2t.net/ark:/27023/b965e6d402281247c394b63db6bb2516> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/b965e6d402281247c394b63db6bb2516> <https://colonialcollections.nl/schema#identifier> "RV-6145-14" .
 <https://n2t.net/ark:/27023/b965e6d402281247c394b63db6bb2516> <https://colonialcollections.nl/schema#name> "Haarspeld in deco-kleuren" .
-<https://n2t.net/ark:/27023/b965e6d402281247c394b63db6bb2516> <https://colonialcollections.nl/schema#material> "leer ; glas ; metaal" .
+<https://n2t.net/ark:/27023/b965e6d402281247c394b63db6bb2516> <https://colonialcollections.nl/schema#material> "metal" .
+<https://n2t.net/ark:/27023/b965e6d402281247c394b63db6bb2516> <https://colonialcollections.nl/schema#material> "glas (materiaal)" .
+<https://n2t.net/ark:/27023/b965e6d402281247c394b63db6bb2516> <https://colonialcollections.nl/schema#material> "leder" .
+<https://n2t.net/ark:/27023/b965e6d402281247c394b63db6bb2516> <https://colonialcollections.nl/schema#material> "leer" .
+<https://n2t.net/ark:/27023/b965e6d402281247c394b63db6bb2516> <https://colonialcollections.nl/schema#material> "leather" .
+<https://n2t.net/ark:/27023/b965e6d402281247c394b63db6bb2516> <https://colonialcollections.nl/schema#material> "metaal" .
 <https://n2t.net/ark:/27023/b965e6d402281247c394b63db6bb2516> <https://colonialcollections.nl/schema#creator> "Arthur Long Bone" .
 <https://n2t.net/ark:/27023/b965e6d402281247c394b63db6bb2516> <https://colonialcollections.nl/schema#yearCreatedStart> "2001"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/b965e6d402281247c394b63db6bb2516> <https://colonialcollections.nl/schema#yearCreatedEnd> "2009"^^<http://www.w3.org/2001/XMLSchema#integer> .
