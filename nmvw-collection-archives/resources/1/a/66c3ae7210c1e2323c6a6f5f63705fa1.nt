@@ -1,7 +1,10 @@
 <https://n2t.net/ark:/27023/3362cafb112ef98ca00a9746c3051171> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3362cafb112ef98ca00a9746c3051171> <https://colonialcollections.nl/schema#identifier> "RV-1279-31" .
 <https://n2t.net/ark:/27023/3362cafb112ef98ca00a9746c3051171> <https://colonialcollections.nl/schema#description> "Portret van een man, de acteur Sawamura Sojuro, en een vrouw. Uitgever: Nishinomiya Kawaju." .
-<https://n2t.net/ark:/27023/3362cafb112ef98ca00a9746c3051171> <https://colonialcollections.nl/schema#material> "papier ; inkt ; pigmenten ; drukwerk ; houtsnede ; kleurenhoutsnede (nishikie)" .
+<https://n2t.net/ark:/27023/3362cafb112ef98ca00a9746c3051171> <https://colonialcollections.nl/schema#material> "inkt" .
+<https://n2t.net/ark:/27023/3362cafb112ef98ca00a9746c3051171> <https://colonialcollections.nl/schema#material> "ink" .
+<https://n2t.net/ark:/27023/3362cafb112ef98ca00a9746c3051171> <https://colonialcollections.nl/schema#material> "pigment" .
+<https://n2t.net/ark:/27023/3362cafb112ef98ca00a9746c3051171> <https://colonialcollections.nl/schema#material> "papier (vezelproduct)" .
 <https://n2t.net/ark:/27023/3362cafb112ef98ca00a9746c3051171> <https://colonialcollections.nl/schema#creator> "Utagawa Kunimasa" .
 <https://n2t.net/ark:/27023/3362cafb112ef98ca00a9746c3051171> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/3362cafb112ef98ca00a9746c3051171> <https://colonialcollections.nl/schema#yearCreatedEnd> "1810"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,7 +1,10 @@
 <https://n2t.net/ark:/27023/5ed066c435352b0035ea729b9ace8a32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5ed066c435352b0035ea729b9ace8a32> <https://colonialcollections.nl/schema#identifier> "RV-1353-2472" .
 <https://n2t.net/ark:/27023/5ed066c435352b0035ea729b9ace8a32> <https://colonialcollections.nl/schema#description> "Kadomatsu, nieuwjaarsversiering buiten het huis." .
-<https://n2t.net/ark:/27023/5ed066c435352b0035ea729b9ace8a32> <https://colonialcollections.nl/schema#material> "papier ; inkt ; pigmenten ; drukwerk ; houtsnede ; kleurenhoutsnede (nishikie)" .
+<https://n2t.net/ark:/27023/5ed066c435352b0035ea729b9ace8a32> <https://colonialcollections.nl/schema#material> "inkt" .
+<https://n2t.net/ark:/27023/5ed066c435352b0035ea729b9ace8a32> <https://colonialcollections.nl/schema#material> "ink" .
+<https://n2t.net/ark:/27023/5ed066c435352b0035ea729b9ace8a32> <https://colonialcollections.nl/schema#material> "papier (vezelproduct)" .
+<https://n2t.net/ark:/27023/5ed066c435352b0035ea729b9ace8a32> <https://colonialcollections.nl/schema#material> "pigment" .
 <https://n2t.net/ark:/27023/5ed066c435352b0035ea729b9ace8a32> <https://colonialcollections.nl/schema#creator> "Bunkai" .
 <https://n2t.net/ark:/27023/5ed066c435352b0035ea729b9ace8a32> <https://colonialcollections.nl/schema#yearCreatedStart> "1830"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/5ed066c435352b0035ea729b9ace8a32> <https://colonialcollections.nl/schema#yearCreatedEnd> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .
