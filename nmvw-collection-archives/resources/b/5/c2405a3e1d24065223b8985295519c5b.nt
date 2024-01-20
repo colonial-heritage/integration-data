@@ -1,6 +1,8 @@
 <https://n2t.net/ark:/27023/76b65a1692d22c864df8aa04412463b0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/76b65a1692d22c864df8aa04412463b0> <https://colonialcollections.nl/schema#identifier> "WM-27414" .
-<https://n2t.net/ark:/27023/76b65a1692d22c864df8aa04412463b0> <https://colonialcollections.nl/schema#material> "wol, gouddraad, mica\r\ngevold, draadopgenaaid" .
+<https://n2t.net/ark:/27023/76b65a1692d22c864df8aa04412463b0> <https://colonialcollections.nl/schema#material> "mica (mineraal)" .
+<https://n2t.net/ark:/27023/76b65a1692d22c864df8aa04412463b0> <https://colonialcollections.nl/schema#material> "gouddraad" .
+<https://n2t.net/ark:/27023/76b65a1692d22c864df8aa04412463b0> <https://colonialcollections.nl/schema#material> "wol (textiel)" .
 <https://n2t.net/ark:/27023/76b65a1692d22c864df8aa04412463b0> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/76b65a1692d22c864df8aa04412463b0> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/76b65a1692d22c864df8aa04412463b0> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
