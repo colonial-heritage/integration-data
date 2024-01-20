@@ -1,6 +1,9 @@
 <https://n2t.net/ark:/27023/e2c3be8b22da97a0b54e08a5c464a3e1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/e2c3be8b22da97a0b54e08a5c464a3e1> <https://colonialcollections.nl/schema#identifier> "RV-1327-387" .
-<https://n2t.net/ark:/27023/e2c3be8b22da97a0b54e08a5c464a3e1> <https://colonialcollections.nl/schema#material> "papier ; inkt ; pigmenten ; drukwerk ; houtsnede ; kleurenhoutsnede (nishikie)" .
+<https://n2t.net/ark:/27023/e2c3be8b22da97a0b54e08a5c464a3e1> <https://colonialcollections.nl/schema#material> "ink" .
+<https://n2t.net/ark:/27023/e2c3be8b22da97a0b54e08a5c464a3e1> <https://colonialcollections.nl/schema#material> "pigment" .
+<https://n2t.net/ark:/27023/e2c3be8b22da97a0b54e08a5c464a3e1> <https://colonialcollections.nl/schema#material> "inkt" .
+<https://n2t.net/ark:/27023/e2c3be8b22da97a0b54e08a5c464a3e1> <https://colonialcollections.nl/schema#material> "papier (vezelproduct)" .
 <https://n2t.net/ark:/27023/e2c3be8b22da97a0b54e08a5c464a3e1> <https://colonialcollections.nl/schema#creator> "Kiyosumi" .
 <https://n2t.net/ark:/27023/e2c3be8b22da97a0b54e08a5c464a3e1> <https://colonialcollections.nl/schema#yearCreatedStart> "1806"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/e2c3be8b22da97a0b54e08a5c464a3e1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1818"^^<http://www.w3.org/2001/XMLSchema#integer> .
