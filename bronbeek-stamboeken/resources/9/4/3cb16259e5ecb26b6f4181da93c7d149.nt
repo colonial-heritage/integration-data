@@ -1,0 +1,10 @@
+<https://n2t.net/ark:/27023/168f457c1677b1601ed77764e40b1aec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#Person> .
+<https://n2t.net/ark:/27023/168f457c1677b1601ed77764e40b1aec> <https://colonialcollections.nl/schema#name> "Jan Zweers" .
+<https://n2t.net/ark:/27023/168f457c1677b1601ed77764e40b1aec> <https://colonialcollections.nl/schema#publisher> "Bronbeek" .
+<https://n2t.net/ark:/27023/168f457c1677b1601ed77764e40b1aec> <https://colonialcollections.nl/schema#birthPlace> "Axim" .
+<https://n2t.net/ark:/27023/168f457c1677b1601ed77764e40b1aec> <https://colonialcollections.nl/schema#birthDate> "1835"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://n2t.net/ark:/27023/168f457c1677b1601ed77764e40b1aec> <https://colonialcollections.nl/schema#birthYear> "1835"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/168f457c1677b1601ed77764e40b1aec> <https://colonialcollections.nl/schema#deathPlace> "Willem1" .
+<https://n2t.net/ark:/27023/168f457c1677b1601ed77764e40b1aec> <https://colonialcollections.nl/schema#deathDate> "1864-07-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://n2t.net/ark:/27023/168f457c1677b1601ed77764e40b1aec> <https://colonialcollections.nl/schema#deathYear> "1864"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/168f457c1677b1601ed77764e40b1aec> <https://colonialcollections.nl/schema#isPartOf> "Stamboeken" .
