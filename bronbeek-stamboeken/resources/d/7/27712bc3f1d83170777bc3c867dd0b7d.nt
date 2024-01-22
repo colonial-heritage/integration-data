@@ -1,0 +1,10 @@
+<https://n2t.net/ark:/27023/74f7104b772437df2b567cdc5db578c4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#Person> .
+<https://n2t.net/ark:/27023/74f7104b772437df2b567cdc5db578c4> <https://colonialcollections.nl/schema#name> "Louis Schneider" .
+<https://n2t.net/ark:/27023/74f7104b772437df2b567cdc5db578c4> <https://colonialcollections.nl/schema#publisher> "Bronbeek" .
+<https://n2t.net/ark:/27023/74f7104b772437df2b567cdc5db578c4> <https://colonialcollections.nl/schema#birthPlace> "Nijmegen" .
+<https://n2t.net/ark:/27023/74f7104b772437df2b567cdc5db578c4> <https://colonialcollections.nl/schema#birthDate> "1788-11-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://n2t.net/ark:/27023/74f7104b772437df2b567cdc5db578c4> <https://colonialcollections.nl/schema#birthYear> "1788"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/74f7104b772437df2b567cdc5db578c4> <https://colonialcollections.nl/schema#deathPlace> "Batavia" .
+<https://n2t.net/ark:/27023/74f7104b772437df2b567cdc5db578c4> <https://colonialcollections.nl/schema#deathDate> "1820-08-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://n2t.net/ark:/27023/74f7104b772437df2b567cdc5db578c4> <https://colonialcollections.nl/schema#deathYear> "1820"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/74f7104b772437df2b567cdc5db578c4> <https://colonialcollections.nl/schema#isPartOf> "Stamboeken" .
