@@ -14,6 +14,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
 CONSTRUCT {
   ?this a cc:HeritageObject ;
+    cc:additionalType ?typeName ;
     cc:identifier ?identifier ;
     cc:name ?name ;
     cc:description ?description ;
@@ -29,6 +30,16 @@ CONSTRUCT {
 }
 WHERE {
   BIND(?_iri AS ?this)
+
+  ####################
+  # Type
+  ####################
+
+  OPTIONAL {
+    ?this crm:P2_has_type [
+      rdfs:label ?typeName
+    ] ;
+  }
 
   ####################
   # Identifier
@@ -66,6 +77,11 @@ WHERE {
   }
 
   ####################
+  # Subject
+  ####################
+  # TBD: not in the KG yet (crm:P62_depicts)
+
+  ####################
   # Material
   ####################
 
@@ -85,6 +101,11 @@ WHERE {
       crm:P190_has_symbolic_content ?inscription ;
     ] .
   }
+
+  ####################
+  # Technique
+  ####################
+  # TBD: not in the KG yet (crm:P108i_was_produced_by/crm:P32_used_general_technique)
 
   ####################
   # Creator

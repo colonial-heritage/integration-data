@@ -21,14 +21,12 @@ CONSTRUCT {
     cc:material ?materialName ;
     cc:creator ?creatorName ;
     cc:locationCreated ?locationCreatedName ;
-    cc:alternateName ?alternateLocationCreatedName, ?alternateCountryCreatedName ; # Only for indexing
     cc:countryCreated ?countryCreatedName ;
+    cc:alternateName ?alternateLocationCreatedName, ?alternateCountryCreatedName ; # Only for indexing
     cc:publisher ?publisherName .
 }
 WHERE {
   BIND(?_iri AS ?this)
-
-  ?this a crm:E22_Human-Made_Object .
 
   ####################
   # Type
@@ -37,21 +35,6 @@ WHERE {
   OPTIONAL {
     ?this crm:P2_has_type [
       rdfs:label ?typeName
-    ] ;
-  }
-
-  ####################
-  # Subject
-  ####################
-  # TBD: not in the KG yet (crm:P62_depicts)
-
-  ####################
-  # Material
-  ####################
-
-  OPTIONAL {
-    ?this crm:P45_consists_of [
-      rdfs:label ?materialName
     ] ;
   }
 
@@ -91,6 +74,21 @@ WHERE {
   }
 
   ####################
+  # Subject
+  ####################
+  # TBD: not in the KG yet (crm:P62_depicts)
+
+  ####################
+  # Material
+  ####################
+
+  OPTIONAL {
+    ?this crm:P45_consists_of [
+      rdfs:label ?materialName
+    ] ;
+  }
+
+  ####################
   # Inscription
   ####################
   # TBD: not in the KG yet (crm:P128_carries)
@@ -99,22 +97,6 @@ WHERE {
   # Technique
   ####################
   # TBD: not in the KG yet (crm:P108i_was_produced_by/crm:P32_used_general_technique)
-
-  ####################
-  # Part of dataset
-  ####################
-
-  ?this la:member_of ?dataset .
-
-  ####################
-  # Publisher of dataset
-  ####################
-
-  OPTIONAL {
-    ?dataset schema:publisher [
-      schema:name ?publisherName ;
-    ] ;
-  }
 
   ####################
   # Creator
@@ -159,5 +141,21 @@ WHERE {
     # Location could be a country
     # https://www.geonames.org/export/codes.html
     BIND(IF(?featureCode = <https://www.geonames.org/ontology#A.PCLI>, ?locationCreatedName, ?tmpCountryCreatedName) AS ?countryCreatedName)
+  }
+
+  ####################
+  # Part of dataset
+  ####################
+
+  ?this la:member_of ?dataset .
+
+  ####################
+  # Publisher of dataset
+  ####################
+
+  OPTIONAL {
+    ?dataset schema:publisher [
+      schema:name ?publisherName ;
+    ] ;
   }
 }
