@@ -22,8 +22,8 @@ CONSTRUCT {
     cc:creator ?creatorName ;
     cc:locationCreated ?locationCreatedName ; # Only for indexing
     cc:countryCreated ?oldCountryCreatedName ; # For BC; remove if the locale-aware names are in use
-    cc:countryCreatedEn ?countryCreatedNameEn ;
-    cc:countryCreatedNl ?countryCreatedNameNl ;
+    cc:countryCreated_en ?countryCreatedNameEn ;
+    cc:countryCreated_nl ?countryCreatedNameNl ;
     cc:alternateName ?alternateLocationCreatedName, ?alternateCountryCreatedName ; # Only for indexing
     cc:publisher ?publisherName .
 }
