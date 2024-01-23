@@ -20,8 +20,10 @@ CONSTRUCT {
     cc:description ?description ;
     cc:material ?materialName ;
     cc:creator ?creatorName ;
-    cc:locationCreated ?locationCreatedName ;
-    cc:countryCreated ?countryCreatedName ;
+    cc:locationCreated ?locationCreatedName ; # Only for indexing
+    cc:countryCreated ?oldCountryCreatedName ; # For BC; remove if the locale-aware names are in use
+    cc:countryCreatedEn ?countryCreatedNameEn ;
+    cc:countryCreatedNl ?countryCreatedNameNl ;
     cc:alternateName ?alternateLocationCreatedName, ?alternateCountryCreatedName ; # Only for indexing
     cc:publisher ?publisherName .
 }
@@ -119,28 +121,49 @@ WHERE {
 
   OPTIONAL {
     ?this crm:P108i_was_produced_by/crm:P7_took_place_at ?location .
-    ?location gn:name ?locationCreatedName ;
+    ?location gn:name ?unofficialLocationCreatedName ;
       gn:featureCode ?featureCode .
-    FILTER(LANG(?locationCreatedName) = "" || LANGMATCHES(LANG(?locationCreatedName), "en"))
+
+    # Official name may not exist, see e.g. https://sws.geonames.org/3827414/
+    OPTIONAL {
+      ?location gn:officialName ?officialLocationCreatedName
+      FILTER(LANG(?officialLocationCreatedName) IN ("en", "nl"))
+    }
+
+    BIND(IF(BOUND(?officialLocationCreatedName), ?officialLocationCreatedName, ?unofficialLocationCreatedName) AS ?locationCreatedName)
 
     OPTIONAL {
       ?location gn:alternateName ?alternateLocationCreatedName
+      FILTER(LANG(?alternateLocationCreatedName) IN ("en", "nl"))
     }
 
     # Country of which the location is a part
     OPTIONAL {
       ?location gn:parentCountry ?country .
-      ?country gn:name ?tmpCountryCreatedName .
-      FILTER(LANG(?tmpCountryCreatedName) = "" || LANGMATCHES(LANG(?tmpCountryCreatedName), "en"))
+      ?country gn:name ?unofficialCountryCreatedName .
+
+      # Official name may not exist
+      OPTIONAL {
+        ?country gn:officialName ?officialCountryCreatedName
+        FILTER(LANG(?officialCountryCreatedName) IN ("en", "nl"))
+      }
+
+      BIND(IF(BOUND(?officialCountryCreatedName), ?officialCountryCreatedName, ?unofficialCountryCreatedName) AS ?countryCreatedName)
 
       OPTIONAL {
         ?country gn:alternateName ?alternateCountryCreatedName
+        FILTER(LANG(?alternateCountryCreatedName) IN ("en", "nl"))
       }
     }
 
-    # Location could be a country
+    # For BC; remove if the locale-aware names are in use
+    BIND(IF(?featureCode = <https://www.geonames.org/ontology#A.PCLI>, ?unofficialLocationCreatedName, ?unofficialCountryCreatedName) AS ?oldCountryCreatedName)
+
+    # Location could be a country already
     # https://www.geonames.org/export/codes.html
-    BIND(IF(?featureCode = <https://www.geonames.org/ontology#A.PCLI>, ?locationCreatedName, ?tmpCountryCreatedName) AS ?countryCreatedName)
+    BIND(IF(?featureCode = <https://www.geonames.org/ontology#A.PCLI>, ?locationCreatedName, ?countryCreatedName) AS ?countryCreated)
+    BIND(IF(LANG(?countryCreated) = "en", ?countryCreated, ?null) AS ?countryCreatedNameEn)
+    BIND(IF(LANG(?countryCreated) = "nl", ?countryCreated, ?null) AS ?countryCreatedNameNl)
   }
 
   ####################
