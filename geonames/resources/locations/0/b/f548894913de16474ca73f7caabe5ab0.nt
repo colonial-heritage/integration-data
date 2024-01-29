@@ -1,0 +1,40 @@
+<https://sws.geonames.org/2186843/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/2186843/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/2186843/about.rdf> .
+<https://sws.geonames.org/2186843/> <http://www.geonames.org/ontology#name> "Milford Sound" .
+<https://sws.geonames.org/2186843/> <http://www.geonames.org/ontology#alternateName> "밀퍼드 사운드"@ko .
+<https://sws.geonames.org/2186843/> <http://www.geonames.org/ontology#alternateName> "Milfordo sąsiauris"@lt .
+<https://sws.geonames.org/2186843/> <http://www.geonames.org/ontology#alternateName> "Milford Sound"@da .
+<https://sws.geonames.org/2186843/> <http://www.geonames.org/ontology#alternateName> "Milford Sound"@de .
+<https://sws.geonames.org/2186843/> <http://www.geonames.org/ontology#alternateName> "Milford Sound"@en .
+<https://sws.geonames.org/2186843/> <http://www.geonames.org/ontology#alternateName> "Milford Sound"@fr .
+<https://sws.geonames.org/2186843/> <http://www.geonames.org/ontology#alternateName> "Milford Sound"@nl .
+<https://sws.geonames.org/2186843/> <http://www.geonames.org/ontology#alternateName> "Milford Sound"@sv .
+<https://sws.geonames.org/2186843/> <http://www.geonames.org/ontology#alternateName> "Zatoka Milforda"@pl .
+<https://sws.geonames.org/2186843/> <http://www.geonames.org/ontology#alternateName> "Милфорд Саунд"@sr .
+<https://sws.geonames.org/2186843/> <http://www.geonames.org/ontology#alternateName> "Милфорд-Саунд"@ru .
+<https://sws.geonames.org/2186843/> <http://www.geonames.org/ontology#alternateName> "Мілфордська затока"@uk .
+<https://sws.geonames.org/2186843/> <http://www.geonames.org/ontology#alternateName> "מילפורד סאונד"@he .
+<https://sws.geonames.org/2186843/> <http://www.geonames.org/ontology#alternateName> "تنگه میلفورد"@fa .
+<https://sws.geonames.org/2186843/> <http://www.geonames.org/ontology#alternateName> "ميلفورد"@ar .
+<https://sws.geonames.org/2186843/> <http://www.geonames.org/ontology#alternateName> "ミルフォード・サウンド"@ja .
+<https://sws.geonames.org/2186843/> <http://www.geonames.org/ontology#alternateName> "米爾福德峽灣"@zh .
+<https://sws.geonames.org/2186843/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#H> .
+<https://sws.geonames.org/2186843/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#H.SD> .
+<https://sws.geonames.org/2186843/> <http://www.geonames.org/ontology#countryCode> "NZ" .
+<https://sws.geonames.org/2186843/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "-44.65449" .
+<https://sws.geonames.org/2186843/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "167.90577" .
+<https://sws.geonames.org/2186843/> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "0" .
+<https://sws.geonames.org/2186843/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/2182501/> .
+<https://sws.geonames.org/2186843/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/2186224/> .
+<https://sws.geonames.org/2186843/> <http://www.geonames.org/ontology#parentADM1> <https://sws.geonames.org/2182501/> .
+<https://sws.geonames.org/2186843/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/2186843/nearby.rdf> .
+<https://sws.geonames.org/2186843/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/2186843/milford-sound.html> .
+<https://sws.geonames.org/2186843/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Milford_Sound> .
+<https://sws.geonames.org/2186843/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Milford_Sound> .
+<https://sws.geonames.org/2186843/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/2186843/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/2186843/> .
+<https://sws.geonames.org/2186843/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/2186843/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/2186843/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/2186843/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/2186843/about.rdf> <http://purl.org/dc/terms/modified> "2010-02-03"^^<https://www.w3.org/2001/XMLSchema#date> .
