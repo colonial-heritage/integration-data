@@ -1,0 +1,34 @@
+<https://sws.geonames.org/3834450/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/3834450/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/3834450/about.rdf> .
+<https://sws.geonames.org/3834450/> <http://www.geonames.org/ontology#name> "Tierra del Fuego" .
+<https://sws.geonames.org/3834450/> <http://www.geonames.org/ontology#alternateName> "Eldlandet, Atlantarøyane og Antarktis"@nn .
+<https://sws.geonames.org/3834450/> <http://www.geonames.org/ontology#alternateName> "Eldslandet, Atlantöarna och Antarktis"@sv .
+<https://sws.geonames.org/3834450/> <http://www.geonames.org/ontology#alternateName> "El Fin del Mundo"@es .
+<https://sws.geonames.org/3834450/> <http://www.geonames.org/ontology#alternateName> "Gobernación de la Tierra del Fuego" .
+<https://sws.geonames.org/3834450/> <http://www.geonames.org/ontology#alternateName> "Ildlandet, Atlanterøyene og Antarktis"@no .
+<https://sws.geonames.org/3834450/> <http://www.geonames.org/ontology#officialName> "Provincia de Tierra del Fuego, Antártida e Islas del Atlántico Sur"@es .
+<https://sws.geonames.org/3834450/> <http://www.geonames.org/ontology#alternateName> "Territorio de Tierra del Fuego" .
+<https://sws.geonames.org/3834450/> <http://www.geonames.org/ontology#alternateName> "Territorio Nacional de la Tierra del Fuego" .
+<https://sws.geonames.org/3834450/> <http://www.geonames.org/ontology#shortName> "Tierra del Fuego"@en .
+<https://sws.geonames.org/3834450/> <http://www.geonames.org/ontology#shortName> "Tierra del Fuego"@es .
+<https://sws.geonames.org/3834450/> <http://www.geonames.org/ontology#officialName> "Tierra del Fuego" .
+<https://sws.geonames.org/3834450/> <http://www.geonames.org/ontology#alternateName> "Tierra del Fuego Province"@en .
+<https://sws.geonames.org/3834450/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#A> .
+<https://sws.geonames.org/3834450/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#A.ADM1> .
+<https://sws.geonames.org/3834450/> <http://www.geonames.org/ontology#countryCode> "AR" .
+<https://sws.geonames.org/3834450/> <http://www.geonames.org/ontology#population> "190641" .
+<https://sws.geonames.org/3834450/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "-54.5" .
+<https://sws.geonames.org/3834450/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-67" .
+<https://sws.geonames.org/3834450/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/3865483/> .
+<https://sws.geonames.org/3834450/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/3865483/> .
+<https://sws.geonames.org/3834450/> <http://www.geonames.org/ontology#childrenFeatures> <https://sws.geonames.org/3834450/contains.rdf> .
+<https://sws.geonames.org/3834450/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/3834450/tierra-del-fuego-province.html> .
+<https://sws.geonames.org/3834450/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Tierra_del_Fuego_Province_(Argentina)> .
+<https://sws.geonames.org/3834450/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Tierra_del_Fuego_Province_%28Argentina%29> .
+<https://sws.geonames.org/3834450/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/3834450/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/3834450/> .
+<https://sws.geonames.org/3834450/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/3834450/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/3834450/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/3834450/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/3834450/about.rdf> <http://purl.org/dc/terms/modified> "2023-02-15"^^<https://www.w3.org/2001/XMLSchema#date> .

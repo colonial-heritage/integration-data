@@ -1,0 +1,23 @@
+<https://sws.geonames.org/2556769/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/2556769/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/2556769/about.rdf> .
+<https://sws.geonames.org/2556769/> <http://www.geonames.org/ontology#name> "Atlas Mountains" .
+<https://sws.geonames.org/2556769/> <http://www.geonames.org/ontology#alternateName> "Atlas" .
+<https://sws.geonames.org/2556769/> <http://www.geonames.org/ontology#alternateName> "Atlasbergen"@sv .
+<https://sws.geonames.org/2556769/> <http://www.geonames.org/ontology#alternateName> "El Atlas" .
+<https://sws.geonames.org/2556769/> <http://www.geonames.org/ontology#alternateName> "Атлас (Атласские горы)"@ru .
+<https://sws.geonames.org/2556769/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#T> .
+<https://sws.geonames.org/2556769/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#T.MTS> .
+<https://sws.geonames.org/2556769/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "32" .
+<https://sws.geonames.org/2556769/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-2" .
+<https://sws.geonames.org/2556769/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/6295630/> .
+<https://sws.geonames.org/2556769/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/2556769/nearby.rdf> .
+<https://sws.geonames.org/2556769/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/2556769/atlas-mountains.html> .
+<https://sws.geonames.org/2556769/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Atlas_Mountains> .
+<https://sws.geonames.org/2556769/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Atlas_Mountains> .
+<https://sws.geonames.org/2556769/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/2556769/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/2556769/> .
+<https://sws.geonames.org/2556769/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/2556769/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/2556769/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/2556769/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/2556769/about.rdf> <http://purl.org/dc/terms/modified> "2020-04-26"^^<https://www.w3.org/2001/XMLSchema#date> .
