@@ -1,0 +1,28 @@
+<https://sws.geonames.org/3448433/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/3448433/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/3448433/about.rdf> .
+<https://sws.geonames.org/3448433/> <http://www.geonames.org/ontology#name> "São Paulo" .
+<https://sws.geonames.org/3448433/> <http://www.geonames.org/ontology#officialName> "Estado de São Paulo"@es .
+<https://sws.geonames.org/3448433/> <http://www.geonames.org/ontology#alternateName> "Estado de São Paulo" .
+<https://sws.geonames.org/3448433/> <http://www.geonames.org/ontology#alternateName> "San Paulo" .
+<https://sws.geonames.org/3448433/> <http://www.geonames.org/ontology#shortName> "São Paulo"@es .
+<https://sws.geonames.org/3448433/> <http://www.geonames.org/ontology#alternateName> "São Paulo"@pt .
+<https://sws.geonames.org/3448433/> <http://www.geonames.org/ontology#officialName> "São Paulo" .
+<https://sws.geonames.org/3448433/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#A> .
+<https://sws.geonames.org/3448433/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#A.ADM1> .
+<https://sws.geonames.org/3448433/> <http://www.geonames.org/ontology#countryCode> "BR" .
+<https://sws.geonames.org/3448433/> <http://www.geonames.org/ontology#population> "46004000" .
+<https://sws.geonames.org/3448433/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "-22" .
+<https://sws.geonames.org/3448433/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-49" .
+<https://sws.geonames.org/3448433/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/3462115/> .
+<https://sws.geonames.org/3448433/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/3469034/> .
+<https://sws.geonames.org/3448433/> <http://www.geonames.org/ontology#childrenFeatures> <https://sws.geonames.org/3448433/contains.rdf> .
+<https://sws.geonames.org/3448433/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/3448433/sao-paulo.html> .
+<https://sws.geonames.org/3448433/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_%28state%29> .
+<https://sws.geonames.org/3448433/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/S%C3%A3o_Paulo_%28state%29> .
+<https://sws.geonames.org/3448433/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/3448433/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/3448433/> .
+<https://sws.geonames.org/3448433/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/3448433/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/3448433/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/3448433/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/3448433/about.rdf> <http://purl.org/dc/terms/modified> "2023-02-20"^^<https://www.w3.org/2001/XMLSchema#date> .
