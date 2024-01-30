@@ -1,0 +1,33 @@
+<https://sws.geonames.org/333465/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/333465/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/333465/about.rdf> .
+<https://sws.geonames.org/333465/> <http://www.geonames.org/ontology#name> "Kaffa Zone" .
+<https://sws.geonames.org/333465/> <http://www.geonames.org/ontology#alternateName> "Caffa" .
+<https://sws.geonames.org/333465/> <http://www.geonames.org/ontology#alternateName> "Caffa Jimma" .
+<https://sws.geonames.org/333465/> <http://www.geonames.org/ontology#alternateName> "Gimma" .
+<https://sws.geonames.org/333465/> <http://www.geonames.org/ontology#alternateName> "Gomara" .
+<https://sws.geonames.org/333465/> <http://www.geonames.org/ontology#alternateName> "Jimā" .
+<https://sws.geonames.org/333465/> <http://www.geonames.org/ontology#alternateName> "Jimma" .
+<https://sws.geonames.org/333465/> <http://www.geonames.org/ontology#alternateName> "Kafā" .
+<https://sws.geonames.org/333465/> <http://www.geonames.org/ontology#officialName> "Kaffa" .
+<https://sws.geonames.org/333465/> <http://www.geonames.org/ontology#alternateName> "Kaffa-Jimma" .
+<https://sws.geonames.org/333465/> <http://www.geonames.org/ontology#alternateName> "Kaffa Zone"@en .
+<https://sws.geonames.org/333465/> <http://www.geonames.org/ontology#alternateName> "Kefa" .
+<https://sws.geonames.org/333465/> <http://www.geonames.org/ontology#alternateName> "Kefa Kifle Hāger" .
+<https://sws.geonames.org/333465/> <http://www.geonames.org/ontology#alternateName> "Keffa" .
+<https://sws.geonames.org/333465/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#A> .
+<https://sws.geonames.org/333465/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#A.ADM2> .
+<https://sws.geonames.org/333465/> <http://www.geonames.org/ontology#countryCode> "ET" .
+<https://sws.geonames.org/333465/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "7.17966" .
+<https://sws.geonames.org/333465/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "36.0479" .
+<https://sws.geonames.org/333465/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/444188/> .
+<https://sws.geonames.org/333465/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/337996/> .
+<https://sws.geonames.org/333465/> <http://www.geonames.org/ontology#parentADM1> <https://sws.geonames.org/444188/> .
+<https://sws.geonames.org/333465/> <http://www.geonames.org/ontology#childrenFeatures> <https://sws.geonames.org/333465/contains.rdf> .
+<https://sws.geonames.org/333465/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/333465/kaffa-zone.html> .
+<https://sws.geonames.org/333465/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/333465/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/333465/> .
+<https://sws.geonames.org/333465/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/333465/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/333465/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/333465/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/333465/about.rdf> <http://purl.org/dc/terms/modified> "2011-04-05"^^<https://www.w3.org/2001/XMLSchema#date> .

@@ -1,0 +1,29 @@
+<https://sws.geonames.org/2492889/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/2492889/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/2492889/about.rdf> .
+<https://sws.geonames.org/2492889/> <http://www.geonames.org/ontology#name> "Kabylie" .
+<https://sws.geonames.org/2492889/> <http://www.geonames.org/ontology#shortName> "al-Qabāʾil" .
+<https://sws.geonames.org/2492889/> <http://www.geonames.org/ontology#alternateName> "Kabylia" .
+<https://sws.geonames.org/2492889/> <http://www.geonames.org/ontology#alternateName> "Kabylie" .
+<https://sws.geonames.org/2492889/> <http://www.geonames.org/ontology#alternateName> "Les Kabylies" .
+<https://sws.geonames.org/2492889/> <http://www.geonames.org/ontology#alternateName> "Minṭaqat al-Qabāʾil" .
+<https://sws.geonames.org/2492889/> <http://www.geonames.org/ontology#alternateName> "Région Kabylie" .
+<https://sws.geonames.org/2492889/> <http://www.geonames.org/ontology#officialName> "القبائل"@ar .
+<https://sws.geonames.org/2492889/> <http://www.geonames.org/ontology#officialName> "منطقة القبائل"@ar .
+<https://sws.geonames.org/2492889/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#L> .
+<https://sws.geonames.org/2492889/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#L.RGN> .
+<https://sws.geonames.org/2492889/> <http://www.geonames.org/ontology#countryCode> "DZ" .
+<https://sws.geonames.org/2492889/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "36.25" .
+<https://sws.geonames.org/2492889/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "5" .
+<https://sws.geonames.org/2492889/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/2503699/> .
+<https://sws.geonames.org/2492889/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/2589581/> .
+<https://sws.geonames.org/2492889/> <http://www.geonames.org/ontology#parentADM1> <https://sws.geonames.org/2503699/> .
+<https://sws.geonames.org/2492889/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/2492889/nearby.rdf> .
+<https://sws.geonames.org/2492889/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/2492889/kabylie.html> .
+<https://sws.geonames.org/2492889/> <http://www.geonames.org/ontology#wikipediaArticle> <https://ar.wikipedia.org/wiki/%D9%85%D9%86%D8%B7%D9%82%D8%A9_%D8%A7%D9%84%D9%82%D8%A8%D8%A7%D8%A6%D9%84> .
+<https://sws.geonames.org/2492889/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/2492889/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/2492889/> .
+<https://sws.geonames.org/2492889/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/2492889/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/2492889/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/2492889/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/2492889/about.rdf> <http://purl.org/dc/terms/modified> "2019-03-13"^^<https://www.w3.org/2001/XMLSchema#date> .
