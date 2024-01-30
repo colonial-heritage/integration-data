@@ -1,0 +1,30 @@
+<https://sws.geonames.org/47/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/47/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/47/about.rdf> .
+<https://sws.geonames.org/47/> <http://www.geonames.org/ontology#name> "Gholām‘alī-ye Sargach" .
+<https://sws.geonames.org/47/> <http://www.geonames.org/ontology#alternateName> "Ābezhdān"@fa .
+<https://sws.geonames.org/47/> <http://www.geonames.org/ontology#alternateName> "Gholām‘alī-ye Sargach" .
+<https://sws.geonames.org/47/> <http://www.geonames.org/ontology#alternateName> "Sar Gach" .
+<https://sws.geonames.org/47/> <http://www.geonames.org/ontology#alternateName> "Sar Gach-e Ābezhdān"@fa .
+<https://sws.geonames.org/47/> <http://www.geonames.org/ontology#alternateName> "Shūkol-e Sar Gach"@fa .
+<https://sws.geonames.org/47/> <http://www.geonames.org/ontology#alternateName> "Solţānābād"@fa .
+<https://sws.geonames.org/47/> <http://www.geonames.org/ontology#alternateName> "سر گچ"@fa .
+<https://sws.geonames.org/47/> <http://www.geonames.org/ontology#alternateName> "سر گچ آبژدان"@fa .
+<https://sws.geonames.org/47/> <http://www.geonames.org/ontology#alternateName> "غلامعلی سرگچ"@fa .
+<https://sws.geonames.org/47/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#P> .
+<https://sws.geonames.org/47/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#P.PPL> .
+<https://sws.geonames.org/47/> <http://www.geonames.org/ontology#countryCode> "IR" .
+<https://sws.geonames.org/47/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "32.07644" .
+<https://sws.geonames.org/47/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "49.48795" .
+<https://sws.geonames.org/47/> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "0" .
+<https://sws.geonames.org/47/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/127082/> .
+<https://sws.geonames.org/47/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/130758/> .
+<https://sws.geonames.org/47/> <http://www.geonames.org/ontology#parentADM1> <https://sws.geonames.org/127082/> .
+<https://sws.geonames.org/47/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/47/nearby.rdf> .
+<https://sws.geonames.org/47/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/47/gholam-ali-ye-sargach.html> .
+<https://sws.geonames.org/47/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/47/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/47/> .
+<https://sws.geonames.org/47/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/47/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/47/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/47/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/47/about.rdf> <http://purl.org/dc/terms/modified> "2020-06-09"^^<https://www.w3.org/2001/XMLSchema#date> .
