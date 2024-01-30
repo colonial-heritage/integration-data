@@ -1,0 +1,29 @@
+<https://sws.geonames.org/411740/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/411740/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/411740/about.rdf> .
+<https://sws.geonames.org/411740/> <http://www.geonames.org/ontology#name> "Muscat" .
+<https://sws.geonames.org/411740/> <http://www.geonames.org/ontology#alternateName> "Masqaţ" .
+<https://sws.geonames.org/411740/> <http://www.geonames.org/ontology#alternateName> "Minţaqat Masqaţ" .
+<https://sws.geonames.org/411740/> <http://www.geonames.org/ontology#alternateName> "Muḩāfaz̧at Masqaţ" .
+<https://sws.geonames.org/411740/> <http://www.geonames.org/ontology#shortName> "Muscat"@en .
+<https://sws.geonames.org/411740/> <http://www.geonames.org/ontology#alternateName> "Muscat Governorate"@en .
+<https://sws.geonames.org/411740/> <http://www.geonames.org/ontology#alternateName> "محافظة مسقط"@ar .
+<https://sws.geonames.org/411740/> <http://www.geonames.org/ontology#alternateName> "مسقط"@ar .
+<https://sws.geonames.org/411740/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#A> .
+<https://sws.geonames.org/411740/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#A.ADM1> .
+<https://sws.geonames.org/411740/> <http://www.geonames.org/ontology#countryCode> "OM" .
+<https://sws.geonames.org/411740/> <http://www.geonames.org/ontology#population> "1302509" .
+<https://sws.geonames.org/411740/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "23.5835" .
+<https://sws.geonames.org/411740/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "58.40366" .
+<https://sws.geonames.org/411740/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/286963/> .
+<https://sws.geonames.org/411740/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/286963/> .
+<https://sws.geonames.org/411740/> <http://www.geonames.org/ontology#childrenFeatures> <https://sws.geonames.org/411740/contains.rdf> .
+<https://sws.geonames.org/411740/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/411740/muhafazat-masqat.html> .
+<https://sws.geonames.org/411740/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Muscat_Governorate> .
+<https://sws.geonames.org/411740/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Muscat_Governorate> .
+<https://sws.geonames.org/411740/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/411740/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/411740/> .
+<https://sws.geonames.org/411740/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/411740/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/411740/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/411740/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/411740/about.rdf> <http://purl.org/dc/terms/modified> "2022-11-24"^^<https://www.w3.org/2001/XMLSchema#date> .
