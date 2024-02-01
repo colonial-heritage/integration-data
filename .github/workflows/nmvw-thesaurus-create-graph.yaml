@@ -1,13 +1,13 @@
 name: Update Knowledge Graph with data from dataset 'NMVW Thesaurus', based on IRIs in the Knowledge Graph
 
+# Every 12 hours (data doesn't change often)
 on:
-  push:
-    branches: ["main"]
+  schedule:
+    - cron: "0 */12 * * *"
 
 # Run a single workflow at a time
 concurrency:
   group: knowledge-graph
-
 
 jobs:
   run:
