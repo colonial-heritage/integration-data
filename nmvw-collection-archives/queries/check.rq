@@ -6,6 +6,10 @@ SELECT (?dateModified AS ?identifier) ?isChanged
 WHERE {
   <https://data.colonialcollections.nl/nmvw/collection-archives> schema:dateModified ?rawDateModified .
   BIND(xsd:dateTime(?rawDateModified) AS ?dateModified)
-  BIND("?_currentIdentifier"^^xsd:dateTime AS ?currentDateModified)
-  BIND(?dateModified > ?currentDateModified AS ?isChanged)
+
+  # If ?_currentIdentifier is an empty string, this check has not been done before.
+  # Make sure it results in '0' so as to flip ?isChanged to '1' and trigger a new run
+  BIND(IF("?_currentIdentifier" = "", "1970-01-01"^^xsd:date, "?_currentIdentifier"^^xsd:dateTime) AS ?dateModifiedOfLastRun)
+
+  BIND(?dateModified > ?dateModifiedOfLastRun AS ?isChanged)
 }
