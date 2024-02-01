@@ -39,7 +39,7 @@ WHERE {
 
   OPTIONAL {
     ?this crm:P2_has_type [
-      rdfs:label ?typeName
+      skos:prefLabel ?typeName
     ] ;
   }
 
@@ -89,7 +89,7 @@ WHERE {
 
   OPTIONAL {
     ?this crm:P45_consists_of [
-      rdfs:label ?materialName
+      skos:prefLabel ?materialName
     ] .
   }
 
