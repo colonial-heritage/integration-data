@@ -24,7 +24,6 @@ CONSTRUCT {
     cc:yearCreatedStart ?beginOfTheBeginYear ;
     cc:yearCreatedEnd ?endOfTheEndYear ;
     cc:locationCreated ?locationCreatedName ; # Only for indexing
-    cc:countryCreated ?oldCountryCreatedName ; # For BC; remove if the locale-aware names are in use
     cc:countryCreated_en ?countryCreatedNameEn ;
     cc:countryCreated_nl ?countryCreatedNameNl ;
     cc:alternateName ?alternateLocationCreatedName, ?alternateCountryCreatedName ; # Only for indexing
@@ -181,9 +180,6 @@ WHERE {
         FILTER(LANG(?alternateCountryCreatedName) IN ("en", "nl"))
       }
     }
-
-    # For BC; remove if the locale-aware names are in use
-    BIND(IF(?featureCode = <https://www.geonames.org/ontology#A.PCLI>, ?unofficialLocationCreatedName, ?unofficialCountryCreatedName) AS ?oldCountryCreatedName)
 
     # Location could be a country already
     # https://www.geonames.org/export/codes.html
