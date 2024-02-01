@@ -8,6 +8,7 @@ on:
 concurrency:
   group: knowledge-graph
 
+
 jobs:
   run:
     runs-on: ubuntu-latest
