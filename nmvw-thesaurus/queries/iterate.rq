@@ -1,0 +1,16 @@
+PREFIX crm: <http://www.cidoc-crm.org/cidoc-crm/>
+
+# It's impossible to retrieve all IRIs regardless of the predicate - the SPARQL endpoint times out
+SELECT ?this
+WHERE {
+  {
+    SELECT ?this
+    WHERE {
+      [] crm:P2_has_type | crm:P45_consists_of ?this
+      FILTER(REGEX(STR(?this), "^https://hdl.handle.net/20.500.11840/termmaster"))
+    }
+  }
+}
+GROUP BY ?this
+LIMIT ?_limit
+OFFSET ?_offset

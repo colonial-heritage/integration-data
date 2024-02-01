@@ -1,0 +1,64 @@
+name: Update Knowledge Graph with data from dataset 'NMVW Thesaurus', based on IRIs in the Knowledge Graph
+
+on:
+  push:
+    branches: ["main"]
+
+# Run a single workflow at a time
+concurrency:
+  group: knowledge-graph
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout data repository
+        uses: actions/checkout@v4
+        with:
+          path: ./data
+          sparse-checkout: nmvw-thesaurus
+      - name: Checkout code repository
+        uses: actions/checkout@v4
+        with:
+          path: ./code
+          repository: colonial-heritage/integration-layer
+      - name: Install Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Install app
+        run: |
+          cd ./code
+          npm install --no-progress
+          npx turbo run build --filter=@colonial-collections/graph-create
+      - name: Create graph
+        run: |
+          cd ./data
+          mkdir -p "$RUNNER_TEMP"
+          test -f ./nmvw-thesaurus/data/data.tar.zst && tar --zstd -xf ./nmvw-thesaurus/data/data.tar.zst -C "$RUNNER_TEMP"
+          ../code/apps/graph-create/dist/cli.js create \
+            --resource-dir ./nmvw-thesaurus/resources \
+            --data-file "$RUNNER_TEMP/data.sqlite" \
+            --check-endpoint-url "${{ vars.SPARQL_ENDPOINT_URL_KG }}" \
+            --check-if-run-must-continue-query-file ./nmvw-thesaurus/queries/check.rq \
+            --iterate-endpoint-url "${{ vars.SPARQL_ENDPOINT_URL_KG }}" \
+            --iterate-query-file ./nmvw-thesaurus/queries/iterate.rq \
+            --generate-endpoint-url "https://api.colonialcollections.nl/datasets/nmvw/thesaurus/sparql" \
+            --generate-query-file ./nmvw-thesaurus/queries/generate.rq \
+            --triplydb-instance-url "${{ vars.TRIPLYDB_INSTANCE_URL }}" \
+            --triplydb-api-token "${{ secrets.TRIPLYDB_API_TOKEN }}" \
+            --triplydb-account "${{ vars.TRIPLYDB_ACCOUNT }}" \
+            --triplydb-dataset "${{ vars.TRIPLYDB_DATASET_KG }}" \
+            --graph-name "https://data.colonialcollections.nl/nmvw-thesaurus" \
+            --temp-dir "$RUNNER_TEMP"
+      - name: Save changes
+        run: |
+          cd ./data
+          mkdir -p ./nmvw-thesaurus/data
+          test -f "$RUNNER_TEMP/data.sqlite" && tar --zstd -cf ./nmvw-thesaurus/data/data.tar.zst -C "$RUNNER_TEMP" data.sqlite
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit --quiet -a -m "Save changes" || true
+          git push --force -u origin
