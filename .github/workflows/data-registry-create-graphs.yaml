@@ -38,6 +38,4 @@ jobs:
             --triplydb-instance-url "${{ vars.TRIPLYDB_INSTANCE_URL }}" \
             --triplydb-api-token "${{ secrets.TRIPLYDB_API_TOKEN }}" \
             --triplydb-account "${{ vars.TRIPLYDB_ACCOUNT }}" \
-            --triplydb-dataset "${{ vars.TRIPLYDB_DATASET_KG }}" \
-            --triplydb-service-name "kg" \
-            --triplydb-service-type "virtuoso"
+            --triplydb-dataset "${{ vars.TRIPLYDB_DATASET_KG }}"
