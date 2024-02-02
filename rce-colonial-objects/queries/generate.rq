@@ -24,10 +24,13 @@ CONSTRUCT {
     cc:countryCreated_en ?countryCreatedNameEn ;
     cc:countryCreated_nl ?countryCreatedNameNl ;
     cc:alternateName ?alternateLocationCreatedName, ?alternateCountryCreatedName ; # Only for indexing
-    cc:publisher ?publisherName .
+    cc:publisher ?publisherNameLegacy ; # For BC: remove when locale-aware names are in use
+    cc:publisher_en ?publisherNameEn ;
+    cc:publisher_nl ?publisherNameNl .
 }
 WHERE {
-  BIND(?_iri AS ?this)
+  # BIND(?_iri AS ?this)
+  BIND(<https://n2t.net/ark:/27023/020f052c87423a682d41042549511762> AS ?this)
 
   ####################
   # Type
@@ -173,8 +176,10 @@ WHERE {
   ####################
 
   OPTIONAL {
-    ?dataset schema:publisher [
-      schema:name ?publisherName ;
-    ] ;
+    ?dataset schema:publisher/schema:name ?publisherName
+
+    BIND(IF(LANG(?publisherName) = "", ?publisherName, ?null) AS ?publisherNameLegacy)
+    BIND(IF(LANG(?publisherName) = "en", ?publisherName, ?null) AS ?publisherNameEn)
+    BIND(IF(LANG(?publisherName) = "nl", ?publisherName, ?null) AS ?publisherNameNl)
   }
 }
