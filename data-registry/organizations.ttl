@@ -8,32 +8,35 @@
 <https://data.colonialcollections.nl/nmvw>
   a schema:Organization ;
   schema:url <http://www.wereldculturen.nl> ;
+  schema:name "Wereldmuseum"@nl, "Wereldmuseum"@en ;
   schema:address [
     a schema:PostalAddress ;
     schema:streetAddress "Steenstraat 1" ;
     schema:postalCode "2312 BS" ;
-    schema:addressLocality "Leiden" ;
+    schema:addressLocality "Leiden"@nl, "Leiden"@en ;
     schema:addressCountry "Nederland"@nl, "Netherlands"@en
   ] .
 
 <https://linkeddata.cultureelerfgoed.nl/rce>
   a schema:Organization ;
+  schema:name "Rijksdienst voor het Cultureel Erfgoed"@nl, "Cultural Heritage Agency"@en ;
   schema:url <https://www.cultureelerfgoed.nl/> ;
   schema:address [
     a schema:PostalAddress ;
     schema:streetAddress "Smallepad 5" ;
     schema:postalCode "3811 MG" ;
-    schema:addressLocality "Amersfoort" ;
+    schema:addressLocality "Amersfoort"@nl, "Amersfoort"@en ;
     schema:addressCountry "Nederland"@nl, "Netherlands"@en
   ] .
 
 <https://data.colonialcollections.nl/Bronbeek>
   a schema:Organization ;
+  schema:name "Museum Bronbeek"@nl, "Bronbeek Museum"@en ;
   schema:url <http://museumbronbeek.nl/> ;
   schema:address [
     a schema:PostalAddress ;
     schema:streetAddress "Velperweg 147" ;
     schema:postalCode "6824 MB" ;
-    schema:addressLocality "Arnhem" ;
+    schema:addressLocality "Arnhem"@nl, "Arnhem"@en ;
     schema:addressCountry "Nederland"@nl, "Netherlands"@en
   ] .
