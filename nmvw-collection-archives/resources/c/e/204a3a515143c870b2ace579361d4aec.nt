@@ -1,16 +1,16 @@
 <https://n2t.net/ark:/27023/10555e5ea29ed948bb61499ccd413183> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/10555e5ea29ed948bb61499ccd413183> <https://colonialcollections.nl/schema#identifier> "WM-70156" .
 <https://n2t.net/ark:/27023/10555e5ea29ed948bb61499ccd413183> <https://colonialcollections.nl/schema#description> "[KL] wit & rose & rood & zwart & geel & groen\r\n[ST] kraal" .
+<https://n2t.net/ark:/27023/10555e5ea29ed948bb61499ccd413183> <https://colonialcollections.nl/schema#material> "glas (materiaal)" .
 <https://n2t.net/ark:/27023/10555e5ea29ed948bb61499ccd413183> <https://colonialcollections.nl/schema#material> "hout" .
 <https://n2t.net/ark:/27023/10555e5ea29ed948bb61499ccd413183> <https://colonialcollections.nl/schema#material> "vezel" .
-<https://n2t.net/ark:/27023/10555e5ea29ed948bb61499ccd413183> <https://colonialcollections.nl/schema#material> "glas (materiaal)" .
 <https://n2t.net/ark:/27023/10555e5ea29ed948bb61499ccd413183> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/10555e5ea29ed948bb61499ccd413183> <https://colonialcollections.nl/schema#yearCreatedEnd> "1899"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/10555e5ea29ed948bb61499ccd413183> <https://colonialcollections.nl/schema#locationCreated> "South Africa"@en .
 <https://n2t.net/ark:/27023/10555e5ea29ed948bb61499ccd413183> <https://colonialcollections.nl/schema#locationCreated> "Republic of South Africa"@en .
 <https://n2t.net/ark:/27023/10555e5ea29ed948bb61499ccd413183> <https://colonialcollections.nl/schema#locationCreated> "Zuid-Afrika"@nl .
-<https://n2t.net/ark:/27023/10555e5ea29ed948bb61499ccd413183> <https://colonialcollections.nl/schema#countryCreated_en> "Republic of South Africa"@en .
+<https://n2t.net/ark:/27023/10555e5ea29ed948bb61499ccd413183> <https://colonialcollections.nl/schema#locationCreated> "South Africa"@en .
 <https://n2t.net/ark:/27023/10555e5ea29ed948bb61499ccd413183> <https://colonialcollections.nl/schema#countryCreated_en> "South Africa"@en .
+<https://n2t.net/ark:/27023/10555e5ea29ed948bb61499ccd413183> <https://colonialcollections.nl/schema#countryCreated_en> "Republic of South Africa"@en .
 <https://n2t.net/ark:/27023/10555e5ea29ed948bb61499ccd413183> <https://colonialcollections.nl/schema#countryCreated_nl> "Zuid-Afrika"@nl .
 <https://n2t.net/ark:/27023/10555e5ea29ed948bb61499ccd413183> <https://colonialcollections.nl/schema#alternateName> "Union of South Africa"@en .
 <https://n2t.net/ark:/27023/10555e5ea29ed948bb61499ccd413183> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
