@@ -1,8 +1,9 @@
 <https://n2t.net/ark:/27023/485cda06b7f4767453e296dd8cfa0d6c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/485cda06b7f4767453e296dd8cfa0d6c> <https://colonialcollections.nl/schema#identifier> "WM-903978" .
+<https://n2t.net/ark:/27023/485cda06b7f4767453e296dd8cfa0d6c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/485cda06b7f4767453e296dd8cfa0d6c> <https://colonialcollections.nl/schema#description> "portret en face van lama" .
-<https://n2t.net/ark:/27023/485cda06b7f4767453e296dd8cfa0d6c> <https://colonialcollections.nl/schema#material> "karton" .
+<https://n2t.net/ark:/27023/485cda06b7f4767453e296dd8cfa0d6c> <https://colonialcollections.nl/schema#identifier> "WM-903978" .
 <https://n2t.net/ark:/27023/485cda06b7f4767453e296dd8cfa0d6c> <https://colonialcollections.nl/schema#inscription> "titel geschreven met inkt achterop karton & nummer geschreven op foto & etiket 'Geschenk Dr. H.F.C. ten Kate' op achterzijde geplakt" .
+<https://n2t.net/ark:/27023/485cda06b7f4767453e296dd8cfa0d6c> <https://colonialcollections.nl/schema#material> "karton" .
 <https://n2t.net/ark:/27023/485cda06b7f4767453e296dd8cfa0d6c> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/485cda06b7f4767453e296dd8cfa0d6c> <https://colonialcollections.nl/schema#creator> "Dr. H.F.C. (Herman Frederik Carel) ten Kate jr." .
 <https://n2t.net/ark:/27023/485cda06b7f4767453e296dd8cfa0d6c> <https://colonialcollections.nl/schema#yearCreatedStart> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
@@ -11,19 +12,18 @@
 <https://n2t.net/ark:/27023/485cda06b7f4767453e296dd8cfa0d6c> <https://colonialcollections.nl/schema#locationCreated> "Tibet"@en .
 <https://n2t.net/ark:/27023/485cda06b7f4767453e296dd8cfa0d6c> <https://colonialcollections.nl/schema#countryCreated_en> "Russia"@en .
 <https://n2t.net/ark:/27023/485cda06b7f4767453e296dd8cfa0d6c> <https://colonialcollections.nl/schema#countryCreated_en> "China"@en .
-<https://n2t.net/ark:/27023/485cda06b7f4767453e296dd8cfa0d6c> <https://colonialcollections.nl/schema#countryCreated_nl> "Rusland"@nl .
 <https://n2t.net/ark:/27023/485cda06b7f4767453e296dd8cfa0d6c> <https://colonialcollections.nl/schema#countryCreated_nl> "China"@nl .
-<https://n2t.net/ark:/27023/485cda06b7f4767453e296dd8cfa0d6c> <https://colonialcollections.nl/schema#alternateName> "People's Republic of China"@en .
-<https://n2t.net/ark:/27023/485cda06b7f4767453e296dd8cfa0d6c> <https://colonialcollections.nl/schema#alternateName> "Volksrepubliek China"@nl .
+<https://n2t.net/ark:/27023/485cda06b7f4767453e296dd8cfa0d6c> <https://colonialcollections.nl/schema#countryCreated_nl> "Rusland"@nl .
+<https://n2t.net/ark:/27023/485cda06b7f4767453e296dd8cfa0d6c> <https://colonialcollections.nl/schema#alternateName> "Russian Socialist Federative Soviet Republic"@en .
+<https://n2t.net/ark:/27023/485cda06b7f4767453e296dd8cfa0d6c> <https://colonialcollections.nl/schema#alternateName> "Xizang Autonomous Region"@en .
+<https://n2t.net/ark:/27023/485cda06b7f4767453e296dd8cfa0d6c> <https://colonialcollections.nl/schema#alternateName> "Chyna"@nl .
+<https://n2t.net/ark:/27023/485cda06b7f4767453e296dd8cfa0d6c> <https://colonialcollections.nl/schema#alternateName> "People’s Republic of China"@en .
+<https://n2t.net/ark:/27023/485cda06b7f4767453e296dd8cfa0d6c> <https://colonialcollections.nl/schema#alternateName> "Russian Soviet Federative Socialist Republic"@en .
 <https://n2t.net/ark:/27023/485cda06b7f4767453e296dd8cfa0d6c> <https://colonialcollections.nl/schema#alternateName> "Tibet Autonomous Region"@en .
 <https://n2t.net/ark:/27023/485cda06b7f4767453e296dd8cfa0d6c> <https://colonialcollections.nl/schema#alternateName> "Russian Soviet Federated Socialist Republic"@en .
 <https://n2t.net/ark:/27023/485cda06b7f4767453e296dd8cfa0d6c> <https://colonialcollections.nl/schema#alternateName> "Russische Federatie"@nl .
-<https://n2t.net/ark:/27023/485cda06b7f4767453e296dd8cfa0d6c> <https://colonialcollections.nl/schema#alternateName> "Xizang Autonomous Region"@en .
-<https://n2t.net/ark:/27023/485cda06b7f4767453e296dd8cfa0d6c> <https://colonialcollections.nl/schema#alternateName> "People’s Republic of China"@en .
-<https://n2t.net/ark:/27023/485cda06b7f4767453e296dd8cfa0d6c> <https://colonialcollections.nl/schema#alternateName> "Russian Soviet Federative Socialist Republic"@en .
 <https://n2t.net/ark:/27023/485cda06b7f4767453e296dd8cfa0d6c> <https://colonialcollections.nl/schema#alternateName> "Russian Federation"@en .
-<https://n2t.net/ark:/27023/485cda06b7f4767453e296dd8cfa0d6c> <https://colonialcollections.nl/schema#alternateName> "Chyna"@nl .
-<https://n2t.net/ark:/27023/485cda06b7f4767453e296dd8cfa0d6c> <https://colonialcollections.nl/schema#alternateName> "Russian Socialist Federative Soviet Republic"@en .
-<https://n2t.net/ark:/27023/485cda06b7f4767453e296dd8cfa0d6c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/485cda06b7f4767453e296dd8cfa0d6c> <https://colonialcollections.nl/schema#alternateName> "Volksrepubliek China"@nl .
+<https://n2t.net/ark:/27023/485cda06b7f4767453e296dd8cfa0d6c> <https://colonialcollections.nl/schema#alternateName> "People's Republic of China"@en .
 <https://n2t.net/ark:/27023/485cda06b7f4767453e296dd8cfa0d6c> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/485cda06b7f4767453e296dd8cfa0d6c> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
