@@ -203,7 +203,7 @@ WHERE {
   OPTIONAL {
     ?dataset schema:publisher/schema:name ?publisherName
 
-    BIND(IF(LANG(?publisherName) = "", ?publisherName, ?null) AS ?publisherNameLegacy)
+    BIND(IF(LANG(?publisherName) = "", ?publisherName, ?null) AS ?publisherNameLegacy) # For BC: remove when locale-aware names are in use
     BIND(IF(LANG(?publisherName) = "en", ?publisherName, ?null) AS ?publisherNameEn)
     BIND(IF(LANG(?publisherName) = "nl", ?publisherName, ?null) AS ?publisherNameNl)
   }

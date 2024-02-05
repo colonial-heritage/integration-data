@@ -29,8 +29,7 @@ CONSTRUCT {
     cc:publisher_nl ?publisherNameNl .
 }
 WHERE {
-  # BIND(?_iri AS ?this)
-  BIND(<https://n2t.net/ark:/27023/020f052c87423a682d41042549511762> AS ?this)
+  BIND(?_iri AS ?this)
 
   ####################
   # Type
@@ -38,6 +37,7 @@ WHERE {
 
   OPTIONAL {
     ?this crm:P2_has_type [
+      # The type points to a blank node, not to a thesaurus
       rdfs:label ?typeName
     ] ;
   }
@@ -88,6 +88,7 @@ WHERE {
 
   OPTIONAL {
     ?this crm:P45_consists_of [
+      # The material points to a blank node, not to a thesaurus
       rdfs:label ?materialName
     ] ;
   }
@@ -178,7 +179,7 @@ WHERE {
   OPTIONAL {
     ?dataset schema:publisher/schema:name ?publisherName
 
-    BIND(IF(LANG(?publisherName) = "", ?publisherName, ?null) AS ?publisherNameLegacy)
+    BIND(IF(LANG(?publisherName) = "", ?publisherName, ?null) AS ?publisherNameLegacy) # For BC: remove when locale-aware names are in use
     BIND(IF(LANG(?publisherName) = "en", ?publisherName, ?null) AS ?publisherNameEn)
     BIND(IF(LANG(?publisherName) = "nl", ?publisherName, ?null) AS ?publisherNameNl)
   }
