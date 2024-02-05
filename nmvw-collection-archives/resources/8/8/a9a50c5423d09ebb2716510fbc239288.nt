@@ -1,8 +1,9 @@
 <https://n2t.net/ark:/27023/bd54fb002d6015e9184a1ac8115acc6d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/bd54fb002d6015e9184a1ac8115acc6d> <https://colonialcollections.nl/schema#name> "As van verbrande wierook" .
+<https://n2t.net/ark:/27023/bd54fb002d6015e9184a1ac8115acc6d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/bd54fb002d6015e9184a1ac8115acc6d> <https://colonialcollections.nl/schema#description> "As van de wierookstokjes die gebrand zijn bij de begrafenissen van de verschillende voorouders." .
 <https://n2t.net/ark:/27023/bd54fb002d6015e9184a1ac8115acc6d> <https://colonialcollections.nl/schema#additionalType> "wierookstokjes" .
 <https://n2t.net/ark:/27023/bd54fb002d6015e9184a1ac8115acc6d> <https://colonialcollections.nl/schema#identifier> "7241-39d" .
-<https://n2t.net/ark:/27023/bd54fb002d6015e9184a1ac8115acc6d> <https://colonialcollections.nl/schema#name> "As van verbrande wierook" .
-<https://n2t.net/ark:/27023/bd54fb002d6015e9184a1ac8115acc6d> <https://colonialcollections.nl/schema#description> "As van de wierookstokjes die gebrand zijn bij de begrafenissen van de verschillende voorouders." .
 <https://n2t.net/ark:/27023/bd54fb002d6015e9184a1ac8115acc6d> <https://colonialcollections.nl/schema#material> "wierook" .
 <https://n2t.net/ark:/27023/bd54fb002d6015e9184a1ac8115acc6d> <https://colonialcollections.nl/schema#material> "as (residu)" .
 <https://n2t.net/ark:/27023/bd54fb002d6015e9184a1ac8115acc6d> <https://colonialcollections.nl/schema#yearCreatedStart> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .
@@ -10,24 +11,23 @@
 <https://n2t.net/ark:/27023/bd54fb002d6015e9184a1ac8115acc6d> <https://colonialcollections.nl/schema#locationCreated> "China"@en .
 <https://n2t.net/ark:/27023/bd54fb002d6015e9184a1ac8115acc6d> <https://colonialcollections.nl/schema#locationCreated> "China"@nl .
 <https://n2t.net/ark:/27023/bd54fb002d6015e9184a1ac8115acc6d> <https://colonialcollections.nl/schema#locationCreated> "Jakarta"@nl .
-<https://n2t.net/ark:/27023/bd54fb002d6015e9184a1ac8115acc6d> <https://colonialcollections.nl/schema#countryCreated_en> "China"@en .
 <https://n2t.net/ark:/27023/bd54fb002d6015e9184a1ac8115acc6d> <https://colonialcollections.nl/schema#countryCreated_en> "Indonesia"@en .
-<https://n2t.net/ark:/27023/bd54fb002d6015e9184a1ac8115acc6d> <https://colonialcollections.nl/schema#countryCreated_nl> "China"@nl .
+<https://n2t.net/ark:/27023/bd54fb002d6015e9184a1ac8115acc6d> <https://colonialcollections.nl/schema#countryCreated_en> "China"@en .
 <https://n2t.net/ark:/27023/bd54fb002d6015e9184a1ac8115acc6d> <https://colonialcollections.nl/schema#countryCreated_nl> "Republiek Indonesië"@nl .
 <https://n2t.net/ark:/27023/bd54fb002d6015e9184a1ac8115acc6d> <https://colonialcollections.nl/schema#countryCreated_nl> "Indonesië"@nl .
-<https://n2t.net/ark:/27023/bd54fb002d6015e9184a1ac8115acc6d> <https://colonialcollections.nl/schema#alternateName> "Nederlands-Indië"@nl .
-<https://n2t.net/ark:/27023/bd54fb002d6015e9184a1ac8115acc6d> <https://colonialcollections.nl/schema#alternateName> "Oost-Indien"@nl .
-<https://n2t.net/ark:/27023/bd54fb002d6015e9184a1ac8115acc6d> <https://colonialcollections.nl/schema#alternateName> "Nederlandsch-Indië"@nl .
-<https://n2t.net/ark:/27023/bd54fb002d6015e9184a1ac8115acc6d> <https://colonialcollections.nl/schema#alternateName> "People's Republic of China"@en .
-<https://n2t.net/ark:/27023/bd54fb002d6015e9184a1ac8115acc6d> <https://colonialcollections.nl/schema#alternateName> "Batavia"@nl .
-<https://n2t.net/ark:/27023/bd54fb002d6015e9184a1ac8115acc6d> <https://colonialcollections.nl/schema#alternateName> "Jakarta"@en .
-<https://n2t.net/ark:/27023/bd54fb002d6015e9184a1ac8115acc6d> <https://colonialcollections.nl/schema#alternateName> "Batavia"@en .
-<https://n2t.net/ark:/27023/bd54fb002d6015e9184a1ac8115acc6d> <https://colonialcollections.nl/schema#alternateName> "Djakarta"@en .
-<https://n2t.net/ark:/27023/bd54fb002d6015e9184a1ac8115acc6d> <https://colonialcollections.nl/schema#alternateName> "Volksrepubliek China"@nl .
+<https://n2t.net/ark:/27023/bd54fb002d6015e9184a1ac8115acc6d> <https://colonialcollections.nl/schema#countryCreated_nl> "China"@nl .
 <https://n2t.net/ark:/27023/bd54fb002d6015e9184a1ac8115acc6d> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
+<https://n2t.net/ark:/27023/bd54fb002d6015e9184a1ac8115acc6d> <https://colonialcollections.nl/schema#alternateName> "Volksrepubliek China"@nl .
+<https://n2t.net/ark:/27023/bd54fb002d6015e9184a1ac8115acc6d> <https://colonialcollections.nl/schema#alternateName> "Nederlandsch-Indië"@nl .
 <https://n2t.net/ark:/27023/bd54fb002d6015e9184a1ac8115acc6d> <https://colonialcollections.nl/schema#alternateName> "People’s Republic of China"@en .
-<https://n2t.net/ark:/27023/bd54fb002d6015e9184a1ac8115acc6d> <https://colonialcollections.nl/schema#alternateName> "Big Durian"@en .
 <https://n2t.net/ark:/27023/bd54fb002d6015e9184a1ac8115acc6d> <https://colonialcollections.nl/schema#alternateName> "Chyna"@nl .
-<https://n2t.net/ark:/27023/bd54fb002d6015e9184a1ac8115acc6d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/bd54fb002d6015e9184a1ac8115acc6d> <https://colonialcollections.nl/schema#alternateName> "Big Durian"@en .
+<https://n2t.net/ark:/27023/bd54fb002d6015e9184a1ac8115acc6d> <https://colonialcollections.nl/schema#alternateName> "Oost-Indien"@nl .
+<https://n2t.net/ark:/27023/bd54fb002d6015e9184a1ac8115acc6d> <https://colonialcollections.nl/schema#alternateName> "Batavia"@en .
+<https://n2t.net/ark:/27023/bd54fb002d6015e9184a1ac8115acc6d> <https://colonialcollections.nl/schema#alternateName> "Batavia"@nl .
+<https://n2t.net/ark:/27023/bd54fb002d6015e9184a1ac8115acc6d> <https://colonialcollections.nl/schema#alternateName> "Djakarta"@en .
+<https://n2t.net/ark:/27023/bd54fb002d6015e9184a1ac8115acc6d> <https://colonialcollections.nl/schema#alternateName> "People's Republic of China"@en .
+<https://n2t.net/ark:/27023/bd54fb002d6015e9184a1ac8115acc6d> <https://colonialcollections.nl/schema#alternateName> "Jakarta"@en .
+<https://n2t.net/ark:/27023/bd54fb002d6015e9184a1ac8115acc6d> <https://colonialcollections.nl/schema#alternateName> "Nederlands-Indië"@nl .
 <https://n2t.net/ark:/27023/bd54fb002d6015e9184a1ac8115acc6d> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/bd54fb002d6015e9184a1ac8115acc6d> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
