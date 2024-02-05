@@ -1,14 +1,9 @@
 name: Update Search Graph with data from dataset 'Colonial Objects' in the Knowledge Graph
 
 # Every 3 hours
-# on:
-#   schedule:
-#     - cron: "0 */3 * * *"
-
 on:
-  push:
-    branches: ["main"]
-
+  schedule:
+    - cron: "0 */3 * * *"
 
 # Run a single workflow at a time
 concurrency:
@@ -17,7 +12,7 @@ concurrency:
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 120
     steps:
       - name: Checkout data repository
         uses: actions/checkout@v4
