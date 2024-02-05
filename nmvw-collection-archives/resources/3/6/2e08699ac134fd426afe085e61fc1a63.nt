@@ -1,11 +1,12 @@
 <https://n2t.net/ark:/27023/97efce8a15eba512f79da712ef18c351> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/97efce8a15eba512f79da712ef18c351> <https://colonialcollections.nl/schema#name> "KALLIGRAFIE" .
+<https://n2t.net/ark:/27023/97efce8a15eba512f79da712ef18c351> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/97efce8a15eba512f79da712ef18c351> <https://colonialcollections.nl/schema#description> "De Japanse archeoloog Hamada Seiryo schreef deze kalligrafie voor de Amerikaanse sinoloog William Acker. Het is een citaat uit de Analecten van Confucius." .
 <https://n2t.net/ark:/27023/97efce8a15eba512f79da712ef18c351> <https://colonialcollections.nl/schema#additionalType> "kalligrafie" .
 <https://n2t.net/ark:/27023/97efce8a15eba512f79da712ef18c351> <https://colonialcollections.nl/schema#identifier> "7045-2" .
-<https://n2t.net/ark:/27023/97efce8a15eba512f79da712ef18c351> <https://colonialcollections.nl/schema#name> "KALLIGRAFIE" .
-<https://n2t.net/ark:/27023/97efce8a15eba512f79da712ef18c351> <https://colonialcollections.nl/schema#description> "De Japanse archeoloog Hamada Seiryo schreef deze kalligrafie voor de Amerikaanse sinoloog William Acker. Het is een citaat uit de Analecten van Confucius." .
+<https://n2t.net/ark:/27023/97efce8a15eba512f79da712ef18c351> <https://colonialcollections.nl/schema#inscription> "溫故知新" .
 <https://n2t.net/ark:/27023/97efce8a15eba512f79da712ef18c351> <https://colonialcollections.nl/schema#material> "inkt" .
 <https://n2t.net/ark:/27023/97efce8a15eba512f79da712ef18c351> <https://colonialcollections.nl/schema#material> "papier (vezelproduct)" .
-<https://n2t.net/ark:/27023/97efce8a15eba512f79da712ef18c351> <https://colonialcollections.nl/schema#inscription> "溫故知新" .
 <https://n2t.net/ark:/27023/97efce8a15eba512f79da712ef18c351> <https://colonialcollections.nl/schema#creator> "Hamada Seiryo (滨田青陵)" .
 <https://n2t.net/ark:/27023/97efce8a15eba512f79da712ef18c351> <https://colonialcollections.nl/schema#yearCreatedStart> "1937"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/97efce8a15eba512f79da712ef18c351> <https://colonialcollections.nl/schema#yearCreatedEnd> "1937"^^<http://www.w3.org/2001/XMLSchema#integer> .
@@ -13,6 +14,5 @@
 <https://n2t.net/ark:/27023/97efce8a15eba512f79da712ef18c351> <https://colonialcollections.nl/schema#locationCreated> "Japan"@en .
 <https://n2t.net/ark:/27023/97efce8a15eba512f79da712ef18c351> <https://colonialcollections.nl/schema#countryCreated_en> "Japan"@en .
 <https://n2t.net/ark:/27023/97efce8a15eba512f79da712ef18c351> <https://colonialcollections.nl/schema#countryCreated_nl> "Japan"@nl .
-<https://n2t.net/ark:/27023/97efce8a15eba512f79da712ef18c351> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/97efce8a15eba512f79da712ef18c351> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/97efce8a15eba512f79da712ef18c351> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
