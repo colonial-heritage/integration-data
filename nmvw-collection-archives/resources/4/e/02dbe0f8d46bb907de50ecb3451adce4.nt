@@ -1,8 +1,9 @@
 <https://n2t.net/ark:/27023/9f593d55de75d8024a3a18953756f721> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/9f593d55de75d8024a3a18953756f721> <https://colonialcollections.nl/schema#additionalType> "draagdoeken" .
-<https://n2t.net/ark:/27023/9f593d55de75d8024a3a18953756f721> <https://colonialcollections.nl/schema#additionalType> "dozen" .
-<https://n2t.net/ark:/27023/9f593d55de75d8024a3a18953756f721> <https://colonialcollections.nl/schema#identifier> "WM-77252" .
+<https://n2t.net/ark:/27023/9f593d55de75d8024a3a18953756f721> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/9f593d55de75d8024a3a18953756f721> <https://colonialcollections.nl/schema#description> "Twee draagdoeken (1-2) kunstzinnig verpakt in een doos (4) met deksel (3), kijkvenster (5) en tekst op waaiervormig papier (6)." .
+<https://n2t.net/ark:/27023/9f593d55de75d8024a3a18953756f721> <https://colonialcollections.nl/schema#additionalType> "dozen" .
+<https://n2t.net/ark:/27023/9f593d55de75d8024a3a18953756f721> <https://colonialcollections.nl/schema#additionalType> "draagdoeken" .
+<https://n2t.net/ark:/27023/9f593d55de75d8024a3a18953756f721> <https://colonialcollections.nl/schema#identifier> "WM-77252" .
 <https://n2t.net/ark:/27023/9f593d55de75d8024a3a18953756f721> <https://colonialcollections.nl/schema#yearCreatedStart> "1985"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/9f593d55de75d8024a3a18953756f721> <https://colonialcollections.nl/schema#yearCreatedEnd> "1995"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/9f593d55de75d8024a3a18953756f721> <https://colonialcollections.nl/schema#locationCreated> "Tokyo"@en .
@@ -10,6 +11,5 @@
 <https://n2t.net/ark:/27023/9f593d55de75d8024a3a18953756f721> <https://colonialcollections.nl/schema#countryCreated_nl> "Japan"@nl .
 <https://n2t.net/ark:/27023/9f593d55de75d8024a3a18953756f721> <https://colonialcollections.nl/schema#alternateName> "Tokio"@nl .
 <https://n2t.net/ark:/27023/9f593d55de75d8024a3a18953756f721> <https://colonialcollections.nl/schema#alternateName> "Edo"@en .
-<https://n2t.net/ark:/27023/9f593d55de75d8024a3a18953756f721> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/9f593d55de75d8024a3a18953756f721> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/9f593d55de75d8024a3a18953756f721> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
