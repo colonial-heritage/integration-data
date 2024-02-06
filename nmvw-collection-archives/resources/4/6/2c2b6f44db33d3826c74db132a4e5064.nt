@@ -1,9 +1,10 @@
 <https://n2t.net/ark:/27023/806bf394519ad842c3768eae8a29b9b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/806bf394519ad842c3768eae8a29b9b2> <https://colonialcollections.nl/schema#identifier> "TM-5867-37" .
 <https://n2t.net/ark:/27023/806bf394519ad842c3768eae8a29b9b2> <https://colonialcollections.nl/schema#name> "LUMUMBA WORDT OP HET VLIEGVELD VAN ACCRA BEGROET DOOR KWAME NKRUMAH." .
+<https://n2t.net/ark:/27023/806bf394519ad842c3768eae8a29b9b2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/806bf394519ad842c3768eae8a29b9b2> <https://colonialcollections.nl/schema#description> "Kwame Nkrumah, de president van Ghana in lang gewaad, verwelkomt op het vliegveld van Accra Lumumba, die als enige Congolees zal deelnemen aan de Panafrikaanse Conferentie aldaar in 1957.\r\n\r\nOok hier vergist Tshibumba zich: deze conferentie vond plaats in december 1958 en waren er nog twee Congolese deelnemers (Fabian 1996: 74-75).\r\n\r\nVervaardiging\r\nDe schilder Tshibumba, die nooit een kunstopleiding heeft gevolgd, gebruikte als basis witte latexverf, waarop hij met potlood een ruwe schets maakte; voor de verdere beschildering en afwerking - beginnend in een bovenhoek -  met acrylverf gebruikte hij een goedkoop penseel.\r\nDe kleur van de verf was afhankelijk van het aanbod en voorraad; dit was volgens de schilder zelf een kwestie van artistieke vrijheid (Fabian 1996: 242-243)." .
-<https://n2t.net/ark:/27023/806bf394519ad842c3768eae8a29b9b2> <https://colonialcollections.nl/schema#material> "kleurstof" .
+<https://n2t.net/ark:/27023/806bf394519ad842c3768eae8a29b9b2> <https://colonialcollections.nl/schema#identifier> "TM-5867-37" .
 <https://n2t.net/ark:/27023/806bf394519ad842c3768eae8a29b9b2> <https://colonialcollections.nl/schema#material> "linnen" .
+<https://n2t.net/ark:/27023/806bf394519ad842c3768eae8a29b9b2> <https://colonialcollections.nl/schema#material> "kleurstof" .
 <https://n2t.net/ark:/27023/806bf394519ad842c3768eae8a29b9b2> <https://colonialcollections.nl/schema#creator> "T. (Tshibumba) Kanda Matulu" .
 <https://n2t.net/ark:/27023/806bf394519ad842c3768eae8a29b9b2> <https://colonialcollections.nl/schema#yearCreatedStart> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/806bf394519ad842c3768eae8a29b9b2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1974"^^<http://www.w3.org/2001/XMLSchema#integer> .
@@ -11,13 +12,12 @@
 <https://n2t.net/ark:/27023/806bf394519ad842c3768eae8a29b9b2> <https://colonialcollections.nl/schema#countryCreated_en> "DR Congo"@en .
 <https://n2t.net/ark:/27023/806bf394519ad842c3768eae8a29b9b2> <https://colonialcollections.nl/schema#countryCreated_en> "Congo (DRC)"@en .
 <https://n2t.net/ark:/27023/806bf394519ad842c3768eae8a29b9b2> <https://colonialcollections.nl/schema#countryCreated_nl> "Congo (DRC)"@nl .
-<https://n2t.net/ark:/27023/806bf394519ad842c3768eae8a29b9b2> <https://colonialcollections.nl/schema#alternateName> "Belgian Congo"@en .
-<https://n2t.net/ark:/27023/806bf394519ad842c3768eae8a29b9b2> <https://colonialcollections.nl/schema#alternateName> "Democratic Republic of the Congo"@en .
-<https://n2t.net/ark:/27023/806bf394519ad842c3768eae8a29b9b2> <https://colonialcollections.nl/schema#alternateName> "Congo-Kinshasa"@nl .
-<https://n2t.net/ark:/27023/806bf394519ad842c3768eae8a29b9b2> <https://colonialcollections.nl/schema#alternateName> "Congo-Kinshasa"@en .
-<https://n2t.net/ark:/27023/806bf394519ad842c3768eae8a29b9b2> <https://colonialcollections.nl/schema#alternateName> "Democratic Republic of Congo"@en .
-<https://n2t.net/ark:/27023/806bf394519ad842c3768eae8a29b9b2> <https://colonialcollections.nl/schema#alternateName> "Congo, The Democratic Republic Of"@en .
 <https://n2t.net/ark:/27023/806bf394519ad842c3768eae8a29b9b2> <https://colonialcollections.nl/schema#alternateName> "Republic of Zaire"@en .
-<https://n2t.net/ark:/27023/806bf394519ad842c3768eae8a29b9b2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/806bf394519ad842c3768eae8a29b9b2> <https://colonialcollections.nl/schema#alternateName> "Congo, The Democratic Republic Of"@en .
+<https://n2t.net/ark:/27023/806bf394519ad842c3768eae8a29b9b2> <https://colonialcollections.nl/schema#alternateName> "Democratic Republic of the Congo"@en .
+<https://n2t.net/ark:/27023/806bf394519ad842c3768eae8a29b9b2> <https://colonialcollections.nl/schema#alternateName> "Congo-Kinshasa"@en .
+<https://n2t.net/ark:/27023/806bf394519ad842c3768eae8a29b9b2> <https://colonialcollections.nl/schema#alternateName> "Belgian Congo"@en .
+<https://n2t.net/ark:/27023/806bf394519ad842c3768eae8a29b9b2> <https://colonialcollections.nl/schema#alternateName> "Congo-Kinshasa"@nl .
+<https://n2t.net/ark:/27023/806bf394519ad842c3768eae8a29b9b2> <https://colonialcollections.nl/schema#alternateName> "Democratic Republic of Congo"@en .
 <https://n2t.net/ark:/27023/806bf394519ad842c3768eae8a29b9b2> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/806bf394519ad842c3768eae8a29b9b2> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
