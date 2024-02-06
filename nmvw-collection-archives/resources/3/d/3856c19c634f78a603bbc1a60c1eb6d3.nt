@@ -1,6 +1,7 @@
 <https://n2t.net/ark:/27023/ca8542ba4ec4e6560e0f887c8dba3e7a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ca8542ba4ec4e6560e0f887c8dba3e7a> <https://colonialcollections.nl/schema#identifier> "WM-432264" .
+<https://n2t.net/ark:/27023/ca8542ba4ec4e6560e0f887c8dba3e7a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/ca8542ba4ec4e6560e0f887c8dba3e7a> <https://colonialcollections.nl/schema#description> "Gezicht op een brede straat met daaraan het postkantoor." .
+<https://n2t.net/ark:/27023/ca8542ba4ec4e6560e0f887c8dba3e7a> <https://colonialcollections.nl/schema#identifier> "WM-432264" .
 <https://n2t.net/ark:/27023/ca8542ba4ec4e6560e0f887c8dba3e7a> <https://colonialcollections.nl/schema#inscription> "titel ; voorzijde ; gedrukt / titel ; achterzijde ; gedrukt / nummer ; achterzijde ; gedrukt" .
 <https://n2t.net/ark:/27023/ca8542ba4ec4e6560e0f887c8dba3e7a> <https://colonialcollections.nl/schema#creator> "Andreopoulos, C." .
 <https://n2t.net/ark:/27023/ca8542ba4ec4e6560e0f887c8dba3e7a> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
@@ -8,9 +9,8 @@
 <https://n2t.net/ark:/27023/ca8542ba4ec4e6560e0f887c8dba3e7a> <https://colonialcollections.nl/schema#locationCreated> "Port Said" .
 <https://n2t.net/ark:/27023/ca8542ba4ec4e6560e0f887c8dba3e7a> <https://colonialcollections.nl/schema#countryCreated_en> "Egypt"@en .
 <https://n2t.net/ark:/27023/ca8542ba4ec4e6560e0f887c8dba3e7a> <https://colonialcollections.nl/schema#countryCreated_nl> "Egypte"@nl .
-<https://n2t.net/ark:/27023/ca8542ba4ec4e6560e0f887c8dba3e7a> <https://colonialcollections.nl/schema#alternateName> "Arab Republic of Egypt"@en .
 <https://n2t.net/ark:/27023/ca8542ba4ec4e6560e0f887c8dba3e7a> <https://colonialcollections.nl/schema#alternateName> "Port Said"@en .
 <https://n2t.net/ark:/27023/ca8542ba4ec4e6560e0f887c8dba3e7a> <https://colonialcollections.nl/schema#alternateName> "Port Said"@nl .
-<https://n2t.net/ark:/27023/ca8542ba4ec4e6560e0f887c8dba3e7a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/ca8542ba4ec4e6560e0f887c8dba3e7a> <https://colonialcollections.nl/schema#alternateName> "Arab Republic of Egypt"@en .
 <https://n2t.net/ark:/27023/ca8542ba4ec4e6560e0f887c8dba3e7a> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/ca8542ba4ec4e6560e0f887c8dba3e7a> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
