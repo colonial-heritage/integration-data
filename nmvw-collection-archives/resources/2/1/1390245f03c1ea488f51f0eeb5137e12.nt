@@ -1,7 +1,8 @@
 <https://n2t.net/ark:/27023/a045e011af6c83fc46a5c0aa9e157e52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a045e011af6c83fc46a5c0aa9e157e52> <https://colonialcollections.nl/schema#identifier> "RV-3008-1b" .
 <https://n2t.net/ark:/27023/a045e011af6c83fc46a5c0aa9e157e52> <https://colonialcollections.nl/schema#name> "Afgietsel van een lettertype" .
+<https://n2t.net/ark:/27023/a045e011af6c83fc46a5c0aa9e157e52> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/a045e011af6c83fc46a5c0aa9e157e52> <https://colonialcollections.nl/schema#description> "Gipsafgietsel van lettertype in de taal van de Oeigoeren, het origineel is gevonden in Turkestan (China)." .
+<https://n2t.net/ark:/27023/a045e011af6c83fc46a5c0aa9e157e52> <https://colonialcollections.nl/schema#identifier> "RV-3008-1b" .
 <https://n2t.net/ark:/27023/a045e011af6c83fc46a5c0aa9e157e52> <https://colonialcollections.nl/schema#material> "gips" .
 <https://n2t.net/ark:/27023/a045e011af6c83fc46a5c0aa9e157e52> <https://colonialcollections.nl/schema#yearCreatedStart> "1290"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/a045e011af6c83fc46a5c0aa9e157e52> <https://colonialcollections.nl/schema#yearCreatedEnd> "1310"^^<http://www.w3.org/2001/XMLSchema#integer> .
@@ -9,10 +10,9 @@
 <https://n2t.net/ark:/27023/a045e011af6c83fc46a5c0aa9e157e52> <https://colonialcollections.nl/schema#locationCreated> "China"@nl .
 <https://n2t.net/ark:/27023/a045e011af6c83fc46a5c0aa9e157e52> <https://colonialcollections.nl/schema#countryCreated_en> "China"@en .
 <https://n2t.net/ark:/27023/a045e011af6c83fc46a5c0aa9e157e52> <https://colonialcollections.nl/schema#countryCreated_nl> "China"@nl .
-<https://n2t.net/ark:/27023/a045e011af6c83fc46a5c0aa9e157e52> <https://colonialcollections.nl/schema#alternateName> "People's Republic of China"@en .
-<https://n2t.net/ark:/27023/a045e011af6c83fc46a5c0aa9e157e52> <https://colonialcollections.nl/schema#alternateName> "Volksrepubliek China"@nl .
 <https://n2t.net/ark:/27023/a045e011af6c83fc46a5c0aa9e157e52> <https://colonialcollections.nl/schema#alternateName> "People’s Republic of China"@en .
+<https://n2t.net/ark:/27023/a045e011af6c83fc46a5c0aa9e157e52> <https://colonialcollections.nl/schema#alternateName> "Volksrepubliek China"@nl .
 <https://n2t.net/ark:/27023/a045e011af6c83fc46a5c0aa9e157e52> <https://colonialcollections.nl/schema#alternateName> "Chyna"@nl .
-<https://n2t.net/ark:/27023/a045e011af6c83fc46a5c0aa9e157e52> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/a045e011af6c83fc46a5c0aa9e157e52> <https://colonialcollections.nl/schema#alternateName> "People's Republic of China"@en .
 <https://n2t.net/ark:/27023/a045e011af6c83fc46a5c0aa9e157e52> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/a045e011af6c83fc46a5c0aa9e157e52> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .

@@ -1,9 +1,10 @@
 <https://n2t.net/ark:/27023/9c35b11f115ee34148bcea9c6c05b782> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9c35b11f115ee34148bcea9c6c05b782> <https://colonialcollections.nl/schema#name> "SCHUTBLAD VAN MINIATUUR" .
+<https://n2t.net/ark:/27023/9c35b11f115ee34148bcea9c6c05b782> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/9c35b11f115ee34148bcea9c6c05b782> <https://colonialcollections.nl/schema#description> "Schutblad met rand van oorspronkelijk miniatuur `Episode uit het epos Mahabharata: Arjuna in gesprek met Krishna' (RV-3025-23)." .
 <https://n2t.net/ark:/27023/9c35b11f115ee34148bcea9c6c05b782> <https://colonialcollections.nl/schema#additionalType> "schutbladen" .
 <https://n2t.net/ark:/27023/9c35b11f115ee34148bcea9c6c05b782> <https://colonialcollections.nl/schema#additionalType> "papierwerk" .
 <https://n2t.net/ark:/27023/9c35b11f115ee34148bcea9c6c05b782> <https://colonialcollections.nl/schema#identifier> "RV-3025-23a" .
-<https://n2t.net/ark:/27023/9c35b11f115ee34148bcea9c6c05b782> <https://colonialcollections.nl/schema#name> "SCHUTBLAD VAN MINIATUUR" .
-<https://n2t.net/ark:/27023/9c35b11f115ee34148bcea9c6c05b782> <https://colonialcollections.nl/schema#description> "Schutblad met rand van oorspronkelijk miniatuur `Episode uit het epos Mahabharata: Arjuna in gesprek met Krishna' (RV-3025-23)." .
 <https://n2t.net/ark:/27023/9c35b11f115ee34148bcea9c6c05b782> <https://colonialcollections.nl/schema#material> "papier (vezelproduct)" .
 <https://n2t.net/ark:/27023/9c35b11f115ee34148bcea9c6c05b782> <https://colonialcollections.nl/schema#yearCreatedStart> "1820"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/9c35b11f115ee34148bcea9c6c05b782> <https://colonialcollections.nl/schema#yearCreatedEnd> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .
@@ -11,6 +12,5 @@
 <https://n2t.net/ark:/27023/9c35b11f115ee34148bcea9c6c05b782> <https://colonialcollections.nl/schema#locationCreated> "India"@en .
 <https://n2t.net/ark:/27023/9c35b11f115ee34148bcea9c6c05b782> <https://colonialcollections.nl/schema#countryCreated_en> "India"@en .
 <https://n2t.net/ark:/27023/9c35b11f115ee34148bcea9c6c05b782> <https://colonialcollections.nl/schema#countryCreated_nl> "India"@nl .
-<https://n2t.net/ark:/27023/9c35b11f115ee34148bcea9c6c05b782> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/9c35b11f115ee34148bcea9c6c05b782> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/9c35b11f115ee34148bcea9c6c05b782> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
