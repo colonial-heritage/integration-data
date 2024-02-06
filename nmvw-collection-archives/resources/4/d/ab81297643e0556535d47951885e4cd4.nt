@@ -1,9 +1,10 @@
 <https://n2t.net/ark:/27023/f4bb371672cc9a49ba8b77e3c80a179d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/f4bb371672cc9a49ba8b77e3c80a179d> <https://colonialcollections.nl/schema#additionalType> "bijlen (wapens)" .
-<https://n2t.net/ark:/27023/f4bb371672cc9a49ba8b77e3c80a179d> <https://colonialcollections.nl/schema#additionalType> "ceremoniële bijlen" .
-<https://n2t.net/ark:/27023/f4bb371672cc9a49ba8b77e3c80a179d> <https://colonialcollections.nl/schema#identifier> "RV-3399-9" .
 <https://n2t.net/ark:/27023/f4bb371672cc9a49ba8b77e3c80a179d> <https://colonialcollections.nl/schema#name> "BIJL" .
+<https://n2t.net/ark:/27023/f4bb371672cc9a49ba8b77e3c80a179d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/f4bb371672cc9a49ba8b77e3c80a179d> <https://colonialcollections.nl/schema#description> "Bijl van witte steen." .
+<https://n2t.net/ark:/27023/f4bb371672cc9a49ba8b77e3c80a179d> <https://colonialcollections.nl/schema#additionalType> "ceremoniële bijlen" .
+<https://n2t.net/ark:/27023/f4bb371672cc9a49ba8b77e3c80a179d> <https://colonialcollections.nl/schema#additionalType> "bijlen (wapens)" .
+<https://n2t.net/ark:/27023/f4bb371672cc9a49ba8b77e3c80a179d> <https://colonialcollections.nl/schema#identifier> "RV-3399-9" .
 <https://n2t.net/ark:/27023/f4bb371672cc9a49ba8b77e3c80a179d> <https://colonialcollections.nl/schema#material> "gesteente" .
 <https://n2t.net/ark:/27023/f4bb371672cc9a49ba8b77e3c80a179d> <https://colonialcollections.nl/schema#yearCreatedStart> "900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/f4bb371672cc9a49ba8b77e3c80a179d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1200"^^<http://www.w3.org/2001/XMLSchema#integer> .
@@ -11,8 +12,7 @@
 <https://n2t.net/ark:/27023/f4bb371672cc9a49ba8b77e3c80a179d> <https://colonialcollections.nl/schema#countryCreated_en> "Mexico"@en .
 <https://n2t.net/ark:/27023/f4bb371672cc9a49ba8b77e3c80a179d> <https://colonialcollections.nl/schema#countryCreated_nl> "Mexico"@nl .
 <https://n2t.net/ark:/27023/f4bb371672cc9a49ba8b77e3c80a179d> <https://colonialcollections.nl/schema#alternateName> "Mexican Republic"@en .
-<https://n2t.net/ark:/27023/f4bb371672cc9a49ba8b77e3c80a179d> <https://colonialcollections.nl/schema#alternateName> "United Mexican States"@en .
 <https://n2t.net/ark:/27023/f4bb371672cc9a49ba8b77e3c80a179d> <https://colonialcollections.nl/schema#alternateName> "Veracruz"@en .
-<https://n2t.net/ark:/27023/f4bb371672cc9a49ba8b77e3c80a179d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/f4bb371672cc9a49ba8b77e3c80a179d> <https://colonialcollections.nl/schema#alternateName> "United Mexican States"@en .
 <https://n2t.net/ark:/27023/f4bb371672cc9a49ba8b77e3c80a179d> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/f4bb371672cc9a49ba8b77e3c80a179d> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
