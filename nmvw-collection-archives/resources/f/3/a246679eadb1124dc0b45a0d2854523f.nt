@@ -1,10 +1,11 @@
 <https://n2t.net/ark:/27023/36fd651ec8216e7c240a5f67908dbc58> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/36fd651ec8216e7c240a5f67908dbc58> <https://colonialcollections.nl/schema#name> "[SACS & FOXS ?, U.S.A.]" .
+<https://n2t.net/ark:/27023/36fd651ec8216e7c240a5f67908dbc58> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/36fd651ec8216e7c240a5f67908dbc58> <https://colonialcollections.nl/schema#description> "Statieportret van een Sauk & Fox hoofdman in ceremonieel kostuum met tomahawk. De fotograaf Charles Milton Bell gebruikte veelvuldig klimplanten als decorstuk." .
 <https://n2t.net/ark:/27023/36fd651ec8216e7c240a5f67908dbc58> <https://colonialcollections.nl/schema#additionalType> "tomahawks" .
 <https://n2t.net/ark:/27023/36fd651ec8216e7c240a5f67908dbc58> <https://colonialcollections.nl/schema#identifier> "WM-911131" .
-<https://n2t.net/ark:/27023/36fd651ec8216e7c240a5f67908dbc58> <https://colonialcollections.nl/schema#name> "[SACS & FOXS ?, U.S.A.]" .
-<https://n2t.net/ark:/27023/36fd651ec8216e7c240a5f67908dbc58> <https://colonialcollections.nl/schema#description> "Statieportret van een Sauk & Fox hoofdman in ceremonieel kostuum met tomahawk. De fotograaf Charles Milton Bell gebruikte veelvuldig klimplanten als decorstuk." .
-<https://n2t.net/ark:/27023/36fd651ec8216e7c240a5f67908dbc58> <https://colonialcollections.nl/schema#material> "papier (vezelproduct)" .
 <https://n2t.net/ark:/27023/36fd651ec8216e7c240a5f67908dbc58> <https://colonialcollections.nl/schema#material> "karton" .
+<https://n2t.net/ark:/27023/36fd651ec8216e7c240a5f67908dbc58> <https://colonialcollections.nl/schema#material> "papier (vezelproduct)" .
 <https://n2t.net/ark:/27023/36fd651ec8216e7c240a5f67908dbc58> <https://colonialcollections.nl/schema#creator> "Bell, C.M." .
 <https://n2t.net/ark:/27023/36fd651ec8216e7c240a5f67908dbc58> <https://colonialcollections.nl/schema#yearCreatedStart> "1874"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/36fd651ec8216e7c240a5f67908dbc58> <https://colonialcollections.nl/schema#yearCreatedEnd> "1879"^^<http://www.w3.org/2001/XMLSchema#integer> .
@@ -12,12 +13,11 @@
 <https://n2t.net/ark:/27023/36fd651ec8216e7c240a5f67908dbc58> <https://colonialcollections.nl/schema#countryCreated_en> "United States of America"@en .
 <https://n2t.net/ark:/27023/36fd651ec8216e7c240a5f67908dbc58> <https://colonialcollections.nl/schema#countryCreated_en> "United States"@en .
 <https://n2t.net/ark:/27023/36fd651ec8216e7c240a5f67908dbc58> <https://colonialcollections.nl/schema#countryCreated_nl> "Verenigde Staten"@nl .
+<https://n2t.net/ark:/27023/36fd651ec8216e7c240a5f67908dbc58> <https://colonialcollections.nl/schema#alternateName> "America"@en .
+<https://n2t.net/ark:/27023/36fd651ec8216e7c240a5f67908dbc58> <https://colonialcollections.nl/schema#alternateName> "Washington DC"@en .
 <https://n2t.net/ark:/27023/36fd651ec8216e7c240a5f67908dbc58> <https://colonialcollections.nl/schema#alternateName> "District of Columbia"@en .
 <https://n2t.net/ark:/27023/36fd651ec8216e7c240a5f67908dbc58> <https://colonialcollections.nl/schema#alternateName> "Washington D. C."@en .
-<https://n2t.net/ark:/27023/36fd651ec8216e7c240a5f67908dbc58> <https://colonialcollections.nl/schema#alternateName> "Territory of Columbia"@en .
-<https://n2t.net/ark:/27023/36fd651ec8216e7c240a5f67908dbc58> <https://colonialcollections.nl/schema#alternateName> "Washington DC"@en .
-<https://n2t.net/ark:/27023/36fd651ec8216e7c240a5f67908dbc58> <https://colonialcollections.nl/schema#alternateName> "America"@en .
 <https://n2t.net/ark:/27023/36fd651ec8216e7c240a5f67908dbc58> <https://colonialcollections.nl/schema#alternateName> "VS"@nl .
-<https://n2t.net/ark:/27023/36fd651ec8216e7c240a5f67908dbc58> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/36fd651ec8216e7c240a5f67908dbc58> <https://colonialcollections.nl/schema#alternateName> "Territory of Columbia"@en .
 <https://n2t.net/ark:/27023/36fd651ec8216e7c240a5f67908dbc58> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/36fd651ec8216e7c240a5f67908dbc58> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
