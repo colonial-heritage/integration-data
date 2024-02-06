@@ -1,8 +1,9 @@
 <https://n2t.net/ark:/27023/ee11a5b3ce10a49e9581c0583d27fed6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ee11a5b3ce10a49e9581c0583d27fed6> <https://colonialcollections.nl/schema#name> "Wierookbrander" .
+<https://n2t.net/ark:/27023/ee11a5b3ce10a49e9581c0583d27fed6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/ee11a5b3ce10a49e9581c0583d27fed6> <https://colonialcollections.nl/schema#description> "op 4 poten ; 19e eeuw" .
 <https://n2t.net/ark:/27023/ee11a5b3ce10a49e9581c0583d27fed6> <https://colonialcollections.nl/schema#additionalType> "wierookbranders" .
 <https://n2t.net/ark:/27023/ee11a5b3ce10a49e9581c0583d27fed6> <https://colonialcollections.nl/schema#identifier> "RV-3087-1" .
-<https://n2t.net/ark:/27023/ee11a5b3ce10a49e9581c0583d27fed6> <https://colonialcollections.nl/schema#name> "Wierookbrander" .
-<https://n2t.net/ark:/27023/ee11a5b3ce10a49e9581c0583d27fed6> <https://colonialcollections.nl/schema#description> "op 4 poten ; 19e eeuw" .
 <https://n2t.net/ark:/27023/ee11a5b3ce10a49e9581c0583d27fed6> <https://colonialcollections.nl/schema#material> "koperlegering" .
 <https://n2t.net/ark:/27023/ee11a5b3ce10a49e9581c0583d27fed6> <https://colonialcollections.nl/schema#yearCreatedStart> "1870"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/ee11a5b3ce10a49e9581c0583d27fed6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
@@ -10,6 +11,5 @@
 <https://n2t.net/ark:/27023/ee11a5b3ce10a49e9581c0583d27fed6> <https://colonialcollections.nl/schema#locationCreated> "Japan"@nl .
 <https://n2t.net/ark:/27023/ee11a5b3ce10a49e9581c0583d27fed6> <https://colonialcollections.nl/schema#countryCreated_en> "Japan"@en .
 <https://n2t.net/ark:/27023/ee11a5b3ce10a49e9581c0583d27fed6> <https://colonialcollections.nl/schema#countryCreated_nl> "Japan"@nl .
-<https://n2t.net/ark:/27023/ee11a5b3ce10a49e9581c0583d27fed6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/ee11a5b3ce10a49e9581c0583d27fed6> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/ee11a5b3ce10a49e9581c0583d27fed6> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
