@@ -1,8 +1,9 @@
 <https://n2t.net/ark:/27023/c5d0e4f640606636e7a30ca699bcabca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c5d0e4f640606636e7a30ca699bcabca> <https://colonialcollections.nl/schema#identifier> "WM-600201" .
+<https://n2t.net/ark:/27023/c5d0e4f640606636e7a30ca699bcabca> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/c5d0e4f640606636e7a30ca699bcabca> <https://colonialcollections.nl/schema#description> "[DE] Deksel: gesluierde Orientaalse vrouw, man op kameel, stadsgezicht op achtergrond. Voorzijde: Orientaalse vrouw met baby op de rug in bergachtige omgeving. Linkerzijde: twee Orientaalse mannen met muziekinstrumenten. Achterzijde: tentenkamp met vier personen,op de voorgrond Orientaalse man met dromedaris, palmbomen op achtergrond. Rechterzijde: slangenbezweerder met twee slangen en groepje toeschouwers. Rondom Marokkaanse (?) decoraties" .
-<https://n2t.net/ark:/27023/c5d0e4f640606636e7a30ca699bcabca> <https://colonialcollections.nl/schema#material> "blik (materiaal)" .
+<https://n2t.net/ark:/27023/c5d0e4f640606636e7a30ca699bcabca> <https://colonialcollections.nl/schema#identifier> "WM-600201" .
 <https://n2t.net/ark:/27023/c5d0e4f640606636e7a30ca699bcabca> <https://colonialcollections.nl/schema#inscription> "[T] J.J. Carnaud, Casablanca. M.2622" .
+<https://n2t.net/ark:/27023/c5d0e4f640606636e7a30ca699bcabca> <https://colonialcollections.nl/schema#material> "blik (materiaal)" .
 <https://n2t.net/ark:/27023/c5d0e4f640606636e7a30ca699bcabca> <https://colonialcollections.nl/schema#creator> "J.J. Carnaud" .
 <https://n2t.net/ark:/27023/c5d0e4f640606636e7a30ca699bcabca> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/c5d0e4f640606636e7a30ca699bcabca> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
@@ -10,9 +11,8 @@
 <https://n2t.net/ark:/27023/c5d0e4f640606636e7a30ca699bcabca> <https://colonialcollections.nl/schema#countryCreated_en> "Morocco"@en .
 <https://n2t.net/ark:/27023/c5d0e4f640606636e7a30ca699bcabca> <https://colonialcollections.nl/schema#countryCreated_nl> "Marokko"@nl .
 <https://n2t.net/ark:/27023/c5d0e4f640606636e7a30ca699bcabca> <https://colonialcollections.nl/schema#alternateName> "Kingdom of Morocco"@en .
-<https://n2t.net/ark:/27023/c5d0e4f640606636e7a30ca699bcabca> <https://colonialcollections.nl/schema#alternateName> "Casablanca"@en .
 <https://n2t.net/ark:/27023/c5d0e4f640606636e7a30ca699bcabca> <https://colonialcollections.nl/schema#alternateName> "White House"@en .
 <https://n2t.net/ark:/27023/c5d0e4f640606636e7a30ca699bcabca> <https://colonialcollections.nl/schema#alternateName> "Casablanca"@nl .
-<https://n2t.net/ark:/27023/c5d0e4f640606636e7a30ca699bcabca> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/c5d0e4f640606636e7a30ca699bcabca> <https://colonialcollections.nl/schema#alternateName> "Casablanca"@en .
 <https://n2t.net/ark:/27023/c5d0e4f640606636e7a30ca699bcabca> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/c5d0e4f640606636e7a30ca699bcabca> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .

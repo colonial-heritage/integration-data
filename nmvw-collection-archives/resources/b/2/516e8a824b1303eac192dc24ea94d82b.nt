@@ -1,8 +1,9 @@
 <https://n2t.net/ark:/27023/bf20b7b01980bcd5364b19625b390bd1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/bf20b7b01980bcd5364b19625b390bd1> <https://colonialcollections.nl/schema#identifier> "WM-VR-1993-6" .
 <https://n2t.net/ark:/27023/bf20b7b01980bcd5364b19625b390bd1> <https://colonialcollections.nl/schema#name> "HALE" .
-<https://n2t.net/ark:/27023/bf20b7b01980bcd5364b19625b390bd1> <https://colonialcollections.nl/schema#material> "olieverf" .
+<https://n2t.net/ark:/27023/bf20b7b01980bcd5364b19625b390bd1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/bf20b7b01980bcd5364b19625b390bd1> <https://colonialcollections.nl/schema#identifier> "WM-VR-1993-6" .
 <https://n2t.net/ark:/27023/bf20b7b01980bcd5364b19625b390bd1> <https://colonialcollections.nl/schema#material> "linnen" .
+<https://n2t.net/ark:/27023/bf20b7b01980bcd5364b19625b390bd1> <https://colonialcollections.nl/schema#material> "olieverf" .
 <https://n2t.net/ark:/27023/bf20b7b01980bcd5364b19625b390bd1> <https://colonialcollections.nl/schema#creator> "Hossein Zenderoudi" .
 <https://n2t.net/ark:/27023/bf20b7b01980bcd5364b19625b390bd1> <https://colonialcollections.nl/schema#yearCreatedStart> "1984"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/bf20b7b01980bcd5364b19625b390bd1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1984"^^<http://www.w3.org/2001/XMLSchema#integer> .
@@ -10,11 +11,10 @@
 <https://n2t.net/ark:/27023/bf20b7b01980bcd5364b19625b390bd1> <https://colonialcollections.nl/schema#locationCreated> "Iran (Islamitische Republiek)"@nl .
 <https://n2t.net/ark:/27023/bf20b7b01980bcd5364b19625b390bd1> <https://colonialcollections.nl/schema#locationCreated> "Iran"@en .
 <https://n2t.net/ark:/27023/bf20b7b01980bcd5364b19625b390bd1> <https://colonialcollections.nl/schema#countryCreated_en> "Iran"@en .
-<https://n2t.net/ark:/27023/bf20b7b01980bcd5364b19625b390bd1> <https://colonialcollections.nl/schema#countryCreated_nl> "Iran (Islamitische Republiek)"@nl .
 <https://n2t.net/ark:/27023/bf20b7b01980bcd5364b19625b390bd1> <https://colonialcollections.nl/schema#countryCreated_nl> "Iran"@nl .
-<https://n2t.net/ark:/27023/bf20b7b01980bcd5364b19625b390bd1> <https://colonialcollections.nl/schema#alternateName> "Empire of Iran"@en .
-<https://n2t.net/ark:/27023/bf20b7b01980bcd5364b19625b390bd1> <https://colonialcollections.nl/schema#alternateName> "Iran, Islamic Republic Of"@en .
+<https://n2t.net/ark:/27023/bf20b7b01980bcd5364b19625b390bd1> <https://colonialcollections.nl/schema#countryCreated_nl> "Iran (Islamitische Republiek)"@nl .
 <https://n2t.net/ark:/27023/bf20b7b01980bcd5364b19625b390bd1> <https://colonialcollections.nl/schema#alternateName> "Islamic Republic of Iran"@en .
-<https://n2t.net/ark:/27023/bf20b7b01980bcd5364b19625b390bd1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/bf20b7b01980bcd5364b19625b390bd1> <https://colonialcollections.nl/schema#alternateName> "Iran, Islamic Republic Of"@en .
+<https://n2t.net/ark:/27023/bf20b7b01980bcd5364b19625b390bd1> <https://colonialcollections.nl/schema#alternateName> "Empire of Iran"@en .
 <https://n2t.net/ark:/27023/bf20b7b01980bcd5364b19625b390bd1> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/bf20b7b01980bcd5364b19625b390bd1> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .

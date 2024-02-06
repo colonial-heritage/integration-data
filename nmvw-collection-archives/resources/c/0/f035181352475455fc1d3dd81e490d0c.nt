@@ -1,8 +1,9 @@
 <https://n2t.net/ark:/27023/c4e48cecffd312aa82e9e142060b5ba2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c4e48cecffd312aa82e9e142060b5ba2> <https://colonialcollections.nl/schema#identifier> "RV-1-4308a" .
 <https://n2t.net/ark:/27023/c4e48cecffd312aa82e9e142060b5ba2> <https://colonialcollections.nl/schema#name> "Handboeken" .
-<https://n2t.net/ark:/27023/c4e48cecffd312aa82e9e142060b5ba2> <https://colonialcollections.nl/schema#material> "inkt" .
+<https://n2t.net/ark:/27023/c4e48cecffd312aa82e9e142060b5ba2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/c4e48cecffd312aa82e9e142060b5ba2> <https://colonialcollections.nl/schema#identifier> "RV-1-4308a" .
 <https://n2t.net/ark:/27023/c4e48cecffd312aa82e9e142060b5ba2> <https://colonialcollections.nl/schema#material> "papier (vezelproduct)" .
+<https://n2t.net/ark:/27023/c4e48cecffd312aa82e9e142060b5ba2> <https://colonialcollections.nl/schema#material> "inkt" .
 <https://n2t.net/ark:/27023/c4e48cecffd312aa82e9e142060b5ba2> <https://colonialcollections.nl/schema#creator> "Kiuchi Koban" .
 <https://n2t.net/ark:/27023/c4e48cecffd312aa82e9e142060b5ba2> <https://colonialcollections.nl/schema#yearCreatedStart> "1773"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/c4e48cecffd312aa82e9e142060b5ba2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1773"^^<http://www.w3.org/2001/XMLSchema#integer> .
@@ -11,6 +12,5 @@
 <https://n2t.net/ark:/27023/c4e48cecffd312aa82e9e142060b5ba2> <https://colonialcollections.nl/schema#countryCreated_nl> "Japan"@nl .
 <https://n2t.net/ark:/27023/c4e48cecffd312aa82e9e142060b5ba2> <https://colonialcollections.nl/schema#alternateName> "Tokyo Prefecture"@en .
 <https://n2t.net/ark:/27023/c4e48cecffd312aa82e9e142060b5ba2> <https://colonialcollections.nl/schema#alternateName> "Tokyo Metropolis"@en .
-<https://n2t.net/ark:/27023/c4e48cecffd312aa82e9e142060b5ba2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/c4e48cecffd312aa82e9e142060b5ba2> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/c4e48cecffd312aa82e9e142060b5ba2> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
