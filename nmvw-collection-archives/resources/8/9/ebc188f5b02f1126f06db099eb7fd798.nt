@@ -1,9 +1,10 @@
 <https://n2t.net/ark:/27023/31a13a00111afefad37fd56827f7278c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/31a13a00111afefad37fd56827f7278c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/31a13a00111afefad37fd56827f7278c> <https://colonialcollections.nl/schema#description> "[ST] schuifslot" .
 <https://n2t.net/ark:/27023/31a13a00111afefad37fd56827f7278c> <https://colonialcollections.nl/schema#additionalType> "armbanden" .
 <https://n2t.net/ark:/27023/31a13a00111afefad37fd56827f7278c> <https://colonialcollections.nl/schema#identifier> "WM-66306" .
-<https://n2t.net/ark:/27023/31a13a00111afefad37fd56827f7278c> <https://colonialcollections.nl/schema#description> "[ST] schuifslot" .
-<https://n2t.net/ark:/27023/31a13a00111afefad37fd56827f7278c> <https://colonialcollections.nl/schema#material> "goud" .
 <https://n2t.net/ark:/27023/31a13a00111afefad37fd56827f7278c> <https://colonialcollections.nl/schema#inscription> "[T] Uit dankbare herinnering Hindostaanse gemeenschap Suriname, 2 maart 1958 & [T] Vervaardigd door A.J. Esajas" .
+<https://n2t.net/ark:/27023/31a13a00111afefad37fd56827f7278c> <https://colonialcollections.nl/schema#material> "goud" .
 <https://n2t.net/ark:/27023/31a13a00111afefad37fd56827f7278c> <https://colonialcollections.nl/schema#yearCreatedStart> "1958"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/31a13a00111afefad37fd56827f7278c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1958"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/31a13a00111afefad37fd56827f7278c> <https://colonialcollections.nl/schema#locationCreated> "Suriname"@nl .
@@ -12,6 +13,5 @@
 <https://n2t.net/ark:/27023/31a13a00111afefad37fd56827f7278c> <https://colonialcollections.nl/schema#countryCreated_nl> "Suriname"@nl .
 <https://n2t.net/ark:/27023/31a13a00111afefad37fd56827f7278c> <https://colonialcollections.nl/schema#alternateName> "Republiek Suriname"@nl .
 <https://n2t.net/ark:/27023/31a13a00111afefad37fd56827f7278c> <https://colonialcollections.nl/schema#alternateName> "Republic of Suriname"@en .
-<https://n2t.net/ark:/27023/31a13a00111afefad37fd56827f7278c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/31a13a00111afefad37fd56827f7278c> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/31a13a00111afefad37fd56827f7278c> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
