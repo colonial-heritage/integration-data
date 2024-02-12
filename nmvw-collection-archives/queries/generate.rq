@@ -31,8 +31,7 @@ CONSTRUCT {
     cc:publisher_nl ?publisherNameNl .
 }
 WHERE {
-  #BIND(?_iri AS ?this)
-  BIND(<https://n2t.net/ark:/27023/242c2b6a2681f7123b0f2d20b250c58a> AS ?this)
+  BIND(?_iri AS ?this)
 
   ####################
   # Type
