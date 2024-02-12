@@ -51,6 +51,7 @@ jobs:
             --triplydb-api-token "${{ secrets.TRIPLYDB_API_TOKEN }}" \
             --triplydb-account "${{ vars.TRIPLYDB_ACCOUNT }}" \
             --triplydb-dataset "${{ vars.TRIPLYDB_DATASET_KG }}" \
+            --triplydb-service "kg" \
             --graph-name "https://data.colonialcollections.nl/aat" \
             --temp-dir "$RUNNER_TEMP"
       - name: Save changes

@@ -51,6 +51,8 @@ jobs:
             --triplydb-api-token "${{ secrets.TRIPLYDB_API_TOKEN }}" \
             --triplydb-account "${{ vars.TRIPLYDB_ACCOUNT }}" \
             --triplydb-dataset "${{ vars.TRIPLYDB_DATASET_SG }}" \
+            --triplydb-service "search" \
+            --triplydb-service-templates-file "../code/packages/triplydb/data/search-graph-templates.json" \
             --graph-name "https://data.colonialcollections.nl/nmvw-collection-archives" \
             --temp-dir "$RUNNER_TEMP"
       - name: Save changes
