@@ -1,10 +1,12 @@
 <https://n2t.net/ark:/27023/5993088cbf6cd06ee37ebbe8f60ce6a4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5993088cbf6cd06ee37ebbe8f60ce6a4> <https://colonialcollections.nl/schema#additionalType> "affiches (informatiedragers)" .
 <https://n2t.net/ark:/27023/5993088cbf6cd06ee37ebbe8f60ce6a4> <https://colonialcollections.nl/schema#additionalType> "foto's" .
+<https://n2t.net/ark:/27023/5993088cbf6cd06ee37ebbe8f60ce6a4> <https://colonialcollections.nl/schema#additionalType> "affiches (informatiedragers)" .
 <https://n2t.net/ark:/27023/5993088cbf6cd06ee37ebbe8f60ce6a4> <https://colonialcollections.nl/schema#identifier> "TM-5777-23" .
 <https://n2t.net/ark:/27023/5993088cbf6cd06ee37ebbe8f60ce6a4> <https://colonialcollections.nl/schema#name> "AFFICHE VOOR DE FILM \"LA MUERTE DE PANCHO VILLA\"" .
 <https://n2t.net/ark:/27023/5993088cbf6cd06ee37ebbe8f60ce6a4> <https://colonialcollections.nl/schema#description> "Dit affiche voor de film \"La muerte de Pancho Villa\" die in 1974 in Mexico in première ging, noemt men een lobby card. Lobby cards zijn filmaffiches die in de lobby's van bioscopen worden opgehangen. Ze worden meestal uitgegeven in een set van acht verschillende affiches, waarbij in elk affiche steeds een andere foto is gemonteerd. Op de foto's zijn verschillende scenes uit de film te zien." .
 <https://n2t.net/ark:/27023/5993088cbf6cd06ee37ebbe8f60ce6a4> <https://colonialcollections.nl/schema#material> "karton" .
+<https://n2t.net/ark:/27023/5993088cbf6cd06ee37ebbe8f60ce6a4> <https://colonialcollections.nl/schema#yearCreatedStart> "1974"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/5993088cbf6cd06ee37ebbe8f60ce6a4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1974"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/5993088cbf6cd06ee37ebbe8f60ce6a4> <https://colonialcollections.nl/schema#locationCreated> "Mexico"@en .
 <https://n2t.net/ark:/27023/5993088cbf6cd06ee37ebbe8f60ce6a4> <https://colonialcollections.nl/schema#locationCreated> "Mexico"@nl .
 <https://n2t.net/ark:/27023/5993088cbf6cd06ee37ebbe8f60ce6a4> <https://colonialcollections.nl/schema#countryCreated_en> "Mexico"@en .
@@ -13,5 +15,3 @@
 <https://n2t.net/ark:/27023/5993088cbf6cd06ee37ebbe8f60ce6a4> <https://colonialcollections.nl/schema#alternateName> "Mexican Republic"@en .
 <https://n2t.net/ark:/27023/5993088cbf6cd06ee37ebbe8f60ce6a4> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/5993088cbf6cd06ee37ebbe8f60ce6a4> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
-<https://n2t.net/ark:/27023/5993088cbf6cd06ee37ebbe8f60ce6a4> <https://colonialcollections.nl/schema#yearCreatedStart> "1974"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/5993088cbf6cd06ee37ebbe8f60ce6a4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1974"^^<http://www.w3.org/2001/XMLSchema#integer> .
