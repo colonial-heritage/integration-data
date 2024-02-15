@@ -40,7 +40,7 @@ WHERE {
   OPTIONAL {
     ?this crm:P2_has_type [
       skos:prefLabel ?typeName
-    ] ;
+    ] .
   }
 
   ####################

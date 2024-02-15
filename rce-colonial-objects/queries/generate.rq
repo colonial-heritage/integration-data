@@ -38,7 +38,7 @@ WHERE {
     ?this crm:P2_has_type [
       # The type points to a blank node, not to a thesaurus
       rdfs:label ?typeName
-    ] ;
+    ] .
   }
 
   ####################
@@ -50,7 +50,7 @@ WHERE {
       a crm:E42_Identifier ;
       crm:P2_has_type <http://vocab.getty.edu/aat/300404626> ; # Identification number
       crm:P190_has_symbolic_content ?identifier
-    ] ;
+    ] .
   }
 
   ####################
@@ -62,7 +62,7 @@ WHERE {
       a crm:E33_E41_Linguistic_Appellation ;
       crm:P2_has_type <http://vocab.getty.edu/aat/300404670> ; # Name
       crm:P190_has_symbolic_content ?name
-    ] ;
+    ] .
   }
 
   ####################
@@ -73,7 +73,7 @@ WHERE {
     ?this crm:P67i_is_referred_to_by [
       crm:P2_has_type <http://vocab.getty.edu/aat/300435416> ; # Description
       crm:P190_has_symbolic_content ?description
-    ] ;
+    ] .
   }
 
   ####################
@@ -89,7 +89,7 @@ WHERE {
     ?this crm:P45_consists_of [
       # The material points to a blank node, not to a thesaurus
       rdfs:label ?materialName
-    ] ;
+    ] .
   }
 
   ####################
@@ -109,7 +109,7 @@ WHERE {
   OPTIONAL {
     ?this crm:P108i_was_produced_by/crm:P14_carried_out_by [
       rdfs:label ?creatorName
-    ] ;
+    ] .
   }
 
   ####################
