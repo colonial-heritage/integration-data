@@ -1,13 +1,13 @@
 <https://n2t.net/ark:/27023/68aed6488e74eb4d0294ed70c8ad5e86> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/68aed6488e74eb4d0294ed70c8ad5e86> <https://colonialcollections.nl/schema#identifier> "TM-2691-133" .
 <https://n2t.net/ark:/27023/68aed6488e74eb4d0294ed70c8ad5e86> <https://colonialcollections.nl/schema#name> "BAMBOE PIJL MET METALEN PUNT" .
-<https://n2t.net/ark:/27023/68aed6488e74eb4d0294ed70c8ad5e86> <https://colonialcollections.nl/schema#material> "plantenvezel" .
 <https://n2t.net/ark:/27023/68aed6488e74eb4d0294ed70c8ad5e86> <https://colonialcollections.nl/schema#material> "metaal" .
-<https://n2t.net/ark:/27023/68aed6488e74eb4d0294ed70c8ad5e86> <https://colonialcollections.nl/schema#material> "hout" .
 <https://n2t.net/ark:/27023/68aed6488e74eb4d0294ed70c8ad5e86> <https://colonialcollections.nl/schema#material> "bamboe" .
+<https://n2t.net/ark:/27023/68aed6488e74eb4d0294ed70c8ad5e86> <https://colonialcollections.nl/schema#material> "hout" .
+<https://n2t.net/ark:/27023/68aed6488e74eb4d0294ed70c8ad5e86> <https://colonialcollections.nl/schema#material> "plantenvezel" .
 <https://n2t.net/ark:/27023/68aed6488e74eb4d0294ed70c8ad5e86> <https://colonialcollections.nl/schema#yearCreatedEnd> "1958"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/68aed6488e74eb4d0294ed70c8ad5e86> <https://colonialcollections.nl/schema#locationCreated> "Paraguay"@nl .
 <https://n2t.net/ark:/27023/68aed6488e74eb4d0294ed70c8ad5e86> <https://colonialcollections.nl/schema#locationCreated> "Paraguay"@en .
+<https://n2t.net/ark:/27023/68aed6488e74eb4d0294ed70c8ad5e86> <https://colonialcollections.nl/schema#locationCreated> "Paraguay"@nl .
 <https://n2t.net/ark:/27023/68aed6488e74eb4d0294ed70c8ad5e86> <https://colonialcollections.nl/schema#countryCreated_en> "Paraguay"@en .
 <https://n2t.net/ark:/27023/68aed6488e74eb4d0294ed70c8ad5e86> <https://colonialcollections.nl/schema#countryCreated_nl> "Paraguay"@nl .
 <https://n2t.net/ark:/27023/68aed6488e74eb4d0294ed70c8ad5e86> <https://colonialcollections.nl/schema#alternateName> "Republic of Paraguay"@en .
