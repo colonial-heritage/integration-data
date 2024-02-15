@@ -1,11 +1,9 @@
 <https://n2t.net/ark:/27023/91769c1d5284bdc755e4c41737e469d2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/91769c1d5284bdc755e4c41737e469d2> <https://colonialcollections.nl/schema#name> "Doos voor het opbergen van sieraden" .
-<https://n2t.net/ark:/27023/91769c1d5284bdc755e4c41737e469d2> <https://colonialcollections.nl/schema#description> "Doet dienst als sieraaddoos\r\n\r\nBeschrijving\r\nRechthoekige gevlochten doos met deksel." .
 <https://n2t.net/ark:/27023/91769c1d5284bdc755e4c41737e469d2> <https://colonialcollections.nl/schema#additionalType> "dozen" .
 <https://n2t.net/ark:/27023/91769c1d5284bdc755e4c41737e469d2> <https://colonialcollections.nl/schema#identifier> "AM-17-462" .
+<https://n2t.net/ark:/27023/91769c1d5284bdc755e4c41737e469d2> <https://colonialcollections.nl/schema#name> "Doos voor het opbergen van sieraden" .
+<https://n2t.net/ark:/27023/91769c1d5284bdc755e4c41737e469d2> <https://colonialcollections.nl/schema#description> "Doet dienst als sieraaddoos\r\n\r\nBeschrijving\r\nRechthoekige gevlochten doos met deksel." .
 <https://n2t.net/ark:/27023/91769c1d5284bdc755e4c41737e469d2> <https://colonialcollections.nl/schema#material> "plantenvezel" .
-<https://n2t.net/ark:/27023/91769c1d5284bdc755e4c41737e469d2> <https://colonialcollections.nl/schema#yearCreatedStart> "1954"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/91769c1d5284bdc755e4c41737e469d2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1954"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/91769c1d5284bdc755e4c41737e469d2> <https://colonialcollections.nl/schema#locationCreated> "Angola"@nl .
 <https://n2t.net/ark:/27023/91769c1d5284bdc755e4c41737e469d2> <https://colonialcollections.nl/schema#locationCreated> "Angola"@en .
 <https://n2t.net/ark:/27023/91769c1d5284bdc755e4c41737e469d2> <https://colonialcollections.nl/schema#countryCreated_en> "Angola"@en .
@@ -13,3 +11,5 @@
 <https://n2t.net/ark:/27023/91769c1d5284bdc755e4c41737e469d2> <https://colonialcollections.nl/schema#alternateName> "Republic of Angola"@en .
 <https://n2t.net/ark:/27023/91769c1d5284bdc755e4c41737e469d2> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/91769c1d5284bdc755e4c41737e469d2> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
+<https://n2t.net/ark:/27023/91769c1d5284bdc755e4c41737e469d2> <https://colonialcollections.nl/schema#yearCreatedStart> "1954"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/91769c1d5284bdc755e4c41737e469d2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1954"^^<http://www.w3.org/2001/XMLSchema#integer> .

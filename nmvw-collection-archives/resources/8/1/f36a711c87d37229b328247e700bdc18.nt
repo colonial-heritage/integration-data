@@ -1,8 +1,7 @@
 <https://n2t.net/ark:/27023/917ebf5bf4634cf125d15af046b4e831> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/917ebf5bf4634cf125d15af046b4e831> <https://colonialcollections.nl/schema#name> "ROODKOPEREN MUNT" .
 <https://n2t.net/ark:/27023/917ebf5bf4634cf125d15af046b4e831> <https://colonialcollections.nl/schema#identifier> "TM-1144-780" .
+<https://n2t.net/ark:/27023/917ebf5bf4634cf125d15af046b4e831> <https://colonialcollections.nl/schema#name> "ROODKOPEREN MUNT" .
 <https://n2t.net/ark:/27023/917ebf5bf4634cf125d15af046b4e831> <https://colonialcollections.nl/schema#material> "metaal" .
-<https://n2t.net/ark:/27023/917ebf5bf4634cf125d15af046b4e831> <https://colonialcollections.nl/schema#yearCreatedEnd> "1937"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/917ebf5bf4634cf125d15af046b4e831> <https://colonialcollections.nl/schema#locationCreated> "Thailand"@nl .
 <https://n2t.net/ark:/27023/917ebf5bf4634cf125d15af046b4e831> <https://colonialcollections.nl/schema#locationCreated> "Thailand"@en .
 <https://n2t.net/ark:/27023/917ebf5bf4634cf125d15af046b4e831> <https://colonialcollections.nl/schema#countryCreated_en> "Thailand"@en .
@@ -10,3 +9,4 @@
 <https://n2t.net/ark:/27023/917ebf5bf4634cf125d15af046b4e831> <https://colonialcollections.nl/schema#alternateName> "Kingdom of Thailand"@en .
 <https://n2t.net/ark:/27023/917ebf5bf4634cf125d15af046b4e831> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/917ebf5bf4634cf125d15af046b4e831> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
+<https://n2t.net/ark:/27023/917ebf5bf4634cf125d15af046b4e831> <https://colonialcollections.nl/schema#yearCreatedEnd> "1937"^^<http://www.w3.org/2001/XMLSchema#integer> .
