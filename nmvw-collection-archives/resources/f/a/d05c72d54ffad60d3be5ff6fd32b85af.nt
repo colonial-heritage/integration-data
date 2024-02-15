@@ -1,8 +1,9 @@
 <https://n2t.net/ark:/27023/be8da55b23b37fa87c0e06947cc7ccfc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/be8da55b23b37fa87c0e06947cc7ccfc> <https://colonialcollections.nl/schema#identifier> "TM-4345-15" .
 <https://n2t.net/ark:/27023/be8da55b23b37fa87c0e06947cc7ccfc> <https://colonialcollections.nl/schema#name> "WIEROOK" .
-<https://n2t.net/ark:/27023/be8da55b23b37fa87c0e06947cc7ccfc> <https://colonialcollections.nl/schema#material> "hars" .
 <https://n2t.net/ark:/27023/be8da55b23b37fa87c0e06947cc7ccfc> <https://colonialcollections.nl/schema#material> "olie" .
+<https://n2t.net/ark:/27023/be8da55b23b37fa87c0e06947cc7ccfc> <https://colonialcollections.nl/schema#material> "hars" .
+<https://n2t.net/ark:/27023/be8da55b23b37fa87c0e06947cc7ccfc> <https://colonialcollections.nl/schema#yearCreatedEnd> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/be8da55b23b37fa87c0e06947cc7ccfc> <https://colonialcollections.nl/schema#locationCreated> "Madhab" .
 <https://n2t.net/ark:/27023/be8da55b23b37fa87c0e06947cc7ccfc> <https://colonialcollections.nl/schema#countryCreated_en> "Yemen"@en .
 <https://n2t.net/ark:/27023/be8da55b23b37fa87c0e06947cc7ccfc> <https://colonialcollections.nl/schema#countryCreated_nl> "Jemen"@nl .
@@ -10,4 +11,3 @@
 <https://n2t.net/ark:/27023/be8da55b23b37fa87c0e06947cc7ccfc> <https://colonialcollections.nl/schema#alternateName> "Republic of Yemen"@en .
 <https://n2t.net/ark:/27023/be8da55b23b37fa87c0e06947cc7ccfc> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/be8da55b23b37fa87c0e06947cc7ccfc> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
-<https://n2t.net/ark:/27023/be8da55b23b37fa87c0e06947cc7ccfc> <https://colonialcollections.nl/schema#yearCreatedEnd> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .

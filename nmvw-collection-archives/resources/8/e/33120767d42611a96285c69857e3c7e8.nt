@@ -1,14 +1,16 @@
 <https://n2t.net/ark:/27023/c25e69b80b0302a30867f57080bcfb2b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c25e69b80b0302a30867f57080bcfb2b> <https://colonialcollections.nl/schema#additionalType> "volksprenten" .
-<https://n2t.net/ark:/27023/c25e69b80b0302a30867f57080bcfb2b> <https://colonialcollections.nl/schema#additionalType> "mooie-vrouwen-prenten" .
-<https://n2t.net/ark:/27023/c25e69b80b0302a30867f57080bcfb2b> <https://colonialcollections.nl/schema#additionalType> "bladzijden" .
 <https://n2t.net/ark:/27023/c25e69b80b0302a30867f57080bcfb2b> <https://colonialcollections.nl/schema#additionalType> "diptieken" .
+<https://n2t.net/ark:/27023/c25e69b80b0302a30867f57080bcfb2b> <https://colonialcollections.nl/schema#additionalType> "mooie-vrouwen-prenten" .
+<https://n2t.net/ark:/27023/c25e69b80b0302a30867f57080bcfb2b> <https://colonialcollections.nl/schema#additionalType> "volksprenten" .
+<https://n2t.net/ark:/27023/c25e69b80b0302a30867f57080bcfb2b> <https://colonialcollections.nl/schema#additionalType> "bladzijden" .
 <https://n2t.net/ark:/27023/c25e69b80b0302a30867f57080bcfb2b> <https://colonialcollections.nl/schema#identifier> "RV-1327-287" .
 <https://n2t.net/ark:/27023/c25e69b80b0302a30867f57080bcfb2b> <https://colonialcollections.nl/schema#description> "Diptiek waarop een vrolijke avond met de geluksgoden Fukurokujû (met zijn hoge schedel) en Benten (met luit). Fukurokujû danst met een sakeschaaltje, Japans: sakazuki, op zijn hoofd. Verder vier geisha/geisha in opleiding in furisode (kimono met lange mouwen bestemd voor ongetrouwde vrouwen), van wie een mee muziek maakt op haar shamisen. De anderen kijken gniffelend naar de dansende geluksgod. Her en der andere attributen van de overige van de zeven geluksgoden. Mogelijk dubbele boekpagina." .
+<https://n2t.net/ark:/27023/c25e69b80b0302a30867f57080bcfb2b> <https://colonialcollections.nl/schema#material> "papier (vezelproduct)" .
 <https://n2t.net/ark:/27023/c25e69b80b0302a30867f57080bcfb2b> <https://colonialcollections.nl/schema#material> "pigment" .
 <https://n2t.net/ark:/27023/c25e69b80b0302a30867f57080bcfb2b> <https://colonialcollections.nl/schema#material> "inkt" .
-<https://n2t.net/ark:/27023/c25e69b80b0302a30867f57080bcfb2b> <https://colonialcollections.nl/schema#material> "papier (vezelproduct)" .
 <https://n2t.net/ark:/27023/c25e69b80b0302a30867f57080bcfb2b> <https://colonialcollections.nl/schema#creator> "Kitagawa Utamaro" .
+<https://n2t.net/ark:/27023/c25e69b80b0302a30867f57080bcfb2b> <https://colonialcollections.nl/schema#yearCreatedStart> "1777"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/c25e69b80b0302a30867f57080bcfb2b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1806"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/c25e69b80b0302a30867f57080bcfb2b> <https://colonialcollections.nl/schema#locationCreated> "Tokyo"@en .
 <https://n2t.net/ark:/27023/c25e69b80b0302a30867f57080bcfb2b> <https://colonialcollections.nl/schema#countryCreated_en> "Japan"@en .
 <https://n2t.net/ark:/27023/c25e69b80b0302a30867f57080bcfb2b> <https://colonialcollections.nl/schema#countryCreated_nl> "Japan"@nl .
@@ -16,5 +18,3 @@
 <https://n2t.net/ark:/27023/c25e69b80b0302a30867f57080bcfb2b> <https://colonialcollections.nl/schema#alternateName> "Tokyo Prefecture"@en .
 <https://n2t.net/ark:/27023/c25e69b80b0302a30867f57080bcfb2b> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/c25e69b80b0302a30867f57080bcfb2b> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
-<https://n2t.net/ark:/27023/c25e69b80b0302a30867f57080bcfb2b> <https://colonialcollections.nl/schema#yearCreatedStart> "1777"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/c25e69b80b0302a30867f57080bcfb2b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1806"^^<http://www.w3.org/2001/XMLSchema#integer> .

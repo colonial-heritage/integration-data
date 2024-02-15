@@ -3,9 +3,11 @@
 <https://n2t.net/ark:/27023/bd31d9d5076d06dc6029c82e77dbda1a> <https://colonialcollections.nl/schema#identifier> "RV-563a-3" .
 <https://n2t.net/ark:/27023/bd31d9d5076d06dc6029c82e77dbda1a> <https://colonialcollections.nl/schema#name> "HARU NO IWATO (ST)" .
 <https://n2t.net/ark:/27023/bd31d9d5076d06dc6029c82e77dbda1a> <https://colonialcollections.nl/schema#material> "papier (vezelproduct)" .
-<https://n2t.net/ark:/27023/bd31d9d5076d06dc6029c82e77dbda1a> <https://colonialcollections.nl/schema#material> "inkt" .
 <https://n2t.net/ark:/27023/bd31d9d5076d06dc6029c82e77dbda1a> <https://colonialcollections.nl/schema#material> "pigment" .
+<https://n2t.net/ark:/27023/bd31d9d5076d06dc6029c82e77dbda1a> <https://colonialcollections.nl/schema#material> "inkt" .
 <https://n2t.net/ark:/27023/bd31d9d5076d06dc6029c82e77dbda1a> <https://colonialcollections.nl/schema#creator> "Totoya Hokkei" .
+<https://n2t.net/ark:/27023/bd31d9d5076d06dc6029c82e77dbda1a> <https://colonialcollections.nl/schema#yearCreatedStart> "1825"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/bd31d9d5076d06dc6029c82e77dbda1a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1825"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/bd31d9d5076d06dc6029c82e77dbda1a> <https://colonialcollections.nl/schema#locationCreated> "Tokyo"@en .
 <https://n2t.net/ark:/27023/bd31d9d5076d06dc6029c82e77dbda1a> <https://colonialcollections.nl/schema#countryCreated_en> "Japan"@en .
 <https://n2t.net/ark:/27023/bd31d9d5076d06dc6029c82e77dbda1a> <https://colonialcollections.nl/schema#countryCreated_nl> "Japan"@nl .
@@ -13,5 +15,3 @@
 <https://n2t.net/ark:/27023/bd31d9d5076d06dc6029c82e77dbda1a> <https://colonialcollections.nl/schema#alternateName> "Tokyo Metropolis"@en .
 <https://n2t.net/ark:/27023/bd31d9d5076d06dc6029c82e77dbda1a> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/bd31d9d5076d06dc6029c82e77dbda1a> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
-<https://n2t.net/ark:/27023/bd31d9d5076d06dc6029c82e77dbda1a> <https://colonialcollections.nl/schema#yearCreatedStart> "1825"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/bd31d9d5076d06dc6029c82e77dbda1a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1825"^^<http://www.w3.org/2001/XMLSchema#integer> .
