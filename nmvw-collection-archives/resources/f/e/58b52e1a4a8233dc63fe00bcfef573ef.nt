@@ -1,8 +1,6 @@
 <https://n2t.net/ark:/27023/20900e03d70ee041fe8cb124a356b2ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/20900e03d70ee041fe8cb124a356b2ca> <https://colonialcollections.nl/schema#identifier> "RV-15140-2-47" .
 <https://n2t.net/ark:/27023/20900e03d70ee041fe8cb124a356b2ca> <https://colonialcollections.nl/schema#creator> "Gerard Weijers" .
-<https://n2t.net/ark:/27023/20900e03d70ee041fe8cb124a356b2ca> <https://colonialcollections.nl/schema#yearCreatedStart> "1990"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/20900e03d70ee041fe8cb124a356b2ca> <https://colonialcollections.nl/schema#yearCreatedEnd> "1990"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/20900e03d70ee041fe8cb124a356b2ca> <https://colonialcollections.nl/schema#locationCreated> "Bhaktapur" .
 <https://n2t.net/ark:/27023/20900e03d70ee041fe8cb124a356b2ca> <https://colonialcollections.nl/schema#countryCreated_en> "Nepal"@en .
 <https://n2t.net/ark:/27023/20900e03d70ee041fe8cb124a356b2ca> <https://colonialcollections.nl/schema#countryCreated_nl> "Nepal"@nl .
@@ -10,3 +8,5 @@
 <https://n2t.net/ark:/27023/20900e03d70ee041fe8cb124a356b2ca> <https://colonialcollections.nl/schema#alternateName> "Nepal (Republic of)"@en .
 <https://n2t.net/ark:/27023/20900e03d70ee041fe8cb124a356b2ca> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/20900e03d70ee041fe8cb124a356b2ca> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
+<https://n2t.net/ark:/27023/20900e03d70ee041fe8cb124a356b2ca> <https://colonialcollections.nl/schema#yearCreatedStart> "1990"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/20900e03d70ee041fe8cb124a356b2ca> <https://colonialcollections.nl/schema#yearCreatedEnd> "1990"^^<http://www.w3.org/2001/XMLSchema#integer> .

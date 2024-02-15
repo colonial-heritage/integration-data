@@ -1,10 +1,9 @@
 <https://n2t.net/ark:/27023/21797f9ad05486d4ac05cb7192cfb529> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/21797f9ad05486d4ac05cb7192cfb529> <https://colonialcollections.nl/schema#identifier> "TM-3581-28g" .
 <https://n2t.net/ark:/27023/21797f9ad05486d4ac05cb7192cfb529> <https://colonialcollections.nl/schema#name> "PIJL MET RIETEN SCHACHT ZONDER PUNT" .
+<https://n2t.net/ark:/27023/21797f9ad05486d4ac05cb7192cfb529> <https://colonialcollections.nl/schema#material> "hout" .
 <https://n2t.net/ark:/27023/21797f9ad05486d4ac05cb7192cfb529> <https://colonialcollections.nl/schema#material> "riet" .
 <https://n2t.net/ark:/27023/21797f9ad05486d4ac05cb7192cfb529> <https://colonialcollections.nl/schema#material> "katoenvezel" .
-<https://n2t.net/ark:/27023/21797f9ad05486d4ac05cb7192cfb529> <https://colonialcollections.nl/schema#material> "hout" .
-<https://n2t.net/ark:/27023/21797f9ad05486d4ac05cb7192cfb529> <https://colonialcollections.nl/schema#yearCreatedEnd> "1966"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/21797f9ad05486d4ac05cb7192cfb529> <https://colonialcollections.nl/schema#locationCreated> "Suriname"@en .
 <https://n2t.net/ark:/27023/21797f9ad05486d4ac05cb7192cfb529> <https://colonialcollections.nl/schema#locationCreated> "Suriname"@nl .
 <https://n2t.net/ark:/27023/21797f9ad05486d4ac05cb7192cfb529> <https://colonialcollections.nl/schema#countryCreated_en> "Suriname"@en .
@@ -13,3 +12,4 @@
 <https://n2t.net/ark:/27023/21797f9ad05486d4ac05cb7192cfb529> <https://colonialcollections.nl/schema#alternateName> "Republic of Suriname"@en .
 <https://n2t.net/ark:/27023/21797f9ad05486d4ac05cb7192cfb529> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/21797f9ad05486d4ac05cb7192cfb529> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
+<https://n2t.net/ark:/27023/21797f9ad05486d4ac05cb7192cfb529> <https://colonialcollections.nl/schema#yearCreatedEnd> "1966"^^<http://www.w3.org/2001/XMLSchema#integer> .

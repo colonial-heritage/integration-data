@@ -1,8 +1,6 @@
 <https://n2t.net/ark:/27023/11e4daeb292b9ca8bf0b596599105940> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/11e4daeb292b9ca8bf0b596599105940> <https://colonialcollections.nl/schema#identifier> "RV-15126-2-15" .
 <https://n2t.net/ark:/27023/11e4daeb292b9ca8bf0b596599105940> <https://colonialcollections.nl/schema#creator> "Gerard Weijers" .
-<https://n2t.net/ark:/27023/11e4daeb292b9ca8bf0b596599105940> <https://colonialcollections.nl/schema#yearCreatedStart> "1982"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/11e4daeb292b9ca8bf0b596599105940> <https://colonialcollections.nl/schema#yearCreatedEnd> "1988"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/11e4daeb292b9ca8bf0b596599105940> <https://colonialcollections.nl/schema#locationCreated> "Turkije"@nl .
 <https://n2t.net/ark:/27023/11e4daeb292b9ca8bf0b596599105940> <https://colonialcollections.nl/schema#locationCreated> "Republic of Türkiye"@en .
 <https://n2t.net/ark:/27023/11e4daeb292b9ca8bf0b596599105940> <https://colonialcollections.nl/schema#countryCreated_en> "Republic of Türkiye"@en .
@@ -11,3 +9,5 @@
 <https://n2t.net/ark:/27023/11e4daeb292b9ca8bf0b596599105940> <https://colonialcollections.nl/schema#alternateName> "Turkey"@en .
 <https://n2t.net/ark:/27023/11e4daeb292b9ca8bf0b596599105940> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/11e4daeb292b9ca8bf0b596599105940> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
+<https://n2t.net/ark:/27023/11e4daeb292b9ca8bf0b596599105940> <https://colonialcollections.nl/schema#yearCreatedStart> "1982"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/11e4daeb292b9ca8bf0b596599105940> <https://colonialcollections.nl/schema#yearCreatedEnd> "1988"^^<http://www.w3.org/2001/XMLSchema#integer> .
