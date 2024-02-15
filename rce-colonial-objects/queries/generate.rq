@@ -166,8 +166,14 @@ WHERE {
     BIND(IF(LANG(?countryCreated) = "en" && ?countryCreated NOT IN (
       "United States of America"@en,
       "Congo Republic"@en,
+      "DR Congo"@en,
+      "Congo (DRC)"@en,
       "São Tomé & Príncipe"@en,
       "Republic of Korea"@en,
+      "St. Helena"@en,
+      "Republic of South Africa"@en,
+      "Hashemite Kingdom of Jordan"@en,
+      "Republic of South Sudan"@en,
       "Bonaire, Saint Eustatius, and Saba"@en), ?countryCreated, ?null) AS ?countryCreatedNameEn)
 
     BIND(IF(LANG(?countryCreated) = "nl" && ?countryCreated NOT IN (
@@ -178,6 +184,7 @@ WHERE {
       "São Tomé and Príncipe"@nl,
       "Noordelijke Marianeneilanden"@nl,
       "Amerikaans Samoa"@nl,
+      "Iran (Islamitische Republiek)"@nl,
       "Republiek Korea"@nl), ?countryCreated, ?null) AS ?countryCreatedNameNl)
   }
 
