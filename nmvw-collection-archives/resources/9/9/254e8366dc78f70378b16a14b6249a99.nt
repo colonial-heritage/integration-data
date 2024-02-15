@@ -1,9 +1,11 @@
 <https://n2t.net/ark:/27023/8e168e059adce4e777af562361f3696c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8e168e059adce4e777af562361f3696c> <https://colonialcollections.nl/schema#additionalType> "volksprenten" .
 <https://n2t.net/ark:/27023/8e168e059adce4e777af562361f3696c> <https://colonialcollections.nl/schema#additionalType> "affiches (informatiedragers)" .
+<https://n2t.net/ark:/27023/8e168e059adce4e777af562361f3696c> <https://colonialcollections.nl/schema#additionalType> "volksprenten" .
 <https://n2t.net/ark:/27023/8e168e059adce4e777af562361f3696c> <https://colonialcollections.nl/schema#identifier> "7158-97a" .
 <https://n2t.net/ark:/27023/8e168e059adce4e777af562361f3696c> <https://colonialcollections.nl/schema#name> "`CAPTAIN AMERICA'" .
 <https://n2t.net/ark:/27023/8e168e059adce4e777af562361f3696c> <https://colonialcollections.nl/schema#material> "papier (vezelproduct)" .
+<https://n2t.net/ark:/27023/8e168e059adce4e777af562361f3696c> <https://colonialcollections.nl/schema#yearCreatedStart> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/8e168e059adce4e777af562361f3696c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1978"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/8e168e059adce4e777af562361f3696c> <https://colonialcollections.nl/schema#locationCreated> "Filipijnen"@nl .
 <https://n2t.net/ark:/27023/8e168e059adce4e777af562361f3696c> <https://colonialcollections.nl/schema#locationCreated> "Philippines"@en .
 <https://n2t.net/ark:/27023/8e168e059adce4e777af562361f3696c> <https://colonialcollections.nl/schema#countryCreated_en> "Philippines"@en .
@@ -12,5 +14,3 @@
 <https://n2t.net/ark:/27023/8e168e059adce4e777af562361f3696c> <https://colonialcollections.nl/schema#alternateName> "Filippijnen"@nl .
 <https://n2t.net/ark:/27023/8e168e059adce4e777af562361f3696c> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/8e168e059adce4e777af562361f3696c> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
-<https://n2t.net/ark:/27023/8e168e059adce4e777af562361f3696c> <https://colonialcollections.nl/schema#yearCreatedStart> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/8e168e059adce4e777af562361f3696c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1978"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,11 +1,11 @@
 <https://n2t.net/ark:/27023/8edbd9c9a2f80f92a0fca09a60dcc8bf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/8edbd9c9a2f80f92a0fca09a60dcc8bf> <https://colonialcollections.nl/schema#identifier> "WM-920213" .
 <https://n2t.net/ark:/27023/8edbd9c9a2f80f92a0fca09a60dcc8bf> <https://colonialcollections.nl/schema#description> "ontdekkingsreizen van James Cook" .
-<https://n2t.net/ark:/27023/8edbd9c9a2f80f92a0fca09a60dcc8bf> <https://colonialcollections.nl/schema#locationCreated> "Tonga"@nl .
+<https://n2t.net/ark:/27023/8edbd9c9a2f80f92a0fca09a60dcc8bf> <https://colonialcollections.nl/schema#yearCreatedStart> "1768"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/8edbd9c9a2f80f92a0fca09a60dcc8bf> <https://colonialcollections.nl/schema#yearCreatedEnd> "1779"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/8edbd9c9a2f80f92a0fca09a60dcc8bf> <https://colonialcollections.nl/schema#locationCreated> "Tonga"@en .
+<https://n2t.net/ark:/27023/8edbd9c9a2f80f92a0fca09a60dcc8bf> <https://colonialcollections.nl/schema#locationCreated> "Tonga"@nl .
 <https://n2t.net/ark:/27023/8edbd9c9a2f80f92a0fca09a60dcc8bf> <https://colonialcollections.nl/schema#countryCreated_en> "Tonga"@en .
 <https://n2t.net/ark:/27023/8edbd9c9a2f80f92a0fca09a60dcc8bf> <https://colonialcollections.nl/schema#countryCreated_nl> "Tonga"@nl .
 <https://n2t.net/ark:/27023/8edbd9c9a2f80f92a0fca09a60dcc8bf> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/8edbd9c9a2f80f92a0fca09a60dcc8bf> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
-<https://n2t.net/ark:/27023/8edbd9c9a2f80f92a0fca09a60dcc8bf> <https://colonialcollections.nl/schema#yearCreatedStart> "1768"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/8edbd9c9a2f80f92a0fca09a60dcc8bf> <https://colonialcollections.nl/schema#yearCreatedEnd> "1779"^^<http://www.w3.org/2001/XMLSchema#integer> .
