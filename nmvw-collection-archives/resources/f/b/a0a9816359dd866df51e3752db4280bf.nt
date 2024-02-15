@@ -1,11 +1,9 @@
 <https://n2t.net/ark:/27023/271c952e8a3e126a1b4774d2b2c52b59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/271c952e8a3e126a1b4774d2b2c52b59> <https://colonialcollections.nl/schema#additionalType> "portretten" .
 <https://n2t.net/ark:/27023/271c952e8a3e126a1b4774d2b2c52b59> <https://colonialcollections.nl/schema#additionalType> "prenten" .
+<https://n2t.net/ark:/27023/271c952e8a3e126a1b4774d2b2c52b59> <https://colonialcollections.nl/schema#additionalType> "portretten" .
 <https://n2t.net/ark:/27023/271c952e8a3e126a1b4774d2b2c52b59> <https://colonialcollections.nl/schema#identifier> "7158-553" .
 <https://n2t.net/ark:/27023/271c952e8a3e126a1b4774d2b2c52b59> <https://colonialcollections.nl/schema#name> "PRENT MET PORTRET VAN SIKANDER ALI SHAH" .
 <https://n2t.net/ark:/27023/271c952e8a3e126a1b4774d2b2c52b59> <https://colonialcollections.nl/schema#material> "papier (vezelproduct)" .
-<https://n2t.net/ark:/27023/271c952e8a3e126a1b4774d2b2c52b59> <https://colonialcollections.nl/schema#yearCreatedStart> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/271c952e8a3e126a1b4774d2b2c52b59> <https://colonialcollections.nl/schema#yearCreatedEnd> "1988"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/271c952e8a3e126a1b4774d2b2c52b59> <https://colonialcollections.nl/schema#locationCreated> "Pakistan"@en .
 <https://n2t.net/ark:/27023/271c952e8a3e126a1b4774d2b2c52b59> <https://colonialcollections.nl/schema#locationCreated> "Pakistan"@nl .
 <https://n2t.net/ark:/27023/271c952e8a3e126a1b4774d2b2c52b59> <https://colonialcollections.nl/schema#countryCreated_en> "Pakistan"@en .
@@ -13,3 +11,5 @@
 <https://n2t.net/ark:/27023/271c952e8a3e126a1b4774d2b2c52b59> <https://colonialcollections.nl/schema#alternateName> "Islamic Republic of Pakistan"@en .
 <https://n2t.net/ark:/27023/271c952e8a3e126a1b4774d2b2c52b59> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/271c952e8a3e126a1b4774d2b2c52b59> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
+<https://n2t.net/ark:/27023/271c952e8a3e126a1b4774d2b2c52b59> <https://colonialcollections.nl/schema#yearCreatedStart> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/271c952e8a3e126a1b4774d2b2c52b59> <https://colonialcollections.nl/schema#yearCreatedEnd> "1988"^^<http://www.w3.org/2001/XMLSchema#integer> .
