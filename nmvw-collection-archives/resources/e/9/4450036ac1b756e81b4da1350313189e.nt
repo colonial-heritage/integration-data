@@ -1,13 +1,13 @@
 <https://n2t.net/ark:/27023/a4da3bf5c66c9e6559c73e65706a6c14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/a4da3bf5c66c9e6559c73e65706a6c14> <https://colonialcollections.nl/schema#additionalType> "hoofdtooien" .
 <https://n2t.net/ark:/27023/a4da3bf5c66c9e6559c73e65706a6c14> <https://colonialcollections.nl/schema#identifier> "WM-72617" .
-<https://n2t.net/ark:/27023/a4da3bf5c66c9e6559c73e65706a6c14> <https://colonialcollections.nl/schema#material> "messing" .
-<https://n2t.net/ark:/27023/a4da3bf5c66c9e6559c73e65706a6c14> <https://colonialcollections.nl/schema#material> "textielmaterialen" .
 <https://n2t.net/ark:/27023/a4da3bf5c66c9e6559c73e65706a6c14> <https://colonialcollections.nl/schema#material> "zilver" .
+<https://n2t.net/ark:/27023/a4da3bf5c66c9e6559c73e65706a6c14> <https://colonialcollections.nl/schema#material> "textielmaterialen" .
+<https://n2t.net/ark:/27023/a4da3bf5c66c9e6559c73e65706a6c14> <https://colonialcollections.nl/schema#material> "messing" .
 <https://n2t.net/ark:/27023/a4da3bf5c66c9e6559c73e65706a6c14> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/a4da3bf5c66c9e6559c73e65706a6c14> <https://colonialcollections.nl/schema#yearCreatedEnd> "1899"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/a4da3bf5c66c9e6559c73e65706a6c14> <https://colonialcollections.nl/schema#locationCreated> "Syria"@en .
 <https://n2t.net/ark:/27023/a4da3bf5c66c9e6559c73e65706a6c14> <https://colonialcollections.nl/schema#locationCreated> "Syrië"@nl .
+<https://n2t.net/ark:/27023/a4da3bf5c66c9e6559c73e65706a6c14> <https://colonialcollections.nl/schema#locationCreated> "Syria"@en .
 <https://n2t.net/ark:/27023/a4da3bf5c66c9e6559c73e65706a6c14> <https://colonialcollections.nl/schema#countryCreated_en> "Syria"@en .
 <https://n2t.net/ark:/27023/a4da3bf5c66c9e6559c73e65706a6c14> <https://colonialcollections.nl/schema#countryCreated_nl> "Syrië"@nl .
 <https://n2t.net/ark:/27023/a4da3bf5c66c9e6559c73e65706a6c14> <https://colonialcollections.nl/schema#alternateName> "Syrian Arab Republic"@en .

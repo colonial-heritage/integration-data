@@ -1,8 +1,9 @@
 <https://n2t.net/ark:/27023/ab210a2de6b721a5a93cc4d9bf961cf4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/ab210a2de6b721a5a93cc4d9bf961cf4> <https://colonialcollections.nl/schema#identifier> "TM-3032-16" .
 <https://n2t.net/ark:/27023/ab210a2de6b721a5a93cc4d9bf961cf4> <https://colonialcollections.nl/schema#name> "FLUWELEN VERSIERSEL MET BORDUURWERK VAN ZILVERDRAAD" .
-<https://n2t.net/ark:/27023/ab210a2de6b721a5a93cc4d9bf961cf4> <https://colonialcollections.nl/schema#material> "zilver" .
 <https://n2t.net/ark:/27023/ab210a2de6b721a5a93cc4d9bf961cf4> <https://colonialcollections.nl/schema#material> "fluweel" .
+<https://n2t.net/ark:/27023/ab210a2de6b721a5a93cc4d9bf961cf4> <https://colonialcollections.nl/schema#material> "zilver" .
+<https://n2t.net/ark:/27023/ab210a2de6b721a5a93cc4d9bf961cf4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1961"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/ab210a2de6b721a5a93cc4d9bf961cf4> <https://colonialcollections.nl/schema#locationCreated> "Thailand"@en .
 <https://n2t.net/ark:/27023/ab210a2de6b721a5a93cc4d9bf961cf4> <https://colonialcollections.nl/schema#locationCreated> "Thailand"@nl .
 <https://n2t.net/ark:/27023/ab210a2de6b721a5a93cc4d9bf961cf4> <https://colonialcollections.nl/schema#countryCreated_en> "Thailand"@en .
@@ -10,4 +11,3 @@
 <https://n2t.net/ark:/27023/ab210a2de6b721a5a93cc4d9bf961cf4> <https://colonialcollections.nl/schema#alternateName> "Kingdom of Thailand"@en .
 <https://n2t.net/ark:/27023/ab210a2de6b721a5a93cc4d9bf961cf4> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/ab210a2de6b721a5a93cc4d9bf961cf4> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
-<https://n2t.net/ark:/27023/ab210a2de6b721a5a93cc4d9bf961cf4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1961"^^<http://www.w3.org/2001/XMLSchema#integer> .
