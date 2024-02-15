@@ -1,8 +1,9 @@
 <https://n2t.net/ark:/27023/13f5029e932ca3b034e69d571967125b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/13f5029e932ca3b034e69d571967125b> <https://colonialcollections.nl/schema#identifier> "TM-5411-46v" .
 <https://n2t.net/ark:/27023/13f5029e932ca3b034e69d571967125b> <https://colonialcollections.nl/schema#name> "BLIKKEN KERSTVERSIERING IN DE VORM VAN TWEE VERSIERDE KERSTBOMEN" .
-<https://n2t.net/ark:/27023/13f5029e932ca3b034e69d571967125b> <https://colonialcollections.nl/schema#material> "blik (materiaal)" .
 <https://n2t.net/ark:/27023/13f5029e932ca3b034e69d571967125b> <https://colonialcollections.nl/schema#material> "verfstof" .
+<https://n2t.net/ark:/27023/13f5029e932ca3b034e69d571967125b> <https://colonialcollections.nl/schema#material> "blik (materiaal)" .
+<https://n2t.net/ark:/27023/13f5029e932ca3b034e69d571967125b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1991"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/13f5029e932ca3b034e69d571967125b> <https://colonialcollections.nl/schema#locationCreated> "Mexico"@en .
 <https://n2t.net/ark:/27023/13f5029e932ca3b034e69d571967125b> <https://colonialcollections.nl/schema#locationCreated> "Mexico"@nl .
 <https://n2t.net/ark:/27023/13f5029e932ca3b034e69d571967125b> <https://colonialcollections.nl/schema#countryCreated_en> "Mexico"@en .
@@ -11,4 +12,3 @@
 <https://n2t.net/ark:/27023/13f5029e932ca3b034e69d571967125b> <https://colonialcollections.nl/schema#alternateName> "Mexican Republic"@en .
 <https://n2t.net/ark:/27023/13f5029e932ca3b034e69d571967125b> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/13f5029e932ca3b034e69d571967125b> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
-<https://n2t.net/ark:/27023/13f5029e932ca3b034e69d571967125b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1991"^^<http://www.w3.org/2001/XMLSchema#integer> .
