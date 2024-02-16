@@ -1,7 +1,10 @@
 <https://n2t.net/ark:/27023/94c09ddbfe14a54123089df979bd8158> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/94c09ddbfe14a54123089df979bd8158> <https://colonialcollections.nl/schema#identifier> "WM-429854" .
 <https://n2t.net/ark:/27023/94c09ddbfe14a54123089df979bd8158> <https://colonialcollections.nl/schema#description> "Processie van hoogwaardigheidbekleders, waaronder Zijne Hoogheid Le Bey in een paleis; documentaire fotografie." .
+<https://n2t.net/ark:/27023/94c09ddbfe14a54123089df979bd8158> <https://colonialcollections.nl/schema#inscription> "titel (1) en signering gedrukt & titel (2) geschreven in negatief & titel (3) met potlood geschreven op achterzijde" .
 <https://n2t.net/ark:/27023/94c09ddbfe14a54123089df979bd8158> <https://colonialcollections.nl/schema#creator> "ND Phot" .
+<https://n2t.net/ark:/27023/94c09ddbfe14a54123089df979bd8158> <https://colonialcollections.nl/schema#yearCreatedStart> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/94c09ddbfe14a54123089df979bd8158> <https://colonialcollections.nl/schema#yearCreatedEnd> "1899"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/94c09ddbfe14a54123089df979bd8158> <https://colonialcollections.nl/schema#locationCreated> "Tunis" .
 <https://n2t.net/ark:/27023/94c09ddbfe14a54123089df979bd8158> <https://colonialcollections.nl/schema#countryCreated_en> "Tunisia"@en .
 <https://n2t.net/ark:/27023/94c09ddbfe14a54123089df979bd8158> <https://colonialcollections.nl/schema#countryCreated_nl> "Tunesië"@nl .
@@ -10,6 +13,3 @@
 <https://n2t.net/ark:/27023/94c09ddbfe14a54123089df979bd8158> <https://colonialcollections.nl/schema#alternateName> "Tunis"@en .
 <https://n2t.net/ark:/27023/94c09ddbfe14a54123089df979bd8158> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/94c09ddbfe14a54123089df979bd8158> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
-<https://n2t.net/ark:/27023/94c09ddbfe14a54123089df979bd8158> <https://colonialcollections.nl/schema#inscription> "titel (1) en signering gedrukt & titel (2) geschreven in negatief & titel (3) met potlood geschreven op achterzijde" .
-<https://n2t.net/ark:/27023/94c09ddbfe14a54123089df979bd8158> <https://colonialcollections.nl/schema#yearCreatedStart> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/94c09ddbfe14a54123089df979bd8158> <https://colonialcollections.nl/schema#yearCreatedEnd> "1899"^^<http://www.w3.org/2001/XMLSchema#integer> .

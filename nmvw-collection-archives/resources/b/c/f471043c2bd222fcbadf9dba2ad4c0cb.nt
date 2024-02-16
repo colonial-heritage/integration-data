@@ -1,16 +1,16 @@
 <https://n2t.net/ark:/27023/9e92315b083e228a0500d7ca9af0267f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9e92315b083e228a0500d7ca9af0267f> <https://colonialcollections.nl/schema#additionalType> "films" .
+<https://n2t.net/ark:/27023/9e92315b083e228a0500d7ca9af0267f> <https://colonialcollections.nl/schema#additionalType> "gelatinenegatieven op acetaat" .
+<https://n2t.net/ark:/27023/9e92315b083e228a0500d7ca9af0267f> <https://colonialcollections.nl/schema#identifier> "TM-90000154" .
 <https://n2t.net/ark:/27023/9e92315b083e228a0500d7ca9af0267f> <https://colonialcollections.nl/schema#name> "FILM GETITELD \"EEN DORPSGEMEENSCHAP IN EEN MANGROVEGEBIED\"" .
 <https://n2t.net/ark:/27023/9e92315b083e228a0500d7ca9af0267f> <https://colonialcollections.nl/schema#description> "De film geeft een beeld van de samenleving in een mangrovegebid aan de Westkust van Afrika, Sierra Leone. (J. de Jonge, 1975)\r\n\r\nHet is een stomme film in zwart/wit. Bld/sec. is 24. De toelichting van de film zit in blik.\r\nHet is een 16mm film." .
-<https://n2t.net/ark:/27023/9e92315b083e228a0500d7ca9af0267f> <https://colonialcollections.nl/schema#additionalType> "gelatinenegatieven op acetaat" .
-<https://n2t.net/ark:/27023/9e92315b083e228a0500d7ca9af0267f> <https://colonialcollections.nl/schema#additionalType> "films" .
-<https://n2t.net/ark:/27023/9e92315b083e228a0500d7ca9af0267f> <https://colonialcollections.nl/schema#identifier> "TM-90000154" .
 <https://n2t.net/ark:/27023/9e92315b083e228a0500d7ca9af0267f> <https://colonialcollections.nl/schema#material> "celluloseacetaat (CA)" .
 <https://n2t.net/ark:/27023/9e92315b083e228a0500d7ca9af0267f> <https://colonialcollections.nl/schema#creator> "Mr. P. Creutzberg" .
 <https://n2t.net/ark:/27023/9e92315b083e228a0500d7ca9af0267f> <https://colonialcollections.nl/schema#creator> "Nederlandse Onderwijs Film" .
 <https://n2t.net/ark:/27023/9e92315b083e228a0500d7ca9af0267f> <https://colonialcollections.nl/schema#yearCreatedStart> "1955"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/9e92315b083e228a0500d7ca9af0267f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1955"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/9e92315b083e228a0500d7ca9af0267f> <https://colonialcollections.nl/schema#locationCreated> "Sierra Leone"@en .
 <https://n2t.net/ark:/27023/9e92315b083e228a0500d7ca9af0267f> <https://colonialcollections.nl/schema#locationCreated> "Sierra Leone"@nl .
+<https://n2t.net/ark:/27023/9e92315b083e228a0500d7ca9af0267f> <https://colonialcollections.nl/schema#locationCreated> "Sierra Leone"@en .
 <https://n2t.net/ark:/27023/9e92315b083e228a0500d7ca9af0267f> <https://colonialcollections.nl/schema#countryCreated_en> "Sierra Leone"@en .
 <https://n2t.net/ark:/27023/9e92315b083e228a0500d7ca9af0267f> <https://colonialcollections.nl/schema#countryCreated_nl> "Sierra Leone"@nl .
 <https://n2t.net/ark:/27023/9e92315b083e228a0500d7ca9af0267f> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
