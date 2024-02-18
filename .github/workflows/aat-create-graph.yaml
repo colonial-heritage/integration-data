@@ -47,6 +47,7 @@ jobs:
             --iterate-query-file ./aat/queries/iterate.rq \
             --generate-endpoint-url "https://vocab.getty.edu/sparql" \
             --generate-query-file ./aat/queries/generate.rq \
+            --generate-batch-size 50000 \
             --triplydb-instance-url "${{ vars.TRIPLYDB_INSTANCE_URL }}" \
             --triplydb-api-token "${{ secrets.TRIPLYDB_API_TOKEN }}" \
             --triplydb-account "${{ vars.TRIPLYDB_ACCOUNT }}" \

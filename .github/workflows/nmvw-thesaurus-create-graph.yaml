@@ -47,6 +47,7 @@ jobs:
             --iterate-query-file ./nmvw-thesaurus/queries/iterate.rq \
             --generate-endpoint-url "https://api.colonialcollections.nl/datasets/nmvw/thesaurus/sparql" \
             --generate-query-file ./nmvw-thesaurus/queries/generate.rq \
+            --generate-batch-size 50000 \
             --triplydb-instance-url "${{ vars.TRIPLYDB_INSTANCE_URL }}" \
             --triplydb-api-token "${{ secrets.TRIPLYDB_API_TOKEN }}" \
             --triplydb-account "${{ vars.TRIPLYDB_ACCOUNT }}" \

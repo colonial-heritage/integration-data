@@ -47,6 +47,7 @@ jobs:
             --iterate-query-file ./rce-colonial-objects/queries/iterate.rq \
             --generate-endpoint-url "${{ vars.SPARQL_ENDPOINT_URL_KG }}" \
             --generate-query-file ./rce-colonial-objects/queries/generate.rq \
+            --generate-batch-size 50000 \
             --triplydb-instance-url "${{ vars.TRIPLYDB_INSTANCE_URL }}" \
             --triplydb-api-token "${{ secrets.TRIPLYDB_API_TOKEN }}" \
             --triplydb-account "${{ vars.TRIPLYDB_ACCOUNT }}" \
