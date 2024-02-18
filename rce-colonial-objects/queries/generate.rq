@@ -185,6 +185,9 @@ WHERE {
       "Noordelijke Marianeneilanden"@nl,
       "Amerikaans Samoa"@nl,
       "Iran (Islamitische Republiek)"@nl,
+      "Sint-Maarten"@nl,
+      "Saudi-Arabië"@nl,
+      "St. Lucia"@nl,
       "Republiek Korea"@nl), ?countryCreated, ?null) AS ?countryCreatedNameNl)
   }
 
