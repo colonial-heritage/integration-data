@@ -1,0 +1,35 @@
+<https://sws.geonames.org/75411/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/75411/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/75411/about.rdf> .
+<https://sws.geonames.org/75411/> <http://www.geonames.org/ontology#name> "Hadramaout" .
+<https://sws.geonames.org/75411/> <http://www.geonames.org/ontology#alternateName> "Al Muḩāfaz̧ah al Khāmisah" .
+<https://sws.geonames.org/75411/> <http://www.geonames.org/ontology#alternateName> "Fifth Governorate" .
+<https://sws.geonames.org/75411/> <http://www.geonames.org/ontology#alternateName> "Governorate Number five" .
+<https://sws.geonames.org/75411/> <http://www.geonames.org/ontology#alternateName> "Governorate Number Five" .
+<https://sws.geonames.org/75411/> <http://www.geonames.org/ontology#alternateName> "Hadhramaut" .
+<https://sws.geonames.org/75411/> <http://www.geonames.org/ontology#alternateName> "Hadramaout"@en .
+<https://sws.geonames.org/75411/> <http://www.geonames.org/ontology#alternateName> "Hadramaout"@fr .
+<https://sws.geonames.org/75411/> <http://www.geonames.org/ontology#shortName> "Ḩaḑramawt" .
+<https://sws.geonames.org/75411/> <http://www.geonames.org/ontology#alternateName> "Muhafazat Hadramaout"@en .
+<https://sws.geonames.org/75411/> <http://www.geonames.org/ontology#alternateName> "Muḩāfaz̧at Ḩaḑramawt" .
+<https://sws.geonames.org/75411/> <http://www.geonames.org/ontology#alternateName> "V" .
+<https://sws.geonames.org/75411/> <http://www.geonames.org/ontology#alternateName> "حضرموت"@ar .
+<https://sws.geonames.org/75411/> <http://www.geonames.org/ontology#alternateName> "محافظة حضرموت"@ar .
+<https://sws.geonames.org/75411/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#A> .
+<https://sws.geonames.org/75411/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#A.ADM1> .
+<https://sws.geonames.org/75411/> <http://www.geonames.org/ontology#countryCode> "YE" .
+<https://sws.geonames.org/75411/> <http://www.geonames.org/ontology#population> "1255000" .
+<https://sws.geonames.org/75411/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "16" .
+<https://sws.geonames.org/75411/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "49" .
+<https://sws.geonames.org/75411/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/69543/> .
+<https://sws.geonames.org/75411/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/69543/> .
+<https://sws.geonames.org/75411/> <http://www.geonames.org/ontology#childrenFeatures> <https://sws.geonames.org/75411/contains.rdf> .
+<https://sws.geonames.org/75411/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/75411/hadhramaut-governorate.html> .
+<https://sws.geonames.org/75411/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Hadhramaut_Governorate> .
+<https://sws.geonames.org/75411/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Hadhramaut_Governorate> .
+<https://sws.geonames.org/75411/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/75411/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/75411/> .
+<https://sws.geonames.org/75411/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/75411/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/75411/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/75411/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/75411/about.rdf> <http://purl.org/dc/terms/modified> "2020-06-28"^^<https://www.w3.org/2001/XMLSchema#date> .

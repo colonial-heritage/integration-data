@@ -1,0 +1,30 @@
+<https://sws.geonames.org/5891871/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/5891871/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/5891871/about.rdf> .
+<https://sws.geonames.org/5891871/> <http://www.geonames.org/ontology#name> "Baker Lake" .
+<https://sws.geonames.org/5891871/> <http://www.geonames.org/ontology#alternateName> "Baker Lake"@en .
+<https://sws.geonames.org/5891871/> <http://www.geonames.org/ontology#alternateName> "Baker Lake" .
+<https://sws.geonames.org/5891871/> <http://www.geonames.org/ontology#alternateName> "Qamani’tuaq"@fr .
+<https://sws.geonames.org/5891871/> <http://www.geonames.org/ontology#alternateName> "Бейкер-Лейк"@ru .
+<https://sws.geonames.org/5891871/> <http://www.geonames.org/ontology#alternateName> "Бейкер-Лейк"@uk .
+<https://sws.geonames.org/5891871/> <http://www.geonames.org/ontology#alternateName> "بیکر لیک"@ur .
+<https://sws.geonames.org/5891871/> <http://www.geonames.org/ontology#alternateName> "貝克湖"@zh .
+<https://sws.geonames.org/5891871/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#P> .
+<https://sws.geonames.org/5891871/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#P.PPLL> .
+<https://sws.geonames.org/5891871/> <http://www.geonames.org/ontology#countryCode> "CA" .
+<https://sws.geonames.org/5891871/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "64.32009" .
+<https://sws.geonames.org/5891871/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-96.02123" .
+<https://sws.geonames.org/5891871/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/6091732/> .
+<https://sws.geonames.org/5891871/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/6251999/> .
+<https://sws.geonames.org/5891871/> <http://www.geonames.org/ontology#parentADM1> <https://sws.geonames.org/6091732/> .
+<https://sws.geonames.org/5891871/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/5891871/nearby.rdf> .
+<https://sws.geonames.org/5891871/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/5891871/baker-lake.html> .
+<https://sws.geonames.org/5891871/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Baker_Lake%2C_Nunavut> .
+<https://sws.geonames.org/5891871/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Baker_Lake%2C_Nunavut> .
+<https://sws.geonames.org/5891871/> <http://www.geonames.org/ontology#wikipediaArticle> <https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%B9%D0%BA%D0%B5%D1%80-%D0%9B%D0%B5%D0%B9%D0%BA> .
+<https://sws.geonames.org/5891871/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/5891871/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/5891871/> .
+<https://sws.geonames.org/5891871/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/5891871/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/5891871/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/5891871/about.rdf> <http://purl.org/dc/terms/created> "2006-01-18"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/5891871/about.rdf> <http://purl.org/dc/terms/modified> "2016-04-22"^^<https://www.w3.org/2001/XMLSchema#date> .
