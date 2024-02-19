@@ -47,6 +47,7 @@ jobs:
             --iterate-endpoint-url "${{ vars.SPARQL_ENDPOINT_URL_KG }}" \
             --iterate-locations-query-file ./geonames/queries/iterate-locations.rq \
             --iterate-countries-query-file ./geonames/queries/iterate-countries.rq \
+            --dereference-batch-size 500 \
             --triplydb-instance-url "${{ vars.TRIPLYDB_INSTANCE_URL }}" \
             --triplydb-api-token "${{ secrets.TRIPLYDB_API_TOKEN }}" \
             --triplydb-account "${{ vars.TRIPLYDB_ACCOUNT }}" \
