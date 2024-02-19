@@ -1,0 +1,35 @@
+<https://sws.geonames.org/142549/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/142549/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/142549/about.rdf> .
+<https://sws.geonames.org/142549/> <http://www.geonames.org/ontology#name> "East Azerbaijan" .
+<https://sws.geonames.org/142549/> <http://www.geonames.org/ontology#officialName> "Aust-Aserbajdsjan"@nn .
+<https://sws.geonames.org/142549/> <http://www.geonames.org/ontology#alternateName> "Āz̄ārbāyjān-e Shārqī" .
+<https://sws.geonames.org/142549/> <http://www.geonames.org/ontology#alternateName> "Azerbaiyán Oriental"@es .
+<https://sws.geonames.org/142549/> <http://www.geonames.org/ontology#alternateName> "East Azarbaijan"@en .
+<https://sws.geonames.org/142549/> <http://www.geonames.org/ontology#shortName> "East Azerbaijan"@en .
+<https://sws.geonames.org/142549/> <http://www.geonames.org/ontology#officialName> "East Azerbaijan Province"@en .
+<https://sws.geonames.org/142549/> <http://www.geonames.org/ontology#officialName> "Orienta Azerbajĝano"@eo .
+<https://sws.geonames.org/142549/> <http://www.geonames.org/ontology#alternateName> "Øst-Aserbajdsjan"@no .
+<https://sws.geonames.org/142549/> <http://www.geonames.org/ontology#alternateName> "Provinco Orienta Azerbajĝano"@eo .
+<https://sws.geonames.org/142549/> <http://www.geonames.org/ontology#alternateName> "The 3rd Province"@en .
+<https://sws.geonames.org/142549/> <http://www.geonames.org/ontology#officialName> "آذربایجان شرقی"@fa .
+<https://sws.geonames.org/142549/> <http://www.geonames.org/ontology#alternateName> "استان آذربایجان شرقی"@fa .
+<https://sws.geonames.org/142549/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#A> .
+<https://sws.geonames.org/142549/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#A.ADM1> .
+<https://sws.geonames.org/142549/> <http://www.geonames.org/ontology#countryCode> "IR" .
+<https://sws.geonames.org/142549/> <http://www.geonames.org/ontology#population> "3909652" .
+<https://sws.geonames.org/142549/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "38" .
+<https://sws.geonames.org/142549/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "46.75" .
+<https://sws.geonames.org/142549/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/12200098/> .
+<https://sws.geonames.org/142549/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/130758/> .
+<https://sws.geonames.org/142549/> <http://www.geonames.org/ontology#childrenFeatures> <https://sws.geonames.org/142549/contains.rdf> .
+<https://sws.geonames.org/142549/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/142549/east-azerbaijan-province.html> .
+<https://sws.geonames.org/142549/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/East_Azarbaijan_Province> .
+<https://sws.geonames.org/142549/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/East_Azarbaijan_Province> .
+<https://sws.geonames.org/142549/> <http://www.geonames.org/ontology#wikipediaArticle> <https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D8%B0%D8%B1%D8%A8%D8%A7%DB%8C%D8%AC%D8%A7%D9%86_%D8%B4%D8%B1%D9%82%DB%8C> .
+<https://sws.geonames.org/142549/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/142549/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/142549/> .
+<https://sws.geonames.org/142549/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/142549/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/142549/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/142549/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/142549/about.rdf> <http://purl.org/dc/terms/modified> "2021-01-13"^^<https://www.w3.org/2001/XMLSchema#date> .
