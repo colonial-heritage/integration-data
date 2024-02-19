@@ -1,0 +1,32 @@
+<https://sws.geonames.org/7729889/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/7729889/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/7729889/about.rdf> .
+<https://sws.geonames.org/7729889/> <http://www.geonames.org/ontology#name> "Eastern Africa" .
+<https://sws.geonames.org/7729889/> <http://www.geonames.org/ontology#alternateName> "África Oriental"@es .
+<https://sws.geonames.org/7729889/> <http://www.geonames.org/ontology#alternateName> "África Oriental"@pt .
+<https://sws.geonames.org/7729889/> <http://www.geonames.org/ontology#alternateName> "Africa orientale"@it .
+<https://sws.geonames.org/7729889/> <http://www.geonames.org/ontology#alternateName> "Afrique de l'Est"@fr .
+<https://sws.geonames.org/7729889/> <http://www.geonames.org/ontology#alternateName> "Ostafrika"@de .
+<https://sws.geonames.org/7729889/> <http://www.geonames.org/ontology#alternateName> "Восточная Африка"@ru .
+<https://sws.geonames.org/7729889/> <http://www.geonames.org/ontology#alternateName> "Східна Африка"@uk .
+<https://sws.geonames.org/7729889/> <http://www.geonames.org/ontology#officialName> "شرق أفريقيا"@ar .
+<https://sws.geonames.org/7729889/> <http://www.geonames.org/ontology#alternateName> "شرق إفريقيا"@ar .
+<https://sws.geonames.org/7729889/> <http://www.geonames.org/ontology#alternateName> "東アフリカ"@ja .
+<https://sws.geonames.org/7729889/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#L> .
+<https://sws.geonames.org/7729889/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#L.RGN> .
+<https://sws.geonames.org/7729889/> <http://www.geonames.org/ontology#population> "325927000" .
+<https://sws.geonames.org/7729889/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "-0.52734" .
+<https://sws.geonames.org/7729889/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "36.51855" .
+<https://sws.geonames.org/7729889/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/12212804/> .
+<https://sws.geonames.org/7729889/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/6255146/> .
+<https://sws.geonames.org/7729889/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/7729889/nearby.rdf> .
+<https://sws.geonames.org/7729889/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/7729889/eastern-africa.html> .
+<https://sws.geonames.org/7729889/> <http://www.geonames.org/ontology#wikipediaArticle> <https://ar.wikipedia.org/wiki/%D8%B4%D8%B1%D9%82_%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7> .
+<https://sws.geonames.org/7729889/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Eastern_Africa> .
+<https://sws.geonames.org/7729889/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Eastern_Africa> .
+<https://sws.geonames.org/7729889/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/7729889/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/7729889/> .
+<https://sws.geonames.org/7729889/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/7729889/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/7729889/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/7729889/about.rdf> <http://purl.org/dc/terms/created> "2011-03-16"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/7729889/about.rdf> <http://purl.org/dc/terms/modified> "2021-04-22"^^<https://www.w3.org/2001/XMLSchema#date> .
