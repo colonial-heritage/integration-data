@@ -18,7 +18,6 @@ CONSTRUCT {
     cc:deathDate ?deathDate ;
     cc:deathYear ?deathYear ;
     cc:isPartOf ?datasetName ; # TODO: remove from search graph when 'persons' section in frontend app has been refactored
-    cc:publisher ?publisherNameLegacy ; # For BC: remove when locale-aware names are in use
     cc:publisher_en ?publisherNameEn ;
     cc:publisher_nl ?publisherNameNl .
 }
@@ -108,7 +107,6 @@ WHERE {
   OPTIONAL {
     ?dataset schema:publisher/schema:name ?publisherName
 
-    BIND(IF(LANG(?publisherName) = "", ?publisherName, ?null) AS ?publisherNameLegacy) # For BC: remove when locale-aware names are in use
     BIND(IF(LANG(?publisherName) = "en", ?publisherName, ?null) AS ?publisherNameEn)
     BIND(IF(LANG(?publisherName) = "nl", ?publisherName, ?null) AS ?publisherNameNl)
   }
