@@ -1,0 +1,11 @@
+<https://n2t.net/ark:/27023/e5464a02e694c869412f4ed66d51e996> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#Person> .
+<https://n2t.net/ark:/27023/e5464a02e694c869412f4ed66d51e996> <https://colonialcollections.nl/schema#name> "Jan Smid" .
+<https://n2t.net/ark:/27023/e5464a02e694c869412f4ed66d51e996> <https://colonialcollections.nl/schema#birthPlace> "Amsterdam" .
+<https://n2t.net/ark:/27023/e5464a02e694c869412f4ed66d51e996> <https://colonialcollections.nl/schema#birthDate> "1834-05-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://n2t.net/ark:/27023/e5464a02e694c869412f4ed66d51e996> <https://colonialcollections.nl/schema#birthYear> "1834"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/e5464a02e694c869412f4ed66d51e996> <https://colonialcollections.nl/schema#deathPlace> "veldambulance Palakka; Celebes" .
+<https://n2t.net/ark:/27023/e5464a02e694c869412f4ed66d51e996> <https://colonialcollections.nl/schema#deathDate> "1860-01-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://n2t.net/ark:/27023/e5464a02e694c869412f4ed66d51e996> <https://colonialcollections.nl/schema#deathYear> "1860"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/e5464a02e694c869412f4ed66d51e996> <https://colonialcollections.nl/schema#isPartOf> "Stamboeken" .
+<https://n2t.net/ark:/27023/e5464a02e694c869412f4ed66d51e996> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
+<https://n2t.net/ark:/27023/e5464a02e694c869412f4ed66d51e996> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
