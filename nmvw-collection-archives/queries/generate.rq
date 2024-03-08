@@ -14,11 +14,15 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
 CONSTRUCT {
   ?this a cc:HeritageObject ;
-    cc:additionalType ?typeName ;
+    cc:additionalType ?typeName ; # For BC; remove when locale-aware predicates are in use
+    cc:additionalType_en ?typeNameEn ;
+    cc:additionalType_nl ?typeNameNl ;
     cc:identifier ?identifier ;
     cc:name ?name ;
     cc:description ?description ;
-    cc:material ?materialName ;
+    cc:material ?materialName ; # For BC; remove when locale-aware predicates are in use
+    cc:material_en ?materialNameEn ;
+    cc:material_nl ?materialNameNl ;
     cc:inscription ?inscription ;
     cc:creator ?creatorName ;
     cc:yearCreatedStart ?beginOfTheBeginYear ;
@@ -41,6 +45,9 @@ WHERE {
     ?this crm:P2_has_type [
       skos:prefLabel ?typeName
     ] .
+
+    BIND(IF(LANG(?typeName) = "en", ?typeName, ?null) AS ?typeNameEn)
+    BIND(IF(LANG(?typeName) = "nl", ?typeName, ?null) AS ?typeNameNl)
   }
 
   ####################
@@ -91,6 +98,9 @@ WHERE {
     ?this crm:P45_consists_of [
       skos:prefLabel ?materialName
     ] .
+
+    BIND(IF(LANG(?materialName) = "en", ?materialName, ?null) AS ?materialNameEn)
+    BIND(IF(LANG(?materialName) = "nl", ?materialName, ?null) AS ?materialNameNl)
   }
 
   ####################

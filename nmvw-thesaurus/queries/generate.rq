@@ -2,10 +2,21 @@ PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 
 CONSTRUCT {
   ?this a skos:Concept ;
-    skos:prefLabel ?prefLabel .
+    skos:prefLabel ?prefLabel ;
+    skos:prefLabel ?altLabel .
 }
 WHERE {
   BIND(?_iri AS ?this)
+
   ?this a skos:Concept ;
-    skos:prefLabel ?prefLabel .
+    skos:prefLabel ?tmpPrefLabel .
+
+  # The prefLabel is always in Dutch but the language tag is missing
+  BIND(STRLANG(?tmpPrefLabel, "nl") AS ?prefLabel)
+
+  # The altLabel contains the English prefLabel
+  OPTIONAL {
+    ?this skos:altLabel ?altLabel
+    FILTER(LANG(?altLabel) = "en")
+  }
 }
