@@ -14,11 +14,11 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
 CONSTRUCT {
   ?this a cc:HeritageObject ;
-    cc:additionalType ?typeName ;
+    cc:additionalType_nl ?typeNameNl ;
     cc:identifier ?identifier ;
     cc:name ?name ;
     cc:description ?description ;
-    cc:material ?materialName ;
+    cc:material_nl ?materialNameNl ;
     cc:creator ?creatorName ;
     cc:locationCreated ?locationCreatedName ; # Only for indexing
     cc:countryCreated_en ?countryCreatedNameEn ;
@@ -35,10 +35,9 @@ WHERE {
   ####################
 
   OPTIONAL {
-    ?this crm:P2_has_type [
-      # The type points to a blank node, not to a thesaurus
-      rdfs:label ?typeName
-    ] .
+    # The type points to a blank node, not to a thesaurus
+    # The label is always in Dutch but the language tag is missing
+    ?this crm:P2_has_type/rdfs:label ?typeNameNl
   }
 
   ####################
@@ -86,10 +85,9 @@ WHERE {
   ####################
 
   OPTIONAL {
-    ?this crm:P45_consists_of [
-      # The material points to a blank node, not to a thesaurus
-      rdfs:label ?materialName
-    ] .
+    # The material points to a blank node, not to a thesaurus
+    # The label is always in Dutch but the language tag is missing
+    ?this crm:P45_consists_of/rdfs:label ?materialNameNl
   }
 
   ####################

@@ -14,13 +14,11 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
 CONSTRUCT {
   ?this a cc:HeritageObject ;
-    cc:additionalType ?typeName ; # For BC; remove when locale-aware predicates are in use
     cc:additionalType_en ?typeNameEn ;
     cc:additionalType_nl ?typeNameNl ;
     cc:identifier ?identifier ;
     cc:name ?name ;
     cc:description ?description ;
-    cc:material ?materialName ; # For BC; remove when locale-aware predicates are in use
     cc:material_en ?materialNameEn ;
     cc:material_nl ?materialNameNl ;
     cc:inscription ?inscription ;
