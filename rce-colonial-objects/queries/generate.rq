@@ -14,11 +14,13 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
 CONSTRUCT {
   ?this a cc:HeritageObject ;
-    cc:additionalType_nl ?typeNameNl ;
+    # cc:additionalType_en ?typeNameEn ;
+    # cc:additionalType_nl ?typeNameNl ;
     cc:identifier ?identifier ;
     cc:name ?name ;
     cc:description ?description ;
-    cc:material_nl ?materialNameNl ;
+    # cc:material_en ?materialNameEn ;
+    # cc:material_nl ?materialNameNl ;
     cc:creator ?creatorName ;
     cc:locationCreated ?locationCreatedName ; # Only for indexing
     cc:countryCreated_en ?countryCreatedNameEn ;
@@ -31,14 +33,14 @@ WHERE {
   BIND(?_iri AS ?this)
 
   ####################
-  # Type
+  # Type. Currently ignored because there are no language tags
   ####################
 
-  OPTIONAL {
-    # The type points to a blank node, not to a thesaurus
-    # The label is always in Dutch but the language tag is missing
-    ?this crm:P2_has_type/rdfs:label ?typeNameNl
-  }
+  # OPTIONAL {
+  #   # The type points to a blank node, not to a thesaurus
+  #   # The label is always in Dutch but the language tag is missing
+  #   ?this crm:P2_has_type/rdfs:label ?typeName
+  # }
 
   ####################
   # Identifier
@@ -81,14 +83,14 @@ WHERE {
   # TBD: not in the KG yet (crm:P62_depicts)
 
   ####################
-  # Material
+  # Material. Currently ignored because there are no language tags
   ####################
 
-  OPTIONAL {
-    # The material points to a blank node, not to a thesaurus
-    # The label is always in Dutch but the language tag is missing
-    ?this crm:P45_consists_of/rdfs:label ?materialNameNl
-  }
+  # OPTIONAL {
+  #   # The material points to a blank node, not to a thesaurus
+  #   # The label is always in Dutch but the language tag is missing
+  #   ?this crm:P45_consists_of/rdfs:label ?materialName
+  # }
 
   ####################
   # Inscription
