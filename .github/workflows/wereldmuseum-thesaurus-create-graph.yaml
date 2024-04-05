@@ -1,24 +1,24 @@
-name: Update Search Graph with data from dataset 'Collection Archives' in the Knowledge Graph
+name: Update Knowledge Graph with data from dataset 'Wereldmuseum Thesaurus', based on IRIs in the Knowledge Graph
 
-# Every hour
+# Every 12 hours (data doesn't change often)
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 */12 * * *"
 
 # Run a single workflow at a time
 concurrency:
-  group: search-graph
+  group: knowledge-graph
 
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 60
     steps:
       - name: Checkout data repository
         uses: actions/checkout@v4
         with:
           path: ./data
-          # No 'sparse-checkout': that's actually slower than checking out the full repo
+          sparse-checkout: wereldmuseum-thesaurus
       - name: Checkout code repository
         uses: actions/checkout@v4
         with:
@@ -37,30 +37,29 @@ jobs:
         run: |
           cd ./data
           mkdir -p "$RUNNER_TEMP"
-          test -f ./nmvw-collection-archives/data/data.tar.zst && tar --zstd -xf ./nmvw-collection-archives/data/data.tar.zst -C "$RUNNER_TEMP"
+          test -f ./wereldmuseum-thesaurus/data/data.tar.zst && tar --zstd -xf ./wereldmuseum-thesaurus/data/data.tar.zst -C "$RUNNER_TEMP"
           ../code/apps/graph-create/dist/cli.js create \
-            --resource-dir ./nmvw-collection-archives/resources \
+            --resource-dir ./wereldmuseum-thesaurus/resources \
             --data-file "$RUNNER_TEMP/data.sqlite" \
             --check-endpoint-url "${{ vars.SPARQL_ENDPOINT_URL_KG }}" \
-            --check-if-run-must-continue-query-file ./nmvw-collection-archives/queries/check.rq \
+            --check-if-run-must-continue-query-file ./wereldmuseum-thesaurus/queries/check.rq \
             --iterate-endpoint-url "${{ vars.SPARQL_ENDPOINT_URL_KG }}" \
-            --iterate-query-file ./nmvw-collection-archives/queries/iterate.rq \
-            --generate-endpoint-url "${{ vars.SPARQL_ENDPOINT_URL_KG }}" \
-            --generate-query-file ./nmvw-collection-archives/queries/generate.rq \
+            --iterate-query-file ./wereldmuseum-thesaurus/queries/iterate.rq \
+            --generate-endpoint-url "https://api.colonialcollections.nl/datasets/nmvw/thesaurus/sparql" \
+            --generate-query-file ./wereldmuseum-thesaurus/queries/generate.rq \
             --generate-batch-size 50000 \
             --triplydb-instance-url "${{ vars.TRIPLYDB_INSTANCE_URL }}" \
             --triplydb-api-token "${{ secrets.TRIPLYDB_API_TOKEN }}" \
             --triplydb-account "${{ vars.TRIPLYDB_ACCOUNT }}" \
-            --triplydb-dataset "${{ vars.TRIPLYDB_DATASET_SG }}" \
-            --triplydb-service "search" \
-            --triplydb-service-templates-file "../code/packages/triplydb/data/search-graph-templates.json" \
-            --graph-name "https://data.colonialcollections.nl/nmvw-collection-archives" \
+            --triplydb-dataset "${{ vars.TRIPLYDB_DATASET_KG }}" \
+            --triplydb-service "kg" \
+            --graph-name "https://data.colonialcollections.nl/wereldmuseum-thesaurus" \
             --temp-dir "$RUNNER_TEMP"
       - name: Save changes
         run: |
           cd ./data
-          mkdir -p ./nmvw-collection-archives/data
-          test -f "$RUNNER_TEMP/data.sqlite" && tar --zstd -cf ./nmvw-collection-archives/data/data.tar.zst -C "$RUNNER_TEMP" data.sqlite
+          mkdir -p ./wereldmuseum-thesaurus/data
+          test -f "$RUNNER_TEMP/data.sqlite" && tar --zstd -cf ./wereldmuseum-thesaurus/data/data.tar.zst -C "$RUNNER_TEMP" data.sqlite
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add .
