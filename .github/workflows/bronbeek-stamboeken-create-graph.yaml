@@ -5,6 +5,7 @@ name: Update Search Graph with data from dataset 'Stamboeken' in the Knowledge G
 #   schedule:
 #     - cron: "0 */12 * * *"
 
+
 on:
   push:
     branches: ["main"]
