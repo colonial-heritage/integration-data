@@ -5,7 +5,6 @@ name: Update Search Graph with data from dataset 'Colonial Objects' in the Knowl
 #   schedule:
 #     - cron: "0 */3 * * *"
 
-
 on:
   push:
     branches: ["main"]
