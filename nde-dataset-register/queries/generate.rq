@@ -31,7 +31,9 @@ CONSTRUCT {
     schema:name ?publisherName .
 }
 WHERE {
-  BIND(?_iri AS ?this)
+  VALUES ?this {
+    ?_iris
+  }
 
   ?this a dcat:Dataset ;
     dct:title ?title ;

@@ -33,7 +33,9 @@ CONSTRUCT {
     cc:publisher_nl ?publisherNameNl .
 }
 WHERE {
-  BIND(?_iri AS ?this)
+  VALUES ?this {
+    ?_iris
+  }
 
   ####################
   # Type

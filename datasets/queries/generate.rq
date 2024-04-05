@@ -15,7 +15,9 @@ CONSTRUCT {
     cc:keywords ?keywords .
 }
 WHERE {
-  BIND(?_iri AS ?this)
+  VALUES ?this {
+    ?_iris
+  }
 
   ####################
   # Name
