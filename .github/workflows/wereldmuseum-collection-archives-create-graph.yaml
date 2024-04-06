@@ -9,6 +9,7 @@ on:
   push:
     branches: ["main"]
 
+
 # Run a single workflow at a time
 concurrency:
   group: search-graph
