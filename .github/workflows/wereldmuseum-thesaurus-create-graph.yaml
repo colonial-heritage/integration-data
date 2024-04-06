@@ -1,9 +1,9 @@
 name: Update Knowledge Graph with data from dataset 'Wereldmuseum Thesaurus', based on IRIs in the Knowledge Graph
 
-# Every 12 hours (data doesn't change often)
+# Every 6 hours
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */6 * * *"
 
 # Run a single workflow at a time
 concurrency:
@@ -47,7 +47,6 @@ jobs:
             --iterate-query-file ./wereldmuseum-thesaurus/queries/iterate.rq \
             --generate-endpoint-url "https://api.colonialcollections.nl/datasets/nmvw/thesaurus/sparql" \
             --generate-query-file ./wereldmuseum-thesaurus/queries/generate.rq \
-            --generate-batch-size 100000 \
             --triplydb-instance-url "${{ vars.TRIPLYDB_INSTANCE_URL }}" \
             --triplydb-api-token "${{ secrets.TRIPLYDB_API_TOKEN }}" \
             --triplydb-account "${{ vars.TRIPLYDB_ACCOUNT }}" \

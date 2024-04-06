@@ -1,13 +1,9 @@
 name: Update Search Graph with data from dataset 'Stamboeken' in the Knowledge Graph
 
-# Every 12 hours (data doesn't change often)
-# on:
-#   schedule:
-#     - cron: "0 */12 * * *"
-
+# Every 6 hours
 on:
-  push:
-    branches: ["main"]
+  schedule:
+    - cron: "0 */6 * * *"
 
 # Run a single workflow at a time
 concurrency:

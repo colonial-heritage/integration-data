@@ -1,9 +1,9 @@
 name: Update Search Graph with data from dataset 'Colonial Objects' in the Knowledge Graph
 
-# Every 12 hours (data doesn't change often)
+# Every 6 hours
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */6 * * *"
 
 # Run a single workflow at a time
 concurrency:
@@ -47,7 +47,6 @@ jobs:
             --iterate-query-file ./rce-colonial-objects/queries/iterate.rq \
             --generate-endpoint-url "${{ vars.SPARQL_ENDPOINT_URL_KG }}" \
             --generate-query-file ./rce-colonial-objects/queries/generate.rq \
-            --generate-batch-size 100000 \
             --triplydb-instance-url "${{ vars.TRIPLYDB_INSTANCE_URL }}" \
             --triplydb-api-token "${{ secrets.TRIPLYDB_API_TOKEN }}" \
             --triplydb-account "${{ vars.TRIPLYDB_ACCOUNT }}" \
