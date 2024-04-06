@@ -1,9 +1,13 @@
 name: Update Search Graph with data from dataset 'Stamboeken' in the Knowledge Graph
 
 # Every 12 hours (data doesn't change often)
+# on:
+#   schedule:
+#     - cron: "0 */12 * * *"
+
 on:
-  schedule:
-    - cron: "0 */12 * * *"
+  push:
+    branches: ["main"]
 
 # Run a single workflow at a time
 concurrency:
@@ -47,7 +51,7 @@ jobs:
             --iterate-query-file ./bronbeek-stamboeken/queries/iterate.rq \
             --generate-endpoint-url "${{ vars.SPARQL_ENDPOINT_URL_KG }}" \
             --generate-query-file ./bronbeek-stamboeken/queries/generate.rq \
-            --generate-batch-size 100000 \
+            --generate-batch-size 300000 \
             --triplydb-instance-url "${{ vars.TRIPLYDB_INSTANCE_URL }}" \
             --triplydb-api-token "${{ secrets.TRIPLYDB_API_TOKEN }}" \
             --triplydb-account "${{ vars.TRIPLYDB_ACCOUNT }}" \
