@@ -13,7 +13,6 @@ on:
 concurrency:
   group: search-graph
 
-
 jobs:
   run:
     runs-on: ubuntu-latest
