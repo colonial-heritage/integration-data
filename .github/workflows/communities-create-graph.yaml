@@ -36,7 +36,7 @@ jobs:
         run: |
           cd ./code
           mkdir -p "$RUNNER_TEMP"
-          ../code/apps/graph-create-communities/dist/cli.js create \
+          ./apps/graph-create-communities/dist/cli.js create \
             --file "$RUNNER_TEMP/communities.nt" \
             --graph "https://data.colonialcollections.nl/communities" \
             --triplydb-instance-url "${{ vars.TRIPLYDB_INSTANCE_URL }}" \
