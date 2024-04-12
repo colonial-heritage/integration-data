@@ -1,9 +1,9 @@
 name: Update Search Graph with data from dataset 'Collection Archives' in the Knowledge Graph
 
-# Every hour
+# Every 6 hours
 # on:
 #   schedule:
-#     - cron: "0 * * * *"
+#     - cron: "0 */6 * * *"
 
 on:
   push:

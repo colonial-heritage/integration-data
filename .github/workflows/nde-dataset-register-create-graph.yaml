@@ -47,7 +47,7 @@ jobs:
             --iterate-query-file ./nde-dataset-register/queries/iterate.rq \
             --generate-endpoint-url "https://triplestore.netwerkdigitaalerfgoed.nl/repositories/registry" \
             --generate-query-file ./nde-dataset-register/queries/generate.rq \
-            --generate-batch-size 500000 \
+            --generate-batch-size 5000000 \
             --triplydb-instance-url "${{ vars.TRIPLYDB_INSTANCE_URL }}" \
             --triplydb-api-token "${{ secrets.TRIPLYDB_API_TOKEN }}" \
             --triplydb-account "${{ vars.TRIPLYDB_ACCOUNT }}" \

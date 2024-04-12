@@ -47,7 +47,7 @@ jobs:
             --iterate-query-file ./bronbeek-stamboeken/queries/iterate.rq \
             --generate-endpoint-url "${{ vars.SPARQL_ENDPOINT_URL_KG }}" \
             --generate-query-file ./bronbeek-stamboeken/queries/generate.rq \
-            --generate-batch-size 500000 \
+            --generate-batch-size 5000000 \
             --triplydb-instance-url "${{ vars.TRIPLYDB_INSTANCE_URL }}" \
             --triplydb-api-token "${{ secrets.TRIPLYDB_API_TOKEN }}" \
             --triplydb-account "${{ vars.TRIPLYDB_ACCOUNT }}" \
