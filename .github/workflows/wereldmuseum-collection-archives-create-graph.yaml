@@ -13,7 +13,6 @@ on:
 concurrency:
   group: search-graph
 
-
 jobs:
   run:
     runs-on: ubuntu-latest
@@ -52,7 +51,7 @@ jobs:
             --iterate-query-file ./wereldmuseum-collection-archives/queries/iterate.rq \
             --generate-endpoint-url "${{ vars.SPARQL_ENDPOINT_URL_KG }}" \
             --generate-query-file ./wereldmuseum-collection-archives/queries/generate.rq \
-            --generate-batch-size 500000 \
+            --generate-batch-size 5000000 \
             --triplydb-instance-url "${{ vars.TRIPLYDB_INSTANCE_URL }}" \
             --triplydb-api-token "${{ secrets.TRIPLYDB_API_TOKEN }}" \
             --triplydb-account "${{ vars.TRIPLYDB_ACCOUNT }}" \
