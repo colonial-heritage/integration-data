@@ -17,14 +17,14 @@
 <https://n2t.net/ark:/27023/5c41630f5cb2d0be86857acc63e4f2bb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5c41630f5cb2d0be86857acc63e4f2bb> <https://colonialcollections.nl/schema#identifier> "WM-12910" .
 <https://n2t.net/ark:/27023/5c41630f5cb2d0be86857acc63e4f2bb> <https://colonialcollections.nl/schema#description> "[ST] voetstuk" .
+<https://n2t.net/ark:/27023/5c41630f5cb2d0be86857acc63e4f2bb> <https://colonialcollections.nl/schema#material_en> "silver alloy"@en .
 <https://n2t.net/ark:/27023/5c41630f5cb2d0be86857acc63e4f2bb> <https://colonialcollections.nl/schema#material_en> "paint"@en .
 <https://n2t.net/ark:/27023/5c41630f5cb2d0be86857acc63e4f2bb> <https://colonialcollections.nl/schema#material_en> "copper alloy"@en .
 <https://n2t.net/ark:/27023/5c41630f5cb2d0be86857acc63e4f2bb> <https://colonialcollections.nl/schema#material_en> "wood"@en .
-<https://n2t.net/ark:/27023/5c41630f5cb2d0be86857acc63e4f2bb> <https://colonialcollections.nl/schema#material_en> "silver alloy"@en .
 <https://n2t.net/ark:/27023/5c41630f5cb2d0be86857acc63e4f2bb> <https://colonialcollections.nl/schema#material_nl> "zilverlegering"@nl .
-<https://n2t.net/ark:/27023/5c41630f5cb2d0be86857acc63e4f2bb> <https://colonialcollections.nl/schema#material_nl> "hout"@nl .
-<https://n2t.net/ark:/27023/5c41630f5cb2d0be86857acc63e4f2bb> <https://colonialcollections.nl/schema#material_nl> "koperlegering"@nl .
 <https://n2t.net/ark:/27023/5c41630f5cb2d0be86857acc63e4f2bb> <https://colonialcollections.nl/schema#material_nl> "verf"@nl .
+<https://n2t.net/ark:/27023/5c41630f5cb2d0be86857acc63e4f2bb> <https://colonialcollections.nl/schema#material_nl> "koperlegering"@nl .
+<https://n2t.net/ark:/27023/5c41630f5cb2d0be86857acc63e4f2bb> <https://colonialcollections.nl/schema#material_nl> "hout"@nl .
 <https://n2t.net/ark:/27023/5c41630f5cb2d0be86857acc63e4f2bb> <https://colonialcollections.nl/schema#inscription> "[T] pangéling bokor druwée puri hagung den pasar\r\n     vert. attentie schaal eigendom van puri (= paleis)\r\n     hagung (= groot) den pasar" .
 <https://n2t.net/ark:/27023/5c41630f5cb2d0be86857acc63e4f2bb> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/5c41630f5cb2d0be86857acc63e4f2bb> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
@@ -56,20 +56,20 @@
 <https://n2t.net/ark:/27023/5c417cfb905979de82ac553e3b97688c> <https://colonialcollections.nl/schema#description> "Op 27 juni 1819 beschrijft Payen zijn bezoek aan de vallei van de Cisondari. (Zie: Marie-Odette Scalliet, Antoine Payen: Peintre des Indes Orientales, 1995).  Cisondari is (met de gelijknamige rivier) gelegen ten zuiden van Bandung en ten noordoosten van Gunung Patuha. Op de tekening is een bergachtig landschap afgebeeld met een dorp,  Cukanghaur. Ervoor staat de aanduiding 'Legok'. Dit is de Sundanese naam voor een bekken van een rivier." .
 <https://n2t.net/ark:/27023/5c417cfb905979de82ac553e3b97688c> <https://colonialcollections.nl/schema#material_en> "graphite"@en .
 <https://n2t.net/ark:/27023/5c417cfb905979de82ac553e3b97688c> <https://colonialcollections.nl/schema#material_en> "paper (fiber product)"@en .
-<https://n2t.net/ark:/27023/5c417cfb905979de82ac553e3b97688c> <https://colonialcollections.nl/schema#material_nl> "papier (vezelproduct)"@nl .
 <https://n2t.net/ark:/27023/5c417cfb905979de82ac553e3b97688c> <https://colonialcollections.nl/schema#material_nl> "grafiet"@nl .
+<https://n2t.net/ark:/27023/5c417cfb905979de82ac553e3b97688c> <https://colonialcollections.nl/schema#material_nl> "papier (vezelproduct)"@nl .
 <https://n2t.net/ark:/27023/5c417cfb905979de82ac553e3b97688c> <https://colonialcollections.nl/schema#creator> "A.A.J. Payen" .
 <https://n2t.net/ark:/27023/5c417cfb905979de82ac553e3b97688c> <https://colonialcollections.nl/schema#yearCreatedStart> "1819"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/5c417cfb905979de82ac553e3b97688c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1819"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/5c417cfb905979de82ac553e3b97688c> <https://colonialcollections.nl/schema#locationCreated> "Indonesië"@nl .
 <https://n2t.net/ark:/27023/5c417cfb905979de82ac553e3b97688c> <https://colonialcollections.nl/schema#locationCreated> "Republiek Indonesië"@nl .
 <https://n2t.net/ark:/27023/5c417cfb905979de82ac553e3b97688c> <https://colonialcollections.nl/schema#locationCreated> "Indonesia"@en .
+<https://n2t.net/ark:/27023/5c417cfb905979de82ac553e3b97688c> <https://colonialcollections.nl/schema#locationCreated> "Indonesië"@nl .
 <https://n2t.net/ark:/27023/5c417cfb905979de82ac553e3b97688c> <https://colonialcollections.nl/schema#countryCreated_en> "Indonesia"@en .
 <https://n2t.net/ark:/27023/5c417cfb905979de82ac553e3b97688c> <https://colonialcollections.nl/schema#countryCreated_nl> "Indonesië"@nl .
-<https://n2t.net/ark:/27023/5c417cfb905979de82ac553e3b97688c> <https://colonialcollections.nl/schema#alternateName> "Nederlandsch-Indië"@nl .
-<https://n2t.net/ark:/27023/5c417cfb905979de82ac553e3b97688c> <https://colonialcollections.nl/schema#alternateName> "Oost-Indien"@nl .
 <https://n2t.net/ark:/27023/5c417cfb905979de82ac553e3b97688c> <https://colonialcollections.nl/schema#alternateName> "Nederlands-Indië"@nl .
+<https://n2t.net/ark:/27023/5c417cfb905979de82ac553e3b97688c> <https://colonialcollections.nl/schema#alternateName> "Oost-Indien"@nl .
 <https://n2t.net/ark:/27023/5c417cfb905979de82ac553e3b97688c> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
+<https://n2t.net/ark:/27023/5c417cfb905979de82ac553e3b97688c> <https://colonialcollections.nl/schema#alternateName> "Nederlandsch-Indië"@nl .
 <https://n2t.net/ark:/27023/5c417cfb905979de82ac553e3b97688c> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/5c417cfb905979de82ac553e3b97688c> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
 <https://n2t.net/ark:/27023/5c41804d7b7872dcf1b80437613d8d5a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
@@ -98,10 +98,10 @@
 <https://n2t.net/ark:/27023/5c41823ba8c61eec51dc8d854bb4ae96> <https://colonialcollections.nl/schema#locationCreated> "China"@nl .
 <https://n2t.net/ark:/27023/5c41823ba8c61eec51dc8d854bb4ae96> <https://colonialcollections.nl/schema#countryCreated_en> "China"@en .
 <https://n2t.net/ark:/27023/5c41823ba8c61eec51dc8d854bb4ae96> <https://colonialcollections.nl/schema#countryCreated_nl> "China"@nl .
-<https://n2t.net/ark:/27023/5c41823ba8c61eec51dc8d854bb4ae96> <https://colonialcollections.nl/schema#alternateName> "Volksrepubliek China"@nl .
 <https://n2t.net/ark:/27023/5c41823ba8c61eec51dc8d854bb4ae96> <https://colonialcollections.nl/schema#alternateName> "Chyna"@nl .
-<https://n2t.net/ark:/27023/5c41823ba8c61eec51dc8d854bb4ae96> <https://colonialcollections.nl/schema#alternateName> "People’s Republic of China"@en .
 <https://n2t.net/ark:/27023/5c41823ba8c61eec51dc8d854bb4ae96> <https://colonialcollections.nl/schema#alternateName> "People's Republic of China"@en .
+<https://n2t.net/ark:/27023/5c41823ba8c61eec51dc8d854bb4ae96> <https://colonialcollections.nl/schema#alternateName> "People’s Republic of China"@en .
+<https://n2t.net/ark:/27023/5c41823ba8c61eec51dc8d854bb4ae96> <https://colonialcollections.nl/schema#alternateName> "Volksrepubliek China"@nl .
 <https://n2t.net/ark:/27023/5c41823ba8c61eec51dc8d854bb4ae96> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/5c41823ba8c61eec51dc8d854bb4ae96> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
 <https://n2t.net/ark:/27023/5c4189394c50ba6960817b6606efeca8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
@@ -115,8 +115,8 @@
 <https://n2t.net/ark:/27023/5c4189394c50ba6960817b6606efeca8> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/5c4189394c50ba6960817b6606efeca8> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
 <https://n2t.net/ark:/27023/5c418e326c8a81e302e49c44b80b80d3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5c418e326c8a81e302e49c44b80b80d3> <https://colonialcollections.nl/schema#additionalType_en> "street scenes"@en .
 <https://n2t.net/ark:/27023/5c418e326c8a81e302e49c44b80b80d3> <https://colonialcollections.nl/schema#additionalType_en> "gelatin silver developing out prints"@en .
+<https://n2t.net/ark:/27023/5c418e326c8a81e302e49c44b80b80d3> <https://colonialcollections.nl/schema#additionalType_en> "street scenes"@en .
 <https://n2t.net/ark:/27023/5c418e326c8a81e302e49c44b80b80d3> <https://colonialcollections.nl/schema#additionalType_nl> "ontwikkelgelatinezilverdrukken"@nl .
 <https://n2t.net/ark:/27023/5c418e326c8a81e302e49c44b80b80d3> <https://colonialcollections.nl/schema#additionalType_nl> "straattaferelen"@nl .
 <https://n2t.net/ark:/27023/5c418e326c8a81e302e49c44b80b80d3> <https://colonialcollections.nl/schema#identifier> "TM-60020653" .
@@ -145,10 +145,10 @@
 <https://n2t.net/ark:/27023/5c419420627bb28481d33fbb3179dfc1> <https://colonialcollections.nl/schema#locationCreated> "China"@nl .
 <https://n2t.net/ark:/27023/5c419420627bb28481d33fbb3179dfc1> <https://colonialcollections.nl/schema#countryCreated_en> "China"@en .
 <https://n2t.net/ark:/27023/5c419420627bb28481d33fbb3179dfc1> <https://colonialcollections.nl/schema#countryCreated_nl> "China"@nl .
-<https://n2t.net/ark:/27023/5c419420627bb28481d33fbb3179dfc1> <https://colonialcollections.nl/schema#alternateName> "Volksrepubliek China"@nl .
 <https://n2t.net/ark:/27023/5c419420627bb28481d33fbb3179dfc1> <https://colonialcollections.nl/schema#alternateName> "Chyna"@nl .
-<https://n2t.net/ark:/27023/5c419420627bb28481d33fbb3179dfc1> <https://colonialcollections.nl/schema#alternateName> "People’s Republic of China"@en .
 <https://n2t.net/ark:/27023/5c419420627bb28481d33fbb3179dfc1> <https://colonialcollections.nl/schema#alternateName> "People's Republic of China"@en .
+<https://n2t.net/ark:/27023/5c419420627bb28481d33fbb3179dfc1> <https://colonialcollections.nl/schema#alternateName> "People’s Republic of China"@en .
+<https://n2t.net/ark:/27023/5c419420627bb28481d33fbb3179dfc1> <https://colonialcollections.nl/schema#alternateName> "Volksrepubliek China"@nl .
 <https://n2t.net/ark:/27023/5c419420627bb28481d33fbb3179dfc1> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/5c419420627bb28481d33fbb3179dfc1> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
 <https://n2t.net/ark:/27023/5c41a8936ade402dd05db709d2c706e2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
@@ -156,10 +156,10 @@
 <https://n2t.net/ark:/27023/5c41a8936ade402dd05db709d2c706e2> <https://colonialcollections.nl/schema#additionalType_nl> "stereofoto's"@nl .
 <https://n2t.net/ark:/27023/5c41a8936ade402dd05db709d2c706e2> <https://colonialcollections.nl/schema#identifier> "RV-A224-9" .
 <https://n2t.net/ark:/27023/5c41a8936ade402dd05db709d2c706e2> <https://colonialcollections.nl/schema#name> "PORTRET VAN VIER GEISHA'S" .
-<https://n2t.net/ark:/27023/5c41a8936ade402dd05db709d2c706e2> <https://colonialcollections.nl/schema#material_en> "cardboard"@en .
 <https://n2t.net/ark:/27023/5c41a8936ade402dd05db709d2c706e2> <https://colonialcollections.nl/schema#material_en> "paper (fiber product)"@en .
-<https://n2t.net/ark:/27023/5c41a8936ade402dd05db709d2c706e2> <https://colonialcollections.nl/schema#material_nl> "karton"@nl .
+<https://n2t.net/ark:/27023/5c41a8936ade402dd05db709d2c706e2> <https://colonialcollections.nl/schema#material_en> "cardboard"@en .
 <https://n2t.net/ark:/27023/5c41a8936ade402dd05db709d2c706e2> <https://colonialcollections.nl/schema#material_nl> "papier (vezelproduct)"@nl .
+<https://n2t.net/ark:/27023/5c41a8936ade402dd05db709d2c706e2> <https://colonialcollections.nl/schema#material_nl> "karton"@nl .
 <https://n2t.net/ark:/27023/5c41a8936ade402dd05db709d2c706e2> <https://colonialcollections.nl/schema#creator> "Masatoki Naito" .
 <https://n2t.net/ark:/27023/5c41a8936ade402dd05db709d2c706e2> <https://colonialcollections.nl/schema#yearCreatedStart> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/5c41a8936ade402dd05db709d2c706e2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .
@@ -174,8 +174,8 @@
 <https://n2t.net/ark:/27023/5c41c627a2b07c8478bf3613dd1b7a93> <https://colonialcollections.nl/schema#additionalType_nl> "schoenen (voetbekleding)"@nl .
 <https://n2t.net/ark:/27023/5c41c627a2b07c8478bf3613dd1b7a93> <https://colonialcollections.nl/schema#identifier> "TM-A-7085" .
 <https://n2t.net/ark:/27023/5c41c627a2b07c8478bf3613dd1b7a93> <https://colonialcollections.nl/schema#name> "PAAR SCHOENEN MET WIT KATOENEN BEKLEDING" .
-<https://n2t.net/ark:/27023/5c41c627a2b07c8478bf3613dd1b7a93> <https://colonialcollections.nl/schema#material_en> "cotton"@en .
 <https://n2t.net/ark:/27023/5c41c627a2b07c8478bf3613dd1b7a93> <https://colonialcollections.nl/schema#material_en> "silk (fiber)"@en .
+<https://n2t.net/ark:/27023/5c41c627a2b07c8478bf3613dd1b7a93> <https://colonialcollections.nl/schema#material_en> "cotton"@en .
 <https://n2t.net/ark:/27023/5c41c627a2b07c8478bf3613dd1b7a93> <https://colonialcollections.nl/schema#material_nl> "katoen"@nl .
 <https://n2t.net/ark:/27023/5c41c627a2b07c8478bf3613dd1b7a93> <https://colonialcollections.nl/schema#material_nl> "zijde (vezel)"@nl .
 <https://n2t.net/ark:/27023/5c41c627a2b07c8478bf3613dd1b7a93> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .
@@ -185,8 +185,8 @@
 <https://n2t.net/ark:/27023/5c41c627a2b07c8478bf3613dd1b7a93> <https://colonialcollections.nl/schema#countryCreated_nl> "China"@nl .
 <https://n2t.net/ark:/27023/5c41c627a2b07c8478bf3613dd1b7a93> <https://colonialcollections.nl/schema#alternateName> "Volksrepubliek China"@nl .
 <https://n2t.net/ark:/27023/5c41c627a2b07c8478bf3613dd1b7a93> <https://colonialcollections.nl/schema#alternateName> "Chyna"@nl .
-<https://n2t.net/ark:/27023/5c41c627a2b07c8478bf3613dd1b7a93> <https://colonialcollections.nl/schema#alternateName> "People’s Republic of China"@en .
 <https://n2t.net/ark:/27023/5c41c627a2b07c8478bf3613dd1b7a93> <https://colonialcollections.nl/schema#alternateName> "People's Republic of China"@en .
+<https://n2t.net/ark:/27023/5c41c627a2b07c8478bf3613dd1b7a93> <https://colonialcollections.nl/schema#alternateName> "People’s Republic of China"@en .
 <https://n2t.net/ark:/27023/5c41c627a2b07c8478bf3613dd1b7a93> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/5c41c627a2b07c8478bf3613dd1b7a93> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
 <https://n2t.net/ark:/27023/5c41d6a3e0798b993ffc8f2e5f1d7e18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
@@ -204,41 +204,41 @@
 <https://n2t.net/ark:/27023/5c41f6c175bc71f55e16815ec1d88106> <https://colonialcollections.nl/schema#locationCreated> "Cenderawasih Bay" .
 <https://n2t.net/ark:/27023/5c41f6c175bc71f55e16815ec1d88106> <https://colonialcollections.nl/schema#countryCreated_en> "Indonesia"@en .
 <https://n2t.net/ark:/27023/5c41f6c175bc71f55e16815ec1d88106> <https://colonialcollections.nl/schema#countryCreated_nl> "Indonesië"@nl .
-<https://n2t.net/ark:/27023/5c41f6c175bc71f55e16815ec1d88106> <https://colonialcollections.nl/schema#alternateName> "Nederlandsch-Indië"@nl .
 <https://n2t.net/ark:/27023/5c41f6c175bc71f55e16815ec1d88106> <https://colonialcollections.nl/schema#alternateName> "Cenderawasih Bay"@en .
-<https://n2t.net/ark:/27023/5c41f6c175bc71f55e16815ec1d88106> <https://colonialcollections.nl/schema#alternateName> "Sarera Bay"@en .
-<https://n2t.net/ark:/27023/5c41f6c175bc71f55e16815ec1d88106> <https://colonialcollections.nl/schema#alternateName> "Oost-Indien"@nl .
-<https://n2t.net/ark:/27023/5c41f6c175bc71f55e16815ec1d88106> <https://colonialcollections.nl/schema#alternateName> "Geelvink-baai"@nl .
 <https://n2t.net/ark:/27023/5c41f6c175bc71f55e16815ec1d88106> <https://colonialcollections.nl/schema#alternateName> "Nederlands-Indië"@nl .
 <https://n2t.net/ark:/27023/5c41f6c175bc71f55e16815ec1d88106> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
+<https://n2t.net/ark:/27023/5c41f6c175bc71f55e16815ec1d88106> <https://colonialcollections.nl/schema#alternateName> "Oost-Indien"@nl .
+<https://n2t.net/ark:/27023/5c41f6c175bc71f55e16815ec1d88106> <https://colonialcollections.nl/schema#alternateName> "Geelvink-baai"@nl .
+<https://n2t.net/ark:/27023/5c41f6c175bc71f55e16815ec1d88106> <https://colonialcollections.nl/schema#alternateName> "Sarera Bay"@en .
+<https://n2t.net/ark:/27023/5c41f6c175bc71f55e16815ec1d88106> <https://colonialcollections.nl/schema#alternateName> "Nederlandsch-Indië"@nl .
 <https://n2t.net/ark:/27023/5c41f6c175bc71f55e16815ec1d88106> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/5c41f6c175bc71f55e16815ec1d88106> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
 <https://n2t.net/ark:/27023/5c4210534a062e898caf89a632abe95c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/5c4210534a062e898caf89a632abe95c> <https://colonialcollections.nl/schema#additionalType_en> "water scoops"@en .
 <https://n2t.net/ark:/27023/5c4210534a062e898caf89a632abe95c> <https://colonialcollections.nl/schema#additionalType_nl> "waterscheppen"@nl .
 <https://n2t.net/ark:/27023/5c4210534a062e898caf89a632abe95c> <https://colonialcollections.nl/schema#identifier> "WM-177" .
-<https://n2t.net/ark:/27023/5c4210534a062e898caf89a632abe95c> <https://colonialcollections.nl/schema#material_en> "metal"@en .
-<https://n2t.net/ark:/27023/5c4210534a062e898caf89a632abe95c> <https://colonialcollections.nl/schema#material_en> "wood"@en .
-<https://n2t.net/ark:/27023/5c4210534a062e898caf89a632abe95c> <https://colonialcollections.nl/schema#material_en> "rope"@en .
 <https://n2t.net/ark:/27023/5c4210534a062e898caf89a632abe95c> <https://colonialcollections.nl/schema#material_en> "coconut"@en .
-<https://n2t.net/ark:/27023/5c4210534a062e898caf89a632abe95c> <https://colonialcollections.nl/schema#material_nl> "kokosnoot"@nl .
+<https://n2t.net/ark:/27023/5c4210534a062e898caf89a632abe95c> <https://colonialcollections.nl/schema#material_en> "metal"@en .
+<https://n2t.net/ark:/27023/5c4210534a062e898caf89a632abe95c> <https://colonialcollections.nl/schema#material_en> "rope"@en .
+<https://n2t.net/ark:/27023/5c4210534a062e898caf89a632abe95c> <https://colonialcollections.nl/schema#material_en> "wood"@en .
 <https://n2t.net/ark:/27023/5c4210534a062e898caf89a632abe95c> <https://colonialcollections.nl/schema#material_nl> "hout"@nl .
 <https://n2t.net/ark:/27023/5c4210534a062e898caf89a632abe95c> <https://colonialcollections.nl/schema#material_nl> "touw"@nl .
+<https://n2t.net/ark:/27023/5c4210534a062e898caf89a632abe95c> <https://colonialcollections.nl/schema#material_nl> "kokosnoot"@nl .
 <https://n2t.net/ark:/27023/5c4210534a062e898caf89a632abe95c> <https://colonialcollections.nl/schema#material_nl> "metaal"@nl .
 <https://n2t.net/ark:/27023/5c4210534a062e898caf89a632abe95c> <https://colonialcollections.nl/schema#locationCreated> "Java" .
 <https://n2t.net/ark:/27023/5c4210534a062e898caf89a632abe95c> <https://colonialcollections.nl/schema#countryCreated_en> "Indonesia"@en .
 <https://n2t.net/ark:/27023/5c4210534a062e898caf89a632abe95c> <https://colonialcollections.nl/schema#countryCreated_nl> "Indonesië"@nl .
-<https://n2t.net/ark:/27023/5c4210534a062e898caf89a632abe95c> <https://colonialcollections.nl/schema#alternateName> "Nederlandsch-Indië"@nl .
-<https://n2t.net/ark:/27023/5c4210534a062e898caf89a632abe95c> <https://colonialcollections.nl/schema#alternateName> "Java"@nl .
-<https://n2t.net/ark:/27023/5c4210534a062e898caf89a632abe95c> <https://colonialcollections.nl/schema#alternateName> "Oost-Indien"@nl .
-<https://n2t.net/ark:/27023/5c4210534a062e898caf89a632abe95c> <https://colonialcollections.nl/schema#alternateName> "Nederlands-Indië"@nl .
 <https://n2t.net/ark:/27023/5c4210534a062e898caf89a632abe95c> <https://colonialcollections.nl/schema#alternateName> "Java"@en .
+<https://n2t.net/ark:/27023/5c4210534a062e898caf89a632abe95c> <https://colonialcollections.nl/schema#alternateName> "Nederlands-Indië"@nl .
+<https://n2t.net/ark:/27023/5c4210534a062e898caf89a632abe95c> <https://colonialcollections.nl/schema#alternateName> "Java"@nl .
 <https://n2t.net/ark:/27023/5c4210534a062e898caf89a632abe95c> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
+<https://n2t.net/ark:/27023/5c4210534a062e898caf89a632abe95c> <https://colonialcollections.nl/schema#alternateName> "Oost-Indien"@nl .
+<https://n2t.net/ark:/27023/5c4210534a062e898caf89a632abe95c> <https://colonialcollections.nl/schema#alternateName> "Nederlandsch-Indië"@nl .
 <https://n2t.net/ark:/27023/5c4210534a062e898caf89a632abe95c> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/5c4210534a062e898caf89a632abe95c> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
 <https://n2t.net/ark:/27023/5c422d9860fee488fea3e5055d814891> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5c422d9860fee488fea3e5055d814891> <https://colonialcollections.nl/schema#additionalType_en> "textile fragments"@en .
 <https://n2t.net/ark:/27023/5c422d9860fee488fea3e5055d814891> <https://colonialcollections.nl/schema#additionalType_en> "grave goods"@en .
+<https://n2t.net/ark:/27023/5c422d9860fee488fea3e5055d814891> <https://colonialcollections.nl/schema#additionalType_en> "textile fragments"@en .
 <https://n2t.net/ark:/27023/5c422d9860fee488fea3e5055d814891> <https://colonialcollections.nl/schema#additionalType_nl> "grafgiften"@nl .
 <https://n2t.net/ark:/27023/5c422d9860fee488fea3e5055d814891> <https://colonialcollections.nl/schema#additionalType_nl> "textielfragmenten"@nl .
 <https://n2t.net/ark:/27023/5c422d9860fee488fea3e5055d814891> <https://colonialcollections.nl/schema#identifier> "TM-2356-91b" .
@@ -283,8 +283,8 @@
 <https://n2t.net/ark:/27023/5c4267eb6f204baace9c62e6125cbebb> <https://colonialcollections.nl/schema#locationCreated> "San Andrés Chicahuaxtla" .
 <https://n2t.net/ark:/27023/5c4267eb6f204baace9c62e6125cbebb> <https://colonialcollections.nl/schema#countryCreated_en> "Mexico"@en .
 <https://n2t.net/ark:/27023/5c4267eb6f204baace9c62e6125cbebb> <https://colonialcollections.nl/schema#countryCreated_nl> "Mexico"@nl .
-<https://n2t.net/ark:/27023/5c4267eb6f204baace9c62e6125cbebb> <https://colonialcollections.nl/schema#alternateName> "United Mexican States"@en .
 <https://n2t.net/ark:/27023/5c4267eb6f204baace9c62e6125cbebb> <https://colonialcollections.nl/schema#alternateName> "Mexican Republic"@en .
+<https://n2t.net/ark:/27023/5c4267eb6f204baace9c62e6125cbebb> <https://colonialcollections.nl/schema#alternateName> "United Mexican States"@en .
 <https://n2t.net/ark:/27023/5c4267eb6f204baace9c62e6125cbebb> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/5c4267eb6f204baace9c62e6125cbebb> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
 <https://n2t.net/ark:/27023/5c426801c6b60b406c554d613d7a29d8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
@@ -297,16 +297,16 @@
 <https://n2t.net/ark:/27023/5c426801c6b60b406c554d613d7a29d8> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/5c426801c6b60b406c554d613d7a29d8> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
 <https://n2t.net/ark:/27023/5c429b062015e2950ebe25765ec020cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5c429b062015e2950ebe25765ec020cb> <https://colonialcollections.nl/schema#additionalType_en> "photographs"@en .
 <https://n2t.net/ark:/27023/5c429b062015e2950ebe25765ec020cb> <https://colonialcollections.nl/schema#additionalType_en> "pages"@en .
+<https://n2t.net/ark:/27023/5c429b062015e2950ebe25765ec020cb> <https://colonialcollections.nl/schema#additionalType_en> "photographs"@en .
 <https://n2t.net/ark:/27023/5c429b062015e2950ebe25765ec020cb> <https://colonialcollections.nl/schema#additionalType_nl> "foto's"@nl .
 <https://n2t.net/ark:/27023/5c429b062015e2950ebe25765ec020cb> <https://colonialcollections.nl/schema#additionalType_nl> "bladzijden"@nl .
 <https://n2t.net/ark:/27023/5c429b062015e2950ebe25765ec020cb> <https://colonialcollections.nl/schema#identifier> "RV-14352-1-35" .
 <https://n2t.net/ark:/27023/5c429b062015e2950ebe25765ec020cb> <https://colonialcollections.nl/schema#name> "BLADZIJDE VAN FOTOALBUM" .
 <https://n2t.net/ark:/27023/5c429b062015e2950ebe25765ec020cb> <https://colonialcollections.nl/schema#material_en> "cardboard"@en .
 <https://n2t.net/ark:/27023/5c429b062015e2950ebe25765ec020cb> <https://colonialcollections.nl/schema#material_en> "photographic paper"@en .
-<https://n2t.net/ark:/27023/5c429b062015e2950ebe25765ec020cb> <https://colonialcollections.nl/schema#material_nl> "karton"@nl .
 <https://n2t.net/ark:/27023/5c429b062015e2950ebe25765ec020cb> <https://colonialcollections.nl/schema#material_nl> "fotopapier"@nl .
+<https://n2t.net/ark:/27023/5c429b062015e2950ebe25765ec020cb> <https://colonialcollections.nl/schema#material_nl> "karton"@nl .
 <https://n2t.net/ark:/27023/5c429b062015e2950ebe25765ec020cb> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/5c429b062015e2950ebe25765ec020cb> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
 <https://n2t.net/ark:/27023/5c42bd7d092137623d13d783fac28134> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
@@ -329,11 +329,11 @@
 <https://n2t.net/ark:/27023/5c42bfbc5a995bd0498cb24267edb1b5> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
 <https://n2t.net/ark:/27023/5c42bfbc5a995bd0498cb24267edb1b5> <https://colonialcollections.nl/schema#countryCreated_en> "Indonesia"@en .
 <https://n2t.net/ark:/27023/5c42bfbc5a995bd0498cb24267edb1b5> <https://colonialcollections.nl/schema#countryCreated_nl> "Indonesië"@nl .
-<https://n2t.net/ark:/27023/5c42bfbc5a995bd0498cb24267edb1b5> <https://colonialcollections.nl/schema#alternateName> "Oost-Indien"@nl .
-<https://n2t.net/ark:/27023/5c42bfbc5a995bd0498cb24267edb1b5> <https://colonialcollections.nl/schema#alternateName> "Nederlands-Indië"@nl .
-<https://n2t.net/ark:/27023/5c42bfbc5a995bd0498cb24267edb1b5> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
-<https://n2t.net/ark:/27023/5c42bfbc5a995bd0498cb24267edb1b5> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
 <https://n2t.net/ark:/27023/5c42bfbc5a995bd0498cb24267edb1b5> <https://colonialcollections.nl/schema#alternateName> "Nederlandsch-Indië"@nl .
+<https://n2t.net/ark:/27023/5c42bfbc5a995bd0498cb24267edb1b5> <https://colonialcollections.nl/schema#alternateName> "Nederlands-Indië"@nl .
+<https://n2t.net/ark:/27023/5c42bfbc5a995bd0498cb24267edb1b5> <https://colonialcollections.nl/schema#alternateName> "Oost-Indien"@nl .
+<https://n2t.net/ark:/27023/5c42bfbc5a995bd0498cb24267edb1b5> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
+<https://n2t.net/ark:/27023/5c42bfbc5a995bd0498cb24267edb1b5> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
 <https://n2t.net/ark:/27023/5c42bfbc5a995bd0498cb24267edb1b5> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/5c42bfbc5a995bd0498cb24267edb1b5> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
 <https://n2t.net/ark:/27023/5c42ccc192e8af0ea8033ed3d6745e4c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
@@ -436,10 +436,10 @@
 <https://n2t.net/ark:/27023/5c435354d516f9adbab3b4fa36a2638d> <https://colonialcollections.nl/schema#additionalType_nl> "foto's"@nl .
 <https://n2t.net/ark:/27023/5c435354d516f9adbab3b4fa36a2638d> <https://colonialcollections.nl/schema#identifier> "RV-A57-7" .
 <https://n2t.net/ark:/27023/5c435354d516f9adbab3b4fa36a2638d> <https://colonialcollections.nl/schema#name> "BOOT EN KANO OP DE RIVIER DE AMOER MET HET CHINGANGEBERGTE OPDE ACHTERGROND" .
-<https://n2t.net/ark:/27023/5c435354d516f9adbab3b4fa36a2638d> <https://colonialcollections.nl/schema#material_en> "cardboard"@en .
 <https://n2t.net/ark:/27023/5c435354d516f9adbab3b4fa36a2638d> <https://colonialcollections.nl/schema#material_en> "paper (fiber product)"@en .
-<https://n2t.net/ark:/27023/5c435354d516f9adbab3b4fa36a2638d> <https://colonialcollections.nl/schema#material_nl> "karton"@nl .
+<https://n2t.net/ark:/27023/5c435354d516f9adbab3b4fa36a2638d> <https://colonialcollections.nl/schema#material_en> "cardboard"@en .
 <https://n2t.net/ark:/27023/5c435354d516f9adbab3b4fa36a2638d> <https://colonialcollections.nl/schema#material_nl> "papier (vezelproduct)"@nl .
+<https://n2t.net/ark:/27023/5c435354d516f9adbab3b4fa36a2638d> <https://colonialcollections.nl/schema#material_nl> "karton"@nl .
 <https://n2t.net/ark:/27023/5c435354d516f9adbab3b4fa36a2638d> <https://colonialcollections.nl/schema#creator> "F.A. baron von Lühdorf" .
 <https://n2t.net/ark:/27023/5c435354d516f9adbab3b4fa36a2638d> <https://colonialcollections.nl/schema#yearCreatedStart> "1855"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/5c435354d516f9adbab3b4fa36a2638d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .
@@ -453,12 +453,12 @@
 <https://n2t.net/ark:/27023/5c435a32b6ef8c61f5848044a4d050e6> <https://colonialcollections.nl/schema#description> "Drukplank voor het drukken van cirkelvormige papieren met gebedsformules." .
 <https://n2t.net/ark:/27023/5c435a32b6ef8c61f5848044a4d050e6> <https://colonialcollections.nl/schema#material_en> "wood"@en .
 <https://n2t.net/ark:/27023/5c435a32b6ef8c61f5848044a4d050e6> <https://colonialcollections.nl/schema#material_nl> "hout"@nl .
-<https://n2t.net/ark:/27023/5c435a32b6ef8c61f5848044a4d050e6> <https://colonialcollections.nl/schema#locationCreated> "Nepal"@en .
 <https://n2t.net/ark:/27023/5c435a32b6ef8c61f5848044a4d050e6> <https://colonialcollections.nl/schema#locationCreated> "Nepal"@nl .
+<https://n2t.net/ark:/27023/5c435a32b6ef8c61f5848044a4d050e6> <https://colonialcollections.nl/schema#locationCreated> "Nepal"@en .
 <https://n2t.net/ark:/27023/5c435a32b6ef8c61f5848044a4d050e6> <https://colonialcollections.nl/schema#countryCreated_en> "Nepal"@en .
 <https://n2t.net/ark:/27023/5c435a32b6ef8c61f5848044a4d050e6> <https://colonialcollections.nl/schema#countryCreated_nl> "Nepal"@nl .
-<https://n2t.net/ark:/27023/5c435a32b6ef8c61f5848044a4d050e6> <https://colonialcollections.nl/schema#alternateName> "Federal Democratic Republic of Nepal"@en .
 <https://n2t.net/ark:/27023/5c435a32b6ef8c61f5848044a4d050e6> <https://colonialcollections.nl/schema#alternateName> "Nepal (Republic of)"@en .
+<https://n2t.net/ark:/27023/5c435a32b6ef8c61f5848044a4d050e6> <https://colonialcollections.nl/schema#alternateName> "Federal Democratic Republic of Nepal"@en .
 <https://n2t.net/ark:/27023/5c435a32b6ef8c61f5848044a4d050e6> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/5c435a32b6ef8c61f5848044a4d050e6> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
 <https://n2t.net/ark:/27023/5c4368f4f66d7d6f57bf1bf117f44945> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
@@ -476,8 +476,8 @@
 <https://n2t.net/ark:/27023/5c4384ce57bf668010cde90bb45e9a64> <https://colonialcollections.nl/schema#additionalType_nl> "wandelstokken"@nl .
 <https://n2t.net/ark:/27023/5c4384ce57bf668010cde90bb45e9a64> <https://colonialcollections.nl/schema#identifier> "RV-1183-913" .
 <https://n2t.net/ark:/27023/5c4384ce57bf668010cde90bb45e9a64> <https://colonialcollections.nl/schema#name> "Wandelstok" .
-<https://n2t.net/ark:/27023/5c4384ce57bf668010cde90bb45e9a64> <https://colonialcollections.nl/schema#material_en> "porcelain"@en .
 <https://n2t.net/ark:/27023/5c4384ce57bf668010cde90bb45e9a64> <https://colonialcollections.nl/schema#material_en> "wood"@en .
+<https://n2t.net/ark:/27023/5c4384ce57bf668010cde90bb45e9a64> <https://colonialcollections.nl/schema#material_en> "porcelain"@en .
 <https://n2t.net/ark:/27023/5c4384ce57bf668010cde90bb45e9a64> <https://colonialcollections.nl/schema#material_nl> "porselein"@nl .
 <https://n2t.net/ark:/27023/5c4384ce57bf668010cde90bb45e9a64> <https://colonialcollections.nl/schema#material_nl> "hout"@nl .
 <https://n2t.net/ark:/27023/5c4384ce57bf668010cde90bb45e9a64> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
@@ -512,12 +512,12 @@
 <https://n2t.net/ark:/27023/5c43c7d6679a10f2c7c7b29f3ac79d35> <https://colonialcollections.nl/schema#name> "MAND MET OVERSCHUIVEND DEKSEL" .
 <https://n2t.net/ark:/27023/5c43c7d6679a10f2c7c7b29f3ac79d35> <https://colonialcollections.nl/schema#material_en> "wood"@en .
 <https://n2t.net/ark:/27023/5c43c7d6679a10f2c7c7b29f3ac79d35> <https://colonialcollections.nl/schema#material_en> "colorant"@en .
-<https://n2t.net/ark:/27023/5c43c7d6679a10f2c7c7b29f3ac79d35> <https://colonialcollections.nl/schema#material_nl> "kleurstof"@nl .
 <https://n2t.net/ark:/27023/5c43c7d6679a10f2c7c7b29f3ac79d35> <https://colonialcollections.nl/schema#material_nl> "hout"@nl .
 <https://n2t.net/ark:/27023/5c43c7d6679a10f2c7c7b29f3ac79d35> <https://colonialcollections.nl/schema#material_nl> "warimbo"@nl .
+<https://n2t.net/ark:/27023/5c43c7d6679a10f2c7c7b29f3ac79d35> <https://colonialcollections.nl/schema#material_nl> "kleurstof"@nl .
 <https://n2t.net/ark:/27023/5c43c7d6679a10f2c7c7b29f3ac79d35> <https://colonialcollections.nl/schema#yearCreatedEnd> "1914"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/5c43c7d6679a10f2c7c7b29f3ac79d35> <https://colonialcollections.nl/schema#locationCreated> "Suriname"@en .
 <https://n2t.net/ark:/27023/5c43c7d6679a10f2c7c7b29f3ac79d35> <https://colonialcollections.nl/schema#locationCreated> "Suriname"@nl .
+<https://n2t.net/ark:/27023/5c43c7d6679a10f2c7c7b29f3ac79d35> <https://colonialcollections.nl/schema#locationCreated> "Suriname"@en .
 <https://n2t.net/ark:/27023/5c43c7d6679a10f2c7c7b29f3ac79d35> <https://colonialcollections.nl/schema#countryCreated_en> "Suriname"@en .
 <https://n2t.net/ark:/27023/5c43c7d6679a10f2c7c7b29f3ac79d35> <https://colonialcollections.nl/schema#countryCreated_nl> "Suriname"@nl .
 <https://n2t.net/ark:/27023/5c43c7d6679a10f2c7c7b29f3ac79d35> <https://colonialcollections.nl/schema#alternateName> "Republic of Suriname"@en .
@@ -550,12 +550,12 @@
 <https://n2t.net/ark:/27023/5c43f54b5d6b1b55ff7d3fc2e7a95158> <https://colonialcollections.nl/schema#locationCreated> "Java" .
 <https://n2t.net/ark:/27023/5c43f54b5d6b1b55ff7d3fc2e7a95158> <https://colonialcollections.nl/schema#countryCreated_en> "Indonesia"@en .
 <https://n2t.net/ark:/27023/5c43f54b5d6b1b55ff7d3fc2e7a95158> <https://colonialcollections.nl/schema#countryCreated_nl> "Indonesië"@nl .
+<https://n2t.net/ark:/27023/5c43f54b5d6b1b55ff7d3fc2e7a95158> <https://colonialcollections.nl/schema#alternateName> "Nederlandsch-Indië"@nl .
 <https://n2t.net/ark:/27023/5c43f54b5d6b1b55ff7d3fc2e7a95158> <https://colonialcollections.nl/schema#alternateName> "Java"@nl .
-<https://n2t.net/ark:/27023/5c43f54b5d6b1b55ff7d3fc2e7a95158> <https://colonialcollections.nl/schema#alternateName> "Oost-Indien"@nl .
 <https://n2t.net/ark:/27023/5c43f54b5d6b1b55ff7d3fc2e7a95158> <https://colonialcollections.nl/schema#alternateName> "Nederlands-Indië"@nl .
+<https://n2t.net/ark:/27023/5c43f54b5d6b1b55ff7d3fc2e7a95158> <https://colonialcollections.nl/schema#alternateName> "Oost-Indien"@nl .
 <https://n2t.net/ark:/27023/5c43f54b5d6b1b55ff7d3fc2e7a95158> <https://colonialcollections.nl/schema#alternateName> "Java"@en .
 <https://n2t.net/ark:/27023/5c43f54b5d6b1b55ff7d3fc2e7a95158> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
-<https://n2t.net/ark:/27023/5c43f54b5d6b1b55ff7d3fc2e7a95158> <https://colonialcollections.nl/schema#alternateName> "Nederlandsch-Indië"@nl .
 <https://n2t.net/ark:/27023/5c43f54b5d6b1b55ff7d3fc2e7a95158> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/5c43f54b5d6b1b55ff7d3fc2e7a95158> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
 <https://n2t.net/ark:/27023/5c44080363c7cb9e7ffc156965931a0a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
@@ -583,11 +583,11 @@
 <https://n2t.net/ark:/27023/5c44175c71f28b28500d6ae53da6bee9> <https://colonialcollections.nl/schema#identifier> "RV-A117-2-253" .
 <https://n2t.net/ark:/27023/5c44175c71f28b28500d6ae53da6bee9> <https://colonialcollections.nl/schema#name> "HET HOOFDMAGAZIJN VAN DE GRENSEXPEDITIE IN DE OMGEVING VAN HET DORP VAN TAPONTE" .
 <https://n2t.net/ark:/27023/5c44175c71f28b28500d6ae53da6bee9> <https://colonialcollections.nl/schema#description> "Deze foto is genomen tijdens de grensexpedities in Suriname (1935-1938), die tot doel hadden de grens tussen Suriname en Brazilië te bepalen." .
-<https://n2t.net/ark:/27023/5c44175c71f28b28500d6ae53da6bee9> <https://colonialcollections.nl/schema#material_en> "paper (fiber product)"@en .
-<https://n2t.net/ark:/27023/5c44175c71f28b28500d6ae53da6bee9> <https://colonialcollections.nl/schema#material_en> "baryta paper"@en .
 <https://n2t.net/ark:/27023/5c44175c71f28b28500d6ae53da6bee9> <https://colonialcollections.nl/schema#material_en> "cardboard"@en .
-<https://n2t.net/ark:/27023/5c44175c71f28b28500d6ae53da6bee9> <https://colonialcollections.nl/schema#material_nl> "barietpapier"@nl .
+<https://n2t.net/ark:/27023/5c44175c71f28b28500d6ae53da6bee9> <https://colonialcollections.nl/schema#material_en> "baryta paper"@en .
+<https://n2t.net/ark:/27023/5c44175c71f28b28500d6ae53da6bee9> <https://colonialcollections.nl/schema#material_en> "paper (fiber product)"@en .
 <https://n2t.net/ark:/27023/5c44175c71f28b28500d6ae53da6bee9> <https://colonialcollections.nl/schema#material_nl> "karton"@nl .
+<https://n2t.net/ark:/27023/5c44175c71f28b28500d6ae53da6bee9> <https://colonialcollections.nl/schema#material_nl> "barietpapier"@nl .
 <https://n2t.net/ark:/27023/5c44175c71f28b28500d6ae53da6bee9> <https://colonialcollections.nl/schema#material_nl> "papier (vezelproduct)"@nl .
 <https://n2t.net/ark:/27023/5c44175c71f28b28500d6ae53da6bee9> <https://colonialcollections.nl/schema#creator> "C.H. (Claudius Henricus) de Goeje" .
 <https://n2t.net/ark:/27023/5c44175c71f28b28500d6ae53da6bee9> <https://colonialcollections.nl/schema#yearCreatedStart> "1937"^^<http://www.w3.org/2001/XMLSchema#integer> .
@@ -613,17 +613,17 @@
 <https://n2t.net/ark:/27023/5c4450ee851746f58ccf3f7c8d006df5> <https://colonialcollections.nl/schema#material_nl> "kleurstof"@nl .
 <https://n2t.net/ark:/27023/5c4450ee851746f58ccf3f7c8d006df5> <https://colonialcollections.nl/schema#yearCreatedStart> "1895"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/5c4450ee851746f58ccf3f7c8d006df5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1905"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/5c4450ee851746f58ccf3f7c8d006df5> <https://colonialcollections.nl/schema#locationCreated> "Banyumas Regency" .
-<https://n2t.net/ark:/27023/5c4450ee851746f58ccf3f7c8d006df5> <https://colonialcollections.nl/schema#locationCreated> "Lasem" .
 <https://n2t.net/ark:/27023/5c4450ee851746f58ccf3f7c8d006df5> <https://colonialcollections.nl/schema#locationCreated> "Kudus Regency" .
+<https://n2t.net/ark:/27023/5c4450ee851746f58ccf3f7c8d006df5> <https://colonialcollections.nl/schema#locationCreated> "Lasem" .
+<https://n2t.net/ark:/27023/5c4450ee851746f58ccf3f7c8d006df5> <https://colonialcollections.nl/schema#locationCreated> "Banyumas Regency" .
 <https://n2t.net/ark:/27023/5c4450ee851746f58ccf3f7c8d006df5> <https://colonialcollections.nl/schema#countryCreated_en> "Indonesia"@en .
 <https://n2t.net/ark:/27023/5c4450ee851746f58ccf3f7c8d006df5> <https://colonialcollections.nl/schema#countryCreated_nl> "Indonesië"@nl .
 <https://n2t.net/ark:/27023/5c4450ee851746f58ccf3f7c8d006df5> <https://colonialcollections.nl/schema#alternateName> "Nederlandsch-Indië"@nl .
+<https://n2t.net/ark:/27023/5c4450ee851746f58ccf3f7c8d006df5> <https://colonialcollections.nl/schema#alternateName> "Nederlands-Indië"@nl .
 <https://n2t.net/ark:/27023/5c4450ee851746f58ccf3f7c8d006df5> <https://colonialcollections.nl/schema#alternateName> "Kudus Regency"@en .
 <https://n2t.net/ark:/27023/5c4450ee851746f58ccf3f7c8d006df5> <https://colonialcollections.nl/schema#alternateName> "Oost-Indien"@nl .
-<https://n2t.net/ark:/27023/5c4450ee851746f58ccf3f7c8d006df5> <https://colonialcollections.nl/schema#alternateName> "Nederlands-Indië"@nl .
-<https://n2t.net/ark:/27023/5c4450ee851746f58ccf3f7c8d006df5> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
 <https://n2t.net/ark:/27023/5c4450ee851746f58ccf3f7c8d006df5> <https://colonialcollections.nl/schema#alternateName> "Banyumas Regency"@en .
+<https://n2t.net/ark:/27023/5c4450ee851746f58ccf3f7c8d006df5> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
 <https://n2t.net/ark:/27023/5c4450ee851746f58ccf3f7c8d006df5> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/5c4450ee851746f58ccf3f7c8d006df5> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
 <https://n2t.net/ark:/27023/5c44530471e179e57e94d7b3cd51989b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
@@ -631,8 +631,8 @@
 <https://n2t.net/ark:/27023/5c44530471e179e57e94d7b3cd51989b> <https://colonialcollections.nl/schema#additionalType_nl> "foto's"@nl .
 <https://n2t.net/ark:/27023/5c44530471e179e57e94d7b3cd51989b> <https://colonialcollections.nl/schema#identifier> "RV-A122-1-35" .
 <https://n2t.net/ark:/27023/5c44530471e179e57e94d7b3cd51989b> <https://colonialcollections.nl/schema#name> "Gezicht op San Francisco en de zeestraat Golden Gate" .
-<https://n2t.net/ark:/27023/5c44530471e179e57e94d7b3cd51989b> <https://colonialcollections.nl/schema#material_en> "paper (fiber product)"@en .
 <https://n2t.net/ark:/27023/5c44530471e179e57e94d7b3cd51989b> <https://colonialcollections.nl/schema#material_en> "cardboard"@en .
+<https://n2t.net/ark:/27023/5c44530471e179e57e94d7b3cd51989b> <https://colonialcollections.nl/schema#material_en> "paper (fiber product)"@en .
 <https://n2t.net/ark:/27023/5c44530471e179e57e94d7b3cd51989b> <https://colonialcollections.nl/schema#material_nl> "karton"@nl .
 <https://n2t.net/ark:/27023/5c44530471e179e57e94d7b3cd51989b> <https://colonialcollections.nl/schema#material_nl> "papier (vezelproduct)"@nl .
 <https://n2t.net/ark:/27023/5c44530471e179e57e94d7b3cd51989b> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
@@ -641,10 +641,10 @@
 <https://n2t.net/ark:/27023/5c44530471e179e57e94d7b3cd51989b> <https://colonialcollections.nl/schema#locationCreated> "San Francisco"@en .
 <https://n2t.net/ark:/27023/5c44530471e179e57e94d7b3cd51989b> <https://colonialcollections.nl/schema#countryCreated_en> "United States"@en .
 <https://n2t.net/ark:/27023/5c44530471e179e57e94d7b3cd51989b> <https://colonialcollections.nl/schema#countryCreated_nl> "Verenigde Staten"@nl .
-<https://n2t.net/ark:/27023/5c44530471e179e57e94d7b3cd51989b> <https://colonialcollections.nl/schema#alternateName> "Frisco"@en .
 <https://n2t.net/ark:/27023/5c44530471e179e57e94d7b3cd51989b> <https://colonialcollections.nl/schema#alternateName> "San Francisco"@nl .
-<https://n2t.net/ark:/27023/5c44530471e179e57e94d7b3cd51989b> <https://colonialcollections.nl/schema#alternateName> "VS"@nl .
 <https://n2t.net/ark:/27023/5c44530471e179e57e94d7b3cd51989b> <https://colonialcollections.nl/schema#alternateName> "America"@en .
+<https://n2t.net/ark:/27023/5c44530471e179e57e94d7b3cd51989b> <https://colonialcollections.nl/schema#alternateName> "Frisco"@en .
+<https://n2t.net/ark:/27023/5c44530471e179e57e94d7b3cd51989b> <https://colonialcollections.nl/schema#alternateName> "VS"@nl .
 <https://n2t.net/ark:/27023/5c44530471e179e57e94d7b3cd51989b> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/5c44530471e179e57e94d7b3cd51989b> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
 <https://n2t.net/ark:/27023/5c446cfb91db9602f9bb98f5a49a97ad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
@@ -669,11 +669,11 @@
 <https://n2t.net/ark:/27023/5c44a2b231c829cb8d73176cb1531640> <https://colonialcollections.nl/schema#identifier> "RV-2299-152" .
 <https://n2t.net/ark:/27023/5c44a2b231c829cb8d73176cb1531640> <https://colonialcollections.nl/schema#name> "Schouderdoek" .
 <https://n2t.net/ark:/27023/5c44a2b231c829cb8d73176cb1531640> <https://colonialcollections.nl/schema#description> "Schouderdoek (kain pandoekoeng), rechthoekig, van rode zijde, de inslag nagenoeg geheel met gouddraad doorweven, enkele figuren met zilverdraad: in hoofdzaak vierkanten met diagonalen, ruiten, enz.; twee dwarse banden met toempal-figuren. Aan de smalle einden een strook kant van gouddraad." .
+<https://n2t.net/ark:/27023/5c44a2b231c829cb8d73176cb1531640> <https://colonialcollections.nl/schema#material_en> "gold wire"@en .
 <https://n2t.net/ark:/27023/5c44a2b231c829cb8d73176cb1531640> <https://colonialcollections.nl/schema#material_en> "silver wire"@en .
 <https://n2t.net/ark:/27023/5c44a2b231c829cb8d73176cb1531640> <https://colonialcollections.nl/schema#material_en> "silk (textile)"@en .
-<https://n2t.net/ark:/27023/5c44a2b231c829cb8d73176cb1531640> <https://colonialcollections.nl/schema#material_en> "gold wire"@en .
-<https://n2t.net/ark:/27023/5c44a2b231c829cb8d73176cb1531640> <https://colonialcollections.nl/schema#material_nl> "zilverdraad"@nl .
 <https://n2t.net/ark:/27023/5c44a2b231c829cb8d73176cb1531640> <https://colonialcollections.nl/schema#material_nl> "gouddraad"@nl .
+<https://n2t.net/ark:/27023/5c44a2b231c829cb8d73176cb1531640> <https://colonialcollections.nl/schema#material_nl> "zilverdraad"@nl .
 <https://n2t.net/ark:/27023/5c44a2b231c829cb8d73176cb1531640> <https://colonialcollections.nl/schema#material_nl> "zijde (textiel)"@nl .
 <https://n2t.net/ark:/27023/5c44a2b231c829cb8d73176cb1531640> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/5c44a2b231c829cb8d73176cb1531640> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
@@ -687,10 +687,10 @@
 <https://n2t.net/ark:/27023/5c44a3fa2540a13b29d6c5bd692c1ede> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/5c44a3fa2540a13b29d6c5bd692c1ede> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
 <https://n2t.net/ark:/27023/5c44abd4c25837ead29ce15cde4befdb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5c44abd4c25837ead29ce15cde4befdb> <https://colonialcollections.nl/schema#additionalType_en> "stereoscopic photographs"@en .
 <https://n2t.net/ark:/27023/5c44abd4c25837ead29ce15cde4befdb> <https://colonialcollections.nl/schema#additionalType_en> "slides (photographs)"@en .
-<https://n2t.net/ark:/27023/5c44abd4c25837ead29ce15cde4befdb> <https://colonialcollections.nl/schema#additionalType_nl> "diapositieven"@nl .
+<https://n2t.net/ark:/27023/5c44abd4c25837ead29ce15cde4befdb> <https://colonialcollections.nl/schema#additionalType_en> "stereoscopic photographs"@en .
 <https://n2t.net/ark:/27023/5c44abd4c25837ead29ce15cde4befdb> <https://colonialcollections.nl/schema#additionalType_nl> "stereofoto's"@nl .
+<https://n2t.net/ark:/27023/5c44abd4c25837ead29ce15cde4befdb> <https://colonialcollections.nl/schema#additionalType_nl> "diapositieven"@nl .
 <https://n2t.net/ark:/27023/5c44abd4c25837ead29ce15cde4befdb> <https://colonialcollections.nl/schema#identifier> "TM-10061402" .
 <https://n2t.net/ark:/27023/5c44abd4c25837ead29ce15cde4befdb> <https://colonialcollections.nl/schema#name> "STEREODIA GEBRUIKT IN DE VASTE OPSTELLING VAN HET TROPENMUSEUM IN EEN STEREOKAST" .
 <https://n2t.net/ark:/27023/5c44abd4c25837ead29ce15cde4befdb> <https://colonialcollections.nl/schema#material_en> "glass (material)"@en .
@@ -708,8 +708,8 @@
 <https://n2t.net/ark:/27023/5c44adfd10dd56c7b9fcc0e1d8df24a3> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nUit ijzer vervaardigde zoömorfe figuur in de vorm van een krokodil. De voor en de achterpoten maken een hoek van negentig graden ten opzichte van het lichaam. De rug van de krokodil is gegraveerd met een lijnenpatroon. Het gehele figuur is bedekt met een laag loslatende croûte." .
 <https://n2t.net/ark:/27023/5c44adfd10dd56c7b9fcc0e1d8df24a3> <https://colonialcollections.nl/schema#material_en> "iron (metal)"@en .
 <https://n2t.net/ark:/27023/5c44adfd10dd56c7b9fcc0e1d8df24a3> <https://colonialcollections.nl/schema#material_nl> "ijzer"@nl .
-<https://n2t.net/ark:/27023/5c44adfd10dd56c7b9fcc0e1d8df24a3> <https://colonialcollections.nl/schema#locationCreated> "Mali"@en .
 <https://n2t.net/ark:/27023/5c44adfd10dd56c7b9fcc0e1d8df24a3> <https://colonialcollections.nl/schema#locationCreated> "Mali"@nl .
+<https://n2t.net/ark:/27023/5c44adfd10dd56c7b9fcc0e1d8df24a3> <https://colonialcollections.nl/schema#locationCreated> "Mali"@en .
 <https://n2t.net/ark:/27023/5c44adfd10dd56c7b9fcc0e1d8df24a3> <https://colonialcollections.nl/schema#countryCreated_en> "Mali"@en .
 <https://n2t.net/ark:/27023/5c44adfd10dd56c7b9fcc0e1d8df24a3> <https://colonialcollections.nl/schema#countryCreated_nl> "Mali"@nl .
 <https://n2t.net/ark:/27023/5c44adfd10dd56c7b9fcc0e1d8df24a3> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
@@ -758,11 +758,11 @@
 <https://n2t.net/ark:/27023/5c4513fcdba95b55543449b3b0387fb0> <https://colonialcollections.nl/schema#locationCreated> "Java" .
 <https://n2t.net/ark:/27023/5c4513fcdba95b55543449b3b0387fb0> <https://colonialcollections.nl/schema#countryCreated_en> "Indonesia"@en .
 <https://n2t.net/ark:/27023/5c4513fcdba95b55543449b3b0387fb0> <https://colonialcollections.nl/schema#countryCreated_nl> "Indonesië"@nl .
+<https://n2t.net/ark:/27023/5c4513fcdba95b55543449b3b0387fb0> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
 <https://n2t.net/ark:/27023/5c4513fcdba95b55543449b3b0387fb0> <https://colonialcollections.nl/schema#alternateName> "Nederlandsch-Indië"@nl .
 <https://n2t.net/ark:/27023/5c4513fcdba95b55543449b3b0387fb0> <https://colonialcollections.nl/schema#alternateName> "Java"@nl .
 <https://n2t.net/ark:/27023/5c4513fcdba95b55543449b3b0387fb0> <https://colonialcollections.nl/schema#alternateName> "Oost-Indien"@nl .
 <https://n2t.net/ark:/27023/5c4513fcdba95b55543449b3b0387fb0> <https://colonialcollections.nl/schema#alternateName> "Nederlands-Indië"@nl .
-<https://n2t.net/ark:/27023/5c4513fcdba95b55543449b3b0387fb0> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
 <https://n2t.net/ark:/27023/5c4513fcdba95b55543449b3b0387fb0> <https://colonialcollections.nl/schema#alternateName> "Java"@en .
 <https://n2t.net/ark:/27023/5c4513fcdba95b55543449b3b0387fb0> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/5c4513fcdba95b55543449b3b0387fb0> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
@@ -777,10 +777,10 @@
 <https://n2t.net/ark:/27023/5c4559f7d61df4dff60972c4f268b2a8> <https://colonialcollections.nl/schema#locationCreated> "Kabupaten Probolinggo" .
 <https://n2t.net/ark:/27023/5c4559f7d61df4dff60972c4f268b2a8> <https://colonialcollections.nl/schema#countryCreated_en> "Indonesia"@en .
 <https://n2t.net/ark:/27023/5c4559f7d61df4dff60972c4f268b2a8> <https://colonialcollections.nl/schema#countryCreated_nl> "Indonesië"@nl .
+<https://n2t.net/ark:/27023/5c4559f7d61df4dff60972c4f268b2a8> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
 <https://n2t.net/ark:/27023/5c4559f7d61df4dff60972c4f268b2a8> <https://colonialcollections.nl/schema#alternateName> "Nederlandsch-Indië"@nl .
 <https://n2t.net/ark:/27023/5c4559f7d61df4dff60972c4f268b2a8> <https://colonialcollections.nl/schema#alternateName> "Oost-Indien"@nl .
 <https://n2t.net/ark:/27023/5c4559f7d61df4dff60972c4f268b2a8> <https://colonialcollections.nl/schema#alternateName> "Nederlands-Indië"@nl .
-<https://n2t.net/ark:/27023/5c4559f7d61df4dff60972c4f268b2a8> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
 <https://n2t.net/ark:/27023/5c4559f7d61df4dff60972c4f268b2a8> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/5c4559f7d61df4dff60972c4f268b2a8> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
 <https://n2t.net/ark:/27023/5c4560d481518d1ead43c25f004833dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
@@ -794,11 +794,11 @@
 <https://n2t.net/ark:/27023/5c4560d481518d1ead43c25f004833dc> <https://colonialcollections.nl/schema#locationCreated> "Java" .
 <https://n2t.net/ark:/27023/5c4560d481518d1ead43c25f004833dc> <https://colonialcollections.nl/schema#countryCreated_en> "Indonesia"@en .
 <https://n2t.net/ark:/27023/5c4560d481518d1ead43c25f004833dc> <https://colonialcollections.nl/schema#countryCreated_nl> "Indonesië"@nl .
+<https://n2t.net/ark:/27023/5c4560d481518d1ead43c25f004833dc> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
 <https://n2t.net/ark:/27023/5c4560d481518d1ead43c25f004833dc> <https://colonialcollections.nl/schema#alternateName> "Nederlandsch-Indië"@nl .
 <https://n2t.net/ark:/27023/5c4560d481518d1ead43c25f004833dc> <https://colonialcollections.nl/schema#alternateName> "Java"@nl .
 <https://n2t.net/ark:/27023/5c4560d481518d1ead43c25f004833dc> <https://colonialcollections.nl/schema#alternateName> "Oost-Indien"@nl .
 <https://n2t.net/ark:/27023/5c4560d481518d1ead43c25f004833dc> <https://colonialcollections.nl/schema#alternateName> "Nederlands-Indië"@nl .
-<https://n2t.net/ark:/27023/5c4560d481518d1ead43c25f004833dc> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
 <https://n2t.net/ark:/27023/5c4560d481518d1ead43c25f004833dc> <https://colonialcollections.nl/schema#alternateName> "Java"@en .
 <https://n2t.net/ark:/27023/5c4560d481518d1ead43c25f004833dc> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/5c4560d481518d1ead43c25f004833dc> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
@@ -811,11 +811,11 @@
 <https://n2t.net/ark:/27023/5c4584d5164e9094da5a4a6824b4f41e> <https://colonialcollections.nl/schema#name> "MODEL VAN EEN HONDENSLEE MET TUIG" .
 <https://n2t.net/ark:/27023/5c4584d5164e9094da5a4a6824b4f41e> <https://colonialcollections.nl/schema#description> "Aan het achterste gedeelte van dit sleemodel zit een hoog oplopende, gebogen leuning of staander. Over de glijvlakken is huid gespannen. Sleemodellen waren vaak speelgoed voor kleine kinderen, maar werden al gauw ook een geliefd verzamelobject onder Deense kolonisten, bestuurders en later toeristen.\r\nDe hondenslee was tot de komst van de sneeuwscooter het ideale voertuig voor de noordelijke wereld van sneeuw en ijs, en wordt nog steeds gebruikt.  Met zijn glijvlakken glijdt hij makkelijk over ongelijke hobbels in de sneeuw. Het gewicht is zo goed verdeeld, dat je er over dun bevroren ijs mee kunt rijden.\r\nDoor het lage zwaartepunt slaat hij ook niet gauw om op een scheve ondergrond, bijvoorbeeld in ravijnen met hun ongelijke stenen bodem.\r\nDe staander achterop de slee kan worden gebruikt om op te staan en mee te rijden of 'steppen'.\r\nDe West-Groenlandse slee was niet voorzien van een (echte) rem.\r\nBergopwaarts ga je achter de slee lopen en duw je tegen de staander, terwijl de honden zich ook extra inspannen.\r\nBergafwaarts ga je aan de staanders hangen en zet je je voeten onder de slee, zodat de glijvlakken diep in de sneeuw snijden en er bovendien sneeuw tussen beide glijvlakken gaat zitten. \r\nEventueel in combinatie met het uitspannen van de honden, die immers bijna altijd geneigd zijn om hard te trekken, zijn dit effectieve maatregelen om te remmen.\r\nHet hondentuig is gemaakt van leer. Er kunnen vier honden (bij dit model; op ware grootte hebben sleden wel 7 tot 11 of 13 honden) mee ingespannen worden. Teven lopen in principe vóór de reuen.\r\nJe stuurt de slee naar rechts door vlak naast de hond die het verst aan de linkerkant loopt met de hondenzweep in de sneeuw te slaan, en het commando 'rechts!' te geven.  Als je naar links wil doe je het tegenovergestelde. Ervaren honden hebben meestal alleen aan het geschreeuwde commando genoeg.\r\nDoordat in de winter dagelijks met hondensleden dezelfde routes worden gevolgd tussen nederzettingen en jachtgebieden, ontstaan er sledenpaden. Deze verdwijnen in de zomer weliswaar, maar de route behoort tot de familietraditie en wordt gekend door jong en oud." .
 <https://n2t.net/ark:/27023/5c4584d5164e9094da5a4a6824b4f41e> <https://colonialcollections.nl/schema#material_en> "iron (metal)"@en .
-<https://n2t.net/ark:/27023/5c4584d5164e9094da5a4a6824b4f41e> <https://colonialcollections.nl/schema#material_en> "leather"@en .
 <https://n2t.net/ark:/27023/5c4584d5164e9094da5a4a6824b4f41e> <https://colonialcollections.nl/schema#material_en> "wood"@en .
-<https://n2t.net/ark:/27023/5c4584d5164e9094da5a4a6824b4f41e> <https://colonialcollections.nl/schema#material_nl> "leer"@nl .
-<https://n2t.net/ark:/27023/5c4584d5164e9094da5a4a6824b4f41e> <https://colonialcollections.nl/schema#material_nl> "ijzer"@nl .
+<https://n2t.net/ark:/27023/5c4584d5164e9094da5a4a6824b4f41e> <https://colonialcollections.nl/schema#material_en> "leather"@en .
 <https://n2t.net/ark:/27023/5c4584d5164e9094da5a4a6824b4f41e> <https://colonialcollections.nl/schema#material_nl> "hout"@nl .
+<https://n2t.net/ark:/27023/5c4584d5164e9094da5a4a6824b4f41e> <https://colonialcollections.nl/schema#material_nl> "ijzer"@nl .
+<https://n2t.net/ark:/27023/5c4584d5164e9094da5a4a6824b4f41e> <https://colonialcollections.nl/schema#material_nl> "leer"@nl .
 <https://n2t.net/ark:/27023/5c4584d5164e9094da5a4a6824b4f41e> <https://colonialcollections.nl/schema#yearCreatedStart> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/5c4584d5164e9094da5a4a6824b4f41e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1889"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/5c4584d5164e9094da5a4a6824b4f41e> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
@@ -844,14 +844,14 @@
 <https://n2t.net/ark:/27023/5c45de24374a597fb350726621f2cc1a> <https://colonialcollections.nl/schema#material_nl> "brons"@nl .
 <https://n2t.net/ark:/27023/5c45de24374a597fb350726621f2cc1a> <https://colonialcollections.nl/schema#yearCreatedStart> "1644"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/5c45de24374a597fb350726621f2cc1a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1661"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/5c45de24374a597fb350726621f2cc1a> <https://colonialcollections.nl/schema#locationCreated> "China"@nl .
 <https://n2t.net/ark:/27023/5c45de24374a597fb350726621f2cc1a> <https://colonialcollections.nl/schema#locationCreated> "China"@en .
+<https://n2t.net/ark:/27023/5c45de24374a597fb350726621f2cc1a> <https://colonialcollections.nl/schema#locationCreated> "China"@nl .
 <https://n2t.net/ark:/27023/5c45de24374a597fb350726621f2cc1a> <https://colonialcollections.nl/schema#countryCreated_en> "China"@en .
 <https://n2t.net/ark:/27023/5c45de24374a597fb350726621f2cc1a> <https://colonialcollections.nl/schema#countryCreated_nl> "China"@nl .
 <https://n2t.net/ark:/27023/5c45de24374a597fb350726621f2cc1a> <https://colonialcollections.nl/schema#alternateName> "Volksrepubliek China"@nl .
-<https://n2t.net/ark:/27023/5c45de24374a597fb350726621f2cc1a> <https://colonialcollections.nl/schema#alternateName> "People’s Republic of China"@en .
 <https://n2t.net/ark:/27023/5c45de24374a597fb350726621f2cc1a> <https://colonialcollections.nl/schema#alternateName> "People's Republic of China"@en .
 <https://n2t.net/ark:/27023/5c45de24374a597fb350726621f2cc1a> <https://colonialcollections.nl/schema#alternateName> "Chyna"@nl .
+<https://n2t.net/ark:/27023/5c45de24374a597fb350726621f2cc1a> <https://colonialcollections.nl/schema#alternateName> "People’s Republic of China"@en .
 <https://n2t.net/ark:/27023/5c45de24374a597fb350726621f2cc1a> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/5c45de24374a597fb350726621f2cc1a> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
 <https://n2t.net/ark:/27023/5c45e0c5b2a59d305d4a1ed327b80a4d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
@@ -875,8 +875,8 @@
 <https://n2t.net/ark:/27023/5c45e74c672d0baa1d51ce49ce8bcb37> <https://colonialcollections.nl/schema#identifier> "TM-3300-1" .
 <https://n2t.net/ark:/27023/5c45e74c672d0baa1d51ce49ce8bcb37> <https://colonialcollections.nl/schema#name> "HOUTEN MASKER MET GROTE OREN GEBRUIKT IN HET EGUNGUN-GENOOTSCHAP" .
 <https://n2t.net/ark:/27023/5c45e74c672d0baa1d51ce49ce8bcb37> <https://colonialcollections.nl/schema#description> "Het masker wordt gebruikt in het Egungun-genootschap. Dit is een geheim mannengenootschap met een erfelijk hoofd, dat tot taak heeft een schakel te vormen tussen levenden en doden. De maskers die de leden van het genootschap bij hun dansen dragen, stellen meestal de geesten van bepaalde overleden personen voor. Elk masker heeft een eigen naam, die echter doorgaans niet die van de overledene is. Als een orakelpriester een Yoruba meedeelt dat een bepaalde vooroudergeest speciale aandacht moet ontvangen laat de betrokkene een masker maken en biedt het met een geschenk aan het hoofd van de Egungun aan. Het hoofd draagt dan, in het geheim, één van de leden op het masker te dragen. \r\nOp een jaarlijks festival in juni dansen alle maskers met hun volgelingen door de stad. Bij het masker hoort een lang net of gewaad dat de drager geheel bedekt. Het is gevaarlijk dicht bij de dansers te komen of hen aan te raken. De toeschouwers worden niet geacht de maskerdragers als mensen te herkennen. Vóór de koloniale tijd werd iemand die blijk gaf een maskerdrager te herkennen gedood. De dansers raken tijdens de ceremonie vaak in een trance, waarin ze bezeten worden door de vooroudergeest die hun masker voorstelt en dan door hun mond spreekt.\r\nVolgens Himmelheber (1960: 252) danst een Egungun-masker ook bij een begrafenis met het lijkkleed om zich heen geslagen en spreekt in naam van de overledene de familieleden troostend toe. Daarnaast geven Egungun-dansers ook wel voorstellingen op het marktplein louter voor amusement, waarbij soms satirische maskers worden gedragen die Europeanen, Hausa, Nupe, politieagenten of prostituées voorstellen.\r\nHet masker wordt op het hoofd gedragen. Op het achterdeel van het masker bevindt zich een reptielachtig dier met zeer lange oren die plat op de rug liggen.\r\n\r\nDe Yoruba is het meest urbane Afrikaanse volk. Al vanaf de 11e eeuw was hun eerste stad, Ile-Ife, het centrum van een invloedrijke stadstaat, en gauw volgden andere stadstaten met bruisende centra. Deze ontwikkeling heeft zich tot de dag van vandaag voortgezet. De Yoruba cultuur heeft nauwe raakvlakken met die van de Fon in zuidelijk Benin en Togo. Hun politieke systemen en religieuze werelden zijn vrijwel identiek, en ook de kunsten van beide groepen tonen wederzijdse beïnvloeding.\r\nVeel van de objecten worden gebruikt in de religie en voor het onderschrijven van de leiderschapssystemen van het koninklijke hof en van de ouderengenootschappen, de Ogboni. Deze genootschappen, met zowel mannelijke als vrouwelijke leden, regeren samen met de koning. Ogboni moet machtsmisbruik door de koning voorkomen, fungeren als rechtbank en spelen een hoofdrol bij het kiezen, inaugureren maar ook begraven van koningen." .
-<https://n2t.net/ark:/27023/5c45e74c672d0baa1d51ce49ce8bcb37> <https://colonialcollections.nl/schema#material_en> "colorant"@en .
 <https://n2t.net/ark:/27023/5c45e74c672d0baa1d51ce49ce8bcb37> <https://colonialcollections.nl/schema#material_en> "wood"@en .
+<https://n2t.net/ark:/27023/5c45e74c672d0baa1d51ce49ce8bcb37> <https://colonialcollections.nl/schema#material_en> "colorant"@en .
 <https://n2t.net/ark:/27023/5c45e74c672d0baa1d51ce49ce8bcb37> <https://colonialcollections.nl/schema#material_nl> "hout"@nl .
 <https://n2t.net/ark:/27023/5c45e74c672d0baa1d51ce49ce8bcb37> <https://colonialcollections.nl/schema#material_nl> "kleurstof"@nl .
 <https://n2t.net/ark:/27023/5c45e74c672d0baa1d51ce49ce8bcb37> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .
@@ -927,8 +927,8 @@
 <https://n2t.net/ark:/27023/5c461864ce8aef7e4150fe5d94b25c58> <https://colonialcollections.nl/schema#identifier> "RV-IB1999-7-14" .
 <https://n2t.net/ark:/27023/5c461864ce8aef7e4150fe5d94b25c58> <https://colonialcollections.nl/schema#material_en> "clay"@en .
 <https://n2t.net/ark:/27023/5c461864ce8aef7e4150fe5d94b25c58> <https://colonialcollections.nl/schema#material_nl> "klei"@nl .
-<https://n2t.net/ark:/27023/5c461864ce8aef7e4150fe5d94b25c58> <https://colonialcollections.nl/schema#locationCreated> "Bhutan"@en .
 <https://n2t.net/ark:/27023/5c461864ce8aef7e4150fe5d94b25c58> <https://colonialcollections.nl/schema#locationCreated> "Bhutan"@nl .
+<https://n2t.net/ark:/27023/5c461864ce8aef7e4150fe5d94b25c58> <https://colonialcollections.nl/schema#locationCreated> "Bhutan"@en .
 <https://n2t.net/ark:/27023/5c461864ce8aef7e4150fe5d94b25c58> <https://colonialcollections.nl/schema#countryCreated_en> "Bhutan"@en .
 <https://n2t.net/ark:/27023/5c461864ce8aef7e4150fe5d94b25c58> <https://colonialcollections.nl/schema#countryCreated_nl> "Bhutan"@nl .
 <https://n2t.net/ark:/27023/5c461864ce8aef7e4150fe5d94b25c58> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
@@ -939,15 +939,15 @@
 <https://n2t.net/ark:/27023/5c461d0ec696bf253521ba79df3c7e21> <https://colonialcollections.nl/schema#identifier> "TM-A-10286" .
 <https://n2t.net/ark:/27023/5c461d0ec696bf253521ba79df3c7e21> <https://colonialcollections.nl/schema#name> "BOVENARMBAND VAN DE HOORNHUID VAN EEN OLIFANTSVOET" .
 <https://n2t.net/ark:/27023/5c461d0ec696bf253521ba79df3c7e21> <https://colonialcollections.nl/schema#description> "De armband is zwartbruin, rond en plat. Volgens de oude informatie is hij gemaakt van de 'hoorn van een olifantsteen', hierbij wordt als basis een Duitse schrijver aangehaald die melde dat deze armbanden vervaardigd zijn uit 'der Hornhaut des Elefantenfusses'. Een correctere vertaling hiervan is hoornhuid van een olifantsvoet. \r\nAan de buitenzijde zijn ter versiering zestien tinnen pinnetjes ingeslagen.\r\nDe armband is afkomstig van de 'Soedan Negers' uit Liberia." .
-<https://n2t.net/ark:/27023/5c461d0ec696bf253521ba79df3c7e21> <https://colonialcollections.nl/schema#material_en> "tin (metal)"@en .
 <https://n2t.net/ark:/27023/5c461d0ec696bf253521ba79df3c7e21> <https://colonialcollections.nl/schema#material_en> "horn"@en .
 <https://n2t.net/ark:/27023/5c461d0ec696bf253521ba79df3c7e21> <https://colonialcollections.nl/schema#material_en> "skin (animal)"@en .
-<https://n2t.net/ark:/27023/5c461d0ec696bf253521ba79df3c7e21> <https://colonialcollections.nl/schema#material_nl> "tin"@nl .
+<https://n2t.net/ark:/27023/5c461d0ec696bf253521ba79df3c7e21> <https://colonialcollections.nl/schema#material_en> "tin (metal)"@en .
 <https://n2t.net/ark:/27023/5c461d0ec696bf253521ba79df3c7e21> <https://colonialcollections.nl/schema#material_nl> "hoorn"@nl .
+<https://n2t.net/ark:/27023/5c461d0ec696bf253521ba79df3c7e21> <https://colonialcollections.nl/schema#material_nl> "tin"@nl .
 <https://n2t.net/ark:/27023/5c461d0ec696bf253521ba79df3c7e21> <https://colonialcollections.nl/schema#material_nl> "huid (dierlijk)"@nl .
 <https://n2t.net/ark:/27023/5c461d0ec696bf253521ba79df3c7e21> <https://colonialcollections.nl/schema#yearCreatedEnd> "1903"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/5c461d0ec696bf253521ba79df3c7e21> <https://colonialcollections.nl/schema#locationCreated> "Liberia"@en .
 <https://n2t.net/ark:/27023/5c461d0ec696bf253521ba79df3c7e21> <https://colonialcollections.nl/schema#locationCreated> "Liberia"@nl .
+<https://n2t.net/ark:/27023/5c461d0ec696bf253521ba79df3c7e21> <https://colonialcollections.nl/schema#locationCreated> "Liberia"@en .
 <https://n2t.net/ark:/27023/5c461d0ec696bf253521ba79df3c7e21> <https://colonialcollections.nl/schema#countryCreated_en> "Liberia"@en .
 <https://n2t.net/ark:/27023/5c461d0ec696bf253521ba79df3c7e21> <https://colonialcollections.nl/schema#countryCreated_nl> "Liberia"@nl .
 <https://n2t.net/ark:/27023/5c461d0ec696bf253521ba79df3c7e21> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
@@ -957,13 +957,13 @@
 <https://n2t.net/ark:/27023/5c4635b1e861ef0ab6b9e3b39f0e50d1> <https://colonialcollections.nl/schema#additionalType_nl> "pijlen"@nl .
 <https://n2t.net/ark:/27023/5c4635b1e861ef0ab6b9e3b39f0e50d1> <https://colonialcollections.nl/schema#identifier> "TM-2168-2d" .
 <https://n2t.net/ark:/27023/5c4635b1e861ef0ab6b9e3b39f0e50d1> <https://colonialcollections.nl/schema#name> "BAMBOE PIJL MET HOUTEN PUNT" .
-<https://n2t.net/ark:/27023/5c4635b1e861ef0ab6b9e3b39f0e50d1> <https://colonialcollections.nl/schema#material_en> "fiber products"@en .
 <https://n2t.net/ark:/27023/5c4635b1e861ef0ab6b9e3b39f0e50d1> <https://colonialcollections.nl/schema#material_en> "bamboo"@en .
-<https://n2t.net/ark:/27023/5c4635b1e861ef0ab6b9e3b39f0e50d1> <https://colonialcollections.nl/schema#material_en> "clay"@en .
+<https://n2t.net/ark:/27023/5c4635b1e861ef0ab6b9e3b39f0e50d1> <https://colonialcollections.nl/schema#material_en> "fiber products"@en .
 <https://n2t.net/ark:/27023/5c4635b1e861ef0ab6b9e3b39f0e50d1> <https://colonialcollections.nl/schema#material_en> "wood"@en .
-<https://n2t.net/ark:/27023/5c4635b1e861ef0ab6b9e3b39f0e50d1> <https://colonialcollections.nl/schema#material_nl> "vezelproducten"@nl .
+<https://n2t.net/ark:/27023/5c4635b1e861ef0ab6b9e3b39f0e50d1> <https://colonialcollections.nl/schema#material_en> "clay"@en .
 <https://n2t.net/ark:/27023/5c4635b1e861ef0ab6b9e3b39f0e50d1> <https://colonialcollections.nl/schema#material_nl> "bamboe"@nl .
 <https://n2t.net/ark:/27023/5c4635b1e861ef0ab6b9e3b39f0e50d1> <https://colonialcollections.nl/schema#material_nl> "hout"@nl .
+<https://n2t.net/ark:/27023/5c4635b1e861ef0ab6b9e3b39f0e50d1> <https://colonialcollections.nl/schema#material_nl> "vezelproducten"@nl .
 <https://n2t.net/ark:/27023/5c4635b1e861ef0ab6b9e3b39f0e50d1> <https://colonialcollections.nl/schema#material_nl> "klei"@nl .
 <https://n2t.net/ark:/27023/5c4635b1e861ef0ab6b9e3b39f0e50d1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1952"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/5c4635b1e861ef0ab6b9e3b39f0e50d1> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
@@ -972,9 +972,10 @@
 <https://n2t.net/ark:/27023/5c464108db377145dc7f7e8c55dda526> <https://colonialcollections.nl/schema#identifier> "WM-940132-23-3" .
 <https://n2t.net/ark:/27023/5c464108db377145dc7f7e8c55dda526> <https://colonialcollections.nl/schema#description> "reisfotografie & rivier & rivierbedding & oase & kind" .
 <https://n2t.net/ark:/27023/5c464108db377145dc7f7e8c55dda526> <https://colonialcollections.nl/schema#creator> "Rombach, M.A." .
+<https://n2t.net/ark:/27023/5c464108db377145dc7f7e8c55dda526> <https://colonialcollections.nl/schema#yearCreatedStart> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/5c464108db377145dc7f7e8c55dda526> <https://colonialcollections.nl/schema#yearCreatedEnd> "1936"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/5c464108db377145dc7f7e8c55dda526> <https://colonialcollections.nl/schema#locationCreated> "Algeria"@en .
 <https://n2t.net/ark:/27023/5c464108db377145dc7f7e8c55dda526> <https://colonialcollections.nl/schema#locationCreated> "Algerije"@nl .
+<https://n2t.net/ark:/27023/5c464108db377145dc7f7e8c55dda526> <https://colonialcollections.nl/schema#locationCreated> "Algeria"@en .
 <https://n2t.net/ark:/27023/5c464108db377145dc7f7e8c55dda526> <https://colonialcollections.nl/schema#countryCreated_en> "Algeria"@en .
 <https://n2t.net/ark:/27023/5c464108db377145dc7f7e8c55dda526> <https://colonialcollections.nl/schema#countryCreated_nl> "Algerije"@nl .
 <https://n2t.net/ark:/27023/5c464108db377145dc7f7e8c55dda526> <https://colonialcollections.nl/schema#alternateName> "People’s Democratic Republic of Algeria"@en .
@@ -991,12 +992,12 @@
 <https://n2t.net/ark:/27023/5c4642a34762ba9649a735304bf7ab11> <https://colonialcollections.nl/schema#locationCreated> "Java" .
 <https://n2t.net/ark:/27023/5c4642a34762ba9649a735304bf7ab11> <https://colonialcollections.nl/schema#countryCreated_en> "Indonesia"@en .
 <https://n2t.net/ark:/27023/5c4642a34762ba9649a735304bf7ab11> <https://colonialcollections.nl/schema#countryCreated_nl> "Indonesië"@nl .
-<https://n2t.net/ark:/27023/5c4642a34762ba9649a735304bf7ab11> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
 <https://n2t.net/ark:/27023/5c4642a34762ba9649a735304bf7ab11> <https://colonialcollections.nl/schema#alternateName> "Nederlandsch-Indië"@nl .
 <https://n2t.net/ark:/27023/5c4642a34762ba9649a735304bf7ab11> <https://colonialcollections.nl/schema#alternateName> "Java"@nl .
 <https://n2t.net/ark:/27023/5c4642a34762ba9649a735304bf7ab11> <https://colonialcollections.nl/schema#alternateName> "Oost-Indien"@nl .
 <https://n2t.net/ark:/27023/5c4642a34762ba9649a735304bf7ab11> <https://colonialcollections.nl/schema#alternateName> "Nederlands-Indië"@nl .
 <https://n2t.net/ark:/27023/5c4642a34762ba9649a735304bf7ab11> <https://colonialcollections.nl/schema#alternateName> "Java"@en .
+<https://n2t.net/ark:/27023/5c4642a34762ba9649a735304bf7ab11> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
 <https://n2t.net/ark:/27023/5c4642a34762ba9649a735304bf7ab11> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/5c4642a34762ba9649a735304bf7ab11> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
 <https://n2t.net/ark:/27023/5c4644f20f5d5539b806e04099eef305> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
@@ -1005,17 +1006,17 @@
 <https://n2t.net/ark:/27023/5c4644f20f5d5539b806e04099eef305> <https://colonialcollections.nl/schema#identifier> "TM-2631-22" .
 <https://n2t.net/ark:/27023/5c4644f20f5d5539b806e04099eef305> <https://colonialcollections.nl/schema#name> "BESCHILDERDE SIERNAP VAN KALEBASSCHAAL" .
 <https://n2t.net/ark:/27023/5c4644f20f5d5539b806e04099eef305> <https://colonialcollections.nl/schema#description> "De nap is voorzien van een afbeelding van een kotomisi die voedsel stampt in een zogenaamde matta." .
-<https://n2t.net/ark:/27023/5c4644f20f5d5539b806e04099eef305> <https://colonialcollections.nl/schema#material_en> "colorant"@en .
 <https://n2t.net/ark:/27023/5c4644f20f5d5539b806e04099eef305> <https://colonialcollections.nl/schema#material_en> "gourd"@en .
-<https://n2t.net/ark:/27023/5c4644f20f5d5539b806e04099eef305> <https://colonialcollections.nl/schema#material_nl> "kalebas"@nl .
+<https://n2t.net/ark:/27023/5c4644f20f5d5539b806e04099eef305> <https://colonialcollections.nl/schema#material_en> "colorant"@en .
 <https://n2t.net/ark:/27023/5c4644f20f5d5539b806e04099eef305> <https://colonialcollections.nl/schema#material_nl> "kleurstof"@nl .
+<https://n2t.net/ark:/27023/5c4644f20f5d5539b806e04099eef305> <https://colonialcollections.nl/schema#material_nl> "kalebas"@nl .
 <https://n2t.net/ark:/27023/5c4644f20f5d5539b806e04099eef305> <https://colonialcollections.nl/schema#yearCreatedEnd> "1957"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/5c4644f20f5d5539b806e04099eef305> <https://colonialcollections.nl/schema#locationCreated> "Suriname"@nl .
 <https://n2t.net/ark:/27023/5c4644f20f5d5539b806e04099eef305> <https://colonialcollections.nl/schema#locationCreated> "Suriname"@en .
 <https://n2t.net/ark:/27023/5c4644f20f5d5539b806e04099eef305> <https://colonialcollections.nl/schema#countryCreated_en> "Suriname"@en .
 <https://n2t.net/ark:/27023/5c4644f20f5d5539b806e04099eef305> <https://colonialcollections.nl/schema#countryCreated_nl> "Suriname"@nl .
-<https://n2t.net/ark:/27023/5c4644f20f5d5539b806e04099eef305> <https://colonialcollections.nl/schema#alternateName> "Republic of Suriname"@en .
 <https://n2t.net/ark:/27023/5c4644f20f5d5539b806e04099eef305> <https://colonialcollections.nl/schema#alternateName> "Republiek Suriname"@nl .
+<https://n2t.net/ark:/27023/5c4644f20f5d5539b806e04099eef305> <https://colonialcollections.nl/schema#alternateName> "Republic of Suriname"@en .
 <https://n2t.net/ark:/27023/5c4644f20f5d5539b806e04099eef305> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/5c4644f20f5d5539b806e04099eef305> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
 <https://n2t.net/ark:/27023/5c464eae5f06eb88e8259aa480481e97> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
@@ -1031,10 +1032,10 @@
 <https://n2t.net/ark:/27023/5c4660a23c35bc07fcec7aa025bd35d2> <https://colonialcollections.nl/schema#identifier> "RV-A24-2a" .
 <https://n2t.net/ark:/27023/5c4660a23c35bc07fcec7aa025bd35d2> <https://colonialcollections.nl/schema#name> "Portret van een Otomi vrouw, en face" .
 <https://n2t.net/ark:/27023/5c4660a23c35bc07fcec7aa025bd35d2> <https://colonialcollections.nl/schema#description> "portretten zijn levensgroot afgedrukt" .
-<https://n2t.net/ark:/27023/5c4660a23c35bc07fcec7aa025bd35d2> <https://colonialcollections.nl/schema#material_en> "paper (fiber product)"@en .
 <https://n2t.net/ark:/27023/5c4660a23c35bc07fcec7aa025bd35d2> <https://colonialcollections.nl/schema#material_en> "cardboard"@en .
-<https://n2t.net/ark:/27023/5c4660a23c35bc07fcec7aa025bd35d2> <https://colonialcollections.nl/schema#material_nl> "papier (vezelproduct)"@nl .
+<https://n2t.net/ark:/27023/5c4660a23c35bc07fcec7aa025bd35d2> <https://colonialcollections.nl/schema#material_en> "paper (fiber product)"@en .
 <https://n2t.net/ark:/27023/5c4660a23c35bc07fcec7aa025bd35d2> <https://colonialcollections.nl/schema#material_nl> "karton"@nl .
+<https://n2t.net/ark:/27023/5c4660a23c35bc07fcec7aa025bd35d2> <https://colonialcollections.nl/schema#material_nl> "papier (vezelproduct)"@nl .
 <https://n2t.net/ark:/27023/5c4660a23c35bc07fcec7aa025bd35d2> <https://colonialcollections.nl/schema#creator> "Bedros Tartarian" .
 <https://n2t.net/ark:/27023/5c4660a23c35bc07fcec7aa025bd35d2> <https://colonialcollections.nl/schema#creator> "C.B. (Charles) Lang" .
 <https://n2t.net/ark:/27023/5c4660a23c35bc07fcec7aa025bd35d2> <https://colonialcollections.nl/schema#yearCreatedStart> "1896"^^<http://www.w3.org/2001/XMLSchema#integer> .
@@ -1043,9 +1044,9 @@
 <https://n2t.net/ark:/27023/5c4660a23c35bc07fcec7aa025bd35d2> <https://colonialcollections.nl/schema#countryCreated_en> "Mexico"@en .
 <https://n2t.net/ark:/27023/5c4660a23c35bc07fcec7aa025bd35d2> <https://colonialcollections.nl/schema#countryCreated_nl> "Mexico"@nl .
 <https://n2t.net/ark:/27023/5c4660a23c35bc07fcec7aa025bd35d2> <https://colonialcollections.nl/schema#alternateName> "Oaxaca"@en .
-<https://n2t.net/ark:/27023/5c4660a23c35bc07fcec7aa025bd35d2> <https://colonialcollections.nl/schema#alternateName> "Mexican Republic"@en .
 <https://n2t.net/ark:/27023/5c4660a23c35bc07fcec7aa025bd35d2> <https://colonialcollections.nl/schema#alternateName> "United Mexican States"@en .
 <https://n2t.net/ark:/27023/5c4660a23c35bc07fcec7aa025bd35d2> <https://colonialcollections.nl/schema#alternateName> "Oaxaca"@nl .
+<https://n2t.net/ark:/27023/5c4660a23c35bc07fcec7aa025bd35d2> <https://colonialcollections.nl/schema#alternateName> "Mexican Republic"@en .
 <https://n2t.net/ark:/27023/5c4660a23c35bc07fcec7aa025bd35d2> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/5c4660a23c35bc07fcec7aa025bd35d2> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
 <https://n2t.net/ark:/27023/5c466c3964e2c7484479cb89aadf1a8d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
@@ -1058,26 +1059,26 @@
 <https://n2t.net/ark:/27023/5c466c3964e2c7484479cb89aadf1a8d> <https://colonialcollections.nl/schema#material_nl> "papier (vezelproduct)"@nl .
 <https://n2t.net/ark:/27023/5c466c3964e2c7484479cb89aadf1a8d> <https://colonialcollections.nl/schema#yearCreatedStart> "1882"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/5c466c3964e2c7484479cb89aadf1a8d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1889"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/5c466c3964e2c7484479cb89aadf1a8d> <https://colonialcollections.nl/schema#locationCreated> "Europa"@nl .
 <https://n2t.net/ark:/27023/5c466c3964e2c7484479cb89aadf1a8d> <https://colonialcollections.nl/schema#locationCreated> "Europe"@en .
+<https://n2t.net/ark:/27023/5c466c3964e2c7484479cb89aadf1a8d> <https://colonialcollections.nl/schema#locationCreated> "Europa"@nl .
 <https://n2t.net/ark:/27023/5c466c3964e2c7484479cb89aadf1a8d> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/5c466c3964e2c7484479cb89aadf1a8d> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
 <https://n2t.net/ark:/27023/5c467144d9b0e6f6e164861a417f434c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5c467144d9b0e6f6e164861a417f434c> <https://colonialcollections.nl/schema#additionalType_en> "lances"@en .
 <https://n2t.net/ark:/27023/5c467144d9b0e6f6e164861a417f434c> <https://colonialcollections.nl/schema#additionalType_en> "pikes (spears)"@en .
+<https://n2t.net/ark:/27023/5c467144d9b0e6f6e164861a417f434c> <https://colonialcollections.nl/schema#additionalType_en> "lances"@en .
 <https://n2t.net/ark:/27023/5c467144d9b0e6f6e164861a417f434c> <https://colonialcollections.nl/schema#additionalType_nl> "lansen"@nl .
 <https://n2t.net/ark:/27023/5c467144d9b0e6f6e164861a417f434c> <https://colonialcollections.nl/schema#additionalType_nl> "pieken"@nl .
 <https://n2t.net/ark:/27023/5c467144d9b0e6f6e164861a417f434c> <https://colonialcollections.nl/schema#identifier> "RV-360-5358" .
 <https://n2t.net/ark:/27023/5c467144d9b0e6f6e164861a417f434c> <https://colonialcollections.nl/schema#name> "Piek?" .
+<https://n2t.net/ark:/27023/5c467144d9b0e6f6e164861a417f434c> <https://colonialcollections.nl/schema#locationCreated> "Republiek Indonesië"@nl .
 <https://n2t.net/ark:/27023/5c467144d9b0e6f6e164861a417f434c> <https://colonialcollections.nl/schema#locationCreated> "Indonesië"@nl .
 <https://n2t.net/ark:/27023/5c467144d9b0e6f6e164861a417f434c> <https://colonialcollections.nl/schema#locationCreated> "Indonesia"@en .
-<https://n2t.net/ark:/27023/5c467144d9b0e6f6e164861a417f434c> <https://colonialcollections.nl/schema#locationCreated> "Republiek Indonesië"@nl .
 <https://n2t.net/ark:/27023/5c467144d9b0e6f6e164861a417f434c> <https://colonialcollections.nl/schema#countryCreated_en> "Indonesia"@en .
 <https://n2t.net/ark:/27023/5c467144d9b0e6f6e164861a417f434c> <https://colonialcollections.nl/schema#countryCreated_nl> "Indonesië"@nl .
-<https://n2t.net/ark:/27023/5c467144d9b0e6f6e164861a417f434c> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
 <https://n2t.net/ark:/27023/5c467144d9b0e6f6e164861a417f434c> <https://colonialcollections.nl/schema#alternateName> "Nederlandsch-Indië"@nl .
 <https://n2t.net/ark:/27023/5c467144d9b0e6f6e164861a417f434c> <https://colonialcollections.nl/schema#alternateName> "Oost-Indien"@nl .
 <https://n2t.net/ark:/27023/5c467144d9b0e6f6e164861a417f434c> <https://colonialcollections.nl/schema#alternateName> "Nederlands-Indië"@nl .
+<https://n2t.net/ark:/27023/5c467144d9b0e6f6e164861a417f434c> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
 <https://n2t.net/ark:/27023/5c467144d9b0e6f6e164861a417f434c> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/5c467144d9b0e6f6e164861a417f434c> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
 <https://n2t.net/ark:/27023/5c468150d022ff4d5f8053ab28b6c982> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
@@ -1097,8 +1098,8 @@
 <https://n2t.net/ark:/27023/5c468e4d629fa550eda3f4ca7c1d3942> <https://colonialcollections.nl/schema#additionalType_nl> "cartes-de-visite (fotografische kaarten)"@nl .
 <https://n2t.net/ark:/27023/5c468e4d629fa550eda3f4ca7c1d3942> <https://colonialcollections.nl/schema#identifier> "RV-A45-44" .
 <https://n2t.net/ark:/27023/5c468e4d629fa550eda3f4ca7c1d3942> <https://colonialcollections.nl/schema#name> "PORTRET VAN EEN HUISHOUDSTER UIT LUANDA" .
-<https://n2t.net/ark:/27023/5c468e4d629fa550eda3f4ca7c1d3942> <https://colonialcollections.nl/schema#material_en> "paper (fiber product)"@en .
 <https://n2t.net/ark:/27023/5c468e4d629fa550eda3f4ca7c1d3942> <https://colonialcollections.nl/schema#material_en> "cardboard"@en .
+<https://n2t.net/ark:/27023/5c468e4d629fa550eda3f4ca7c1d3942> <https://colonialcollections.nl/schema#material_en> "paper (fiber product)"@en .
 <https://n2t.net/ark:/27023/5c468e4d629fa550eda3f4ca7c1d3942> <https://colonialcollections.nl/schema#material_nl> "karton"@nl .
 <https://n2t.net/ark:/27023/5c468e4d629fa550eda3f4ca7c1d3942> <https://colonialcollections.nl/schema#material_nl> "papier (vezelproduct)"@nl .
 <https://n2t.net/ark:/27023/5c468e4d629fa550eda3f4ca7c1d3942> <https://colonialcollections.nl/schema#creator> "J.A. (José Augusto) da Cunha Moraes" .
@@ -1107,8 +1108,8 @@
 <https://n2t.net/ark:/27023/5c468e4d629fa550eda3f4ca7c1d3942> <https://colonialcollections.nl/schema#locationCreated> "Luanda Province"@en .
 <https://n2t.net/ark:/27023/5c468e4d629fa550eda3f4ca7c1d3942> <https://colonialcollections.nl/schema#countryCreated_en> "Angola"@en .
 <https://n2t.net/ark:/27023/5c468e4d629fa550eda3f4ca7c1d3942> <https://colonialcollections.nl/schema#countryCreated_nl> "Angola"@nl .
-<https://n2t.net/ark:/27023/5c468e4d629fa550eda3f4ca7c1d3942> <https://colonialcollections.nl/schema#alternateName> "Republic of Angola"@en .
 <https://n2t.net/ark:/27023/5c468e4d629fa550eda3f4ca7c1d3942> <https://colonialcollections.nl/schema#alternateName> "Luanda"@nl .
+<https://n2t.net/ark:/27023/5c468e4d629fa550eda3f4ca7c1d3942> <https://colonialcollections.nl/schema#alternateName> "Republic of Angola"@en .
 <https://n2t.net/ark:/27023/5c468e4d629fa550eda3f4ca7c1d3942> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/5c468e4d629fa550eda3f4ca7c1d3942> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
 <https://n2t.net/ark:/27023/5c4697bde3b2299252e55955c4dfbf8c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
@@ -1129,10 +1130,10 @@
 <https://n2t.net/ark:/27023/5c4699ce625e21fda0a8cec91acf715a> <https://colonialcollections.nl/schema#locationCreated> "East Greenland" .
 <https://n2t.net/ark:/27023/5c4699ce625e21fda0a8cec91acf715a> <https://colonialcollections.nl/schema#countryCreated_en> "Greenland"@en .
 <https://n2t.net/ark:/27023/5c4699ce625e21fda0a8cec91acf715a> <https://colonialcollections.nl/schema#countryCreated_nl> "Groenland"@nl .
+<https://n2t.net/ark:/27023/5c4699ce625e21fda0a8cec91acf715a> <https://colonialcollections.nl/schema#alternateName> "Groen-Landt"@nl .
 <https://n2t.net/ark:/27023/5c4699ce625e21fda0a8cec91acf715a> <https://colonialcollections.nl/schema#alternateName> "East Greenland"@en .
 <https://n2t.net/ark:/27023/5c4699ce625e21fda0a8cec91acf715a> <https://colonialcollections.nl/schema#alternateName> "Groenlandt"@nl .
 <https://n2t.net/ark:/27023/5c4699ce625e21fda0a8cec91acf715a> <https://colonialcollections.nl/schema#alternateName> "Groen-land"@nl .
-<https://n2t.net/ark:/27023/5c4699ce625e21fda0a8cec91acf715a> <https://colonialcollections.nl/schema#alternateName> "Groen-Landt"@nl .
 <https://n2t.net/ark:/27023/5c4699ce625e21fda0a8cec91acf715a> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/5c4699ce625e21fda0a8cec91acf715a> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
 <https://n2t.net/ark:/27023/5c46af06785cb2f87c60521dedb28391> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
@@ -1141,8 +1142,8 @@
 <https://n2t.net/ark:/27023/5c46af06785cb2f87c60521dedb28391> <https://colonialcollections.nl/schema#material_en> "cotton"@en .
 <https://n2t.net/ark:/27023/5c46af06785cb2f87c60521dedb28391> <https://colonialcollections.nl/schema#material_nl> "katoen"@nl .
 <https://n2t.net/ark:/27023/5c46af06785cb2f87c60521dedb28391> <https://colonialcollections.nl/schema#yearCreatedEnd> "1986"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/5c46af06785cb2f87c60521dedb28391> <https://colonialcollections.nl/schema#locationCreated> "Yemen"@en .
 <https://n2t.net/ark:/27023/5c46af06785cb2f87c60521dedb28391> <https://colonialcollections.nl/schema#locationCreated> "Jemen"@nl .
+<https://n2t.net/ark:/27023/5c46af06785cb2f87c60521dedb28391> <https://colonialcollections.nl/schema#locationCreated> "Yemen"@en .
 <https://n2t.net/ark:/27023/5c46af06785cb2f87c60521dedb28391> <https://colonialcollections.nl/schema#countryCreated_en> "Yemen"@en .
 <https://n2t.net/ark:/27023/5c46af06785cb2f87c60521dedb28391> <https://colonialcollections.nl/schema#countryCreated_nl> "Jemen"@nl .
 <https://n2t.net/ark:/27023/5c46af06785cb2f87c60521dedb28391> <https://colonialcollections.nl/schema#alternateName> "Arabia Felix / Arabia eudaímōn"@en .
@@ -1160,12 +1161,12 @@
 <https://n2t.net/ark:/27023/5c46b08702ecdc4c83f1a94fe8ad7bae> <https://colonialcollections.nl/schema#locationCreated> "Java" .
 <https://n2t.net/ark:/27023/5c46b08702ecdc4c83f1a94fe8ad7bae> <https://colonialcollections.nl/schema#countryCreated_en> "Indonesia"@en .
 <https://n2t.net/ark:/27023/5c46b08702ecdc4c83f1a94fe8ad7bae> <https://colonialcollections.nl/schema#countryCreated_nl> "Indonesië"@nl .
-<https://n2t.net/ark:/27023/5c46b08702ecdc4c83f1a94fe8ad7bae> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
 <https://n2t.net/ark:/27023/5c46b08702ecdc4c83f1a94fe8ad7bae> <https://colonialcollections.nl/schema#alternateName> "Nederlandsch-Indië"@nl .
 <https://n2t.net/ark:/27023/5c46b08702ecdc4c83f1a94fe8ad7bae> <https://colonialcollections.nl/schema#alternateName> "Java"@nl .
 <https://n2t.net/ark:/27023/5c46b08702ecdc4c83f1a94fe8ad7bae> <https://colonialcollections.nl/schema#alternateName> "Oost-Indien"@nl .
 <https://n2t.net/ark:/27023/5c46b08702ecdc4c83f1a94fe8ad7bae> <https://colonialcollections.nl/schema#alternateName> "Nederlands-Indië"@nl .
 <https://n2t.net/ark:/27023/5c46b08702ecdc4c83f1a94fe8ad7bae> <https://colonialcollections.nl/schema#alternateName> "Java"@en .
+<https://n2t.net/ark:/27023/5c46b08702ecdc4c83f1a94fe8ad7bae> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
 <https://n2t.net/ark:/27023/5c46b08702ecdc4c83f1a94fe8ad7bae> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/5c46b08702ecdc4c83f1a94fe8ad7bae> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
 <https://n2t.net/ark:/27023/5c46ba2c5f609eefb48a07b317bedcd9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
@@ -1192,8 +1193,8 @@
 <https://n2t.net/ark:/27023/5c46cfd80aa3e871ccb9a4c961a5df0d> <https://colonialcollections.nl/schema#description> "waterval van de Brantasrivier (oost-java) bij kepadjen" .
 <https://n2t.net/ark:/27023/5c46cfd80aa3e871ccb9a4c961a5df0d> <https://colonialcollections.nl/schema#material_en> "glass (material)"@en .
 <https://n2t.net/ark:/27023/5c46cfd80aa3e871ccb9a4c961a5df0d> <https://colonialcollections.nl/schema#material_en> "photographic gelatin"@en .
-<https://n2t.net/ark:/27023/5c46cfd80aa3e871ccb9a4c961a5df0d> <https://colonialcollections.nl/schema#material_nl> "fotografische gelatine"@nl .
 <https://n2t.net/ark:/27023/5c46cfd80aa3e871ccb9a4c961a5df0d> <https://colonialcollections.nl/schema#material_nl> "glas (materiaal)"@nl .
+<https://n2t.net/ark:/27023/5c46cfd80aa3e871ccb9a4c961a5df0d> <https://colonialcollections.nl/schema#material_nl> "fotografische gelatine"@nl .
 <https://n2t.net/ark:/27023/5c46cfd80aa3e871ccb9a4c961a5df0d> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/5c46cfd80aa3e871ccb9a4c961a5df0d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1922"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/5c46cfd80aa3e871ccb9a4c961a5df0d> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
@@ -1230,8 +1231,8 @@
 <https://n2t.net/ark:/27023/5c471731b69920f4ebcbdcdfba26723d> <https://colonialcollections.nl/schema#identifier> "WM-603484-16-4" .
 <https://n2t.net/ark:/27023/5c471731b69920f4ebcbdcdfba26723d> <https://colonialcollections.nl/schema#material_en> "paper (fiber product)"@en .
 <https://n2t.net/ark:/27023/5c471731b69920f4ebcbdcdfba26723d> <https://colonialcollections.nl/schema#material_en> "ink"@en .
-<https://n2t.net/ark:/27023/5c471731b69920f4ebcbdcdfba26723d> <https://colonialcollections.nl/schema#material_nl> "papier (vezelproduct)"@nl .
 <https://n2t.net/ark:/27023/5c471731b69920f4ebcbdcdfba26723d> <https://colonialcollections.nl/schema#material_nl> "inkt"@nl .
+<https://n2t.net/ark:/27023/5c471731b69920f4ebcbdcdfba26723d> <https://colonialcollections.nl/schema#material_nl> "papier (vezelproduct)"@nl .
 <https://n2t.net/ark:/27023/5c471731b69920f4ebcbdcdfba26723d> <https://colonialcollections.nl/schema#inscription> "[T] Singaleesche duivelsdansers op Ceylon\r\nIeder jaar wordt in Candy, de hoofdstad van Ceylon, het Peraherafeest, met groote optochten, feestelijk gevierd. De duivelsdansers spelen bij deze feesten een gewichtige rol. Fantastich gemaskeerd voeren zij een dans uit, om onheilaanbrengende demonen te bezweren." .
 <https://n2t.net/ark:/27023/5c471731b69920f4ebcbdcdfba26723d> <https://colonialcollections.nl/schema#publisher_en> "Wereldmuseum"@en .
 <https://n2t.net/ark:/27023/5c471731b69920f4ebcbdcdfba26723d> <https://colonialcollections.nl/schema#publisher_nl> "Wereldmuseum"@nl .
