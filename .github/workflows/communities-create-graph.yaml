@@ -1,13 +1,9 @@
 name: Update Knowledge Graph with community data from Clerk
 
 # Run once per day
-# on:
-#   schedule:
-#     - cron: "0 0 * * *"
-
 on:
-  push:
-    branches: ["main"]
+  schedule:
+    - cron: "0 0 * * *"
 
 # Run a single workflow at a time
 concurrency:
