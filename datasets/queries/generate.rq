@@ -10,7 +10,8 @@ CONSTRUCT {
   ?this a cc:Dataset ;
     cc:name ?name ;
     cc:license ?licenseName ;
-    cc:publisher ?publisherName ;
+    cc:publisher_en ?publisherNameEn ;
+    cc:publisher_nl ?publisherNameNl ;
     cc:description ?description ;
     cc:keywords ?keywords .
 }
@@ -30,17 +31,16 @@ WHERE {
   # License
   ####################
 
-  ?this schema:license ?license .
-  ?license schema:name ?licenseName .
+  ?this schema:license/schema:name ?licenseName
   FILTER(LANG(?licenseName) = "" || LANGMATCHES(LANG(?licenseName), "en"))
 
   ####################
   # Publisher
   ####################
 
-  ?this schema:publisher ?publisher .
-  ?publisher schema:name ?publisherName .
-  FILTER(LANG(?publisherName) = "" || LANGMATCHES(LANG(?publisherName), "en"))
+  ?this schema:publisher/schema:name ?publisherName
+  BIND(IF(LANG(?publisherName) = "en", ?publisherName, ?null) AS ?publisherNameEn)
+  BIND(IF(LANG(?publisherName) = "nl", ?publisherName, ?null) AS ?publisherNameNl)
 
   ####################
   # Description
