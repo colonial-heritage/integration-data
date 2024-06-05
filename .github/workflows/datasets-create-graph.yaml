@@ -1,9 +1,13 @@
 name: Update Search Graph with data from dataset 'NDE Dataset Register' in the Knowledge Graph
 
 # Every 6 hours
+# on:
+#   schedule:
+#     - cron: "0 */6 * * *"
+
 on:
-  schedule:
-    - cron: "0 */6 * * *"
+  push:
+    branches: ["main"]
 
 # Run a single workflow at a time
 concurrency:
