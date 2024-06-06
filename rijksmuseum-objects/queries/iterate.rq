@@ -1,0 +1,16 @@
+PREFIX crm: <http://www.cidoc-crm.org/cidoc-crm/>
+
+SELECT *
+WHERE {
+  {
+    SELECT ?this
+    WHERE {
+      # TODO: use 'la:member_of' (not in the KG yet)
+      GRAPH <https://data.colonialcollections.nl/data-hub/knowledge-graph/graphs/rijksmuseum-objects> {
+        ?this a crm:E22_Human-Made_Object .
+      }
+    }
+  }
+}
+LIMIT ?_limit
+OFFSET ?_offset
