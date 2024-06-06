@@ -63,7 +63,7 @@ WHERE {
   }
 
   ####################
-  # Name
+  # Name - both in Dutch and English
   ####################
 
   OPTIONAL {
@@ -164,20 +164,17 @@ WHERE {
   #}
 
   ####################
-  # Part of dataset. Currently ignored because it's not in the KG yet
+  # Part of dataset
   ####################
 
-  #?this la:member_of ?dataset .
+  ?this la:member_of ?dataset .
 
   ####################
   # Publisher of dataset
   ####################
 
   OPTIONAL {
-    #?dataset schema:publisher/schema:name ?publisherName
-
-    # TODO: replace with the above as soon as la:member_of is in the KG
-    <https://acc.id.rijksmuseum.nl/2601> schema:publisher/schema:name ?publisherName
+    ?dataset schema:publisher/schema:name ?publisherName
 
     BIND(IF(LANG(?publisherName) = "en", ?publisherName, ?null) AS ?publisherNameEn)
     BIND(IF(LANG(?publisherName) = "nl", ?publisherName, ?null) AS ?publisherNameNl)
