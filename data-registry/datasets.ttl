@@ -1,0 +1,20 @@
+###############################
+# Information about datasets. Only use this for registering datasets that aren't in the NDE Dataset Register yet
+###############################
+
+@prefix schema: <https://schema.org/> .
+
+# Source: https://acc.data.rijksmuseum.nl/2601
+<https://acc.id.rijksmuseum.nl/2601>
+  a schema:Dataset ;
+  schema:name "Against Opacity dataset created by Rijksmuseum" ;
+  schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+  schema:publisher <https://www.rijksmuseum.nl/> ;
+  schema:description "Dataset containing metadata about objects in the collection of the Rijksmuseum, that might be relevant for the Colonial Heritage Consortium. Compiled for the \"Against Opacity\" program in 2024." ;
+  schema:distribution <https://acc.data.rijksmuseum.nl/cd/against-opacity/collection.json> .
+
+<https://acc.data.rijksmuseum.nl/cd/against-opacity/collection.json>
+  a schema:DataDownload ;
+  schema:name "Against Opacity IIIF Change Discovery API" ;
+  schema:contentUrl <https://acc.data.rijksmuseum.nl/cd/against-opacity/collection.json> ;
+  schema:encodingFormat "application/ld+json" .

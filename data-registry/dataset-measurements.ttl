@@ -1,12 +1,16 @@
 ###############################
 # Measurements of datasets
-# TODO: create a script that generates these measurements automatically
+# TBD: create a script that generates these measurements automatically?
 ###############################
 
 @prefix cc-metrics: <https://data.colonialcollections.nl/metrics#> .
 @prefix cc-measurements: <https://data.colonialcollections.nl/measurements#> .
 @prefix dqv: <http://www.w3.org/ns/dqv#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+##################################################
+# Wereldmuseum - Collection Archives
+##################################################
 
 <https://data.colonialcollections.nl/nmvw/collection-archives>
   dqv:hasQualityMeasurement cc-measurements:5adc4e7b-df31-482f-84ce-7c6e2251727c ,
@@ -55,6 +59,8 @@ cc-measurements:f94d44bd-9e27-4ad0-a361-70d5652b764f
   dqv:value "true"^^xsd:boolean .
 
 ##################################################
+# Cultural Heritage Agency / RCE - Colonial Objects
+##################################################
 
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects>
   dqv:hasQualityMeasurement cc-measurements:9b4ae711-5b7d-4fe5-b6ce-bd6dea2a12b8 ,
@@ -102,6 +108,10 @@ cc-measurements:2d7cae82-6c7e-4ec6-891a-147235b553fa
   dqv:isMeasurementOf cc-metrics:rdf-format ;
   dqv:value "true"^^xsd:boolean .
 
+##################################################
+# Museum Bronbeek - Stamboeken
+##################################################
+
 <https://data.colonialcollections.nl/Bronbeek/Stamboeken>
   dqv:hasQualityMeasurement cc-measurements:4ad3d49e-7b0d-43c0-a356-c5f7c9a044e7 ,
                             cc-measurements:7e17d901-4dce-496d-a24d-653b16f14c3c .
@@ -117,8 +127,6 @@ cc-measurements:7e17d901-4dce-496d-a24d-653b16f14c3c
   dqv:computedOn <https://data.colonialcollections.nl/Bronbeek/Stamboeken> ;
   dqv:isMeasurementOf cc-metrics:open-license ;
   dqv:value "true"^^xsd:boolean .
-
-##################################################
 
 <https://data.colonialcollections.nl/Bronbeek/Stamboeken/sparql/Stamboeken>
   dqv:hasQualityMeasurement cc-measurements:843b69ed-ae98-4769-840c-6e45cc7076a0 ,
@@ -144,9 +152,58 @@ cc-measurements:e1627408-2941-47e8-a495-c3002bc28636
   dqv:isMeasurementOf cc-metrics:open-format ;
   dqv:value "true"^^xsd:boolean .
 
-
 cc-measurements:06c06df2-b809-4cd7-ae7e-36b711345dc5
   a dqv:QualityMeasurement ;
   dqv:computedOn <https://data.colonialcollections.nl/Bronbeek/Stamboeken/sparql/Stamboeken> ;
+  dqv:isMeasurementOf cc-metrics:rdf-format ;
+  dqv:value "true"^^xsd:boolean .
+
+##################################################
+# Rijksmuseum - Objects
+##################################################
+
+<https://acc.id.rijksmuseum.nl/2601>
+  dqv:hasQualityMeasurement cc-measurements:961180d9-e04b-4542-af23-b01800ca0dd9 ,
+                            cc-measurements:90be7294-c3b5-4203-b3e3-d08f0e95405b .
+
+cc-measurements:961180d9-e04b-4542-af23-b01800ca0dd9
+  a dqv:QualityMeasurement ;
+  dqv:computedOn <https://acc.id.rijksmuseum.nl/2601> ;
+  dqv:isMeasurementOf cc-metrics:languages ;
+  dqv:value "false"^^xsd:boolean .
+
+cc-measurements:90be7294-c3b5-4203-b3e3-d08f0e95405b
+  a dqv:QualityMeasurement ;
+  dqv:computedOn <https://acc.id.rijksmuseum.nl/2601> ;
+  dqv:isMeasurementOf cc-metrics:open-license ;
+  dqv:value "true"^^xsd:boolean .
+
+<https://acc.data.rijksmuseum.nl/cd/against-opacity/collection.json>
+  dqv:hasQualityMeasurement cc-measurements:701a71c1-0d4d-40d9-a8d2-8af0489c8dcc ,
+                            cc-measurements:107f471d-9b02-409c-9986-89ee8fc75fed ,
+                            cc-measurements:a4592939-9917-42c2-97ad-891b116293db ,
+                            cc-measurements:b80f9a8a-b0de-4fdd-bca4-8d7a641e883a .
+
+cc-measurements:701a71c1-0d4d-40d9-a8d2-8af0489c8dcc
+  a dqv:QualityMeasurement ;
+  dqv:computedOn <https://acc.data.rijksmuseum.nl/cd/against-opacity/collection.json> ;
+  dqv:isMeasurementOf cc-metrics:online ;
+  dqv:value "true"^^xsd:boolean .
+
+cc-measurements:107f471d-9b02-409c-9986-89ee8fc75fed
+  a dqv:QualityMeasurement ;
+  dqv:computedOn <https://acc.data.rijksmuseum.nl/cd/against-opacity/collection.json> ;
+  dqv:isMeasurementOf cc-metrics:structured-format ;
+  dqv:value "true"^^xsd:boolean .
+
+cc-measurements:a4592939-9917-42c2-97ad-891b116293db
+  a dqv:QualityMeasurement ;
+  dqv:computedOn <https://acc.data.rijksmuseum.nl/cd/against-opacity/collection.json> ;
+  dqv:isMeasurementOf cc-metrics:open-format ;
+  dqv:value "true"^^xsd:boolean .
+
+cc-measurements:b80f9a8a-b0de-4fdd-bca4-8d7a641e883a
+  a dqv:QualityMeasurement ;
+  dqv:computedOn <https://acc.data.rijksmuseum.nl/cd/against-opacity/collection.json> ;
   dqv:isMeasurementOf cc-metrics:rdf-format ;
   dqv:value "true"^^xsd:boolean .
