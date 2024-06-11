@@ -41,8 +41,6 @@ jobs:
           ../code/apps/graph-create/dist/cli.js create \
             --resource-dir ./aat/resources \
             --data-file "$RUNNER_TEMP/data.sqlite" \
-            --check-endpoint-url "${{ vars.SPARQL_ENDPOINT_URL_KG }}" \
-            --check-if-run-must-continue-query-file ./aat/queries/check.rq \
             --iterate-endpoint-url "${{ vars.SPARQL_ENDPOINT_URL_KG }}" \
             --iterate-query-file ./aat/queries/iterate.rq \
             --generate-endpoint-url "https://vocab.getty.edu/sparql" \

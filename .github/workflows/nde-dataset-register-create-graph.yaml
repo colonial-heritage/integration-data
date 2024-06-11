@@ -41,8 +41,6 @@ jobs:
           ../code/apps/graph-create/dist/cli.js create \
             --resource-dir ./nde-dataset-register/resources \
             --data-file "$RUNNER_TEMP/data.sqlite" \
-            --check-endpoint-url "https://triplestore.netwerkdigitaalerfgoed.nl/repositories/registry" \
-            --check-if-run-must-continue-query-file ./nde-dataset-register/queries/check.rq \
             --iterate-endpoint-url "https://triplestore.netwerkdigitaalerfgoed.nl/repositories/registry" \
             --iterate-query-file ./nde-dataset-register/queries/iterate.rq \
             --generate-endpoint-url "https://triplestore.netwerkdigitaalerfgoed.nl/repositories/registry" \
