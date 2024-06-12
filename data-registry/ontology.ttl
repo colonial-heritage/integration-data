@@ -7,7 +7,7 @@
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-: rdf:type owl:Ontology ;
+<https://n2t.net/ark:/27023/9819f32405815dc7f2e0ecd9d8a9e604> rdf:type owl:Ontology ;
     rdfs:label "The Colonial Collections Ontology" .
 
 :Nanopub rdf:type rdfs:Class ;
