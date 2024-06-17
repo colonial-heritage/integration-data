@@ -1,0 +1,33 @@
+<https://sws.geonames.org/323835/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/323835/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/323835/about.rdf> .
+<https://sws.geonames.org/323835/> <http://www.geonames.org/ontology#name> "Anatolia" .
+<https://sws.geonames.org/323835/> <http://www.geonames.org/ontology#alternateName> "Anadol" .
+<https://sws.geonames.org/323835/> <http://www.geonames.org/ontology#alternateName> "Anadoli" .
+<https://sws.geonames.org/323835/> <http://www.geonames.org/ontology#alternateName> "Anadolu"@tr .
+<https://sws.geonames.org/323835/> <http://www.geonames.org/ontology#alternateName> "Anatolē" .
+<https://sws.geonames.org/323835/> <http://www.geonames.org/ontology#alternateName> "Anatolia"@en .
+<https://sws.geonames.org/323835/> <http://www.geonames.org/ontology#alternateName> "Anatolian Plateau" .
+<https://sws.geonames.org/323835/> <http://www.geonames.org/ontology#alternateName> "Anatolie" .
+<https://sws.geonames.org/323835/> <http://www.geonames.org/ontology#alternateName> "Anatolien"@de .
+<https://sws.geonames.org/323835/> <http://www.geonames.org/ontology#alternateName> "Asia Menor"@es .
+<https://sws.geonames.org/323835/> <http://www.geonames.org/ontology#alternateName> "Asia Minor"@en .
+<https://sws.geonames.org/323835/> <http://www.geonames.org/ontology#alternateName> "Asia Minore"@it .
+<https://sws.geonames.org/323835/> <http://www.geonames.org/ontology#alternateName> "Малая Азия (Анатолия)"@ru .
+<https://sws.geonames.org/323835/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#L> .
+<https://sws.geonames.org/323835/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#L.RGN> .
+<https://sws.geonames.org/323835/> <http://www.geonames.org/ontology#countryCode> "TR" .
+<https://sws.geonames.org/323835/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "39" .
+<https://sws.geonames.org/323835/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "35" .
+<https://sws.geonames.org/323835/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/298795/> .
+<https://sws.geonames.org/323835/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/298795/> .
+<https://sws.geonames.org/323835/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/323835/nearby.rdf> .
+<https://sws.geonames.org/323835/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/323835/anatolia.html> .
+<https://sws.geonames.org/323835/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Anatolia> .
+<https://sws.geonames.org/323835/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Anatolia> .
+<https://sws.geonames.org/323835/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/323835/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/323835/> .
+<https://sws.geonames.org/323835/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/323835/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/323835/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/323835/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/323835/about.rdf> <http://purl.org/dc/terms/modified> "2020-07-06"^^<https://www.w3.org/2001/XMLSchema#date> .

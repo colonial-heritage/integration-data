@@ -1,0 +1,37 @@
+<https://sws.geonames.org/2517107/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/2517107/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/2517107/about.rdf> .
+<https://sws.geonames.org/2517107/> <http://www.geonames.org/ontology#name> "Gran Canaria" .
+<https://sws.geonames.org/2517107/> <http://www.geonames.org/ontology#alternateName> "Gran Canaria"@de .
+<https://sws.geonames.org/2517107/> <http://www.geonames.org/ontology#alternateName> "Gran Canaria"@en .
+<https://sws.geonames.org/2517107/> <http://www.geonames.org/ontology#officialName> "Gran Canaria"@es .
+<https://sws.geonames.org/2517107/> <http://www.geonames.org/ontology#alternateName> "Gran Canaria"@it .
+<https://sws.geonames.org/2517107/> <http://www.geonames.org/ontology#alternateName> "Gran Canaria"@no .
+<https://sws.geonames.org/2517107/> <http://www.geonames.org/ontology#alternateName> "Gran Canaria"@sv .
+<https://sws.geonames.org/2517107/> <http://www.geonames.org/ontology#alternateName> "Gran Canária"@pt .
+<https://sws.geonames.org/2517107/> <http://www.geonames.org/ontology#alternateName> "Grande Canarie"@fr .
+<https://sws.geonames.org/2517107/> <http://www.geonames.org/ontology#alternateName> "Isla de Gran Canaria"@es .
+<https://sws.geonames.org/2517107/> <http://www.geonames.org/ontology#alternateName> "Гран-Канария"@ru .
+<https://sws.geonames.org/2517107/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#T> .
+<https://sws.geonames.org/2517107/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#T.ISL> .
+<https://sws.geonames.org/2517107/> <http://www.geonames.org/ontology#countryCode> "ES" .
+<https://sws.geonames.org/2517107/> <http://www.geonames.org/ontology#population> "838397" .
+<https://sws.geonames.org/2517107/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "27.97257" .
+<https://sws.geonames.org/2517107/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-15.58685" .
+<https://sws.geonames.org/2517107/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/2520308/> .
+<https://sws.geonames.org/2517107/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/2593110/> .
+<https://sws.geonames.org/2517107/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/2510769/> .
+<https://sws.geonames.org/2517107/> <http://www.geonames.org/ontology#parentADM1> <https://sws.geonames.org/2593110/> .
+<https://sws.geonames.org/2517107/> <http://www.geonames.org/ontology#parentADM1> <https://sws.geonames.org/2593110/> .
+<https://sws.geonames.org/2517107/> <http://www.geonames.org/ontology#parentADM2> <https://sws.geonames.org/2515271/> .
+<https://sws.geonames.org/2517107/> <http://www.geonames.org/ontology#parentADM3> <https://sws.geonames.org/6360195/> .
+<https://sws.geonames.org/2517107/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/2517107/nearby.rdf> .
+<https://sws.geonames.org/2517107/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/2517107/gran-canaria.html> .
+<https://sws.geonames.org/2517107/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Gran_Canaria> .
+<https://sws.geonames.org/2517107/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Gran_Canaria> .
+<https://sws.geonames.org/2517107/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/2517107/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/2517107/> .
+<https://sws.geonames.org/2517107/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/2517107/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/2517107/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/2517107/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/2517107/about.rdf> <http://purl.org/dc/terms/modified> "2017-08-04"^^<https://www.w3.org/2001/XMLSchema#date> .
