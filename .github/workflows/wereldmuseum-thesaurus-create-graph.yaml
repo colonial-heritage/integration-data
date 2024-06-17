@@ -1,9 +1,9 @@
 name: Update Knowledge Graph with data from dataset 'Wereldmuseum Thesaurus', based on IRIs in the Knowledge Graph
 
-# Every 6 hours
+# Every 8 hours
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */8 * * *"
 
 # Run a single workflow at a time
 concurrency:
@@ -12,7 +12,7 @@ concurrency:
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 120
     steps:
       - name: Checkout data repository
         uses: actions/checkout@v4
