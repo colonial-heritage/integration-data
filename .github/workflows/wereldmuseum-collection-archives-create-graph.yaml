@@ -4,6 +4,7 @@ name: Update Search Graph with data from dataset 'Collection Archives' in the Kn
 # on:
 #   schedule:
 #     - cron: "0 */6 * * *"
+
 on:
   push:
     branches: ["main"]
@@ -21,7 +22,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           path: ./data
-          # No 'sparse-checkout': that's actually slower than checking out the full repo
+          sparse-checkout: wereldmuseum-collection-archives
       - name: Checkout code repository
         uses: actions/checkout@v4
         with:
