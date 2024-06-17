@@ -1,6 +1,6 @@
 name: Update Knowledge Graph with community data from Clerk
 
-# Run once per day
+# Once per day
 on:
   schedule:
     - cron: "0 0 * * *"

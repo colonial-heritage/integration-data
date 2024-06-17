@@ -1,9 +1,9 @@
 name: Update Knowledge Graph with data from the NDE Dataset Register
 
-# Every 6 hours
+# Once per day
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 0 * * *"
 
 # Run a single workflow at a time
 concurrency:

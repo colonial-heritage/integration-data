@@ -1,6 +1,6 @@
 name: Update Knowledge Graph with data from dataset 'GeoNames', based on IRIs in the Knowledge Graph
 
-# Run every 3 hours. Don't run it more often; otherwise you might hit
+# Every 3 hours. Don't run it more often; otherwise you might hit
 # GeoNames' hourly and daily request limits - http://www.geonames.org/export/
 on:
   schedule:
