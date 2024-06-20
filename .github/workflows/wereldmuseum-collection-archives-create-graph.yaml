@@ -23,6 +23,7 @@ jobs:
         with:
           path: ./data
           sparse-checkout: wereldmuseum-collection-archives
+          lfs: true
       - name: Checkout code repository
         uses: actions/checkout@v4
         with:

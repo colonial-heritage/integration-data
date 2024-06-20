@@ -19,6 +19,7 @@ jobs:
         with:
           path: ./data
           sparse-checkout: rce-colonial-objects
+          lfs: true
       - name: Checkout code repository
         uses: actions/checkout@v4
         with:
