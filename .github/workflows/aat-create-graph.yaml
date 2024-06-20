@@ -1,9 +1,13 @@
 name: Update Knowledge Graph with data from dataset 'AAT', based on IRIs in the Knowledge Graph
 
 # Every 8 hours
+# on:
+#   schedule:
+#     - cron: "0 */8 * * *"
+
 on:
-  schedule:
-    - cron: "0 */8 * * *"
+  push:
+    branches: ["main"]
 
 # Run a single workflow at a time
 concurrency:
