@@ -25,7 +25,7 @@ CONSTRUCT {
     cc:locationCreated ?locationCreatedName ; # Only for indexing
     cc:countryCreated_en ?countryCreatedNameEn ;
     cc:countryCreated_nl ?countryCreatedNameNl ;
-    cc:alternateName ?alternateLocationCreatedName, ?alternateCountryCreatedName ; # Only for indexing
+    #cc:alternateName ?alternateLocationCreatedName, ?alternateCountryCreatedName ; # Only for indexing
     cc:publisher_en ?publisherNameEn ;
     cc:publisher_nl ?publisherNameNl .
 }
@@ -73,10 +73,12 @@ WHERE {
   ####################
 
   OPTIONAL {
-    ?this crm:P67i_is_referred_to_by [
-      crm:P2_has_type <http://vocab.getty.edu/aat/300435416> ; # Description
-      crm:P190_has_symbolic_content ?description
-    ] .
+    ?this crm:P67i_is_referred_to_by ?descriptionNode .
+    ?descriptionNode crm:P2_has_type <http://vocab.getty.edu/aat/300435416> ; # Description
+      crm:P190_has_symbolic_content ?fullDescription .
+
+    # Elasticsearch does not index strings longer than a certain length
+    BIND(SUBSTR(?fullDescription, 0, 256) AS ?description)
   }
 
   ####################
@@ -136,10 +138,11 @@ WHERE {
 
     BIND(IF(BOUND(?officialLocationCreatedName), ?officialLocationCreatedName, ?unofficialLocationCreatedName) AS ?locationCreatedName)
 
-    OPTIONAL {
-      ?location gn:alternateName ?alternateLocationCreatedName
-      FILTER(LANG(?alternateLocationCreatedName) IN ("en", "nl"))
-    }
+    # TBD: useful to have this information in the search index?
+    #OPTIONAL {
+    #  ?location gn:alternateName ?alternateLocationCreatedName
+    #  FILTER(LANG(?alternateLocationCreatedName) IN ("en", "nl"))
+    #}
 
     # Country of which the location is a part
     OPTIONAL {
@@ -154,10 +157,11 @@ WHERE {
 
       BIND(IF(BOUND(?officialCountryCreatedName), ?officialCountryCreatedName, ?unofficialCountryCreatedName) AS ?countryCreatedName)
 
-      OPTIONAL {
-        ?country gn:alternateName ?alternateCountryCreatedName
-        FILTER(LANG(?alternateCountryCreatedName) IN ("en", "nl"))
-      }
+      # TBD: useful to have this information in the search index?
+      #OPTIONAL {
+      #  ?country gn:alternateName ?alternateCountryCreatedName
+      #  FILTER(LANG(?alternateCountryCreatedName) IN ("en", "nl"))
+      #}
     }
 
     # Location could be a country already

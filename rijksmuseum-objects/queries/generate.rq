@@ -79,10 +79,12 @@ WHERE {
   ####################
 
   OPTIONAL {
-    ?this crm:P67i_is_referred_to_by [
-      crm:P2_has_type <http://vocab.getty.edu/aat/300435416> ; # Description
-      crm:P190_has_symbolic_content ?description
-    ] .
+    ?this crm:P67i_is_referred_to_by ?descriptionNode .
+    ?descriptionNode crm:P2_has_type <http://vocab.getty.edu/aat/300435416> ; # Description
+      crm:P190_has_symbolic_content ?fullDescription .
+
+    # Elasticsearch does not index strings longer than a certain length
+    BIND(SUBSTR(?fullDescription, 0, 256) AS ?description)
   }
 
   ####################
