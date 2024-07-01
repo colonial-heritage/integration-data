@@ -1,9 +1,9 @@
 name: Update Search Graph with data from dataset 'Colonial Objects' in the Knowledge Graph
 
-# Every 8 hours
+# Every 12 hours
 on:
   schedule:
-    - cron: "0 */8 * * *"
+    - cron: "0 */12 * * *"
 
 # Run a single workflow at a time
 concurrency:
@@ -19,7 +19,6 @@ jobs:
         with:
           path: ./data
           sparse-checkout: rce-colonial-objects
-          lfs: true
       - name: Checkout code repository
         uses: actions/checkout@v4
         with:
