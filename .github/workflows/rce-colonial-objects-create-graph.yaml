@@ -1,9 +1,13 @@
 name: Update Search Graph with data from dataset 'Colonial Objects' in the Knowledge Graph
 
 # Every 12 hours
+# on:
+#   schedule:
+#     - cron: "0 */12 * * *"
+
 on:
-  schedule:
-    - cron: "0 */12 * * *"
+  push:
+    branches: ["main"]
 
 # Run a single workflow at a time
 concurrency:
