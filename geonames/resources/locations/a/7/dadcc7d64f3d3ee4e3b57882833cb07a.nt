@@ -1,0 +1,25 @@
+<https://sws.geonames.org/3456406/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/3456406/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/3456406/about.rdf> .
+<https://sws.geonames.org/3456406/> <http://www.geonames.org/ontology#name> "Nabileque River" .
+<https://sws.geonames.org/3456406/> <http://www.geonames.org/ontology#alternateName> "Nabileque River"@en .
+<https://sws.geonames.org/3456406/> <http://www.geonames.org/ontology#alternateName> "Rio Nabileque" .
+<https://sws.geonames.org/3456406/> <http://www.geonames.org/ontology#alternateName> "Rio Nabilique" .
+<https://sws.geonames.org/3456406/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#H> .
+<https://sws.geonames.org/3456406/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#H.STMA> .
+<https://sws.geonames.org/3456406/> <http://www.geonames.org/ontology#countryCode> "BR" .
+<https://sws.geonames.org/3456406/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "-20.91667" .
+<https://sws.geonames.org/3456406/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-57.81667" .
+<https://sws.geonames.org/3456406/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/3457415/> .
+<https://sws.geonames.org/3456406/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/3469034/> .
+<https://sws.geonames.org/3456406/> <http://www.geonames.org/ontology#parentADM1> <https://sws.geonames.org/3457415/> .
+<https://sws.geonames.org/3456406/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/3456406/nearby.rdf> .
+<https://sws.geonames.org/3456406/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/3456406/rio-nabileque.html> .
+<https://sws.geonames.org/3456406/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Nabileque_River> .
+<https://sws.geonames.org/3456406/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Nabileque_River> .
+<https://sws.geonames.org/3456406/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/3456406/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/3456406/> .
+<https://sws.geonames.org/3456406/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/3456406/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/3456406/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/3456406/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/3456406/about.rdf> <http://purl.org/dc/terms/modified> "2021-09-08"^^<https://www.w3.org/2001/XMLSchema#date> .
