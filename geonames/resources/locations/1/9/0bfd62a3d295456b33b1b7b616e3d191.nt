@@ -1,0 +1,26 @@
+<https://sws.geonames.org/7267494/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/7267494/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/7267494/about.rdf> .
+<https://sws.geonames.org/7267494/> <http://www.geonames.org/ontology#name> "Fort Sill" .
+<https://sws.geonames.org/7267494/> <http://www.geonames.org/ontology#alternateName> "Fort Sill"@en .
+<https://sws.geonames.org/7267494/> <http://www.geonames.org/ontology#alternateName> "锡尔堡"@zh .
+<https://sws.geonames.org/7267494/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#S> .
+<https://sws.geonames.org/7267494/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#S.INSM> .
+<https://sws.geonames.org/7267494/> <http://www.geonames.org/ontology#countryCode> "US" .
+<https://sws.geonames.org/7267494/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.67072" .
+<https://sws.geonames.org/7267494/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-98.38662" .
+<https://sws.geonames.org/7267494/> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "505" .
+<https://sws.geonames.org/7267494/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/4533932/> .
+<https://sws.geonames.org/7267494/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/6252001/> .
+<https://sws.geonames.org/7267494/> <http://www.geonames.org/ontology#parentADM1> <https://sws.geonames.org/4544379/> .
+<https://sws.geonames.org/7267494/> <http://www.geonames.org/ontology#parentADM2> <https://sws.geonames.org/4533932/> .
+<https://sws.geonames.org/7267494/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/7267494/nearby.rdf> .
+<https://sws.geonames.org/7267494/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/7267494/fort-sill.html> .
+<https://sws.geonames.org/7267494/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Fort_Sill> .
+<https://sws.geonames.org/7267494/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Fort_Sill> .
+<https://sws.geonames.org/7267494/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/7267494/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/7267494/> .
+<https://sws.geonames.org/7267494/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/7267494/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/7267494/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/7267494/about.rdf> <http://purl.org/dc/terms/created> "2010-02-07"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/7267494/about.rdf> <http://purl.org/dc/terms/modified> "2018-04-02"^^<https://www.w3.org/2001/XMLSchema#date> .
