@@ -1,0 +1,31 @@
+<https://sws.geonames.org/9406051/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/9406051/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/9406051/about.rdf> .
+<https://sws.geonames.org/9406051/> <http://www.geonames.org/ontology#name> "Southern Africa" .
+<https://sws.geonames.org/9406051/> <http://www.geonames.org/ontology#alternateName> "África austral"@es .
+<https://sws.geonames.org/9406051/> <http://www.geonames.org/ontology#alternateName> "África Austral"@pt .
+<https://sws.geonames.org/9406051/> <http://www.geonames.org/ontology#alternateName> "Africa del Sud"@it .
+<https://sws.geonames.org/9406051/> <http://www.geonames.org/ontology#alternateName> "Afrique australe"@fr .
+<https://sws.geonames.org/9406051/> <http://www.geonames.org/ontology#alternateName> "Southern Africa"@en .
+<https://sws.geonames.org/9406051/> <http://www.geonames.org/ontology#alternateName> "Südliches Afrika"@de .
+<https://sws.geonames.org/9406051/> <http://www.geonames.org/ontology#alternateName> "Південна Африка"@uk .
+<https://sws.geonames.org/9406051/> <http://www.geonames.org/ontology#alternateName> "Южная Африка"@ru .
+<https://sws.geonames.org/9406051/> <http://www.geonames.org/ontology#alternateName> "أفريقيا الجنوبية"@ar .
+<https://sws.geonames.org/9406051/> <http://www.geonames.org/ontology#alternateName> "南部アフリカ"@ja .
+<https://sws.geonames.org/9406051/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#L> .
+<https://sws.geonames.org/9406051/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#L.RGN> .
+<https://sws.geonames.org/9406051/> <http://www.geonames.org/ontology#population> "57000000" .
+<https://sws.geonames.org/9406051/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "-27.11781" .
+<https://sws.geonames.org/9406051/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "22.28027" .
+<https://sws.geonames.org/9406051/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/12212804/> .
+<https://sws.geonames.org/9406051/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/6255146/> .
+<https://sws.geonames.org/9406051/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/9406051/nearby.rdf> .
+<https://sws.geonames.org/9406051/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/9406051/southern-africa.html> .
+<https://sws.geonames.org/9406051/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Southern_Africa> .
+<https://sws.geonames.org/9406051/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Southern_Africa> .
+<https://sws.geonames.org/9406051/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/9406051/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/9406051/> .
+<https://sws.geonames.org/9406051/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/9406051/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/9406051/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/9406051/about.rdf> <http://purl.org/dc/terms/created> "2014-08-20"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/9406051/about.rdf> <http://purl.org/dc/terms/modified> "2016-09-01"^^<https://www.w3.org/2001/XMLSchema#date> .
