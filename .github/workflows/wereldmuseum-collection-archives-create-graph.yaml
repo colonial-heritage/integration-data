@@ -1,9 +1,9 @@
 name: Update Search Graph with data from dataset 'Collection Archives' in the Knowledge Graph
 
-# Every 12 hours
+# "At minute 0 past hour 5 and 17"
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 5,17 * * *"
 
 # Run a single workflow at a time
 concurrency:
