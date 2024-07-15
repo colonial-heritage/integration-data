@@ -1,6 +1,6 @@
 <https://sws.geonames.org/967573/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
 <https://sws.geonames.org/967573/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/967573/about.rdf> .
-<https://sws.geonames.org/967573/> <http://www.geonames.org/ontology#name> "Orange Free State" .
+<https://sws.geonames.org/967573/> <http://www.geonames.org/ontology#name> "Free State" .
 <https://sws.geonames.org/967573/> <http://www.geonames.org/ontology#alternateName> "프리스테이트주"@ko .
 <https://sws.geonames.org/967573/> <http://www.geonames.org/ontology#alternateName> "an Saorstát Oráisteach"@ga .
 <https://sws.geonames.org/967573/> <http://www.geonames.org/ontology#alternateName> "Chhṳ-yù Pâng-sén"@hak .
@@ -15,7 +15,7 @@
 <https://sws.geonames.org/967573/> <http://www.geonames.org/ontology#alternateName> "Foreistata"@tn .
 <https://sws.geonames.org/967573/> <http://www.geonames.org/ontology#alternateName> "Free State"@ceb .
 <https://sws.geonames.org/967573/> <http://www.geonames.org/ontology#alternateName> "Free State"@cy .
-<https://sws.geonames.org/967573/> <http://www.geonames.org/ontology#shortName> "Free State"@en .
+<https://sws.geonames.org/967573/> <http://www.geonames.org/ontology#officialName> "Free State"@en .
 <https://sws.geonames.org/967573/> <http://www.geonames.org/ontology#alternateName> "Free State"@et .
 <https://sws.geonames.org/967573/> <http://www.geonames.org/ontology#alternateName> "Free State"@fi .
 <https://sws.geonames.org/967573/> <http://www.geonames.org/ontology#alternateName> "Free State"@fo .
@@ -32,6 +32,7 @@
 <https://sws.geonames.org/967573/> <http://www.geonames.org/ontology#alternateName> "Free State"@vi .
 <https://sws.geonames.org/967573/> <http://www.geonames.org/ontology#alternateName> "Free State"@war .
 <https://sws.geonames.org/967573/> <http://www.geonames.org/ontology#alternateName> "Free State"@yo .
+<https://sws.geonames.org/967573/> <http://www.geonames.org/ontology#officialName> "Free State" .
 <https://sws.geonames.org/967573/> <http://www.geonames.org/ontology#alternateName> "Free State Province"@so .
 <https://sws.geonames.org/967573/> <http://www.geonames.org/ontology#alternateName> "Freistaat"@de .
 <https://sws.geonames.org/967573/> <http://www.geonames.org/ontology#alternateName> "Freistata"@nb .
@@ -49,7 +50,7 @@
 <https://sws.geonames.org/967573/> <http://www.geonames.org/ontology#alternateName> "Liberi State"@nov .
 <https://sws.geonames.org/967573/> <http://www.geonames.org/ontology#alternateName> "Liberŝtato"@eo .
 <https://sws.geonames.org/967573/> <http://www.geonames.org/ontology#alternateName> "OFS" .
-<https://sws.geonames.org/967573/> <http://www.geonames.org/ontology#officialName> "Orange Free State"@en .
+<https://sws.geonames.org/967573/> <http://www.geonames.org/ontology#alternateName> "Orange Free State"@en .
 <https://sws.geonames.org/967573/> <http://www.geonames.org/ontology#alternateName> "Özgür Devlet"@tr .
 <https://sws.geonames.org/967573/> <http://www.geonames.org/ontology#alternateName> "Province of the Orange Free State" .
 <https://sws.geonames.org/967573/> <http://www.geonames.org/ontology#alternateName> "Provincia del Estado Libre"@es .
@@ -103,11 +104,10 @@
 <https://sws.geonames.org/967573/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/967573/free-state.html> .
 <https://sws.geonames.org/967573/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Free_State_(province)> .
 <https://sws.geonames.org/967573/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Free_State_%28province%29> .
-<https://sws.geonames.org/967573/> <http://www.geonames.org/ontology#wikipediaArticle> <https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%BD%D0%BE%D0%B5_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE> .
 <https://sws.geonames.org/967573/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
 <https://sws.geonames.org/967573/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/967573/> .
 <https://sws.geonames.org/967573/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
 <https://sws.geonames.org/967573/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
 <https://sws.geonames.org/967573/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
 <https://sws.geonames.org/967573/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
-<https://sws.geonames.org/967573/about.rdf> <http://purl.org/dc/terms/modified> "2022-10-22"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/967573/about.rdf> <http://purl.org/dc/terms/modified> "2024-07-12"^^<https://www.w3.org/2001/XMLSchema#date> .
