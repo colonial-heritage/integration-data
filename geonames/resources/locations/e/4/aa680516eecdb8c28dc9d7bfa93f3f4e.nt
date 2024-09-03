@@ -1,0 +1,29 @@
+<https://sws.geonames.org/986833/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/986833/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/986833/about.rdf> .
+<https://sws.geonames.org/986833/> <http://www.geonames.org/ontology#name> "Kruger National Park" .
+<https://sws.geonames.org/986833/> <http://www.geonames.org/ontology#alternateName> "Kruger Nasionale Park" .
+<https://sws.geonames.org/986833/> <http://www.geonames.org/ontology#officialName> "Kruger National Park"@en .
+<https://sws.geonames.org/986833/> <http://www.geonames.org/ontology#officialName> "Krüger-Nationalpark"@de .
+<https://sws.geonames.org/986833/> <http://www.geonames.org/ontology#alternateName> "Kruger Park" .
+<https://sws.geonames.org/986833/> <http://www.geonames.org/ontology#alternateName> "Nasionale Kruger Wildtuin" .
+<https://sws.geonames.org/986833/> <http://www.geonames.org/ontology#alternateName> "Sabi Sabi Private Game Reserve" .
+<https://sws.geonames.org/986833/> <http://www.geonames.org/ontology#alternateName> "Sabi Sands" .
+<https://sws.geonames.org/986833/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#L> .
+<https://sws.geonames.org/986833/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#L.PRK> .
+<https://sws.geonames.org/986833/> <http://www.geonames.org/ontology#countryCode> "ZA" .
+<https://sws.geonames.org/986833/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "-23.95606" .
+<https://sws.geonames.org/986833/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "31.44158" .
+<https://sws.geonames.org/986833/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/1085595/> .
+<https://sws.geonames.org/986833/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/953987/> .
+<https://sws.geonames.org/986833/> <http://www.geonames.org/ontology#parentADM1> <https://sws.geonames.org/1085595/> .
+<https://sws.geonames.org/986833/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/986833/nearby.rdf> .
+<https://sws.geonames.org/986833/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/986833/kruger-national-park.html> .
+<https://sws.geonames.org/986833/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Kruger_National_Park> .
+<https://sws.geonames.org/986833/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Kruger_National_Park> .
+<https://sws.geonames.org/986833/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/986833/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/986833/> .
+<https://sws.geonames.org/986833/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/986833/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/986833/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/986833/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/986833/about.rdf> <http://purl.org/dc/terms/modified> "2016-10-20"^^<https://www.w3.org/2001/XMLSchema#date> .
