@@ -1,0 +1,27 @@
+<https://sws.geonames.org/2197820/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/2197820/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/2197820/about.rdf> .
+<https://sws.geonames.org/2197820/> <http://www.geonames.org/ontology#name> "Cakaudrove" .
+<https://sws.geonames.org/2197820/> <http://www.geonames.org/ontology#shortName> "Cakaudrove"@en .
+<https://sws.geonames.org/2197820/> <http://www.geonames.org/ontology#alternateName> "Cakaudrove" .
+<https://sws.geonames.org/2197820/> <http://www.geonames.org/ontology#alternateName> "Cakaudrove Province"@en .
+<https://sws.geonames.org/2197820/> <http://www.geonames.org/ontology#alternateName> "Thakaundrove Province" .
+<https://sws.geonames.org/2197820/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#A> .
+<https://sws.geonames.org/2197820/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#A.ADM2> .
+<https://sws.geonames.org/2197820/> <http://www.geonames.org/ontology#countryCode> "FJ" .
+<https://sws.geonames.org/2197820/> <http://www.geonames.org/ontology#population> "49344" .
+<https://sws.geonames.org/2197820/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "-16.66667" .
+<https://sws.geonames.org/2197820/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "179.41667" .
+<https://sws.geonames.org/2197820/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/2199295/> .
+<https://sws.geonames.org/2197820/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/2205218/> .
+<https://sws.geonames.org/2197820/> <http://www.geonames.org/ontology#parentADM1> <https://sws.geonames.org/2199295/> .
+<https://sws.geonames.org/2197820/> <http://www.geonames.org/ontology#childrenFeatures> <https://sws.geonames.org/2197820/contains.rdf> .
+<https://sws.geonames.org/2197820/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/2197820/cakaudrove-province.html> .
+<https://sws.geonames.org/2197820/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Cakaudrove_Province> .
+<https://sws.geonames.org/2197820/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Cakaudrove_Province> .
+<https://sws.geonames.org/2197820/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/2197820/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/2197820/> .
+<https://sws.geonames.org/2197820/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/2197820/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/2197820/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/2197820/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/2197820/about.rdf> <http://purl.org/dc/terms/modified> "2019-04-27"^^<https://www.w3.org/2001/XMLSchema#date> .
