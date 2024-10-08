@@ -1,0 +1,31 @@
+<https://sws.geonames.org/2363254/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/2363254/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/2363254/about.rdf> .
+<https://sws.geonames.org/2363254/> <http://www.geonames.org/ontology#name> "Pacific Ocean" .
+<https://sws.geonames.org/2363254/> <http://www.geonames.org/ontology#officialName> "Oceano Pacifico"@it .
+<https://sws.geonames.org/2363254/> <http://www.geonames.org/ontology#alternateName> "Océano Pacífico"@es .
+<https://sws.geonames.org/2363254/> <http://www.geonames.org/ontology#officialName> "Océan Pacifique"@fr .
+<https://sws.geonames.org/2363254/> <http://www.geonames.org/ontology#shortName> "Pacifico"@it .
+<https://sws.geonames.org/2363254/> <http://www.geonames.org/ontology#shortName> "Pacifique"@fr .
+<https://sws.geonames.org/2363254/> <http://www.geonames.org/ontology#alternateName> "Tikhiy Okean" .
+<https://sws.geonames.org/2363254/> <http://www.geonames.org/ontology#alternateName> "Тихий Океан"@ru .
+<https://sws.geonames.org/2363254/> <http://www.geonames.org/ontology#alternateName> "Тихий Океан"@uk .
+<https://sws.geonames.org/2363254/> <http://www.geonames.org/ontology#alternateName> "太平洋"@zh .
+<https://sws.geonames.org/2363254/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#H> .
+<https://sws.geonames.org/2363254/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#H.OCN> .
+<https://sws.geonames.org/2363254/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "3.51342" .
+<https://sws.geonames.org/2363254/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-132.1875" .
+<https://sws.geonames.org/2363254/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/11980177/> .
+<https://sws.geonames.org/2363254/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/12225505/> .
+<https://sws.geonames.org/2363254/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/2363254/nearby.rdf> .
+<https://sws.geonames.org/2363254/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/2363254/pacific-ocean.html> .
+<https://sws.geonames.org/2363254/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Pacific_Ocean> .
+<https://sws.geonames.org/2363254/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Pacific_Ocean> .
+<https://sws.geonames.org/2363254/> <http://www.geonames.org/ontology#wikipediaArticle> <https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D1%85%D0%B8%D0%B9_%D0%BE%D0%BA%D0%B5%D0%B0%D0%BD> .
+<https://sws.geonames.org/2363254/> <http://www.geonames.org/ontology#wikipediaArticle> <https://uk.wikipedia.org/wiki/%D0%A2%D0%B8%D1%85%D0%B8%D0%B9_%D0%BE%D0%BA%D0%B5%D0%B0%D0%BD> .
+<https://sws.geonames.org/2363254/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/2363254/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/2363254/> .
+<https://sws.geonames.org/2363254/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/2363254/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/2363254/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/2363254/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/2363254/about.rdf> <http://purl.org/dc/terms/modified> "2023-01-23"^^<https://www.w3.org/2001/XMLSchema#date> .
