@@ -1,0 +1,32 @@
+<https://sws.geonames.org/1213713/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/1213713/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/1213713/about.rdf> .
+<https://sws.geonames.org/1213713/> <http://www.geonames.org/ontology#name> "Singkil" .
+<https://sws.geonames.org/1213713/> <http://www.geonames.org/ontology#alternateName> "Nieuw Singkel" .
+<https://sws.geonames.org/1213713/> <http://www.geonames.org/ontology#alternateName> "Nieuw Singkil" .
+<https://sws.geonames.org/1213713/> <http://www.geonames.org/ontology#alternateName> "Pasar Singkil" .
+<https://sws.geonames.org/1213713/> <http://www.geonames.org/ontology#alternateName> "Singkel" .
+<https://sws.geonames.org/1213713/> <http://www.geonames.org/ontology#alternateName> "Singkil"@id .
+<https://sws.geonames.org/1213713/> <http://www.geonames.org/ontology#alternateName> "Singkilbaru" .
+<https://sws.geonames.org/1213713/> <http://www.geonames.org/ontology#alternateName> "Sinkel" .
+<https://sws.geonames.org/1213713/> <http://www.geonames.org/ontology#alternateName> "Сингкил"@ru .
+<https://sws.geonames.org/1213713/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#P> .
+<https://sws.geonames.org/1213713/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#P.PPLA2> .
+<https://sws.geonames.org/1213713/> <http://www.geonames.org/ontology#countryCode> "ID" .
+<https://sws.geonames.org/1213713/> <http://www.geonames.org/ontology#population> "46800" .
+<https://sws.geonames.org/1213713/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "2.2874" .
+<https://sws.geonames.org/1213713/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "97.7884" .
+<https://sws.geonames.org/1213713/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/6713333/> .
+<https://sws.geonames.org/1213713/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/1643084/> .
+<https://sws.geonames.org/1213713/> <http://www.geonames.org/ontology#parentADM1> <https://sws.geonames.org/1215638/> .
+<https://sws.geonames.org/1213713/> <http://www.geonames.org/ontology#parentADM2> <https://sws.geonames.org/6713333/> .
+<https://sws.geonames.org/1213713/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/1213713/nearby.rdf> .
+<https://sws.geonames.org/1213713/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/1213713/singkil.html> .
+<https://sws.geonames.org/1213713/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Singkil,_Indonesia> .
+<https://sws.geonames.org/1213713/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Singkil%2C_Indonesia> .
+<https://sws.geonames.org/1213713/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/1213713/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/1213713/> .
+<https://sws.geonames.org/1213713/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/1213713/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/1213713/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/1213713/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/1213713/about.rdf> <http://purl.org/dc/terms/modified> "2022-12-31"^^<https://www.w3.org/2001/XMLSchema#date> .
