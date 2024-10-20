@@ -2,6 +2,7 @@
 <https://sws.geonames.org/1835841/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/1835841/about.rdf> .
 <https://sws.geonames.org/1835841/> <http://www.geonames.org/ontology#name> "South Korea" .
 <https://sws.geonames.org/1835841/> <http://www.geonames.org/ontology#alternateName> "남한"@ko .
+<https://sws.geonames.org/1835841/> <http://www.geonames.org/ontology#alternateName> "대한"@ko .
 <https://sws.geonames.org/1835841/> <http://www.geonames.org/ontology#alternateName> "한국"@ko .
 <https://sws.geonames.org/1835841/> <http://www.geonames.org/ontology#alternateName> "남조선"@ko .
 <https://sws.geonames.org/1835841/> <http://www.geonames.org/ontology#officialName> "대한민국"@ko .
@@ -40,6 +41,8 @@
 <https://sws.geonames.org/1835841/> <http://www.geonames.org/ontology#officialName> "Coreia do Sul"@pt .
 <https://sws.geonames.org/1835841/> <http://www.geonames.org/ontology#alternateName> "Coréia, Sul"@pt .
 <https://sws.geonames.org/1835841/> <http://www.geonames.org/ontology#alternateName> "Coria" .
+<https://sws.geonames.org/1835841/> <http://www.geonames.org/ontology#alternateName> "Daehan" .
+<https://sws.geonames.org/1835841/> <http://www.geonames.org/ontology#alternateName> "Daehanminguk" .
 <https://sws.geonames.org/1835841/> <http://www.geonames.org/ontology#alternateName> "Daehan-Min’guk" .
 <https://sws.geonames.org/1835841/> <http://www.geonames.org/ontology#alternateName> "Dae Han Min Kuk" .
 <https://sws.geonames.org/1835841/> <http://www.geonames.org/ontology#alternateName> "Dai Han" .
@@ -50,6 +53,7 @@
 <https://sws.geonames.org/1835841/> <http://www.geonames.org/ontology#officialName> "Güney Kore"@tr .
 <https://sws.geonames.org/1835841/> <http://www.geonames.org/ontology#officialName> "Günorta Koreýa"@tk .
 <https://sws.geonames.org/1835841/> <http://www.geonames.org/ontology#alternateName> "Hān" .
+<https://sws.geonames.org/1835841/> <http://www.geonames.org/ontology#alternateName> "Hanguk" .
 <https://sws.geonames.org/1835841/> <http://www.geonames.org/ontology#alternateName> "Han-kouo" .
 <https://sws.geonames.org/1835841/> <http://www.geonames.org/ontology#officialName> "Hàn Quốc"@vi .
 <https://sws.geonames.org/1835841/> <http://www.geonames.org/ontology#officialName> "Hego Korea"@eu .
@@ -250,4 +254,4 @@
 <https://sws.geonames.org/1835841/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
 <https://sws.geonames.org/1835841/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
 <https://sws.geonames.org/1835841/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
-<https://sws.geonames.org/1835841/about.rdf> <http://purl.org/dc/terms/modified> "2023-12-09"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/1835841/about.rdf> <http://purl.org/dc/terms/modified> "2024-10-11"^^<https://www.w3.org/2001/XMLSchema#date> .
