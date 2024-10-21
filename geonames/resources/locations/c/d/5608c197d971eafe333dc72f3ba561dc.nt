@@ -1,0 +1,30 @@
+<https://sws.geonames.org/4034374/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/4034374/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/4034374/about.rdf> .
+<https://sws.geonames.org/4034374/> <http://www.geonames.org/ontology#name> "Huahine Island" .
+<https://sws.geonames.org/4034374/> <http://www.geonames.org/ontology#alternateName> "Grande Huahine"@fr .
+<https://sws.geonames.org/4034374/> <http://www.geonames.org/ontology#alternateName> "Huahine Island"@en .
+<https://sws.geonames.org/4034374/> <http://www.geonames.org/ontology#alternateName> "Huahine Nui" .
+<https://sws.geonames.org/4034374/> <http://www.geonames.org/ontology#alternateName> "Île Houahine Noui"@fr .
+<https://sws.geonames.org/4034374/> <http://www.geonames.org/ontology#alternateName> "Хуахине"@ru .
+<https://sws.geonames.org/4034374/> <http://www.geonames.org/ontology#alternateName> "هواهاين"@ar .
+<https://sws.geonames.org/4034374/> <http://www.geonames.org/ontology#alternateName> "フアヒネ島"@ja .
+<https://sws.geonames.org/4034374/> <http://www.geonames.org/ontology#alternateName> "胡阿希內島"@zh .
+<https://sws.geonames.org/4034374/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#T> .
+<https://sws.geonames.org/4034374/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#T.ISL> .
+<https://sws.geonames.org/4034374/> <http://www.geonames.org/ontology#countryCode> "PF" .
+<https://sws.geonames.org/4034374/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "-16.73979" .
+<https://sws.geonames.org/4034374/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-151.02271" .
+<https://sws.geonames.org/4034374/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/4034364/> .
+<https://sws.geonames.org/4034374/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/4030656/> .
+<https://sws.geonames.org/4034374/> <http://www.geonames.org/ontology#parentADM1> <https://sws.geonames.org/4034364/> .
+<https://sws.geonames.org/4034374/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/4034374/nearby.rdf> .
+<https://sws.geonames.org/4034374/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/4034374/huahine.html> .
+<https://sws.geonames.org/4034374/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Huahine> .
+<https://sws.geonames.org/4034374/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Huahine> .
+<https://sws.geonames.org/4034374/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/4034374/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/4034374/> .
+<https://sws.geonames.org/4034374/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/4034374/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/4034374/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/4034374/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/4034374/about.rdf> <http://purl.org/dc/terms/modified> "2023-09-21"^^<https://www.w3.org/2001/XMLSchema#date> .
