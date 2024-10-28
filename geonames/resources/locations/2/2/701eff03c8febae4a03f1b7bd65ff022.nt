@@ -1,0 +1,32 @@
+<https://sws.geonames.org/5880062/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/5880062/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/5880062/about.rdf> .
+<https://sws.geonames.org/5880062/> <http://www.geonames.org/ontology#name> "Barter Island" .
+<https://sws.geonames.org/5880062/> <http://www.geonames.org/ontology#officialName> "Barter Island"@en .
+<https://sws.geonames.org/5880062/> <http://www.geonames.org/ontology#alternateName> "Barter Islands" .
+<https://sws.geonames.org/5880062/> <http://www.geonames.org/ontology#alternateName> "Kaaktovik" .
+<https://sws.geonames.org/5880062/> <http://www.geonames.org/ontology#alternateName> "Kaktoavik Island" .
+<https://sws.geonames.org/5880062/> <http://www.geonames.org/ontology#alternateName> "Noobooa" .
+<https://sws.geonames.org/5880062/> <http://www.geonames.org/ontology#alternateName> "Noovoo'a" .
+<https://sws.geonames.org/5880062/> <http://www.geonames.org/ontology#alternateName> "Nuwuak" .
+<https://sws.geonames.org/5880062/> <http://www.geonames.org/ontology#alternateName> "Tungak Island" .
+<https://sws.geonames.org/5880062/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#T> .
+<https://sws.geonames.org/5880062/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#T.ISL> .
+<https://sws.geonames.org/5880062/> <http://www.geonames.org/ontology#countryCode> "US" .
+<https://sws.geonames.org/5880062/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "70.11806" .
+<https://sws.geonames.org/5880062/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-143.66667" .
+<https://sws.geonames.org/5880062/> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "17" .
+<https://sws.geonames.org/5880062/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/5870308/> .
+<https://sws.geonames.org/5880062/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/6252001/> .
+<https://sws.geonames.org/5880062/> <http://www.geonames.org/ontology#parentADM1> <https://sws.geonames.org/5879092/> .
+<https://sws.geonames.org/5880062/> <http://www.geonames.org/ontology#parentADM2> <https://sws.geonames.org/5870308/> .
+<https://sws.geonames.org/5880062/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/5880062/nearby.rdf> .
+<https://sws.geonames.org/5880062/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/5880062/barter-island.html> .
+<https://sws.geonames.org/5880062/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Barter_Island> .
+<https://sws.geonames.org/5880062/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Barter_Island> .
+<https://sws.geonames.org/5880062/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/5880062/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/5880062/> .
+<https://sws.geonames.org/5880062/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/5880062/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/5880062/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/5880062/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/5880062/about.rdf> <http://purl.org/dc/terms/modified> "2017-09-01"^^<https://www.w3.org/2001/XMLSchema#date> .
