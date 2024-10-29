@@ -1,0 +1,27 @@
+<https://sws.geonames.org/6048360/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/6048360/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/6048360/about.rdf> .
+<https://sws.geonames.org/6048360/> <http://www.geonames.org/ontology#name> "Erie" .
+<https://sws.geonames.org/6048360/> <http://www.geonames.org/ontology#shortName> "Erie"@en .
+<https://sws.geonames.org/6048360/> <http://www.geonames.org/ontology#alternateName> "Erie"@hr .
+<https://sws.geonames.org/6048360/> <http://www.geonames.org/ontology#alternateName> "Eriesee"@de .
+<https://sws.geonames.org/6048360/> <http://www.geonames.org/ontology#alternateName> "Lac Érié"@fr .
+<https://sws.geonames.org/6048360/> <http://www.geonames.org/ontology#officialName> "Lake Erie"@en .
+<https://sws.geonames.org/6048360/> <http://www.geonames.org/ontology#alternateName> "Ири"@sr .
+<https://sws.geonames.org/6048360/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#H> .
+<https://sws.geonames.org/6048360/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#H.LK> .
+<https://sws.geonames.org/6048360/> <http://www.geonames.org/ontology#countryCode> "CA" .
+<https://sws.geonames.org/6048360/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "42.2501" .
+<https://sws.geonames.org/6048360/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-80.99973" .
+<https://sws.geonames.org/6048360/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/4994594/> .
+<https://sws.geonames.org/6048360/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/6251999/> .
+<https://sws.geonames.org/6048360/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/6048360/nearby.rdf> .
+<https://sws.geonames.org/6048360/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/6048360/lake-erie.html> .
+<https://sws.geonames.org/6048360/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Lake_Erie> .
+<https://sws.geonames.org/6048360/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Lake_Erie> .
+<https://sws.geonames.org/6048360/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/6048360/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/6048360/> .
+<https://sws.geonames.org/6048360/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/6048360/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/6048360/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/6048360/about.rdf> <http://purl.org/dc/terms/created> "2006-01-18"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/6048360/about.rdf> <http://purl.org/dc/terms/modified> "2022-10-26"^^<https://www.w3.org/2001/XMLSchema#date> .
