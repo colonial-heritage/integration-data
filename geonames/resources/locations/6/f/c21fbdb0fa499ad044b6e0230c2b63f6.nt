@@ -1,0 +1,28 @@
+<https://sws.geonames.org/1640475/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/1640475/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/1640475/about.rdf> .
+<https://sws.geonames.org/1640475/> <http://www.geonames.org/ontology#name> "Gunung Kelud" .
+<https://sws.geonames.org/1640475/> <http://www.geonames.org/ontology#alternateName> "Goenoeng Keloed" .
+<https://sws.geonames.org/1640475/> <http://www.geonames.org/ontology#alternateName> "Gunung Kelud"@id .
+<https://sws.geonames.org/1640475/> <http://www.geonames.org/ontology#alternateName> "Mount Kelud" .
+<https://sws.geonames.org/1640475/> <http://www.geonames.org/ontology#alternateName> "Mount Kelut" .
+<https://sws.geonames.org/1640475/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#T> .
+<https://sws.geonames.org/1640475/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#T.VLC> .
+<https://sws.geonames.org/1640475/> <http://www.geonames.org/ontology#countryCode> "ID" .
+<https://sws.geonames.org/1640475/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "-7.935" .
+<https://sws.geonames.org/1640475/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "112.3125" .
+<https://sws.geonames.org/1640475/> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "1731" .
+<https://sws.geonames.org/1640475/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/1642668/> .
+<https://sws.geonames.org/1640475/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/1643084/> .
+<https://sws.geonames.org/1640475/> <http://www.geonames.org/ontology#parentADM1> <https://sws.geonames.org/1642668/> .
+<https://sws.geonames.org/1640475/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/1640475/nearby.rdf> .
+<https://sws.geonames.org/1640475/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/1640475/gunung-kelud.html> .
+<https://sws.geonames.org/1640475/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Kelud> .
+<https://sws.geonames.org/1640475/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Kelud> .
+<https://sws.geonames.org/1640475/> <http://www.geonames.org/ontology#wikipediaArticle> <https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D0%BB%D1%83%D0%B4> .
+<https://sws.geonames.org/1640475/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/1640475/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/1640475/> .
+<https://sws.geonames.org/1640475/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/1640475/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/1640475/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/1640475/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/1640475/about.rdf> <http://purl.org/dc/terms/modified> "2019-04-10"^^<https://www.w3.org/2001/XMLSchema#date> .

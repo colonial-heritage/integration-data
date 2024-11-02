@@ -1,0 +1,26 @@
+<https://sws.geonames.org/1719251/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/1719251/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/1719251/about.rdf> .
+<https://sws.geonames.org/1719251/> <http://www.geonames.org/ontology#name> "Candon" .
+<https://sws.geonames.org/1719251/> <http://www.geonames.org/ontology#alternateName> "Candon Lakanbalen"@pam .
+<https://sws.geonames.org/1719251/> <http://www.geonames.org/ontology#alternateName> "Kota Candon"@id .
+<https://sws.geonames.org/1719251/> <http://www.geonames.org/ontology#alternateName> "کاندون"@ur .
+<https://sws.geonames.org/1719251/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#P> .
+<https://sws.geonames.org/1719251/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#P.PPLA3> .
+<https://sws.geonames.org/1719251/> <http://www.geonames.org/ontology#countryCode> "PH" .
+<https://sws.geonames.org/1719251/> <http://www.geonames.org/ontology#population> "11236" .
+<https://sws.geonames.org/1719251/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "17.19472" .
+<https://sws.geonames.org/1719251/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "120.45167" .
+<https://sws.geonames.org/1719251/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/1719252/> .
+<https://sws.geonames.org/1719251/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/1694008/> .
+<https://sws.geonames.org/1719251/> <http://www.geonames.org/ontology#parentADM1> <https://sws.geonames.org/7521301/> .
+<https://sws.geonames.org/1719251/> <http://www.geonames.org/ontology#parentADM2> <https://sws.geonames.org/1711032/> .
+<https://sws.geonames.org/1719251/> <http://www.geonames.org/ontology#parentADM3> <https://sws.geonames.org/1719252/> .
+<https://sws.geonames.org/1719251/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/1719251/nearby.rdf> .
+<https://sws.geonames.org/1719251/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/1719251/candon.html> .
+<https://sws.geonames.org/1719251/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/1719251/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/1719251/> .
+<https://sws.geonames.org/1719251/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/1719251/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/1719251/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/1719251/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/1719251/about.rdf> <http://purl.org/dc/terms/modified> "2017-12-13"^^<https://www.w3.org/2001/XMLSchema#date> .
