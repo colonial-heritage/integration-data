@@ -1,0 +1,38 @@
+<https://sws.geonames.org/2091496/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/2091496/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/2091496/about.rdf> .
+<https://sws.geonames.org/2091496/> <http://www.geonames.org/ontology#name> "Manus Island" .
+<https://sws.geonames.org/2091496/> <http://www.geonames.org/ontology#alternateName> "Admiralty Island"@en .
+<https://sws.geonames.org/2091496/> <http://www.geonames.org/ontology#alternateName> "Basco" .
+<https://sws.geonames.org/2091496/> <http://www.geonames.org/ontology#alternateName> "Don Jose de Basco y Vargas" .
+<https://sws.geonames.org/2091496/> <http://www.geonames.org/ontology#alternateName> "Grosse Admiralitats-Insel"@de .
+<https://sws.geonames.org/2091496/> <http://www.geonames.org/ontology#alternateName> "Isla del Senor Basco"@es .
+<https://sws.geonames.org/2091496/> <http://www.geonames.org/ontology#alternateName> "Kor" .
+<https://sws.geonames.org/2091496/> <http://www.geonames.org/ontology#officialName> "Manus Island"@en .
+<https://sws.geonames.org/2091496/> <http://www.geonames.org/ontology#alternateName> "Marso" .
+<https://sws.geonames.org/2091496/> <http://www.geonames.org/ontology#alternateName> "Moanus" .
+<https://sws.geonames.org/2091496/> <http://www.geonames.org/ontology#alternateName> "Sovereign" .
+<https://sws.geonames.org/2091496/> <http://www.geonames.org/ontology#alternateName> "Taui" .
+<https://sws.geonames.org/2091496/> <http://www.geonames.org/ontology#alternateName> "Tjawomu" .
+<https://sws.geonames.org/2091496/> <http://www.geonames.org/ontology#alternateName> "Tshebamu" .
+<https://sws.geonames.org/2091496/> <http://www.geonames.org/ontology#alternateName> "Urias la Grande" .
+<https://sws.geonames.org/2091496/> <http://www.geonames.org/ontology#alternateName> "Usiai" .
+<https://sws.geonames.org/2091496/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#T> .
+<https://sws.geonames.org/2091496/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#T.ISL> .
+<https://sws.geonames.org/2091496/> <http://www.geonames.org/ontology#countryCode> "PG" .
+<https://sws.geonames.org/2091496/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "-2.07579" .
+<https://sws.geonames.org/2091496/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "146.9672" .
+<https://sws.geonames.org/2091496/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/7910338/> .
+<https://sws.geonames.org/2091496/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/2088628/> .
+<https://sws.geonames.org/2091496/> <http://www.geonames.org/ontology#parentADM1> <https://sws.geonames.org/2091495/> .
+<https://sws.geonames.org/2091496/> <http://www.geonames.org/ontology#parentADM2> <https://sws.geonames.org/7910338/> .
+<https://sws.geonames.org/2091496/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/2091496/nearby.rdf> .
+<https://sws.geonames.org/2091496/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/2091496/manus-island.html> .
+<https://sws.geonames.org/2091496/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Manus_Island> .
+<https://sws.geonames.org/2091496/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Manus_Island> .
+<https://sws.geonames.org/2091496/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/2091496/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/2091496/> .
+<https://sws.geonames.org/2091496/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/2091496/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/2091496/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/2091496/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/2091496/about.rdf> <http://purl.org/dc/terms/modified> "2018-10-31"^^<https://www.w3.org/2001/XMLSchema#date> .

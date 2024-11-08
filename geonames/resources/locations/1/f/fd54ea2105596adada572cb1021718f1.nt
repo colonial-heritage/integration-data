@@ -1,0 +1,25 @@
+<https://sws.geonames.org/2549976/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/2549976/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/2549976/about.rdf> .
+<https://sws.geonames.org/2549976/> <http://www.geonames.org/ontology#name> "Al Kenntawi" .
+<https://sws.geonames.org/2549976/> <http://www.geonames.org/ontology#alternateName> "Al Kenntawi" .
+<https://sws.geonames.org/2549976/> <http://www.geonames.org/ontology#alternateName> "Douar el Kenntaoui" .
+<https://sws.geonames.org/2549976/> <http://www.geonames.org/ontology#alternateName> "El Kenntaoui" .
+<https://sws.geonames.org/2549976/> <http://www.geonames.org/ontology#alternateName> "Lektaoui" .
+<https://sws.geonames.org/2549976/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#P> .
+<https://sws.geonames.org/2549976/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#P.PPL> .
+<https://sws.geonames.org/2549976/> <http://www.geonames.org/ontology#countryCode> "MA" .
+<https://sws.geonames.org/2549976/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "31.45605" .
+<https://sws.geonames.org/2549976/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-8.47663" .
+<https://sws.geonames.org/2549976/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/6547284/> .
+<https://sws.geonames.org/2549976/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/2542007/> .
+<https://sws.geonames.org/2549976/> <http://www.geonames.org/ontology#parentADM1> <https://sws.geonames.org/11281880/> .
+<https://sws.geonames.org/2549976/> <http://www.geonames.org/ontology#parentADM2> <https://sws.geonames.org/6547284/> .
+<https://sws.geonames.org/2549976/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/2549976/nearby.rdf> .
+<https://sws.geonames.org/2549976/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/2549976/al-kenntawi.html> .
+<https://sws.geonames.org/2549976/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/2549976/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/2549976/> .
+<https://sws.geonames.org/2549976/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/2549976/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/2549976/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/2549976/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/2549976/about.rdf> <http://purl.org/dc/terms/modified> "2021-07-17"^^<https://www.w3.org/2001/XMLSchema#date> .
