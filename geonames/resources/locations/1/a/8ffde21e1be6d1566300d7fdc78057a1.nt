@@ -1,0 +1,35 @@
+<https://sws.geonames.org/1809445/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/1809445/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/1809445/about.rdf> .
+<https://sws.geonames.org/1809445/> <http://www.geonames.org/ontology#name> "Guizhou" .
+<https://sws.geonames.org/1809445/> <http://www.geonames.org/ontology#officialName> "Guizhou"@en .
+<https://sws.geonames.org/1809445/> <http://www.geonames.org/ontology#alternateName> "Guizhou" .
+<https://sws.geonames.org/1809445/> <http://www.geonames.org/ontology#alternateName> "Guizhou Sheng" .
+<https://sws.geonames.org/1809445/> <http://www.geonames.org/ontology#alternateName> "Kuei-chou" .
+<https://sws.geonames.org/1809445/> <http://www.geonames.org/ontology#alternateName> "Kuei-chou Sheng" .
+<https://sws.geonames.org/1809445/> <http://www.geonames.org/ontology#alternateName> "Kweichau" .
+<https://sws.geonames.org/1809445/> <http://www.geonames.org/ontology#alternateName> "Kweichow" .
+<https://sws.geonames.org/1809445/> <http://www.geonames.org/ontology#alternateName> "Kweichow Province" .
+<https://sws.geonames.org/1809445/> <http://www.geonames.org/ontology#alternateName> "Province de Guizhou"@fr .
+<https://sws.geonames.org/1809445/> <http://www.geonames.org/ontology#alternateName> "贵州"@zh .
+<https://sws.geonames.org/1809445/> <http://www.geonames.org/ontology#alternateName> "贵州省"@zh .
+<https://sws.geonames.org/1809445/> <http://www.geonames.org/ontology#alternateName> "贵州省" .
+<https://sws.geonames.org/1809445/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#A> .
+<https://sws.geonames.org/1809445/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#A.ADM1> .
+<https://sws.geonames.org/1809445/> <http://www.geonames.org/ontology#countryCode> "CN" .
+<https://sws.geonames.org/1809445/> <http://www.geonames.org/ontology#population> "37930000" .
+<https://sws.geonames.org/1809445/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "27" .
+<https://sws.geonames.org/1809445/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "107" .
+<https://sws.geonames.org/1809445/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/1814991/> .
+<https://sws.geonames.org/1809445/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/1814991/> .
+<https://sws.geonames.org/1809445/> <http://www.geonames.org/ontology#childrenFeatures> <https://sws.geonames.org/1809445/contains.rdf> .
+<https://sws.geonames.org/1809445/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/1809445/guizhou-sheng.html> .
+<https://sws.geonames.org/1809445/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Guizhou> .
+<https://sws.geonames.org/1809445/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Guizhou> .
+<https://sws.geonames.org/1809445/> <http://www.geonames.org/ontology#wikipediaArticle> <https://ru.wikipedia.org/wiki/%D0%93%D1%83%D0%B9%D1%87%D0%B6%D0%BE%D1%83> .
+<https://sws.geonames.org/1809445/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/1809445/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/1809445/> .
+<https://sws.geonames.org/1809445/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/1809445/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/1809445/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/1809445/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/1809445/about.rdf> <http://purl.org/dc/terms/modified> "2016-05-16"^^<https://www.w3.org/2001/XMLSchema#date> .

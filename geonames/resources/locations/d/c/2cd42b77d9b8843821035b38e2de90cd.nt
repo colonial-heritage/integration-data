@@ -1,0 +1,36 @@
+<https://sws.geonames.org/1852650/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/1852650/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/1852650/about.rdf> .
+<https://sws.geonames.org/1852650/> <http://www.geonames.org/ontology#name> "Inland Sea" .
+<https://sws.geonames.org/1852650/> <http://www.geonames.org/ontology#alternateName> "Inland Sea" .
+<https://sws.geonames.org/1852650/> <http://www.geonames.org/ontology#alternateName> "Mediterráneo Japonés"@es .
+<https://sws.geonames.org/1852650/> <http://www.geonames.org/ontology#alternateName> "Mer Intérieure de Seto"@fr .
+<https://sws.geonames.org/1852650/> <http://www.geonames.org/ontology#alternateName> "Naikai" .
+<https://sws.geonames.org/1852650/> <http://www.geonames.org/ontology#alternateName> "Seto" .
+<https://sws.geonames.org/1852650/> <http://www.geonames.org/ontology#alternateName> "Seto-naikai" .
+<https://sws.geonames.org/1852650/> <http://www.geonames.org/ontology#alternateName> "Seto Naikai" .
+<https://sws.geonames.org/1852650/> <http://www.geonames.org/ontology#alternateName> "Seto no Uchi" .
+<https://sws.geonames.org/1852650/> <http://www.geonames.org/ontology#alternateName> "Seto Uchi" .
+<https://sws.geonames.org/1852650/> <http://www.geonames.org/ontology#alternateName> "Setouti" .
+<https://sws.geonames.org/1852650/> <http://www.geonames.org/ontology#alternateName> "Внутреннее Японское море"@ru .
+<https://sws.geonames.org/1852650/> <http://www.geonames.org/ontology#alternateName> "Внутрішнє Японське море"@uk .
+<https://sws.geonames.org/1852650/> <http://www.geonames.org/ontology#alternateName> "瀬戸内海"@ja .
+<https://sws.geonames.org/1852650/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#H> .
+<https://sws.geonames.org/1852650/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#H.SEA> .
+<https://sws.geonames.org/1852650/> <http://www.geonames.org/ontology#countryCode> "JP" .
+<https://sws.geonames.org/1852650/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.23109" .
+<https://sws.geonames.org/1852650/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "133.42032" .
+<https://sws.geonames.org/1852650/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/1861060/> .
+<https://sws.geonames.org/1852650/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/1861060/> .
+<https://sws.geonames.org/1852650/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/1852650/nearby.rdf> .
+<https://sws.geonames.org/1852650/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/1852650/inland-sea.html> .
+<https://sws.geonames.org/1852650/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Seto-naikai> .
+<https://sws.geonames.org/1852650/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Seto-naikai> .
+<https://sws.geonames.org/1852650/> <http://www.geonames.org/ontology#wikipediaArticle> <https://ru.wikipedia.org/wiki/%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%BE%D0%B5_%D0%BC%D0%BE%D1%80%D0%B5> .
+<https://sws.geonames.org/1852650/> <http://www.geonames.org/ontology#wikipediaArticle> <https://uk.wikipedia.org/wiki/%D0%92%D0%BD%D1%83%D1%82%D1%80%D1%96%D1%88%D0%BD%D1%94_%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D1%8C%D0%BA%D0%B5_%D0%BC%D0%BE%D1%80%D0%B5> .
+<https://sws.geonames.org/1852650/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/1852650/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/1852650/> .
+<https://sws.geonames.org/1852650/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/1852650/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/1852650/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/1852650/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/1852650/about.rdf> <http://purl.org/dc/terms/modified> "2019-04-23"^^<https://www.w3.org/2001/XMLSchema#date> .
