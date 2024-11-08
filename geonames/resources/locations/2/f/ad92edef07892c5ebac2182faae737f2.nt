@@ -1,0 +1,27 @@
+<https://sws.geonames.org/4033681/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/4033681/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/4033681/about.rdf> .
+<https://sws.geonames.org/4033681/> <http://www.geonames.org/ontology#name> "Society Islands" .
+<https://sws.geonames.org/4033681/> <http://www.geonames.org/ontology#alternateName> "Archipel de Tahiti" .
+<https://sws.geonames.org/4033681/> <http://www.geonames.org/ontology#alternateName> "Gesellschaftsinseln"@de .
+<https://sws.geonames.org/4033681/> <http://www.geonames.org/ontology#alternateName> "Gesellschafts Inseln" .
+<https://sws.geonames.org/4033681/> <http://www.geonames.org/ontology#alternateName> "Îles de la Société"@fr .
+<https://sws.geonames.org/4033681/> <http://www.geonames.org/ontology#alternateName> "Ostrová Óbshchestva" .
+<https://sws.geonames.org/4033681/> <http://www.geonames.org/ontology#alternateName> "Society Islands"@en .
+<https://sws.geonames.org/4033681/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#T> .
+<https://sws.geonames.org/4033681/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#T.ISLS> .
+<https://sws.geonames.org/4033681/> <http://www.geonames.org/ontology#countryCode> "PF" .
+<https://sws.geonames.org/4033681/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "-17.17568" .
+<https://sws.geonames.org/4033681/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-150.38631" .
+<https://sws.geonames.org/4033681/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/4030656/> .
+<https://sws.geonames.org/4033681/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/4030656/> .
+<https://sws.geonames.org/4033681/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/4033681/nearby.rdf> .
+<https://sws.geonames.org/4033681/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/4033681/society-islands.html> .
+<https://sws.geonames.org/4033681/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Society_Islands> .
+<https://sws.geonames.org/4033681/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Society_Islands> .
+<https://sws.geonames.org/4033681/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/4033681/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/4033681/> .
+<https://sws.geonames.org/4033681/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/4033681/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/4033681/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/4033681/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/4033681/about.rdf> <http://purl.org/dc/terms/modified> "2023-09-08"^^<https://www.w3.org/2001/XMLSchema#date> .
