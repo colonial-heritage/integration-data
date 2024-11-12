@@ -1,0 +1,33 @@
+<https://sws.geonames.org/1806222/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/1806222/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/1806222/about.rdf> .
+<https://sws.geonames.org/1806222/> <http://www.geonames.org/ontology#name> "Jiangxi" .
+<https://sws.geonames.org/1806222/> <http://www.geonames.org/ontology#alternateName> "Chiang-hsi" .
+<https://sws.geonames.org/1806222/> <http://www.geonames.org/ontology#alternateName> "Chiang-hsi Sheng" .
+<https://sws.geonames.org/1806222/> <http://www.geonames.org/ontology#officialName> "Jiangxi"@en .
+<https://sws.geonames.org/1806222/> <http://www.geonames.org/ontology#alternateName> "Jiangxi" .
+<https://sws.geonames.org/1806222/> <http://www.geonames.org/ontology#alternateName> "Jiangxi Sheng" .
+<https://sws.geonames.org/1806222/> <http://www.geonames.org/ontology#alternateName> "Kiangsi Province" .
+<https://sws.geonames.org/1806222/> <http://www.geonames.org/ontology#alternateName> "Province de Jiangxi"@fr .
+<https://sws.geonames.org/1806222/> <http://www.geonames.org/ontology#alternateName> "江西"@zh .
+<https://sws.geonames.org/1806222/> <http://www.geonames.org/ontology#alternateName> "江西省"@zh .
+<https://sws.geonames.org/1806222/> <http://www.geonames.org/ontology#alternateName> "江西省" .
+<https://sws.geonames.org/1806222/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#A> .
+<https://sws.geonames.org/1806222/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#A.ADM1> .
+<https://sws.geonames.org/1806222/> <http://www.geonames.org/ontology#countryCode> "CN" .
+<https://sws.geonames.org/1806222/> <http://www.geonames.org/ontology#population> "44000000" .
+<https://sws.geonames.org/1806222/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "27.66667" .
+<https://sws.geonames.org/1806222/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "115.66667" .
+<https://sws.geonames.org/1806222/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/1814991/> .
+<https://sws.geonames.org/1806222/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/1814991/> .
+<https://sws.geonames.org/1806222/> <http://www.geonames.org/ontology#childrenFeatures> <https://sws.geonames.org/1806222/contains.rdf> .
+<https://sws.geonames.org/1806222/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/1806222/jiangxi-sheng.html> .
+<https://sws.geonames.org/1806222/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Jiangxi> .
+<https://sws.geonames.org/1806222/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Jiangxi> .
+<https://sws.geonames.org/1806222/> <http://www.geonames.org/ontology#wikipediaArticle> <https://ru.wikipedia.org/wiki/%D0%A6%D0%B7%D1%8F%D0%BD%D1%81%D0%B8> .
+<https://sws.geonames.org/1806222/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/1806222/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/1806222/> .
+<https://sws.geonames.org/1806222/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/1806222/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/1806222/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/1806222/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/1806222/about.rdf> <http://purl.org/dc/terms/modified> "2016-05-16"^^<https://www.w3.org/2001/XMLSchema#date> .
