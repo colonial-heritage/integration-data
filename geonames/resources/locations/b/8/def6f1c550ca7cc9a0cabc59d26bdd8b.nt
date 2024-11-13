@@ -1,0 +1,31 @@
+<https://sws.geonames.org/8354411/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/8354411/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/8354411/about.rdf> .
+<https://sws.geonames.org/8354411/> <http://www.geonames.org/ontology#name> "Soviet Union" .
+<https://sws.geonames.org/8354411/> <http://www.geonames.org/ontology#alternateName> "Neuvostoliitto"@fi .
+<https://sws.geonames.org/8354411/> <http://www.geonames.org/ontology#alternateName> "Sovetskiy Soyuz" .
+<https://sws.geonames.org/8354411/> <http://www.geonames.org/ontology#shortName> "Soviet Union"@en .
+<https://sws.geonames.org/8354411/> <http://www.geonames.org/ontology#alternateName> "Sovjet-Unie"@nl .
+<https://sws.geonames.org/8354411/> <http://www.geonames.org/ontology#alternateName> "Sowietunion"@de .
+<https://sws.geonames.org/8354411/> <http://www.geonames.org/ontology#alternateName> "Soyuz Sovetskikh Sotsialisticheskikh Respublik" .
+<https://sws.geonames.org/8354411/> <http://www.geonames.org/ontology#alternateName> "Union des républiques socialistes soviétiques"@fr .
+<https://sws.geonames.org/8354411/> <http://www.geonames.org/ontology#alternateName> "Union of Soviet Socialist Republics"@en .
+<https://sws.geonames.org/8354411/> <http://www.geonames.org/ontology#alternateName> "Union soviétique"@fr .
+<https://sws.geonames.org/8354411/> <http://www.geonames.org/ontology#shortName> "USSR"@en .
+<https://sws.geonames.org/8354411/> <http://www.geonames.org/ontology#alternateName> "Советский Союз"@ru .
+<https://sws.geonames.org/8354411/> <http://www.geonames.org/ontology#alternateName> "Союз Советских Социалистических Республик"@ru .
+<https://sws.geonames.org/8354411/> <http://www.geonames.org/ontology#shortName> "СССР"@ru .
+<https://sws.geonames.org/8354411/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#A> .
+<https://sws.geonames.org/8354411/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#A.PCLH> .
+<https://sws.geonames.org/8354411/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "60" .
+<https://sws.geonames.org/8354411/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "98" .
+<https://sws.geonames.org/8354411/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/6295630/> .
+<https://sws.geonames.org/8354411/> <http://www.geonames.org/ontology#childrenFeatures> <https://sws.geonames.org/8354411/contains.rdf> .
+<https://sws.geonames.org/8354411/> <http://www.geonames.org/ontology#neighbouringFeatures> <https://sws.geonames.org/8354411/neighbours.rdf> .
+<https://sws.geonames.org/8354411/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/8354411/union-of-soviet-socialist-republics.html> .
+<https://sws.geonames.org/8354411/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/8354411/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/8354411/> .
+<https://sws.geonames.org/8354411/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/8354411/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/8354411/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/8354411/about.rdf> <http://purl.org/dc/terms/created> "2012-07-21"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/8354411/about.rdf> <http://purl.org/dc/terms/modified> "2021-06-01"^^<https://www.w3.org/2001/XMLSchema#date> .
