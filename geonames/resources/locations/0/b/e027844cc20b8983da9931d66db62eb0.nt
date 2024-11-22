@@ -1,0 +1,31 @@
+<https://sws.geonames.org/3530367/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/3530367/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/3530367/about.rdf> .
+<https://sws.geonames.org/3530367/> <http://www.geonames.org/ontology#name> "Comitán" .
+<https://sws.geonames.org/3530367/> <http://www.geonames.org/ontology#alternateName> "Comitan" .
+<https://sws.geonames.org/3530367/> <http://www.geonames.org/ontology#shortName> "Comitán"@en .
+<https://sws.geonames.org/3530367/> <http://www.geonames.org/ontology#alternateName> "Comitán"@es .
+<https://sws.geonames.org/3530367/> <http://www.geonames.org/ontology#alternateName> "Comitán de Domínguez"@en .
+<https://sws.geonames.org/3530367/> <http://www.geonames.org/ontology#alternateName> "Comitán de Domínguez"@nl .
+<https://sws.geonames.org/3530367/> <http://www.geonames.org/ontology#alternateName> "Comitán de Domínguez" .
+<https://sws.geonames.org/3530367/> <http://www.geonames.org/ontology#alternateName> "Комитан-де-Домингес"@ru .
+<https://sws.geonames.org/3530367/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#P> .
+<https://sws.geonames.org/3530367/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#P.PPLA2> .
+<https://sws.geonames.org/3530367/> <http://www.geonames.org/ontology#countryCode> "MX" .
+<https://sws.geonames.org/3530367/> <http://www.geonames.org/ontology#population> "97537" .
+<https://sws.geonames.org/3530367/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "16.2471" .
+<https://sws.geonames.org/3530367/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-92.13515" .
+<https://sws.geonames.org/3530367/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/6955096/> .
+<https://sws.geonames.org/3530367/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/3996063/> .
+<https://sws.geonames.org/3530367/> <http://www.geonames.org/ontology#parentADM1> <https://sws.geonames.org/3531011/> .
+<https://sws.geonames.org/3530367/> <http://www.geonames.org/ontology#parentADM2> <https://sws.geonames.org/6955096/> .
+<https://sws.geonames.org/3530367/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/3530367/nearby.rdf> .
+<https://sws.geonames.org/3530367/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/3530367/comitan.html> .
+<https://sws.geonames.org/3530367/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Comit%C3%A1n> .
+<https://sws.geonames.org/3530367/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Comit%C3%A1n> .
+<https://sws.geonames.org/3530367/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/3530367/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/3530367/> .
+<https://sws.geonames.org/3530367/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/3530367/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/3530367/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/3530367/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/3530367/about.rdf> <http://purl.org/dc/terms/modified> "2018-11-03"^^<https://www.w3.org/2001/XMLSchema#date> .
