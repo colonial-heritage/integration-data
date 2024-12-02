@@ -1,6 +1,7 @@
 <https://sws.geonames.org/1809935/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
 <https://sws.geonames.org/1809935/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/1809935/about.rdf> .
 <https://sws.geonames.org/1809935/> <http://www.geonames.org/ontology#name> "Guangdong" .
+<https://sws.geonames.org/1809935/> <http://www.geonames.org/ontology#alternateName> "Canton"@zh .
 <https://sws.geonames.org/1809935/> <http://www.geonames.org/ontology#officialName> "Guangdong"@en .
 <https://sws.geonames.org/1809935/> <http://www.geonames.org/ontology#alternateName> "Guangdong Province"@en .
 <https://sws.geonames.org/1809935/> <http://www.geonames.org/ontology#alternateName> "Guangdong Sheng" .
@@ -32,4 +33,4 @@
 <https://sws.geonames.org/1809935/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
 <https://sws.geonames.org/1809935/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
 <https://sws.geonames.org/1809935/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
-<https://sws.geonames.org/1809935/about.rdf> <http://purl.org/dc/terms/modified> "2016-05-16"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/1809935/about.rdf> <http://purl.org/dc/terms/modified> "2024-11-21"^^<https://www.w3.org/2001/XMLSchema#date> .
