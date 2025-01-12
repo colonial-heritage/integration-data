@@ -101,6 +101,7 @@
 <https://sws.geonames.org/2205218/> <http://www.geonames.org/ontology#alternateName> "Îles Fidji"@fr .
 <https://sws.geonames.org/2205218/> <http://www.geonames.org/ontology#alternateName> "Insulae Vitienses"@la .
 <https://sws.geonames.org/2205218/> <http://www.geonames.org/ontology#alternateName> "Ishujt e Fildisht"@sq .
+<https://sws.geonames.org/2205218/> <http://www.geonames.org/ontology#alternateName> "Matanitu ko Viti"@fj .
 <https://sws.geonames.org/2205218/> <http://www.geonames.org/ontology#alternateName> "Phi-gi"@vi .
 <https://sws.geonames.org/2205218/> <http://www.geonames.org/ontology#alternateName> "Piyi"@tl .
 <https://sws.geonames.org/2205218/> <http://www.geonames.org/ontology#alternateName> "Republic of Fiji" .
@@ -144,6 +145,7 @@
 <https://sws.geonames.org/2205218/> <http://www.geonames.org/ontology#officialName> "फिजी"@ne .
 <https://sws.geonames.org/2205218/> <http://www.geonames.org/ontology#alternateName> "फिजी"@sa .
 <https://sws.geonames.org/2205218/> <http://www.geonames.org/ontology#officialName> "फ़िजी"@hi .
+<https://sws.geonames.org/2205218/> <http://www.geonames.org/ontology#alternateName> "फ़िजी गणराज्य"@hi .
 <https://sws.geonames.org/2205218/> <http://www.geonames.org/ontology#officialName> "ফিজি"@as .
 <https://sws.geonames.org/2205218/> <http://www.geonames.org/ontology#officialName> "ফিজি"@bn .
 <https://sws.geonames.org/2205218/> <http://www.geonames.org/ontology#officialName> "ਫ਼ਿਜੀ"@pa .
@@ -175,7 +177,7 @@
 <https://sws.geonames.org/2205218/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/7729899/> .
 <https://sws.geonames.org/2205218/> <http://www.geonames.org/ontology#childrenFeatures> <https://sws.geonames.org/2205218/contains.rdf> .
 <https://sws.geonames.org/2205218/> <http://www.geonames.org/ontology#neighbouringFeatures> <https://sws.geonames.org/2205218/neighbours.rdf> .
-<https://sws.geonames.org/2205218/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/2205218/republic-of-fiji.html> .
+<https://sws.geonames.org/2205218/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/2205218/viti.html> .
 <https://sws.geonames.org/2205218/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Fiji> .
 <https://sws.geonames.org/2205218/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Fiji> .
 <https://sws.geonames.org/2205218/> <http://www.geonames.org/ontology#wikipediaArticle> <https://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D0%B4%D0%B6%D0%B8> .
@@ -185,4 +187,4 @@
 <https://sws.geonames.org/2205218/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
 <https://sws.geonames.org/2205218/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
 <https://sws.geonames.org/2205218/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
-<https://sws.geonames.org/2205218/about.rdf> <http://purl.org/dc/terms/modified> "2023-11-10"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/2205218/about.rdf> <http://purl.org/dc/terms/modified> "2025-01-10"^^<https://www.w3.org/2001/XMLSchema#date> .
