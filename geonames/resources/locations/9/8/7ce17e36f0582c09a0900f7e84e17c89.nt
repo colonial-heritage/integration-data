@@ -1,0 +1,21 @@
+<https://sws.geonames.org/9011078/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/9011078/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/9011078/about.rdf> .
+<https://sws.geonames.org/9011078/> <http://www.geonames.org/ontology#name> "La Higuera" .
+<https://sws.geonames.org/9011078/> <http://www.geonames.org/ontology#alternateName> "La Higuera"@es .
+<https://sws.geonames.org/9011078/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#L> .
+<https://sws.geonames.org/9011078/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#L.LCTY> .
+<https://sws.geonames.org/9011078/> <http://www.geonames.org/ontology#countryCode> "MX" .
+<https://sws.geonames.org/9011078/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "26.8465" .
+<https://sws.geonames.org/9011078/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-112.17767" .
+<https://sws.geonames.org/9011078/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/4017698/> .
+<https://sws.geonames.org/9011078/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/3996063/> .
+<https://sws.geonames.org/9011078/> <http://www.geonames.org/ontology#parentADM1> <https://sws.geonames.org/4017698/> .
+<https://sws.geonames.org/9011078/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/9011078/nearby.rdf> .
+<https://sws.geonames.org/9011078/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/9011078/la-higuera.html> .
+<https://sws.geonames.org/9011078/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/9011078/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/9011078/> .
+<https://sws.geonames.org/9011078/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/9011078/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/9011078/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/9011078/about.rdf> <http://purl.org/dc/terms/created> "2014-05-02"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/9011078/about.rdf> <http://purl.org/dc/terms/modified> "2014-05-02"^^<https://www.w3.org/2001/XMLSchema#date> .
