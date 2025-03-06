@@ -1,0 +1,42 @@
+<https://sws.geonames.org/77111/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/77111/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/77111/about.rdf> .
+<https://sws.geonames.org/77111/> <http://www.geonames.org/ontology#name> "Perim" .
+<https://sws.geonames.org/77111/> <http://www.geonames.org/ontology#alternateName> "Barīm" .
+<https://sws.geonames.org/77111/> <http://www.geonames.org/ontology#alternateName> "Jazīrat Mayyūn" .
+<https://sws.geonames.org/77111/> <http://www.geonames.org/ontology#alternateName> "Jazīrat Miyūn" .
+<https://sws.geonames.org/77111/> <http://www.geonames.org/ontology#alternateName> "Maymūn" .
+<https://sws.geonames.org/77111/> <http://www.geonames.org/ontology#alternateName> "Mayūn" .
+<https://sws.geonames.org/77111/> <http://www.geonames.org/ontology#alternateName> "Mayyūn" .
+<https://sws.geonames.org/77111/> <http://www.geonames.org/ontology#alternateName> "Meyún" .
+<https://sws.geonames.org/77111/> <http://www.geonames.org/ontology#alternateName> "Perim"@ca .
+<https://sws.geonames.org/77111/> <http://www.geonames.org/ontology#alternateName> "Perim"@de .
+<https://sws.geonames.org/77111/> <http://www.geonames.org/ontology#alternateName> "Perim"@en .
+<https://sws.geonames.org/77111/> <http://www.geonames.org/ontology#alternateName> "Perim"@hr .
+<https://sws.geonames.org/77111/> <http://www.geonames.org/ontology#alternateName> "Perim"@it .
+<https://sws.geonames.org/77111/> <http://www.geonames.org/ontology#alternateName> "Perim"@pl .
+<https://sws.geonames.org/77111/> <http://www.geonames.org/ontology#alternateName> "Perim"@sv .
+<https://sws.geonames.org/77111/> <http://www.geonames.org/ontology#alternateName> "Perim Island"@en .
+<https://sws.geonames.org/77111/> <http://www.geonames.org/ontology#alternateName> "Perim Island" .
+<https://sws.geonames.org/77111/> <http://www.geonames.org/ontology#alternateName> "Перим"@ru .
+<https://sws.geonames.org/77111/> <http://www.geonames.org/ontology#alternateName> "جزيرة ميون"@ar .
+<https://sws.geonames.org/77111/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#T> .
+<https://sws.geonames.org/77111/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#T.ISL> .
+<https://sws.geonames.org/77111/> <http://www.geonames.org/ontology#countryCode> "YE" .
+<https://sws.geonames.org/77111/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "12.65692" .
+<https://sws.geonames.org/77111/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "43.42013" .
+<https://sws.geonames.org/77111/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/6940820/> .
+<https://sws.geonames.org/77111/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/69543/> .
+<https://sws.geonames.org/77111/> <http://www.geonames.org/ontology#parentADM1> <https://sws.geonames.org/80412/> .
+<https://sws.geonames.org/77111/> <http://www.geonames.org/ontology#parentADM2> <https://sws.geonames.org/6940820/> .
+<https://sws.geonames.org/77111/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/77111/nearby.rdf> .
+<https://sws.geonames.org/77111/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/77111/perim-island.html> .
+<https://sws.geonames.org/77111/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Perim> .
+<https://sws.geonames.org/77111/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Perim> .
+<https://sws.geonames.org/77111/> <http://www.geonames.org/ontology#wikipediaArticle> <https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B8%D0%BC> .
+<https://sws.geonames.org/77111/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/77111/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/77111/> .
+<https://sws.geonames.org/77111/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/77111/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/77111/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/77111/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/77111/about.rdf> <http://purl.org/dc/terms/modified> "2016-02-06"^^<https://www.w3.org/2001/XMLSchema#date> .
