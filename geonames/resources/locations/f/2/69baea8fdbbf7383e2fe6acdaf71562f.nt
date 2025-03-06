@@ -1,0 +1,30 @@
+<https://sws.geonames.org/1822077/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/1822077/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/1822077/about.rdf> .
+<https://sws.geonames.org/1822077/> <http://www.geonames.org/ontology#name> "Peam Chi Miet" .
+<https://sws.geonames.org/1822077/> <http://www.geonames.org/ontology#alternateName> "Ban Se Mat" .
+<https://sws.geonames.org/1822077/> <http://www.geonames.org/ontology#alternateName> "Peam Chi Miet"@km .
+<https://sws.geonames.org/1822077/> <http://www.geonames.org/ontology#alternateName> "Phumĭ Srê Mát" .
+<https://sws.geonames.org/1822077/> <http://www.geonames.org/ontology#alternateName> "Phumĭ Srê Moăt" .
+<https://sws.geonames.org/1822077/> <http://www.geonames.org/ontology#alternateName> "Phum Se Mat" .
+<https://sws.geonames.org/1822077/> <http://www.geonames.org/ontology#alternateName> "Sre Mat" .
+<https://sws.geonames.org/1822077/> <http://www.geonames.org/ontology#alternateName> "Srê Meăt" .
+<https://sws.geonames.org/1822077/> <http://www.geonames.org/ontology#alternateName> "Srê Moăt" .
+<https://sws.geonames.org/1822077/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#P> .
+<https://sws.geonames.org/1822077/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#P.PPL> .
+<https://sws.geonames.org/1822077/> <http://www.geonames.org/ontology#countryCode> "KH" .
+<https://sws.geonames.org/1822077/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.30473" .
+<https://sws.geonames.org/1822077/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "107.16792" .
+<https://sws.geonames.org/1822077/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/12205186/> .
+<https://sws.geonames.org/1822077/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/1831722/> .
+<https://sws.geonames.org/1822077/> <http://www.geonames.org/ontology#parentADM1> <https://sws.geonames.org/1830306/> .
+<https://sws.geonames.org/1822077/> <http://www.geonames.org/ontology#parentADM2> <https://sws.geonames.org/9253783/> .
+<https://sws.geonames.org/1822077/> <http://www.geonames.org/ontology#parentADM3> <https://sws.geonames.org/12205186/> .
+<https://sws.geonames.org/1822077/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/1822077/nearby.rdf> .
+<https://sws.geonames.org/1822077/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/1822077/peam-chi-miet.html> .
+<https://sws.geonames.org/1822077/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/1822077/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/1822077/> .
+<https://sws.geonames.org/1822077/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/1822077/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/1822077/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/1822077/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/1822077/about.rdf> <http://purl.org/dc/terms/modified> "2020-12-30"^^<https://www.w3.org/2001/XMLSchema#date> .
