@@ -1,6 +1,7 @@
 <https://sws.geonames.org/1852486/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
 <https://sws.geonames.org/1852486/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/1852486/about.rdf> .
-<https://sws.geonames.org/1852486/> <http://www.geonames.org/ontology#name> "Shikoku Chihō" .
+<https://sws.geonames.org/1852486/> <http://www.geonames.org/ontology#name> "Shikoku" .
+<https://sws.geonames.org/1852486/> <http://www.geonames.org/ontology#officialName> "Shikoku"@en .
 <https://sws.geonames.org/1852486/> <http://www.geonames.org/ontology#alternateName> "Shikoku-chihō" .
 <https://sws.geonames.org/1852486/> <http://www.geonames.org/ontology#alternateName> "Shikoku Chihō" .
 <https://sws.geonames.org/1852486/> <http://www.geonames.org/ontology#alternateName> "四国地方"@ja .
@@ -22,4 +23,4 @@
 <https://sws.geonames.org/1852486/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
 <https://sws.geonames.org/1852486/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
 <https://sws.geonames.org/1852486/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
-<https://sws.geonames.org/1852486/about.rdf> <http://purl.org/dc/terms/modified> "2016-09-20"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/1852486/about.rdf> <http://purl.org/dc/terms/modified> "2025-04-04"^^<https://www.w3.org/2001/XMLSchema#date> .
