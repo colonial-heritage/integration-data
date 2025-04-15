@@ -1,0 +1,26 @@
+<https://sws.geonames.org/1213519/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/1213519/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/1213519/about.rdf> .
+<https://sws.geonames.org/1213519/> <http://www.geonames.org/ontology#name> "South Tapanuli Regency" .
+<https://sws.geonames.org/1213519/> <http://www.geonames.org/ontology#alternateName> "Daerah Tingkat II Tapanuli Selatan" .
+<https://sws.geonames.org/1213519/> <http://www.geonames.org/ontology#alternateName> "Kabupaten Tapanuli Selatan"@id .
+<https://sws.geonames.org/1213519/> <http://www.geonames.org/ontology#alternateName> "South Tapanuli Regency"@en .
+<https://sws.geonames.org/1213519/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#A> .
+<https://sws.geonames.org/1213519/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#A.ADM2> .
+<https://sws.geonames.org/1213519/> <http://www.geonames.org/ontology#countryCode> "ID" .
+<https://sws.geonames.org/1213519/> <http://www.geonames.org/ontology#population> "307312" .
+<https://sws.geonames.org/1213519/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "1.51667" .
+<https://sws.geonames.org/1213519/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "99.25" .
+<https://sws.geonames.org/1213519/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/1213642/> .
+<https://sws.geonames.org/1213519/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/1643084/> .
+<https://sws.geonames.org/1213519/> <http://www.geonames.org/ontology#parentADM1> <https://sws.geonames.org/1213642/> .
+<https://sws.geonames.org/1213519/> <http://www.geonames.org/ontology#childrenFeatures> <https://sws.geonames.org/1213519/contains.rdf> .
+<https://sws.geonames.org/1213519/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/1213519/south-tapanuli-regency.html> .
+<https://sws.geonames.org/1213519/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/South_Tapanuli_Regency> .
+<https://sws.geonames.org/1213519/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/South_Tapanuli_Regency> .
+<https://sws.geonames.org/1213519/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/1213519/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/1213519/> .
+<https://sws.geonames.org/1213519/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/1213519/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/1213519/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/1213519/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/1213519/about.rdf> <http://purl.org/dc/terms/modified> "2023-06-27"^^<https://www.w3.org/2001/XMLSchema#date> .
