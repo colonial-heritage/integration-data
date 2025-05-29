@@ -1,0 +1,33 @@
+<https://sws.geonames.org/6546275/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/6546275/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/6546275/about.rdf> .
+<https://sws.geonames.org/6546275/> <http://www.geonames.org/ontology#name> "Figuig" .
+<https://sws.geonames.org/6546275/> <http://www.geonames.org/ontology#officialName> "Figuig"@fr .
+<https://sws.geonames.org/6546275/> <http://www.geonames.org/ontology#alternateName> "Figuig (Commune Urbaine)"@fr .
+<https://sws.geonames.org/6546275/> <http://www.geonames.org/ontology#alternateName> "Figuig (MU)"@fr .
+<https://sws.geonames.org/6546275/> <http://www.geonames.org/ontology#alternateName> "Fikīk" .
+<https://sws.geonames.org/6546275/> <http://www.geonames.org/ontology#alternateName> "بوعرفة (البلدية)"@ar .
+<https://sws.geonames.org/6546275/> <http://www.geonames.org/ontology#shortName> "فجيج"@ar .
+<https://sws.geonames.org/6546275/> <http://www.geonames.org/ontology#shortName> "فقيق"@ar .
+<https://sws.geonames.org/6546275/> <http://www.geonames.org/ontology#officialName> "فكيك"@ar .
+<https://sws.geonames.org/6546275/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#A> .
+<https://sws.geonames.org/6546275/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#A.ADM3> .
+<https://sws.geonames.org/6546275/> <http://www.geonames.org/ontology#countryCode> "MA" .
+<https://sws.geonames.org/6546275/> <http://www.geonames.org/ontology#population> "12516" .
+<https://sws.geonames.org/6546275/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "32.08011" .
+<https://sws.geonames.org/6546275/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-1.23902" .
+<https://sws.geonames.org/6546275/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/2548849/> .
+<https://sws.geonames.org/6546275/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/2542007/> .
+<https://sws.geonames.org/6546275/> <http://www.geonames.org/ontology#parentADM1> <https://sws.geonames.org/11281875/> .
+<https://sws.geonames.org/6546275/> <http://www.geonames.org/ontology#parentADM2> <https://sws.geonames.org/2548849/> .
+<https://sws.geonames.org/6546275/> <http://www.geonames.org/ontology#childrenFeatures> <https://sws.geonames.org/6546275/contains.rdf> .
+<https://sws.geonames.org/6546275/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/6546275/figuig.html> .
+<https://sws.geonames.org/6546275/> <http://www.geonames.org/ontology#wikipediaArticle> <https://ar.wikipedia.org/wiki/%D9%81%D9%83%D9%8A%D9%83> .
+<https://sws.geonames.org/6546275/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Figuig> .
+<https://sws.geonames.org/6546275/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Figuig> .
+<https://sws.geonames.org/6546275/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/6546275/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/6546275/> .
+<https://sws.geonames.org/6546275/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/6546275/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/6546275/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/6546275/about.rdf> <http://purl.org/dc/terms/created> "2007-07-08"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/6546275/about.rdf> <http://purl.org/dc/terms/modified> "2019-03-13"^^<https://www.w3.org/2001/XMLSchema#date> .
