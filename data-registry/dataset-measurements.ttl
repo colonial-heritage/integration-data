@@ -162,23 +162,23 @@ cc-measurements:06c06df2-b809-4cd7-ae7e-36b711345dc5
 # Rijksmuseum - Objects
 ##################################################
 
-<https://acc.id.rijksmuseum.nl/2601>
+<https://id.rijksmuseum.nl/260210>
   dqv:hasQualityMeasurement cc-measurements:961180d9-e04b-4542-af23-b01800ca0dd9 ,
                             cc-measurements:90be7294-c3b5-4203-b3e3-d08f0e95405b .
 
 cc-measurements:961180d9-e04b-4542-af23-b01800ca0dd9
   a dqv:QualityMeasurement ;
-  dqv:computedOn <https://acc.id.rijksmuseum.nl/2601> ;
+  dqv:computedOn <https://id.rijksmuseum.nl/260210> ;
   dqv:isMeasurementOf cc-metrics:languages ;
-  dqv:value "false"^^xsd:boolean .
+  dqv:value "true"^^xsd:boolean .
 
 cc-measurements:90be7294-c3b5-4203-b3e3-d08f0e95405b
   a dqv:QualityMeasurement ;
-  dqv:computedOn <https://acc.id.rijksmuseum.nl/2601> ;
+  dqv:computedOn <https://id.rijksmuseum.nl/260210> ;
   dqv:isMeasurementOf cc-metrics:open-license ;
   dqv:value "true"^^xsd:boolean .
 
-<https://acc.data.rijksmuseum.nl/cd/against-opacity/collection.json>
+<https://data.rijksmuseum.nl/ldes/dataset/260210/collection.json>
   dqv:hasQualityMeasurement cc-measurements:701a71c1-0d4d-40d9-a8d2-8af0489c8dcc ,
                             cc-measurements:107f471d-9b02-409c-9986-89ee8fc75fed ,
                             cc-measurements:a4592939-9917-42c2-97ad-891b116293db ,
@@ -186,24 +186,24 @@ cc-measurements:90be7294-c3b5-4203-b3e3-d08f0e95405b
 
 cc-measurements:701a71c1-0d4d-40d9-a8d2-8af0489c8dcc
   a dqv:QualityMeasurement ;
-  dqv:computedOn <https://acc.data.rijksmuseum.nl/cd/against-opacity/collection.json> ;
+  dqv:computedOn <https://data.rijksmuseum.nl/ldes/dataset/260210/collection.json> ;
   dqv:isMeasurementOf cc-metrics:online ;
   dqv:value "true"^^xsd:boolean .
 
 cc-measurements:107f471d-9b02-409c-9986-89ee8fc75fed
   a dqv:QualityMeasurement ;
-  dqv:computedOn <https://acc.data.rijksmuseum.nl/cd/against-opacity/collection.json> ;
+  dqv:computedOn <https://data.rijksmuseum.nl/ldes/dataset/260210/collection.json> ;
   dqv:isMeasurementOf cc-metrics:structured-format ;
   dqv:value "true"^^xsd:boolean .
 
 cc-measurements:a4592939-9917-42c2-97ad-891b116293db
   a dqv:QualityMeasurement ;
-  dqv:computedOn <https://acc.data.rijksmuseum.nl/cd/against-opacity/collection.json> ;
+  dqv:computedOn <https://data.rijksmuseum.nl/ldes/dataset/260210/collection.json> ;
   dqv:isMeasurementOf cc-metrics:open-format ;
   dqv:value "true"^^xsd:boolean .
 
 cc-measurements:b80f9a8a-b0de-4fdd-bca4-8d7a641e883a
   a dqv:QualityMeasurement ;
-  dqv:computedOn <https://acc.data.rijksmuseum.nl/cd/against-opacity/collection.json> ;
+  dqv:computedOn <https://data.rijksmuseum.nl/ldes/dataset/260210/collection.json> ;
   dqv:isMeasurementOf cc-metrics:rdf-format ;
   dqv:value "true"^^xsd:boolean .

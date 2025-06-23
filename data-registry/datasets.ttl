@@ -4,17 +4,18 @@
 
 @prefix schema: <https://schema.org/> .
 
-# Source: https://acc.data.rijksmuseum.nl/2601
-<https://acc.id.rijksmuseum.nl/2601>
-  a schema:Dataset ;
-  schema:name "Against Opacity dataset created by Rijksmuseum" ;
-  schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-  schema:publisher <https://www.rijksmuseum.nl/> ;
-  schema:description "Dataset containing metadata about objects in the collection of the Rijksmuseum, that might be relevant for the Colonial Heritage Consortium. Compiled for the \"Against Opacity\" program in 2024." ;
-  schema:distribution <https://acc.data.rijksmuseum.nl/cd/against-opacity/collection.json> .
+# Source: https://data.rijksmuseum.nl/260210?_profile=schema-framed
 
-<https://acc.data.rijksmuseum.nl/cd/against-opacity/collection.json>
+<https://id.rijksmuseum.nl/260210>
+  a schema:Dataset ;
+  schema:name "Against Opacity" ;
+  schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+  schema:publisher <https://id.rijksmuseum.nl/110378> ;
+  schema:description "The Rijksmuseum tells the story of 800 years of Dutch history to the present day. Its collection comprises one million art historical objects, including those with a relation to formerly colonised territories. The Rijksmuseum is aware of the question of the legitimacy of managing objects acquired in a colonial context. It considers cooperation with partners from countries of origin and the Colonial Heritage Consortium a priority.\nThis dataset of object descriptions is compiled for the Colonial Heritage Consortium 'Against Opacity' (2024) programme. It currently includes objects from Indonesia, Sri Lanka, Suriname, Aruba, Cura\u00e7ao, Sint Maarten, and the Caribbean Netherlands (Bonaire, St. Eustatius, and Saba). The goal is to expand the dataset with more objects from the other Dutch colonised territories and trading posts over time. For more information and to access the entire Rijksmuseum collection: https://www.rijksmuseum.nl/en/rijksstudio" ;
+  schema:distribution <https://data.rijksmuseum.nl/ldes/dataset/260210/collection.json> .
+
+<https://data.rijksmuseum.nl/ldes/dataset/260210/collection.json>
   a schema:DataDownload ;
-  schema:name "Against Opacity IIIF Change Discovery API" ;
-  schema:contentUrl <https://acc.data.rijksmuseum.nl/cd/against-opacity/collection.json> ;
+  schema:name "Against Opacity LDES API" ;
+  schema:contentUrl <https://data.rijksmuseum.nl/ldes/dataset/260210/collection.json> ;
   schema:encodingFormat "application/ld+json" .

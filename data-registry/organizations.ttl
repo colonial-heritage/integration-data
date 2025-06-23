@@ -42,7 +42,8 @@
   ] .
 
 # TODO: replace with actual IRI as soon as Rijksmuseum has published its dataset in the NDE Dataset Register
-<https://www.rijksmuseum.nl/>
+# Based upon: https://data.rijksmuseum.nl/260210?_profile=schema-framed
+<https://id.rijksmuseum.nl/110378>
   a schema:Organization ;
   schema:name "Rijksmuseum"@nl, "Rijksmuseum"@en ;
   schema:url <https://www.rijksmuseum.nl/> ;
