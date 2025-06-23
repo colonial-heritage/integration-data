@@ -7,7 +7,7 @@ WHERE {
     SELECT ?this
     WHERE {
       ?this a crm:E22_Human-Made_Object ;
-        la:member_of <https://acc.id.rijksmuseum.nl/2601> .
+        la:member_of <https://id.rijksmuseum.nl/260210> .
     }
   }
 }

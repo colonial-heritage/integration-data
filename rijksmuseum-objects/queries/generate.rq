@@ -18,10 +18,10 @@ CONSTRUCT {
     #cc:additionalType_nl ?typeNameNl ;
     cc:identifier ?identifier ;
     cc:name ?name ;
-    cc:description ?description ;
+    cc:description ?description ; # Only for indexing
     #cc:material_en ?materialNameEn ;
     #cc:material_nl ?materialNameNl ;
-    cc:inscription ?inscription ;
+    cc:inscription ?inscription ; # Only for indexing
     #cc:creator ?creatorName ;
     cc:yearCreatedStart ?beginOfTheBeginYear ;
     cc:yearCreatedEnd ?endOfTheEndYear ;
@@ -75,7 +75,7 @@ WHERE {
   }
 
   ####################
-  # Description
+  # Description - both in Dutch and English
   ####################
 
   OPTIONAL {
@@ -106,13 +106,14 @@ WHERE {
   #}
 
   ####################
-  # Inscription
+  # Inscription - both in Dutch and English
+  # Example: https://n2t.net/ark:/27023/01cddb5b67c8fcbebac86664e57f3efc
   ####################
 
   OPTIONAL {
     ?this crm:P128_carries [
-      crm:P2_has_type <http://vocab.getty.edu/aat/300028702> ; # Inscription
-      crm:P190_has_symbolic_content ?inscription ;
+      crm:P2_has_type <http://vocab.getty.edu/aat/300435414> ; # Inscription description
+      crm:P190_has_symbolic_content ?inscription
     ] .
   }
 
