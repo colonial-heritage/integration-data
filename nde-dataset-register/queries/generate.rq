@@ -51,7 +51,7 @@ WHERE {
   OPTIONAL {
     ?this dcat:distribution ?distribution .
     ?distribution dcat:accessURL ?distributionUrl ;
-      dct:format ?distributionFormat .
+      dcat:mediaType ?distributionFormat .
   }
 
   ?publisher a foaf:Organization ;
