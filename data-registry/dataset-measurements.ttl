@@ -128,7 +128,7 @@ cc-measurements:7e17d901-4dce-496d-a24d-653b16f14c3c
   dqv:isMeasurementOf cc-metrics:open-license ;
   dqv:value "true"^^xsd:boolean .
 
-<https://data.colonialcollections.nl/Bronbeek/Stamboeken/sparql/Stamboeken>
+<https://data.colonialcollections.nl/Bronbeek/Stamboeken/services/Stamboeken>
   dqv:hasQualityMeasurement cc-measurements:843b69ed-ae98-4769-840c-6e45cc7076a0 ,
                             cc-measurements:a5bfe798-7573-454a-8a4d-f04f02fc2a9e ,
                             cc-measurements:e1627408-2941-47e8-a495-c3002bc28636 ,
@@ -136,25 +136,25 @@ cc-measurements:7e17d901-4dce-496d-a24d-653b16f14c3c
 
 cc-measurements:843b69ed-ae98-4769-840c-6e45cc7076a0
   a dqv:QualityMeasurement ;
-  dqv:computedOn <https://data.colonialcollections.nl/Bronbeek/Stamboeken/sparql/Stamboeken> ;
+  dqv:computedOn <https://data.colonialcollections.nl/Bronbeek/Stamboeken/services/Stamboeken> ;
   dqv:isMeasurementOf cc-metrics:online ;
   dqv:value "true"^^xsd:boolean .
 
 cc-measurements:a5bfe798-7573-454a-8a4d-f04f02fc2a9e
   a dqv:QualityMeasurement ;
-  dqv:computedOn <https://data.colonialcollections.nl/Bronbeek/Stamboeken/sparql/Stamboeken> ;
+  dqv:computedOn <https://data.colonialcollections.nl/Bronbeek/Stamboeken/services/Stamboeken> ;
   dqv:isMeasurementOf cc-metrics:structured-format ;
   dqv:value "true"^^xsd:boolean .
 
 cc-measurements:e1627408-2941-47e8-a495-c3002bc28636
   a dqv:QualityMeasurement ;
-  dqv:computedOn <https://data.colonialcollections.nl/Bronbeek/Stamboeken/sparql/Stamboeken> ;
+  dqv:computedOn <https://data.colonialcollections.nl/Bronbeek/Stamboeken/services/Stamboeken> ;
   dqv:isMeasurementOf cc-metrics:open-format ;
   dqv:value "true"^^xsd:boolean .
 
 cc-measurements:06c06df2-b809-4cd7-ae7e-36b711345dc5
   a dqv:QualityMeasurement ;
-  dqv:computedOn <https://data.colonialcollections.nl/Bronbeek/Stamboeken/sparql/Stamboeken> ;
+  dqv:computedOn <https://data.colonialcollections.nl/Bronbeek/Stamboeken/services/Stamboeken> ;
   dqv:isMeasurementOf cc-metrics:rdf-format ;
   dqv:value "true"^^xsd:boolean .
 
