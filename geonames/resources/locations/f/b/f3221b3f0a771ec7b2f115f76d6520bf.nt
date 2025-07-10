@@ -1,0 +1,40 @@
+<https://sws.geonames.org/3980760/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/3980760/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/3980760/about.rdf> .
+<https://sws.geonames.org/3980760/> <http://www.geonames.org/ontology#name> "Uruapan" .
+<https://sws.geonames.org/3980760/> <http://www.geonames.org/ontology#alternateName> "우루아판"@ko .
+<https://sws.geonames.org/3980760/> <http://www.geonames.org/ontology#alternateName> "Opština Uruapan"@hbs .
+<https://sws.geonames.org/3980760/> <http://www.geonames.org/ontology#alternateName> "Uruapan"@de .
+<https://sws.geonames.org/3980760/> <http://www.geonames.org/ontology#alternateName> "Uruapan"@en .
+<https://sws.geonames.org/3980760/> <http://www.geonames.org/ontology#alternateName> "Uruapan"@es .
+<https://sws.geonames.org/3980760/> <http://www.geonames.org/ontology#alternateName> "Uruapan"@sv .
+<https://sws.geonames.org/3980760/> <http://www.geonames.org/ontology#alternateName> "Uruapan" .
+<https://sws.geonames.org/3980760/> <http://www.geonames.org/ontology#alternateName> "Uruapan del Progreso"@nl .
+<https://sws.geonames.org/3980760/> <http://www.geonames.org/ontology#alternateName> "Uruapan del Progreso" .
+<https://sws.geonames.org/3980760/> <http://www.geonames.org/ontology#alternateName> "Ουρουάπαν"@el .
+<https://sws.geonames.org/3980760/> <http://www.geonames.org/ontology#alternateName> "Уруапан"@bg .
+<https://sws.geonames.org/3980760/> <http://www.geonames.org/ontology#alternateName> "Уруапан"@ru .
+<https://sws.geonames.org/3980760/> <http://www.geonames.org/ontology#alternateName> "Уруапан дел Прогресо"@sr .
+<https://sws.geonames.org/3980760/> <http://www.geonames.org/ontology#alternateName> "اورواپان"@fa .
+<https://sws.geonames.org/3980760/> <http://www.geonames.org/ontology#alternateName> "اورواپان"@ur .
+<https://sws.geonames.org/3980760/> <http://www.geonames.org/ontology#alternateName> "烏魯阿潘"@zh .
+<https://sws.geonames.org/3980760/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#P> .
+<https://sws.geonames.org/3980760/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#P.PPLA2> .
+<https://sws.geonames.org/3980760/> <http://www.geonames.org/ontology#countryCode> "MX" .
+<https://sws.geonames.org/3980760/> <http://www.geonames.org/ontology#population> "356786" .
+<https://sws.geonames.org/3980760/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "19.41116" .
+<https://sws.geonames.org/3980760/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-102.05644" .
+<https://sws.geonames.org/3980760/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/8582359/> .
+<https://sws.geonames.org/3980760/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/3996063/> .
+<https://sws.geonames.org/3980760/> <http://www.geonames.org/ontology#parentADM1> <https://sws.geonames.org/3995955/> .
+<https://sws.geonames.org/3980760/> <http://www.geonames.org/ontology#parentADM2> <https://sws.geonames.org/8582359/> .
+<https://sws.geonames.org/3980760/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/3980760/nearby.rdf> .
+<https://sws.geonames.org/3980760/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/3980760/uruapan.html> .
+<https://sws.geonames.org/3980760/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Uruapan> .
+<https://sws.geonames.org/3980760/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Uruapan> .
+<https://sws.geonames.org/3980760/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/3980760/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/3980760/> .
+<https://sws.geonames.org/3980760/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/3980760/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/3980760/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/3980760/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/3980760/about.rdf> <http://purl.org/dc/terms/modified> "2023-02-01"^^<https://www.w3.org/2001/XMLSchema#date> .
