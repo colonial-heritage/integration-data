@@ -52,6 +52,7 @@
 <https://sws.geonames.org/3911925/> <http://www.geonames.org/ontology#alternateName> "Ла Паз"@mk .
 <https://sws.geonames.org/3911925/> <http://www.geonames.org/ontology#alternateName> "Ла Паз"@sr .
 <https://sws.geonames.org/3911925/> <http://www.geonames.org/ontology#alternateName> "Ла Пас"@bg .
+<https://sws.geonames.org/3911925/> <http://www.geonames.org/ontology#alternateName> "Ла Пас"@sr .
 <https://sws.geonames.org/3911925/> <http://www.geonames.org/ontology#alternateName> "Ла-Пас"@be .
 <https://sws.geonames.org/3911925/> <http://www.geonames.org/ontology#alternateName> "Ла-Пас"@kk .
 <https://sws.geonames.org/3911925/> <http://www.geonames.org/ontology#alternateName> "Ла-Пас"@os .
@@ -85,7 +86,9 @@
 <https://sws.geonames.org/3911925/> <http://www.geonames.org/ontology#population> "2004652" .
 <https://sws.geonames.org/3911925/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "-16.5" .
 <https://sws.geonames.org/3911925/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-68.15" .
+<https://sws.geonames.org/3911925/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/3911924/> .
 <https://sws.geonames.org/3911925/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/3923057/> .
+<https://sws.geonames.org/3911925/> <http://www.geonames.org/ontology#parentADM1> <https://sws.geonames.org/3911924/> .
 <https://sws.geonames.org/3911925/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/3911925/nearby.rdf> .
 <https://sws.geonames.org/3911925/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/3911925/la-paz.html> .
 <https://sws.geonames.org/3911925/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/La_Paz> .
@@ -98,4 +101,4 @@
 <https://sws.geonames.org/3911925/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
 <https://sws.geonames.org/3911925/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
 <https://sws.geonames.org/3911925/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
-<https://sws.geonames.org/3911925/about.rdf> <http://purl.org/dc/terms/modified> "2021-11-27"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/3911925/about.rdf> <http://purl.org/dc/terms/modified> "2025-07-19"^^<https://www.w3.org/2001/XMLSchema#date> .
