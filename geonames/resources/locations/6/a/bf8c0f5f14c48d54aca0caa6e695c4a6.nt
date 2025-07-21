@@ -96,7 +96,7 @@
 <https://sws.geonames.org/5391959/> <http://www.geonames.org/ontology#alternateName> "ਸੈਨ ਫਰਾਂਸਿਸਕੋ"@pa .
 <https://sws.geonames.org/5391959/> <http://www.geonames.org/ontology#alternateName> "சான் பிரான்சிஸ்கோ"@ta .
 <https://sws.geonames.org/5391959/> <http://www.geonames.org/ontology#alternateName> "శాన్ ఫ్రాన్సిస్కో"@te .
-<https://sws.geonames.org/5391959/> <http://www.geonames.org/ontology#alternateName> "��ാൻ ഫ്രാൻസിസ്കോ"@ml .
+<https://sws.geonames.org/5391959/> <http://www.geonames.org/ontology#alternateName> "സാൻ ഫ്രാൻസിസ്കോ"@ml .
 <https://sws.geonames.org/5391959/> <http://www.geonames.org/ontology#alternateName> "සැන් ෆ්‍රැන්සිස්කෝ"@si .
 <https://sws.geonames.org/5391959/> <http://www.geonames.org/ontology#alternateName> "ซานฟรานซิสโก"@th .
 <https://sws.geonames.org/5391959/> <http://www.geonames.org/ontology#alternateName> "སན་ཧྥུ་རན་སིས་ཁོ"@bo .
@@ -162,7 +162,10 @@
 <https://sws.geonames.org/5391959/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "37.77493" .
 <https://sws.geonames.org/5391959/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-122.41942" .
 <https://sws.geonames.org/5391959/> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "16" .
+<https://sws.geonames.org/5391959/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/5391997/> .
 <https://sws.geonames.org/5391959/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/6252001/> .
+<https://sws.geonames.org/5391959/> <http://www.geonames.org/ontology#parentADM1> <https://sws.geonames.org/5332921/> .
+<https://sws.geonames.org/5391959/> <http://www.geonames.org/ontology#parentADM2> <https://sws.geonames.org/5391997/> .
 <https://sws.geonames.org/5391959/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/5391959/nearby.rdf> .
 <https://sws.geonames.org/5391959/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/5391959/san-francisco.html> .
 <https://sws.geonames.org/5391959/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/San_Francisco> .
