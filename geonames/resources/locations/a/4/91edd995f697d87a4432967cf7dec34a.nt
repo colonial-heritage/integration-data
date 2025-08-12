@@ -1,0 +1,25 @@
+<https://sws.geonames.org/212508/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/212508/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/212508/about.rdf> .
+<https://sws.geonames.org/212508/> <http://www.geonames.org/ontology#name> "Lake Kivu" .
+<https://sws.geonames.org/212508/> <http://www.geonames.org/ontology#alternateName> "Ikiyaga cya Kivu"@rw .
+<https://sws.geonames.org/212508/> <http://www.geonames.org/ontology#officialName> "Kiwusee"@de .
+<https://sws.geonames.org/212508/> <http://www.geonames.org/ontology#officialName> "Lac Kivu"@fr .
+<https://sws.geonames.org/212508/> <http://www.geonames.org/ontology#officialName> "Lake Kivu"@en .
+<https://sws.geonames.org/212508/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#H> .
+<https://sws.geonames.org/212508/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#H.LK> .
+<https://sws.geonames.org/212508/> <http://www.geonames.org/ontology#countryCode> "CD" .
+<https://sws.geonames.org/212508/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "-2" .
+<https://sws.geonames.org/212508/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "29.16667" .
+<https://sws.geonames.org/212508/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/203312/> .
+<https://sws.geonames.org/212508/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/203312/> .
+<https://sws.geonames.org/212508/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/212508/nearby.rdf> .
+<https://sws.geonames.org/212508/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/212508/lac-kivu.html> .
+<https://sws.geonames.org/212508/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Lake_Kivu> .
+<https://sws.geonames.org/212508/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Lake_Kivu> .
+<https://sws.geonames.org/212508/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/212508/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/212508/> .
+<https://sws.geonames.org/212508/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/212508/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/212508/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/212508/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/212508/about.rdf> <http://purl.org/dc/terms/modified> "2013-11-25"^^<https://www.w3.org/2001/XMLSchema#date> .
