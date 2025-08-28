@@ -80,10 +80,10 @@
 <https://n2t.net/ark:/27023/3decf8737c093909d953602069d38574> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3decf8737c093909d953602069d38574> <https://colonialcollections.nl/schema#identifier> "RP-F-2019-299-52-11" .
 <https://n2t.net/ark:/27023/3decf8737c093909d953602069d38574> <https://colonialcollections.nl/schema#name> "Fotoreproductie van een muurschildering" .
-<https://n2t.net/ark:/27023/3decf8737c093909d953602069d38574> <https://colonialcollections.nl/schema#yearCreatedStart> "1966"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/3decf8737c093909d953602069d38574> <https://colonialcollections.nl/schema#yearCreatedStart> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/3decf8737c093909d953602069d38574> <https://colonialcollections.nl/schema#yearCreatedEnd> "1966"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/3decf8737c093909d953602069d38574> <https://colonialcollections.nl/schema#yearCreatedStart> "1966"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/3decf8737c093909d953602069d38574> <https://colonialcollections.nl/schema#yearCreatedEnd> "1990"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/3decf8737c093909d953602069d38574> <https://colonialcollections.nl/schema#yearCreatedEnd> "1966"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/3decf8737c093909d953602069d38574> <https://colonialcollections.nl/schema#publisher_en> "Rijksmuseum"@en .
 <https://n2t.net/ark:/27023/3decf8737c093909d953602069d38574> <https://colonialcollections.nl/schema#publisher_nl> "Rijksmuseum"@nl .
 <https://n2t.net/ark:/27023/3decf9894cca9e1feeb1812077eb4b62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
@@ -475,8 +475,8 @@
 <https://n2t.net/ark:/27023/3e7816c20b7cbf2a94cd98799a0e459f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3e7816c20b7cbf2a94cd98799a0e459f> <https://colonialcollections.nl/schema#identifier> "RP-F-F03409-17-2" .
 <https://n2t.net/ark:/27023/3e7816c20b7cbf2a94cd98799a0e459f> <https://colonialcollections.nl/schema#name> "Dootje van Zijll de Jong en Lala" .
-<https://n2t.net/ark:/27023/3e7816c20b7cbf2a94cd98799a0e459f> <https://colonialcollections.nl/schema#description> "Lala was een Indonesische kinderverzorgster (destijds 'baboe' genoemd). Deze foto maakt deel uit van een album." .
 <https://n2t.net/ark:/27023/3e7816c20b7cbf2a94cd98799a0e459f> <https://colonialcollections.nl/schema#description> "Deze foto maakt deel uit van een album." .
+<https://n2t.net/ark:/27023/3e7816c20b7cbf2a94cd98799a0e459f> <https://colonialcollections.nl/schema#description> "Lala was een Indonesische kinderverzorgster (destijds 'baboe' genoemd). Deze foto maakt deel uit van een album." .
 <https://n2t.net/ark:/27023/3e7816c20b7cbf2a94cd98799a0e459f> <https://colonialcollections.nl/schema#yearCreatedStart> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/3e7816c20b7cbf2a94cd98799a0e459f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/3e7816c20b7cbf2a94cd98799a0e459f> <https://colonialcollections.nl/schema#publisher_en> "Rijksmuseum"@en .
@@ -745,8 +745,8 @@
 <https://n2t.net/ark:/27023/3ef7278cc2444077bcb349dd4e5d7016> <https://colonialcollections.nl/schema#publisher_nl> "Rijksmuseum"@nl .
 <https://n2t.net/ark:/27023/3ef979e86f7afd958ce45e9984d0a065> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/3ef979e86f7afd958ce45e9984d0a065> <https://colonialcollections.nl/schema#identifier> "NG-MC-1125-1" .
-<https://n2t.net/ark:/27023/3ef979e86f7afd958ce45e9984d0a065> <https://colonialcollections.nl/schema#name> "Vlag" .
 <https://n2t.net/ark:/27023/3ef979e86f7afd958ce45e9984d0a065> <https://colonialcollections.nl/schema#name> "Flag" .
+<https://n2t.net/ark:/27023/3ef979e86f7afd958ce45e9984d0a065> <https://colonialcollections.nl/schema#name> "Vlag" .
 <https://n2t.net/ark:/27023/3ef979e86f7afd958ce45e9984d0a065> <https://colonialcollections.nl/schema#description> "Indonesische roversvlag met een verticale witte baan langs de broek met vijf geapplikeerde rozetten, dan een verticale blauwe baan, dan vijf horizontale banen wit-blauw-wit-blauw-wit, de middelste baan is breder met gesjabloneerd ruitjespatroon en in het m" .
 <https://n2t.net/ark:/27023/3ef979e86f7afd958ce45e9984d0a065> <https://colonialcollections.nl/schema#yearCreatedStart> "1862"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/3ef979e86f7afd958ce45e9984d0a065> <https://colonialcollections.nl/schema#yearCreatedEnd> "1862"^^<http://www.w3.org/2001/XMLSchema#integer> .

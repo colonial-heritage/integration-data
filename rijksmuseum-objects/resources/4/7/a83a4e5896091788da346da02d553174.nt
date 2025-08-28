@@ -24,10 +24,10 @@
 <https://n2t.net/ark:/27023/51bc96f844a646ae126442c112b53147> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/51bc96f844a646ae126442c112b53147> <https://colonialcollections.nl/schema#identifier> "RP-P-2018-41" .
 <https://n2t.net/ark:/27023/51bc96f844a646ae126442c112b53147> <https://colonialcollections.nl/schema#name> "Ex libris van Gino Sabattini" .
-<https://n2t.net/ark:/27023/51bc96f844a646ae126442c112b53147> <https://colonialcollections.nl/schema#yearCreatedStart> "1542"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/51bc96f844a646ae126442c112b53147> <https://colonialcollections.nl/schema#yearCreatedStart> "1948"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/51bc96f844a646ae126442c112b53147> <https://colonialcollections.nl/schema#yearCreatedEnd> "1542"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/51bc96f844a646ae126442c112b53147> <https://colonialcollections.nl/schema#yearCreatedStart> "1542"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/51bc96f844a646ae126442c112b53147> <https://colonialcollections.nl/schema#yearCreatedEnd> "1948"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/51bc96f844a646ae126442c112b53147> <https://colonialcollections.nl/schema#yearCreatedEnd> "1542"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/51bc96f844a646ae126442c112b53147> <https://colonialcollections.nl/schema#publisher_en> "Rijksmuseum"@en .
 <https://n2t.net/ark:/27023/51bc96f844a646ae126442c112b53147> <https://colonialcollections.nl/schema#publisher_nl> "Rijksmuseum"@nl .
 <https://n2t.net/ark:/27023/51be3c515606efc8f0e120cb18ce9465> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
@@ -102,10 +102,10 @@
 <https://n2t.net/ark:/27023/51dd9d85ffcecdfabde25cd9fc1662e3> <https://colonialcollections.nl/schema#identifier> "RP-P-OB-80.251" .
 <https://n2t.net/ark:/27023/51dd9d85ffcecdfabde25cd9fc1662e3> <https://colonialcollections.nl/schema#name> "Javaanse kapitein (Poenggawa) met gevolg, te Bantam, 1596" .
 <https://n2t.net/ark:/27023/51dd9d85ffcecdfabde25cd9fc1662e3> <https://colonialcollections.nl/schema#description> "Javaanse kapitein (Poenggawa) begeleid door een drager met parasol, een gewapende escorte en gevolg, te Bantam (Banten), 1596. Afdrukken van de opgewerkte platen voor de oorspronkelijke illustraties in het reisverslag van de Eerste Schipvaert van Cornelis " .
-<https://n2t.net/ark:/27023/51dd9d85ffcecdfabde25cd9fc1662e3> <https://colonialcollections.nl/schema#yearCreatedStart> "1597"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/51dd9d85ffcecdfabde25cd9fc1662e3> <https://colonialcollections.nl/schema#yearCreatedStart> "1646"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/51dd9d85ffcecdfabde25cd9fc1662e3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1598"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/51dd9d85ffcecdfabde25cd9fc1662e3> <https://colonialcollections.nl/schema#yearCreatedStart> "1597"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/51dd9d85ffcecdfabde25cd9fc1662e3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1646"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/51dd9d85ffcecdfabde25cd9fc1662e3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1598"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/51dd9d85ffcecdfabde25cd9fc1662e3> <https://colonialcollections.nl/schema#publisher_en> "Rijksmuseum"@en .
 <https://n2t.net/ark:/27023/51dd9d85ffcecdfabde25cd9fc1662e3> <https://colonialcollections.nl/schema#publisher_nl> "Rijksmuseum"@nl .
 <https://n2t.net/ark:/27023/51de78f9f5556d70ac4568bd32b4d800> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
@@ -384,8 +384,8 @@
 <https://n2t.net/ark:/27023/527dbd190f38ef8409abc4a418143550> <https://colonialcollections.nl/schema#identifier> "RP-F-2019-242-23-29" .
 <https://n2t.net/ark:/27023/527dbd190f38ef8409abc4a418143550> <https://colonialcollections.nl/schema#name> "Mensen helpen een neergeschoten demonstrant, Indonesië" .
 <https://n2t.net/ark:/27023/527dbd190f38ef8409abc4a418143550> <https://colonialcollections.nl/schema#yearCreatedStart> "1965"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/527dbd190f38ef8409abc4a418143550> <https://colonialcollections.nl/schema#yearCreatedEnd> "1966"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/527dbd190f38ef8409abc4a418143550> <https://colonialcollections.nl/schema#yearCreatedEnd> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/527dbd190f38ef8409abc4a418143550> <https://colonialcollections.nl/schema#yearCreatedEnd> "1966"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/527dbd190f38ef8409abc4a418143550> <https://colonialcollections.nl/schema#publisher_en> "Rijksmuseum"@en .
 <https://n2t.net/ark:/27023/527dbd190f38ef8409abc4a418143550> <https://colonialcollections.nl/schema#publisher_nl> "Rijksmuseum"@nl .
 <https://n2t.net/ark:/27023/527ed7e5485db87c432aa3f4277b8d0f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
@@ -453,8 +453,8 @@
 <https://n2t.net/ark:/27023/529463595fb7e21a7a4b057c96409f4a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/529463595fb7e21a7a4b057c96409f4a> <https://colonialcollections.nl/schema#identifier> "NG-2008-13" .
 <https://n2t.net/ark:/27023/529463595fb7e21a7a4b057c96409f4a> <https://colonialcollections.nl/schema#name> "De bestuursambtenaar Letterie in Nederlands-Indië" .
-<https://n2t.net/ark:/27023/529463595fb7e21a7a4b057c96409f4a> <https://colonialcollections.nl/schema#description> "28 Foto's van Indisch betuursambtenaar Letterie en zijn vrouw. Zij woonden op Java in Moedjosari vlakbij Soerabaia. In de collectie zitten veel privé foto's van onder andere zijn huwelijk en zijn woon- en werksituatie met vrouw en personeel, maar ook foto'" .
 <https://n2t.net/ark:/27023/529463595fb7e21a7a4b057c96409f4a> <https://colonialcollections.nl/schema#description> "28 Foto's van Nederlands-Indisch betuursambtenaar Letterie en zijn vrouw. Zij woonden op Java in Moedjosari vlakbij Soerabaia. In de collectie zitten veel privé foto's van onder andere zijn huwelijk en zijn woon- en werksituatie met vrouw en personeel, maa" .
+<https://n2t.net/ark:/27023/529463595fb7e21a7a4b057c96409f4a> <https://colonialcollections.nl/schema#description> "28 Foto's van Indisch betuursambtenaar Letterie en zijn vrouw. Zij woonden op Java in Moedjosari vlakbij Soerabaia. In de collectie zitten veel privé foto's van onder andere zijn huwelijk en zijn woon- en werksituatie met vrouw en personeel, maar ook foto'" .
 <https://n2t.net/ark:/27023/529463595fb7e21a7a4b057c96409f4a> <https://colonialcollections.nl/schema#yearCreatedStart> "1907"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/529463595fb7e21a7a4b057c96409f4a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/529463595fb7e21a7a4b057c96409f4a> <https://colonialcollections.nl/schema#publisher_en> "Rijksmuseum"@en .
@@ -711,8 +711,8 @@
 <https://n2t.net/ark:/27023/530ad07c12496ad014e6fdff4bfec022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/530ad07c12496ad014e6fdff4bfec022> <https://colonialcollections.nl/schema#identifier> "RP-F-F01051-14-4" .
 <https://n2t.net/ark:/27023/530ad07c12496ad014e6fdff4bfec022> <https://colonialcollections.nl/schema#name> "Groepsportret van leden van de familie Lammers op een veranda in Nederlands-Indië: grootmoeder, moeder en kleinkind" .
-<https://n2t.net/ark:/27023/530ad07c12496ad014e6fdff4bfec022> <https://colonialcollections.nl/schema#description> "Onderdeel van Familiealbum met foto's van een Nederlands-Indische familie en van een suikerfabriek in Purworejo." .
 <https://n2t.net/ark:/27023/530ad07c12496ad014e6fdff4bfec022> <https://colonialcollections.nl/schema#description> "Onderdeel van Familiealbum met foto's van een familie in de voormalige kolonie Nederlands-Indië en van een suikerfabriek in Purworejo." .
+<https://n2t.net/ark:/27023/530ad07c12496ad014e6fdff4bfec022> <https://colonialcollections.nl/schema#description> "Onderdeel van Familiealbum met foto's van een Nederlands-Indische familie en van een suikerfabriek in Purworejo." .
 <https://n2t.net/ark:/27023/530ad07c12496ad014e6fdff4bfec022> <https://colonialcollections.nl/schema#yearCreatedStart> "1917"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/530ad07c12496ad014e6fdff4bfec022> <https://colonialcollections.nl/schema#yearCreatedEnd> "1917"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/530ad07c12496ad014e6fdff4bfec022> <https://colonialcollections.nl/schema#publisher_en> "Rijksmuseum"@en .
