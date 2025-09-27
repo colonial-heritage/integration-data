@@ -1,0 +1,37 @@
+<https://sws.geonames.org/1273293/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/1273293/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/1273293/about.rdf> .
+<https://sws.geonames.org/1273293/> <http://www.geonames.org/ontology#name> "Delhi" .
+<https://sws.geonames.org/1273293/> <http://www.geonames.org/ontology#alternateName> "Delhi"@de .
+<https://sws.geonames.org/1273293/> <http://www.geonames.org/ontology#shortName> "Delhi"@en .
+<https://sws.geonames.org/1273293/> <http://www.geonames.org/ontology#shortName> "Delhi"@fr .
+<https://sws.geonames.org/1273293/> <http://www.geonames.org/ontology#alternateName> "Delhi" .
+<https://sws.geonames.org/1273293/> <http://www.geonames.org/ontology#officialName> "Delhio"@eo .
+<https://sws.geonames.org/1273293/> <http://www.geonames.org/ontology#alternateName> "Dilli" .
+<https://sws.geonames.org/1273293/> <http://www.geonames.org/ontology#alternateName> "Nacia Ĉefurba Teritorio de Delhio"@eo .
+<https://sws.geonames.org/1273293/> <http://www.geonames.org/ontology#alternateName> "National Capital Territory" .
+<https://sws.geonames.org/1273293/> <http://www.geonames.org/ontology#officialName> "National Capital Territory of Delhi"@en .
+<https://sws.geonames.org/1273293/> <http://www.geonames.org/ontology#alternateName> "National Capital Territory of Delhi" .
+<https://sws.geonames.org/1273293/> <http://www.geonames.org/ontology#alternateName> "State of Delhi" .
+<https://sws.geonames.org/1273293/> <http://www.geonames.org/ontology#alternateName> "Union Territory of Delhi" .
+<https://sws.geonames.org/1273293/> <http://www.geonames.org/ontology#alternateName> "دہلی"@ur .
+<https://sws.geonames.org/1273293/> <http://www.geonames.org/ontology#alternateName> "दिल्ली"@hi .
+<https://sws.geonames.org/1273293/> <http://www.geonames.org/ontology#alternateName> "ਦਿੱਲੀ"@pa .
+<https://sws.geonames.org/1273293/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#A> .
+<https://sws.geonames.org/1273293/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#A.ADM1> .
+<https://sws.geonames.org/1273293/> <http://www.geonames.org/ontology#countryCode> "IN" .
+<https://sws.geonames.org/1273293/> <http://www.geonames.org/ontology#population> "16787941" .
+<https://sws.geonames.org/1273293/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "28.6667" .
+<https://sws.geonames.org/1273293/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "77.1" .
+<https://sws.geonames.org/1273293/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/1269750/> .
+<https://sws.geonames.org/1273293/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/1269750/> .
+<https://sws.geonames.org/1273293/> <http://www.geonames.org/ontology#childrenFeatures> <https://sws.geonames.org/1273293/contains.rdf> .
+<https://sws.geonames.org/1273293/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/1273293/national-capital-territory-of-delhi.html> .
+<https://sws.geonames.org/1273293/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/National_Capital_Territory_of_Delhi> .
+<https://sws.geonames.org/1273293/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/National_Capital_Territory_of_Delhi> .
+<https://sws.geonames.org/1273293/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/1273293/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/1273293/> .
+<https://sws.geonames.org/1273293/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/1273293/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/1273293/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/1273293/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/1273293/about.rdf> <http://purl.org/dc/terms/modified> "2021-02-27"^^<https://www.w3.org/2001/XMLSchema#date> .
