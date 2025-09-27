@@ -1,0 +1,35 @@
+<https://sws.geonames.org/1633043/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/1633043/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/1633043/about.rdf> .
+<https://sws.geonames.org/1633043/> <http://www.geonames.org/ontology#name> "Raja Island" .
+<https://sws.geonames.org/1633043/> <http://www.geonames.org/ontology#alternateName> "Paloë Eiland" .
+<https://sws.geonames.org/1633043/> <http://www.geonames.org/ontology#alternateName> "Palu" .
+<https://sws.geonames.org/1633043/> <http://www.geonames.org/ontology#alternateName> "Palu Raja" .
+<https://sws.geonames.org/1633043/> <http://www.geonames.org/ontology#alternateName> "Poelau Paloeë" .
+<https://sws.geonames.org/1633043/> <http://www.geonames.org/ontology#alternateName> "Poelau Paloweh" .
+<https://sws.geonames.org/1633043/> <http://www.geonames.org/ontology#alternateName> "Poelau Poloe" .
+<https://sws.geonames.org/1633043/> <http://www.geonames.org/ontology#alternateName> "Poelau Radja" .
+<https://sws.geonames.org/1633043/> <http://www.geonames.org/ontology#alternateName> "Pulau Paloe" .
+<https://sws.geonames.org/1633043/> <http://www.geonames.org/ontology#alternateName> "Pulau Palue"@id .
+<https://sws.geonames.org/1633043/> <http://www.geonames.org/ontology#alternateName> "Pulau Raja" .
+<https://sws.geonames.org/1633043/> <http://www.geonames.org/ontology#alternateName> "Rajah Island"@en .
+<https://sws.geonames.org/1633043/> <http://www.geonames.org/ontology#alternateName> "Raja Island"@en .
+<https://sws.geonames.org/1633043/> <http://www.geonames.org/ontology#alternateName> "Roesa Radja" .
+<https://sws.geonames.org/1633043/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#T> .
+<https://sws.geonames.org/1633043/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#T.ISL> .
+<https://sws.geonames.org/1633043/> <http://www.geonames.org/ontology#countryCode> "ID" .
+<https://sws.geonames.org/1633043/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "-8.32247" .
+<https://sws.geonames.org/1633043/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "121.71034" .
+<https://sws.geonames.org/1633043/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/1633791/> .
+<https://sws.geonames.org/1633043/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/1643084/> .
+<https://sws.geonames.org/1633043/> <http://www.geonames.org/ontology#parentADM1> <https://sws.geonames.org/1633791/> .
+<https://sws.geonames.org/1633043/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/1633043/nearby.rdf> .
+<https://sws.geonames.org/1633043/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/1633043/pulau-palu.html> .
+<https://sws.geonames.org/1633043/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Palu%27e> .
+<https://sws.geonames.org/1633043/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Palu%27e> .
+<https://sws.geonames.org/1633043/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/1633043/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/1633043/> .
+<https://sws.geonames.org/1633043/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/1633043/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/1633043/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/1633043/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/1633043/about.rdf> <http://purl.org/dc/terms/modified> "2018-09-30"^^<https://www.w3.org/2001/XMLSchema#date> .
