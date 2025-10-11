@@ -1,0 +1,27 @@
+<https://sws.geonames.org/8740095/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/8740095/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/8740095/about.rdf> .
+<https://sws.geonames.org/8740095/> <http://www.geonames.org/ontology#name> "Anambas Islands Regency" .
+<https://sws.geonames.org/8740095/> <http://www.geonames.org/ontology#alternateName> "Anambas Islands" .
+<https://sws.geonames.org/8740095/> <http://www.geonames.org/ontology#alternateName> "Anambas Islands Regency"@en .
+<https://sws.geonames.org/8740095/> <http://www.geonames.org/ontology#alternateName> "Kepulauan Anambas"@id .
+<https://sws.geonames.org/8740095/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#A> .
+<https://sws.geonames.org/8740095/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#A.ADM2> .
+<https://sws.geonames.org/8740095/> <http://www.geonames.org/ontology#countryCode> "ID" .
+<https://sws.geonames.org/8740095/> <http://www.geonames.org/ontology#population> "47402" .
+<https://sws.geonames.org/8740095/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "2.93966" .
+<https://sws.geonames.org/8740095/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "105.76071" .
+<https://sws.geonames.org/8740095/> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "154" .
+<https://sws.geonames.org/8740095/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/1996551/> .
+<https://sws.geonames.org/8740095/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/1643084/> .
+<https://sws.geonames.org/8740095/> <http://www.geonames.org/ontology#parentADM1> <https://sws.geonames.org/1996551/> .
+<https://sws.geonames.org/8740095/> <http://www.geonames.org/ontology#childrenFeatures> <https://sws.geonames.org/8740095/contains.rdf> .
+<https://sws.geonames.org/8740095/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/8740095/kabupaten-kepulauan-anambas.html> .
+<https://sws.geonames.org/8740095/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Anambas_Islands> .
+<https://sws.geonames.org/8740095/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Anambas_Islands> .
+<https://sws.geonames.org/8740095/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/8740095/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/8740095/> .
+<https://sws.geonames.org/8740095/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/8740095/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/8740095/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/8740095/about.rdf> <http://purl.org/dc/terms/created> "2014-03-21"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/8740095/about.rdf> <http://purl.org/dc/terms/modified> "2023-06-18"^^<https://www.w3.org/2001/XMLSchema#date> .
