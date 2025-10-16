@@ -1,0 +1,39 @@
+<https://sws.geonames.org/2135267/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/2135267/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/2135267/about.rdf> .
+<https://sws.geonames.org/2135267/> <http://www.geonames.org/ontology#name> "Pentecost Island" .
+<https://sws.geonames.org/2135267/> <http://www.geonames.org/ontology#alternateName> "Araga" .
+<https://sws.geonames.org/2135267/> <http://www.geonames.org/ontology#alternateName> "Aragh" .
+<https://sws.geonames.org/2135267/> <http://www.geonames.org/ontology#alternateName> "Aragh-Aragh" .
+<https://sws.geonames.org/2135267/> <http://www.geonames.org/ontology#alternateName> "Île de Pentecôte"@fr .
+<https://sws.geonames.org/2135267/> <http://www.geonames.org/ontology#alternateName> "Isla de Pentecostés"@es .
+<https://sws.geonames.org/2135267/> <http://www.geonames.org/ontology#alternateName> "Isola di Pentecoste"@it .
+<https://sws.geonames.org/2135267/> <http://www.geonames.org/ontology#alternateName> "Pentecost-Insel"@de .
+<https://sws.geonames.org/2135267/> <http://www.geonames.org/ontology#alternateName> "Pentecost Island"@en .
+<https://sws.geonames.org/2135267/> <http://www.geonames.org/ontology#alternateName> "Pentikos"@bi .
+<https://sws.geonames.org/2135267/> <http://www.geonames.org/ontology#alternateName> "Raga" .
+<https://sws.geonames.org/2135267/> <http://www.geonames.org/ontology#alternateName> "Ragha" .
+<https://sws.geonames.org/2135267/> <http://www.geonames.org/ontology#alternateName> "Whitsuntide"@en .
+<https://sws.geonames.org/2135267/> <http://www.geonames.org/ontology#alternateName> "Остров Пентекост"@ru .
+<https://sws.geonames.org/2135267/> <http://www.geonames.org/ontology#alternateName> "彭特科斯特岛"@wuu .
+<https://sws.geonames.org/2135267/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#T> .
+<https://sws.geonames.org/2135267/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#T.ISL> .
+<https://sws.geonames.org/2135267/> <http://www.geonames.org/ontology#countryCode> "VU" .
+<https://sws.geonames.org/2135267/> <http://www.geonames.org/ontology#population> "16843" .
+<https://sws.geonames.org/2135267/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "-15.74633" .
+<https://sws.geonames.org/2135267/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "168.18592" .
+<https://sws.geonames.org/2135267/> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "947" .
+<https://sws.geonames.org/2135267/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/2208266/> .
+<https://sws.geonames.org/2135267/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/2134431/> .
+<https://sws.geonames.org/2135267/> <http://www.geonames.org/ontology#parentADM1> <https://sws.geonames.org/2208266/> .
+<https://sws.geonames.org/2135267/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/2135267/nearby.rdf> .
+<https://sws.geonames.org/2135267/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/2135267/pentecost-island.html> .
+<https://sws.geonames.org/2135267/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Pentecost_Island> .
+<https://sws.geonames.org/2135267/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Pentecost_Island> .
+<https://sws.geonames.org/2135267/> <http://www.geonames.org/ontology#wikipediaArticle> <https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BD%D1%82%D0%B5%D0%BA%D0%BE%D1%81%D1%82> .
+<https://sws.geonames.org/2135267/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/2135267/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/2135267/> .
+<https://sws.geonames.org/2135267/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/2135267/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/2135267/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/2135267/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/2135267/about.rdf> <http://purl.org/dc/terms/modified> "2023-07-31"^^<https://www.w3.org/2001/XMLSchema#date> .
