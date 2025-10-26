@@ -1,0 +1,30 @@
+<https://sws.geonames.org/1633530/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/1633530/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/1633530/about.rdf> .
+<https://sws.geonames.org/1633530/> <http://www.geonames.org/ontology#name> "Sungai Otokwa" .
+<https://sws.geonames.org/1633530/> <http://www.geonames.org/ontology#alternateName> "Matasita Rivier" .
+<https://sws.geonames.org/1633530/> <http://www.geonames.org/ontology#alternateName> "Oetakwa" .
+<https://sws.geonames.org/1633530/> <http://www.geonames.org/ontology#alternateName> "Otakwa" .
+<https://sws.geonames.org/1633530/> <http://www.geonames.org/ontology#alternateName> "Otakwa-rivier" .
+<https://sws.geonames.org/1633530/> <http://www.geonames.org/ontology#alternateName> "Otokwa" .
+<https://sws.geonames.org/1633530/> <http://www.geonames.org/ontology#alternateName> "Sungai Olekwa" .
+<https://sws.geonames.org/1633530/> <http://www.geonames.org/ontology#alternateName> "Sungai Otakwa" .
+<https://sws.geonames.org/1633530/> <http://www.geonames.org/ontology#alternateName> "Sungai Otokwa"@id .
+<https://sws.geonames.org/1633530/> <http://www.geonames.org/ontology#alternateName> "Sungai Utakwa" .
+<https://sws.geonames.org/1633530/> <http://www.geonames.org/ontology#alternateName> "Wai Otakwa" .
+<https://sws.geonames.org/1633530/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#H> .
+<https://sws.geonames.org/1633530/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#H.STM> .
+<https://sws.geonames.org/1633530/> <http://www.geonames.org/ontology#countryCode> "ID" .
+<https://sws.geonames.org/1633530/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "-4.9952" .
+<https://sws.geonames.org/1633530/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "137.2242" .
+<https://sws.geonames.org/1633530/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/12503511/> .
+<https://sws.geonames.org/1633530/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/1643084/> .
+<https://sws.geonames.org/1633530/> <http://www.geonames.org/ontology#parentADM1> <https://sws.geonames.org/12503511/> .
+<https://sws.geonames.org/1633530/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/1633530/nearby.rdf> .
+<https://sws.geonames.org/1633530/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/1633530/sungai-otokwa.html> .
+<https://sws.geonames.org/1633530/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/1633530/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/1633530/> .
+<https://sws.geonames.org/1633530/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/1633530/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/1633530/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/1633530/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/1633530/about.rdf> <http://purl.org/dc/terms/modified> "2023-04-05"^^<https://www.w3.org/2001/XMLSchema#date> .
