@@ -1,0 +1,28 @@
+<https://sws.geonames.org/3622606/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/3622606/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/3622606/about.rdf> .
+<https://sws.geonames.org/3622606/> <http://www.geonames.org/ontology#name> "Palmar Sur" .
+<https://sws.geonames.org/3622606/> <http://www.geonames.org/ontology#alternateName> "El Palmar" .
+<https://sws.geonames.org/3622606/> <http://www.geonames.org/ontology#alternateName> "Palmar" .
+<https://sws.geonames.org/3622606/> <http://www.geonames.org/ontology#alternateName> "Palmar Sur"@en .
+<https://sws.geonames.org/3622606/> <http://www.geonames.org/ontology#alternateName> "Palmar Sur" .
+<https://sws.geonames.org/3622606/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#P> .
+<https://sws.geonames.org/3622606/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#P.PPL> .
+<https://sws.geonames.org/3622606/> <http://www.geonames.org/ontology#countryCode> "CR" .
+<https://sws.geonames.org/3622606/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "8.94773" .
+<https://sws.geonames.org/3622606/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-83.46678" .
+<https://sws.geonames.org/3622606/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/3622626/> .
+<https://sws.geonames.org/3622606/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/3624060/> .
+<https://sws.geonames.org/3622606/> <http://www.geonames.org/ontology#parentADM1> <https://sws.geonames.org/3622226/> .
+<https://sws.geonames.org/3622606/> <http://www.geonames.org/ontology#parentADM2> <https://sws.geonames.org/3622657/> .
+<https://sws.geonames.org/3622606/> <http://www.geonames.org/ontology#parentADM3> <https://sws.geonames.org/3622626/> .
+<https://sws.geonames.org/3622606/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/3622606/nearby.rdf> .
+<https://sws.geonames.org/3622606/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/3622606/palmar-sur.html> .
+<https://sws.geonames.org/3622606/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Palmar_Sur> .
+<https://sws.geonames.org/3622606/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Palmar_Sur> .
+<https://sws.geonames.org/3622606/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/3622606/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/3622606/> .
+<https://sws.geonames.org/3622606/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/3622606/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/3622606/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/3622606/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/3622606/about.rdf> <http://purl.org/dc/terms/modified> "2016-09-07"^^<https://www.w3.org/2001/XMLSchema#date> .
