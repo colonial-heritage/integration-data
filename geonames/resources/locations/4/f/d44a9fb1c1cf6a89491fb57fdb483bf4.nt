@@ -1,0 +1,38 @@
+<https://sws.geonames.org/121800/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/121800/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/121800/about.rdf> .
+<https://sws.geonames.org/121800/> <http://www.geonames.org/ontology#name> "Lake Urmia" .
+<https://sws.geonames.org/121800/> <http://www.geonames.org/ontology#alternateName> "Daryacheh-i- Rizaiyeh" .
+<https://sws.geonames.org/121800/> <http://www.geonames.org/ontology#alternateName> "Daryācheh-i- Shāhī" .
+<https://sws.geonames.org/121800/> <http://www.geonames.org/ontology#alternateName> "Daryacheh-i- Urumiyeh" .
+<https://sws.geonames.org/121800/> <http://www.geonames.org/ontology#alternateName> "Daryācheh-ye Orūmīyeh" .
+<https://sws.geonames.org/121800/> <http://www.geonames.org/ontology#alternateName> "Daryācheh-ye Rezā’īyeh" .
+<https://sws.geonames.org/121800/> <http://www.geonames.org/ontology#alternateName> "Daryācheh-ye Shāhī" .
+<https://sws.geonames.org/121800/> <http://www.geonames.org/ontology#alternateName> "Gola Wirmiyê"@ku .
+<https://sws.geonames.org/121800/> <http://www.geonames.org/ontology#alternateName> "Lake Matianus Urmia" .
+<https://sws.geonames.org/121800/> <http://www.geonames.org/ontology#alternateName> "Lake Rizaiyeh" .
+<https://sws.geonames.org/121800/> <http://www.geonames.org/ontology#alternateName> "Lake Urmia"@en .
+<https://sws.geonames.org/121800/> <http://www.geonames.org/ontology#alternateName> "Llac d'Urmia"@ca .
+<https://sws.geonames.org/121800/> <http://www.geonames.org/ontology#alternateName> "Ozero Rezaye" .
+<https://sws.geonames.org/121800/> <http://www.geonames.org/ontology#alternateName> "Rumiya Göli" .
+<https://sws.geonames.org/121800/> <http://www.geonames.org/ontology#alternateName> "اُزِرُ رِزَيِ"@fa .
+<https://sws.geonames.org/121800/> <http://www.geonames.org/ontology#alternateName> "دَرياچِۀ اُروميِّه"@fa .
+<https://sws.geonames.org/121800/> <http://www.geonames.org/ontology#alternateName> "دَرياچِۀ رِضائيِّه"@fa .
+<https://sws.geonames.org/121800/> <http://www.geonames.org/ontology#alternateName> "دَرياچِۀ شاهی"@fa .
+<https://sws.geonames.org/121800/> <http://www.geonames.org/ontology#officialName> "دریاچه ارومیه"@fa .
+<https://sws.geonames.org/121800/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#H> .
+<https://sws.geonames.org/121800/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#H.LK> .
+<https://sws.geonames.org/121800/> <http://www.geonames.org/ontology#countryCode> "IR" .
+<https://sws.geonames.org/121800/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "37.5903" .
+<https://sws.geonames.org/121800/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "45.43945" .
+<https://sws.geonames.org/121800/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/142549/> .
+<https://sws.geonames.org/121800/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/130758/> .
+<https://sws.geonames.org/121800/> <http://www.geonames.org/ontology#parentADM1> <https://sws.geonames.org/142549/> .
+<https://sws.geonames.org/121800/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/121800/nearby.rdf> .
+<https://sws.geonames.org/121800/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/121800/lake-urmia.html> .
+<https://sws.geonames.org/121800/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/121800/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/121800/> .
+<https://sws.geonames.org/121800/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/121800/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/121800/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/121800/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/121800/about.rdf> <http://purl.org/dc/terms/modified> "2024-07-25"^^<https://www.w3.org/2001/XMLSchema#date> .
