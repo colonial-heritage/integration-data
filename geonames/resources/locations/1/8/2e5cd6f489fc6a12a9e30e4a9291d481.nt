@@ -1,0 +1,29 @@
+<https://sws.geonames.org/347930/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/347930/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/347930/about.rdf> .
+<https://sws.geonames.org/347930/> <http://www.geonames.org/ontology#name> "Sinai Peninsula" .
+<https://sws.geonames.org/347930/> <http://www.geonames.org/ontology#alternateName> "El Sinaí"@es .
+<https://sws.geonames.org/347930/> <http://www.geonames.org/ontology#alternateName> "Península del Sinaí"@es .
+<https://sws.geonames.org/347930/> <http://www.geonames.org/ontology#alternateName> "Shibh Gezîret Sînâ’" .
+<https://sws.geonames.org/347930/> <http://www.geonames.org/ontology#alternateName> "Shibh Jazīrat Sīnā’" .
+<https://sws.geonames.org/347930/> <http://www.geonames.org/ontology#alternateName> "Sina" .
+<https://sws.geonames.org/347930/> <http://www.geonames.org/ontology#alternateName> "Sinaí"@es .
+<https://sws.geonames.org/347930/> <http://www.geonames.org/ontology#alternateName> "Sinai Peninsula"@en .
+<https://sws.geonames.org/347930/> <http://www.geonames.org/ontology#alternateName> "Sinaitic Peninsula" .
+<https://sws.geonames.org/347930/> <http://www.geonames.org/ontology#alternateName> "Синайский полуостров"@ru .
+<https://sws.geonames.org/347930/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#T> .
+<https://sws.geonames.org/347930/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#T.DSRT> .
+<https://sws.geonames.org/347930/> <http://www.geonames.org/ontology#countryCode> "EG" .
+<https://sws.geonames.org/347930/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "29.5" .
+<https://sws.geonames.org/347930/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "34" .
+<https://sws.geonames.org/347930/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/355182/> .
+<https://sws.geonames.org/347930/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/357994/> .
+<https://sws.geonames.org/347930/> <http://www.geonames.org/ontology#parentADM1> <https://sws.geonames.org/355182/> .
+<https://sws.geonames.org/347930/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/347930/nearby.rdf> .
+<https://sws.geonames.org/347930/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/347930/sinai-peninsula.html> .
+<https://sws.geonames.org/347930/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/347930/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/347930/> .
+<https://sws.geonames.org/347930/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/347930/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/347930/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/347930/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/347930/about.rdf> <http://purl.org/dc/terms/modified> "2020-07-06"^^<https://www.w3.org/2001/XMLSchema#date> .
