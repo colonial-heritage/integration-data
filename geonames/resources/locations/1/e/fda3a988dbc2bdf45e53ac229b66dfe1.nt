@@ -1,0 +1,35 @@
+<https://sws.geonames.org/4994594/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/4994594/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/4994594/about.rdf> .
+<https://sws.geonames.org/4994594/> <http://www.geonames.org/ontology#name> "Great Lakes" .
+<https://sws.geonames.org/4994594/> <http://www.geonames.org/ontology#officialName> "Grands Lacs"@fr .
+<https://sws.geonames.org/4994594/> <http://www.geonames.org/ontology#alternateName> "Grands Lacs d'Amérique du Nord"@fr .
+<https://sws.geonames.org/4994594/> <http://www.geonames.org/ontology#officialName> "Great Lakes"@en .
+<https://sws.geonames.org/4994594/> <http://www.geonames.org/ontology#alternateName> "Great Lakes of North America"@en .
+<https://sws.geonames.org/4994594/> <http://www.geonames.org/ontology#alternateName> "Große Seen"@de .
+<https://sws.geonames.org/4994594/> <http://www.geonames.org/ontology#alternateName> "Lake Erie" .
+<https://sws.geonames.org/4994594/> <http://www.geonames.org/ontology#alternateName> "Lake Huron" .
+<https://sws.geonames.org/4994594/> <http://www.geonames.org/ontology#alternateName> "Lake Michigan" .
+<https://sws.geonames.org/4994594/> <http://www.geonames.org/ontology#alternateName> "Lake Ontario" .
+<https://sws.geonames.org/4994594/> <http://www.geonames.org/ontology#alternateName> "Lake Superior" .
+<https://sws.geonames.org/4994594/> <http://www.geonames.org/ontology#alternateName> "Laurentian Great Lakes"@en .
+<https://sws.geonames.org/4994594/> <http://www.geonames.org/ontology#alternateName> "Velika jezera"@hr .
+<https://sws.geonames.org/4994594/> <http://www.geonames.org/ontology#alternateName> "Велика језера"@sr .
+<https://sws.geonames.org/4994594/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#H> .
+<https://sws.geonames.org/4994594/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#H.LK> .
+<https://sws.geonames.org/4994594/> <http://www.geonames.org/ontology#countryCode> "US" .
+<https://sws.geonames.org/4994594/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "45.68751" .
+<https://sws.geonames.org/4994594/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-84.43753" .
+<https://sws.geonames.org/4994594/> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "177" .
+<https://sws.geonames.org/4994594/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/6252001/> .
+<https://sws.geonames.org/4994594/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/6252001/> .
+<https://sws.geonames.org/4994594/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/4994594/nearby.rdf> .
+<https://sws.geonames.org/4994594/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/4994594/great-lakes.html> .
+<https://sws.geonames.org/4994594/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Great_Lakes> .
+<https://sws.geonames.org/4994594/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Great_Lakes> .
+<https://sws.geonames.org/4994594/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/4994594/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/4994594/> .
+<https://sws.geonames.org/4994594/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/4994594/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/4994594/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/4994594/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/4994594/about.rdf> <http://purl.org/dc/terms/modified> "2022-10-25"^^<https://www.w3.org/2001/XMLSchema#date> .

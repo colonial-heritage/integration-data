@@ -1,0 +1,28 @@
+<https://sws.geonames.org/5915732/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/5915732/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/5915732/about.rdf> .
+<https://sws.geonames.org/5915732/> <http://www.geonames.org/ontology#name> "Cape Dorset" .
+<https://sws.geonames.org/5915732/> <http://www.geonames.org/ontology#alternateName> "Cape Dorset"@en .
+<https://sws.geonames.org/5915732/> <http://www.geonames.org/ontology#alternateName> "Кейп-Дорсет"@ru .
+<https://sws.geonames.org/5915732/> <http://www.geonames.org/ontology#alternateName> "Кейп-Дорсет"@uk .
+<https://sws.geonames.org/5915732/> <http://www.geonames.org/ontology#alternateName> "کیپ ڈورسٹ، نُناوُت"@ur .
+<https://sws.geonames.org/5915732/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#P> .
+<https://sws.geonames.org/5915732/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#P.PPLL> .
+<https://sws.geonames.org/5915732/> <http://www.geonames.org/ontology#countryCode> "CA" .
+<https://sws.geonames.org/5915732/> <http://www.geonames.org/ontology#population> "1396" .
+<https://sws.geonames.org/5915732/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "64.23378" .
+<https://sws.geonames.org/5915732/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-76.54372" .
+<https://sws.geonames.org/5915732/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/6091732/> .
+<https://sws.geonames.org/5915732/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/6251999/> .
+<https://sws.geonames.org/5915732/> <http://www.geonames.org/ontology#parentADM1> <https://sws.geonames.org/6091732/> .
+<https://sws.geonames.org/5915732/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/5915732/nearby.rdf> .
+<https://sws.geonames.org/5915732/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/5915732/cape-dorset.html> .
+<https://sws.geonames.org/5915732/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Cape_Dorset> .
+<https://sws.geonames.org/5915732/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Cape_Dorset> .
+<https://sws.geonames.org/5915732/> <http://www.geonames.org/ontology#wikipediaArticle> <https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D0%B9%D0%BF-%D0%94%D0%BE%D1%80%D1%81%D0%B5%D1%82> .
+<https://sws.geonames.org/5915732/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/5915732/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/5915732/> .
+<https://sws.geonames.org/5915732/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/5915732/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/5915732/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/5915732/about.rdf> <http://purl.org/dc/terms/created> "2006-01-18"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/5915732/about.rdf> <http://purl.org/dc/terms/modified> "2022-08-23"^^<https://www.w3.org/2001/XMLSchema#date> .
