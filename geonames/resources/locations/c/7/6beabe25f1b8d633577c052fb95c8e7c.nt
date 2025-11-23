@@ -1,0 +1,33 @@
+<https://sws.geonames.org/2085843/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/2085843/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/2085843/about.rdf> .
+<https://sws.geonames.org/2085843/> <http://www.geonames.org/ontology#name> "Tanga Islands" .
+<https://sws.geonames.org/2085843/> <http://www.geonames.org/ontology#alternateName> "Anthony Caens" .
+<https://sws.geonames.org/2085843/> <http://www.geonames.org/ontology#alternateName> "Anthony Caens-Inseln" .
+<https://sws.geonames.org/2085843/> <http://www.geonames.org/ontology#alternateName> "Anthony Kaan Island" .
+<https://sws.geonames.org/2085843/> <http://www.geonames.org/ontology#alternateName> "Ile d’Oraison" .
+<https://sws.geonames.org/2085843/> <http://www.geonames.org/ontology#alternateName> "Kaan Islands" .
+<https://sws.geonames.org/2085843/> <http://www.geonames.org/ontology#alternateName> "Oraison-Inseln" .
+<https://sws.geonames.org/2085843/> <http://www.geonames.org/ontology#alternateName> "Oraison Island" .
+<https://sws.geonames.org/2085843/> <http://www.geonames.org/ontology#alternateName> "Tanga Group" .
+<https://sws.geonames.org/2085843/> <http://www.geonames.org/ontology#alternateName> "Tanga-Gruppe" .
+<https://sws.geonames.org/2085843/> <http://www.geonames.org/ontology#alternateName> "Tanga Inseln"@ger .
+<https://sws.geonames.org/2085843/> <http://www.geonames.org/ontology#alternateName> "Tanga Islands" .
+<https://sws.geonames.org/2085843/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#T> .
+<https://sws.geonames.org/2085843/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#T.ISLS> .
+<https://sws.geonames.org/2085843/> <http://www.geonames.org/ontology#countryCode> "PG" .
+<https://sws.geonames.org/2085843/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "-3.46867" .
+<https://sws.geonames.org/2085843/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "153.21821" .
+<https://sws.geonames.org/2085843/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/2089693/> .
+<https://sws.geonames.org/2085843/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/2088628/> .
+<https://sws.geonames.org/2085843/> <http://www.geonames.org/ontology#parentADM1> <https://sws.geonames.org/2089693/> .
+<https://sws.geonames.org/2085843/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/2085843/nearby.rdf> .
+<https://sws.geonames.org/2085843/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/2085843/tanga-islands.html> .
+<https://sws.geonames.org/2085843/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Tanga_Islands> .
+<https://sws.geonames.org/2085843/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Tanga_Islands> .
+<https://sws.geonames.org/2085843/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/2085843/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/2085843/> .
+<https://sws.geonames.org/2085843/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/2085843/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/2085843/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/2085843/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/2085843/about.rdf> <http://purl.org/dc/terms/modified> "2016-04-18"^^<https://www.w3.org/2001/XMLSchema#date> .
