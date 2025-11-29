@@ -1,0 +1,26 @@
+<https://sws.geonames.org/1626053/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/1626053/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/1626053/about.rdf> .
+<https://sws.geonames.org/1626053/> <http://www.geonames.org/ontology#name> "Sunda Strait" .
+<https://sws.geonames.org/1626053/> <http://www.geonames.org/ontology#alternateName> "Selat Sunda"@id .
+<https://sws.geonames.org/1626053/> <http://www.geonames.org/ontology#alternateName> "Selat Sunda" .
+<https://sws.geonames.org/1626053/> <http://www.geonames.org/ontology#alternateName> "Straat Soenda" .
+<https://sws.geonames.org/1626053/> <http://www.geonames.org/ontology#alternateName> "Sunda Strait"@en .
+<https://sws.geonames.org/1626053/> <http://www.geonames.org/ontology#alternateName> "Зондский пролив"@ru .
+<https://sws.geonames.org/1626053/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#H> .
+<https://sws.geonames.org/1626053/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#H.STRT> .
+<https://sws.geonames.org/1626053/> <http://www.geonames.org/ontology#countryCode> "ID" .
+<https://sws.geonames.org/1626053/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "-6.04129" .
+<https://sws.geonames.org/1626053/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "105.67771" .
+<https://sws.geonames.org/1626053/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/1643084/> .
+<https://sws.geonames.org/1626053/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/1643084/> .
+<https://sws.geonames.org/1626053/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/1626053/nearby.rdf> .
+<https://sws.geonames.org/1626053/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/1626053/selat-sunda.html> .
+<https://sws.geonames.org/1626053/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Sunda_Strait> .
+<https://sws.geonames.org/1626053/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Sunda_Strait> .
+<https://sws.geonames.org/1626053/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/1626053/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/1626053/> .
+<https://sws.geonames.org/1626053/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/1626053/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/1626053/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/1626053/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/1626053/about.rdf> <http://purl.org/dc/terms/modified> "2020-08-05"^^<https://www.w3.org/2001/XMLSchema#date> .
