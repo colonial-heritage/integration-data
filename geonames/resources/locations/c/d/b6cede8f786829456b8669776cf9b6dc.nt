@@ -1,0 +1,22 @@
+<https://sws.geonames.org/2183248/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/2183248/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/2183248/about.rdf> .
+<https://sws.geonames.org/2183248/> <http://www.geonames.org/ontology#name> "Lake Rotomahana" .
+<https://sws.geonames.org/2183248/> <http://www.geonames.org/ontology#alternateName> "Roto Mahana" .
+<https://sws.geonames.org/2183248/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#H> .
+<https://sws.geonames.org/2183248/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#H.LK> .
+<https://sws.geonames.org/2183248/> <http://www.geonames.org/ontology#countryCode> "NZ" .
+<https://sws.geonames.org/2183248/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "-38.26667" .
+<https://sws.geonames.org/2183248/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "176.45" .
+<https://sws.geonames.org/2183248/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/2186224/> .
+<https://sws.geonames.org/2183248/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/2186224/> .
+<https://sws.geonames.org/2183248/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/2183248/nearby.rdf> .
+<https://sws.geonames.org/2183248/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/2183248/lake-rotomahana.html> .
+<https://sws.geonames.org/2183248/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Lake_Rotomahana> .
+<https://sws.geonames.org/2183248/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Lake_Rotomahana> .
+<https://sws.geonames.org/2183248/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/2183248/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/2183248/> .
+<https://sws.geonames.org/2183248/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/2183248/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/2183248/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/2183248/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/2183248/about.rdf> <http://purl.org/dc/terms/modified> "1993-12-30"^^<https://www.w3.org/2001/XMLSchema#date> .
