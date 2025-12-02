@@ -4,6 +4,7 @@ name: Update Search Graph with data from dataset 'Stamboeken' in the Knowledge G
 on:
   schedule:
     - cron: "0 2,14 * * *"
+  workflow_dispatch: # Allow manual trigger
 
 # Run a single workflow at a time
 concurrency:

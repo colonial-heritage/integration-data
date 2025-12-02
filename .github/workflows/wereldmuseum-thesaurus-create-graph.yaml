@@ -4,6 +4,7 @@ name: Update Knowledge Graph with data from dataset 'Wereldmuseum Thesaurus', ba
 on:
   schedule:
     - cron: "0 6,18 * * *"
+  workflow_dispatch: # Allow manual trigger
 
 # Run a single workflow at a time
 concurrency:

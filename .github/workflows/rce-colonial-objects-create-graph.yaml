@@ -4,6 +4,7 @@ name: Update Search Graph with data from dataset 'Colonial Objects' in the Knowl
 on:
   schedule:
     - cron: "0 3,15 * * *"
+  workflow_dispatch: # Allow manual trigger
 
 # Run a single workflow at a time
 concurrency:
