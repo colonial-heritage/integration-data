@@ -1,0 +1,29 @@
+<https://sws.geonames.org/5640815/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/5640815/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/5640815/about.rdf> .
+<https://sws.geonames.org/5640815/> <http://www.geonames.org/ontology#name> "Blackfeet Indian Reservation" .
+<https://sws.geonames.org/5640815/> <http://www.geonames.org/ontology#alternateName> "Reserva India de los Blackfeet"@es .
+<https://sws.geonames.org/5640815/> <http://www.geonames.org/ontology#alternateName> "Réserve indienne des Blackfeet"@fr .
+<https://sws.geonames.org/5640815/> <http://www.geonames.org/ontology#alternateName> "Riserva indiana dei Piedi Neri"@it .
+<https://sws.geonames.org/5640815/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#A> .
+<https://sws.geonames.org/5640815/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#A.ADMD> .
+<https://sws.geonames.org/5640815/> <http://www.geonames.org/ontology#countryCode> "US" .
+<https://sws.geonames.org/5640815/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "48.65901" .
+<https://sws.geonames.org/5640815/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-112.87212" .
+<https://sws.geonames.org/5640815/> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "1246" .
+<https://sws.geonames.org/5640815/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/5672061/> .
+<https://sws.geonames.org/5640815/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/5654267/> .
+<https://sws.geonames.org/5640815/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/6252001/> .
+<https://sws.geonames.org/5640815/> <http://www.geonames.org/ontology#parentADM1> <https://sws.geonames.org/5667009/> .
+<https://sws.geonames.org/5640815/> <http://www.geonames.org/ontology#parentADM2> <https://sws.geonames.org/5654267/> .
+<https://sws.geonames.org/5640815/> <http://www.geonames.org/ontology#parentADM2> <https://sws.geonames.org/5672061/> .
+<https://sws.geonames.org/5640815/> <http://www.geonames.org/ontology#childrenFeatures> <https://sws.geonames.org/5640815/contains.rdf> .
+<https://sws.geonames.org/5640815/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/5640815/blackfeet-indian-reservation.html> .
+<https://sws.geonames.org/5640815/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Blackfeet_Indian_Reservation> .
+<https://sws.geonames.org/5640815/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Blackfeet_Indian_Reservation> .
+<https://sws.geonames.org/5640815/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/5640815/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/5640815/> .
+<https://sws.geonames.org/5640815/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/5640815/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/5640815/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/5640815/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/5640815/about.rdf> <http://purl.org/dc/terms/modified> "2016-12-06"^^<https://www.w3.org/2001/XMLSchema#date> .
