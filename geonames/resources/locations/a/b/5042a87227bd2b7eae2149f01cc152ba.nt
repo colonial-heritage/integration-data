@@ -1,0 +1,24 @@
+<https://sws.geonames.org/1633876/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/1633876/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/1633876/about.rdf> .
+<https://sws.geonames.org/1633876/> <http://www.geonames.org/ontology#name> "Sungai Noordoost" .
+<https://sws.geonames.org/1633876/> <http://www.geonames.org/ontology#alternateName> "Noordoost" .
+<https://sws.geonames.org/1633876/> <http://www.geonames.org/ontology#alternateName> "Noord Oost Rivier" .
+<https://sws.geonames.org/1633876/> <http://www.geonames.org/ontology#alternateName> "Northeast River" .
+<https://sws.geonames.org/1633876/> <http://www.geonames.org/ontology#alternateName> "Sungai Noordoost"@id .
+<https://sws.geonames.org/1633876/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#H> .
+<https://sws.geonames.org/1633876/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#H.STM> .
+<https://sws.geonames.org/1633876/> <http://www.geonames.org/ontology#countryCode> "ID" .
+<https://sws.geonames.org/1633876/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "-4.99437" .
+<https://sws.geonames.org/1633876/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "138.47728" .
+<https://sws.geonames.org/1633876/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/12503513/> .
+<https://sws.geonames.org/1633876/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/1643084/> .
+<https://sws.geonames.org/1633876/> <http://www.geonames.org/ontology#parentADM1> <https://sws.geonames.org/12503513/> .
+<https://sws.geonames.org/1633876/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/1633876/nearby.rdf> .
+<https://sws.geonames.org/1633876/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/1633876/sungai-noordoost.html> .
+<https://sws.geonames.org/1633876/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/1633876/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/1633876/> .
+<https://sws.geonames.org/1633876/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/1633876/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/1633876/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/1633876/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/1633876/about.rdf> <http://purl.org/dc/terms/modified> "2022-12-30"^^<https://www.w3.org/2001/XMLSchema#date> .
