@@ -2,7 +2,7 @@
 <https://sws.geonames.org/6252001/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/6252001/about.rdf> .
 <https://sws.geonames.org/6252001/> <http://www.geonames.org/ontology#name> "United States" .
 <https://sws.geonames.org/6252001/> <http://www.geonames.org/ontology#officialName> "미국"@ko .
-<https://sws.geonames.org/6252001/> <http://www.geonames.org/ontology#officialName> "ABD"@tr .
+<https://sws.geonames.org/6252001/> <http://www.geonames.org/ontology#shortName> "ABD"@tr .
 <https://sws.geonames.org/6252001/> <http://www.geonames.org/ontology#officialName> "ABŞ"@az .
 <https://sws.geonames.org/6252001/> <http://www.geonames.org/ontology#officialName> "ABŞ"@tk .
 <https://sws.geonames.org/6252001/> <http://www.geonames.org/ontology#officialName> "ÂLeaa-Ôko tî Amerika"@sg .
@@ -12,7 +12,7 @@
 <https://sws.geonames.org/6252001/> <http://www.geonames.org/ontology#officialName> "Amerika"@lg .
 <https://sws.geonames.org/6252001/> <http://www.geonames.org/ontology#officialName> "Amerika"@sn .
 <https://sws.geonames.org/6252001/> <http://www.geonames.org/ontology#officialName> "Amẹrikà"@yo .
-<https://sws.geonames.org/6252001/> <http://www.geonames.org/ontology#alternateName> "Amerika Birleşik Devletleri"@tr .
+<https://sws.geonames.org/6252001/> <http://www.geonames.org/ontology#officialName> "Amerika Birleşik Devletleri"@tr .
 <https://sws.geonames.org/6252001/> <http://www.geonames.org/ontology#alternateName> "Amerikan Yhdysvallat"@fi .
 <https://sws.geonames.org/6252001/> <http://www.geonames.org/ontology#officialName> "Amérika Sarikat"@su .
 <https://sws.geonames.org/6252001/> <http://www.geonames.org/ontology#officialName> "Amerikas Forenede Stater"@da .
@@ -40,7 +40,7 @@
 <https://sws.geonames.org/6252001/> <http://www.geonames.org/ontology#officialName> "Estats Units"@oc .
 <https://sws.geonames.org/6252001/> <http://www.geonames.org/ontology#officialName> "Estatu Batuak"@eu .
 <https://sws.geonames.org/6252001/> <http://www.geonames.org/ontology#officialName> "Etaa Sini"@wo .
-<https://sws.geonames.org/6252001/> <http://www.geonames.org/ontology#officialName> "États Unis"@fr .
+<https://sws.geonames.org/6252001/> <http://www.geonames.org/ontology#officialName> "États-Unis"@fr .
 <https://sws.geonames.org/6252001/> <http://www.geonames.org/ontology#officialName> "Etazonia"@mg .
 <https://sws.geonames.org/6252001/> <http://www.geonames.org/ontology#officialName> "EUA"@ca .
 <https://sws.geonames.org/6252001/> <http://www.geonames.org/ontology#officialName> "EUA"@gl .
@@ -199,4 +199,4 @@
 <https://sws.geonames.org/6252001/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
 <https://sws.geonames.org/6252001/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
 <https://sws.geonames.org/6252001/about.rdf> <http://purl.org/dc/terms/created> "2006-03-14"^^<https://www.w3.org/2001/XMLSchema#date> .
-<https://sws.geonames.org/6252001/about.rdf> <http://purl.org/dc/terms/modified> "2026-01-01"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/6252001/about.rdf> <http://purl.org/dc/terms/modified> "2026-01-27"^^<https://www.w3.org/2001/XMLSchema#date> .
