@@ -1,0 +1,30 @@
+<https://sws.geonames.org/7729883/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/7729883/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/7729883/about.rdf> .
+<https://sws.geonames.org/7729883/> <http://www.geonames.org/ontology#name> "Northern Europe" .
+<https://sws.geonames.org/7729883/> <http://www.geonames.org/ontology#alternateName> "Europa septentrional"@es .
+<https://sws.geonames.org/7729883/> <http://www.geonames.org/ontology#alternateName> "Europa Setentrional"@pt .
+<https://sws.geonames.org/7729883/> <http://www.geonames.org/ontology#alternateName> "Europa settentrionale"@it .
+<https://sws.geonames.org/7729883/> <http://www.geonames.org/ontology#alternateName> "Europe du Nord"@fr .
+<https://sws.geonames.org/7729883/> <http://www.geonames.org/ontology#officialName> "Nordeuropa"@de .
+<https://sws.geonames.org/7729883/> <http://www.geonames.org/ontology#alternateName> "Šiaurės Europa"@lt .
+<https://sws.geonames.org/7729883/> <http://www.geonames.org/ontology#alternateName> "Північна Європа"@uk .
+<https://sws.geonames.org/7729883/> <http://www.geonames.org/ontology#alternateName> "Северная Европа"@ru .
+<https://sws.geonames.org/7729883/> <http://www.geonames.org/ontology#alternateName> "أوروبا الشمالية"@ar .
+<https://sws.geonames.org/7729883/> <http://www.geonames.org/ontology#alternateName> "北ヨーロッパ"@ja .
+<https://sws.geonames.org/7729883/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#L> .
+<https://sws.geonames.org/7729883/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#L.RGN> .
+<https://sws.geonames.org/7729883/> <http://www.geonames.org/ontology#population> "99000000" .
+<https://sws.geonames.org/7729883/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "61.68987" .
+<https://sws.geonames.org/7729883/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "2.90039" .
+<https://sws.geonames.org/7729883/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/6255148/> .
+<https://sws.geonames.org/7729883/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/7729883/nearby.rdf> .
+<https://sws.geonames.org/7729883/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/7729883/northern-europe.html> .
+<https://sws.geonames.org/7729883/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Northern_Europe> .
+<https://sws.geonames.org/7729883/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Northern_Europe> .
+<https://sws.geonames.org/7729883/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/7729883/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/7729883/> .
+<https://sws.geonames.org/7729883/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/7729883/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/7729883/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/7729883/about.rdf> <http://purl.org/dc/terms/created> "2011-03-16"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/7729883/about.rdf> <http://purl.org/dc/terms/modified> "2016-09-01"^^<https://www.w3.org/2001/XMLSchema#date> .
