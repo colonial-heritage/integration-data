@@ -1,0 +1,40 @@
+<https://sws.geonames.org/5879148/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/5879148/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/5879148/about.rdf> .
+<https://sws.geonames.org/5879148/> <http://www.geonames.org/ontology#name> "Aleutian Islands" .
+<https://sws.geonames.org/5879148/> <http://www.geonames.org/ontology#alternateName> "Aleoeten"@nl .
+<https://sws.geonames.org/5879148/> <http://www.geonames.org/ontology#alternateName> "Aleotskia Isles" .
+<https://sws.geonames.org/5879148/> <http://www.geonames.org/ontology#alternateName> "Aleoutiennes" .
+<https://sws.geonames.org/5879148/> <http://www.geonames.org/ontology#alternateName> "Aleutian Archipelago" .
+<https://sws.geonames.org/5879148/> <http://www.geonames.org/ontology#officialName> "Aleutian Islands"@en .
+<https://sws.geonames.org/5879148/> <http://www.geonames.org/ontology#alternateName> "Aleutian Isles" .
+<https://sws.geonames.org/5879148/> <http://www.geonames.org/ontology#alternateName> "Aleutskie Ostrova" .
+<https://sws.geonames.org/5879148/> <http://www.geonames.org/ontology#alternateName> "Aleutskii Arkhipelag" .
+<https://sws.geonames.org/5879148/> <http://www.geonames.org/ontology#alternateName> "Billy Mitchell Islands" .
+<https://sws.geonames.org/5879148/> <http://www.geonames.org/ontology#alternateName> "Catherina Archipelago" .
+<https://sws.geonames.org/5879148/> <http://www.geonames.org/ontology#alternateName> "Catherine Archipelago" .
+<https://sws.geonames.org/5879148/> <http://www.geonames.org/ontology#alternateName> "Catherine's Archipelago" .
+<https://sws.geonames.org/5879148/> <http://www.geonames.org/ontology#alternateName> "Iles Aleoutiennes" .
+<https://sws.geonames.org/5879148/> <http://www.geonames.org/ontology#alternateName> "Katerina Archipelago" .
+<https://sws.geonames.org/5879148/> <http://www.geonames.org/ontology#alternateName> "Las Aleutianas" .
+<https://sws.geonames.org/5879148/> <http://www.geonames.org/ontology#alternateName> "Ugaassat" .
+<https://sws.geonames.org/5879148/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#T> .
+<https://sws.geonames.org/5879148/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#T.ISLS> .
+<https://sws.geonames.org/5879148/> <http://www.geonames.org/ontology#countryCode> "US" .
+<https://sws.geonames.org/5879148/> <http://www.geonames.org/ontology#population> "8162" .
+<https://sws.geonames.org/5879148/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "52.09694" .
+<https://sws.geonames.org/5879148/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-173.50056" .
+<https://sws.geonames.org/5879148/> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "143" .
+<https://sws.geonames.org/5879148/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/5879092/> .
+<https://sws.geonames.org/5879148/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/6252001/> .
+<https://sws.geonames.org/5879148/> <http://www.geonames.org/ontology#parentADM1> <https://sws.geonames.org/5879092/> .
+<https://sws.geonames.org/5879148/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/5879148/nearby.rdf> .
+<https://sws.geonames.org/5879148/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/5879148/aleutian-islands.html> .
+<https://sws.geonames.org/5879148/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Aleutian_Islands> .
+<https://sws.geonames.org/5879148/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Aleutian_Islands> .
+<https://sws.geonames.org/5879148/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/5879148/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/5879148/> .
+<https://sws.geonames.org/5879148/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/5879148/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/5879148/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/5879148/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/5879148/about.rdf> <http://purl.org/dc/terms/modified> "2022-12-15"^^<https://www.w3.org/2001/XMLSchema#date> .
