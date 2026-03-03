@@ -1,0 +1,36 @@
+<https://sws.geonames.org/1647142/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/1647142/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/1647142/about.rdf> .
+<https://sws.geonames.org/1647142/> <http://www.geonames.org/ontology#name> "Cianjur" .
+<https://sws.geonames.org/1647142/> <http://www.geonames.org/ontology#alternateName> "Chianjur" .
+<https://sws.geonames.org/1647142/> <http://www.geonames.org/ontology#alternateName> "Cianjur"@id .
+<https://sws.geonames.org/1647142/> <http://www.geonames.org/ontology#alternateName> "Kabupatén Cianjur"@su .
+<https://sws.geonames.org/1647142/> <http://www.geonames.org/ontology#alternateName> "Kabupatèn Cianjur"@jv .
+<https://sws.geonames.org/1647142/> <http://www.geonames.org/ontology#alternateName> "Kabupaten de Cianjur"@fr .
+<https://sws.geonames.org/1647142/> <http://www.geonames.org/ontology#alternateName> "Tjandjoer" .
+<https://sws.geonames.org/1647142/> <http://www.geonames.org/ontology#alternateName> "Tjiandjoer" .
+<https://sws.geonames.org/1647142/> <http://www.geonames.org/ontology#alternateName> "Tjiandjur" .
+<https://sws.geonames.org/1647142/> <http://www.geonames.org/ontology#alternateName> "Чианджур"@ru .
+<https://sws.geonames.org/1647142/> <http://www.geonames.org/ontology#alternateName> "ჩიანჯური"@ka .
+<https://sws.geonames.org/1647142/> <http://www.geonames.org/ontology#alternateName> "சியாஞ்சூர்"@ta .
+<https://sws.geonames.org/1647142/> <http://www.geonames.org/ontology#alternateName> "展玉"@zh .
+<https://sws.geonames.org/1647142/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#P> .
+<https://sws.geonames.org/1647142/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#P.PPLA2> .
+<https://sws.geonames.org/1647142/> <http://www.geonames.org/ontology#countryCode> "ID" .
+<https://sws.geonames.org/1647142/> <http://www.geonames.org/ontology#population> "174587" .
+<https://sws.geonames.org/1647142/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "-6.82222" .
+<https://sws.geonames.org/1647142/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "107.13944" .
+<https://sws.geonames.org/1647142/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/6588980/> .
+<https://sws.geonames.org/1647142/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/1643084/> .
+<https://sws.geonames.org/1647142/> <http://www.geonames.org/ontology#parentADM1> <https://sws.geonames.org/1642672/> .
+<https://sws.geonames.org/1647142/> <http://www.geonames.org/ontology#parentADM2> <https://sws.geonames.org/6588980/> .
+<https://sws.geonames.org/1647142/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/1647142/nearby.rdf> .
+<https://sws.geonames.org/1647142/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/1647142/cianjur.html> .
+<https://sws.geonames.org/1647142/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Cianjur> .
+<https://sws.geonames.org/1647142/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Cianjur> .
+<https://sws.geonames.org/1647142/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/1647142/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/1647142/> .
+<https://sws.geonames.org/1647142/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/1647142/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/1647142/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/1647142/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/1647142/about.rdf> <http://purl.org/dc/terms/modified> "2023-01-17"^^<https://www.w3.org/2001/XMLSchema#date> .
