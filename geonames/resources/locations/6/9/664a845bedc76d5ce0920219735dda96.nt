@@ -1,0 +1,28 @@
+<https://sws.geonames.org/2097930/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/2097930/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/2097930/about.rdf> .
+<https://sws.geonames.org/2097930/> <http://www.geonames.org/ontology#name> "Duke of York Group" .
+<https://sws.geonames.org/2097930/> <http://www.geonames.org/ontology#alternateName> "Duke of York Group" .
+<https://sws.geonames.org/2097930/> <http://www.geonames.org/ontology#alternateName> "Duke of York-Inseln" .
+<https://sws.geonames.org/2097930/> <http://www.geonames.org/ontology#alternateName> "Duke of York Islands" .
+<https://sws.geonames.org/2097930/> <http://www.geonames.org/ontology#alternateName> "Neu Lauenberg Group" .
+<https://sws.geonames.org/2097930/> <http://www.geonames.org/ontology#alternateName> "Neu Lauenburg" .
+<https://sws.geonames.org/2097930/> <http://www.geonames.org/ontology#alternateName> "Neu-Lauenburg-Inseln" .
+<https://sws.geonames.org/2097930/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#T> .
+<https://sws.geonames.org/2097930/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#T.ISLS> .
+<https://sws.geonames.org/2097930/> <http://www.geonames.org/ontology#countryCode> "PG" .
+<https://sws.geonames.org/2097930/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "-4.18892" .
+<https://sws.geonames.org/2097930/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "152.42741" .
+<https://sws.geonames.org/2097930/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/2097853/> .
+<https://sws.geonames.org/2097930/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/2088628/> .
+<https://sws.geonames.org/2097930/> <http://www.geonames.org/ontology#parentADM1> <https://sws.geonames.org/2097853/> .
+<https://sws.geonames.org/2097930/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/2097930/nearby.rdf> .
+<https://sws.geonames.org/2097930/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/2097930/duke-of-york-group.html> .
+<https://sws.geonames.org/2097930/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Duke_of_York_Islands> .
+<https://sws.geonames.org/2097930/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Duke_of_York_Islands> .
+<https://sws.geonames.org/2097930/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/2097930/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/2097930/> .
+<https://sws.geonames.org/2097930/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/2097930/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/2097930/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/2097930/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/2097930/about.rdf> <http://purl.org/dc/terms/modified> "2018-10-30"^^<https://www.w3.org/2001/XMLSchema#date> .
