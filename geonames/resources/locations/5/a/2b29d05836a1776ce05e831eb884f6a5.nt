@@ -1,0 +1,37 @@
+<https://sws.geonames.org/1611187/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/1611187/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/1611187/about.rdf> .
+<https://sws.geonames.org/1611187/> <http://www.geonames.org/ontology#name> "Chiang Saen" .
+<https://sws.geonames.org/1611187/> <http://www.geonames.org/ontology#alternateName> "Amphoe Chiang Saen" .
+<https://sws.geonames.org/1611187/> <http://www.geonames.org/ontology#alternateName> "Chang Saen" .
+<https://sws.geonames.org/1611187/> <http://www.geonames.org/ontology#officialName> "Chiang Saen"@en .
+<https://sws.geonames.org/1611187/> <http://www.geonames.org/ontology#alternateName> "Chiang Saen" .
+<https://sws.geonames.org/1611187/> <http://www.geonames.org/ontology#alternateName> "Chiang Saen Luang" .
+<https://sws.geonames.org/1611187/> <http://www.geonames.org/ontology#alternateName> "Chiang Saen Office" .
+<https://sws.geonames.org/1611187/> <http://www.geonames.org/ontology#alternateName> "Chieng Sen" .
+<https://sws.geonames.org/1611187/> <http://www.geonames.org/ontology#alternateName> "Ging Chieng Sean" .
+<https://sws.geonames.org/1611187/> <http://www.geonames.org/ontology#alternateName> "Ging Chiensen" .
+<https://sws.geonames.org/1611187/> <http://www.geonames.org/ontology#alternateName> "Jiēngsēn" .
+<https://sws.geonames.org/1611187/> <http://www.geonames.org/ontology#alternateName> "Keng Sen" .
+<https://sws.geonames.org/1611187/> <http://www.geonames.org/ontology#alternateName> "Muang Jieng Sen" .
+<https://sws.geonames.org/1611187/> <http://www.geonames.org/ontology#alternateName> "Чиангсэн"@ru .
+<https://sws.geonames.org/1611187/> <http://www.geonames.org/ontology#alternateName> "เชียงแสน"@th .
+<https://sws.geonames.org/1611187/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#P> .
+<https://sws.geonames.org/1611187/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#P.PPLA2> .
+<https://sws.geonames.org/1611187/> <http://www.geonames.org/ontology#countryCode> "TH" .
+<https://sws.geonames.org/1611187/> <http://www.geonames.org/ontology#population> "10807" .
+<https://sws.geonames.org/1611187/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "20.27511" .
+<https://sws.geonames.org/1611187/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "100.08689" .
+<https://sws.geonames.org/1611187/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/12642764/> .
+<https://sws.geonames.org/1611187/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/1605651/> .
+<https://sws.geonames.org/1611187/> <http://www.geonames.org/ontology#parentADM1> <https://sws.geonames.org/1153668/> .
+<https://sws.geonames.org/1611187/> <http://www.geonames.org/ontology#parentADM2> <https://sws.geonames.org/1611186/> .
+<https://sws.geonames.org/1611187/> <http://www.geonames.org/ontology#parentADM3> <https://sws.geonames.org/12642764/> .
+<https://sws.geonames.org/1611187/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/1611187/nearby.rdf> .
+<https://sws.geonames.org/1611187/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/1611187/chiang-saen.html> .
+<https://sws.geonames.org/1611187/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/1611187/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/1611187/> .
+<https://sws.geonames.org/1611187/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/1611187/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/1611187/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/1611187/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/1611187/about.rdf> <http://purl.org/dc/terms/modified> "2023-12-10"^^<https://www.w3.org/2001/XMLSchema#date> .
