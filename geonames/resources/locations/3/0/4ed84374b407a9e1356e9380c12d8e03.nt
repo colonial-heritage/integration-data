@@ -1,0 +1,35 @@
+<https://sws.geonames.org/5312850/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/5312850/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/5312850/about.rdf> .
+<https://sws.geonames.org/5312850/> <http://www.geonames.org/ontology#name> "San Carlos Reservation" .
+<https://sws.geonames.org/5312850/> <http://www.geonames.org/ontology#alternateName> "San Carlos Apache Reservation" .
+<https://sws.geonames.org/5312850/> <http://www.geonames.org/ontology#alternateName> "San Carlos Indian Reservation" .
+<https://sws.geonames.org/5312850/> <http://www.geonames.org/ontology#officialName> "San Carlos Reservation"@en .
+<https://sws.geonames.org/5312850/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#A> .
+<https://sws.geonames.org/5312850/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#A.ADMD> .
+<https://sws.geonames.org/5312850/> <http://www.geonames.org/ontology#countryCode> "US" .
+<https://sws.geonames.org/5312850/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "33.3326" .
+<https://sws.geonames.org/5312850/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-110.16107" .
+<https://sws.geonames.org/5312850/> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "1451" .
+<https://sws.geonames.org/5312850/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/5296837/> .
+<https://sws.geonames.org/5312850/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/5296368/> .
+<https://sws.geonames.org/5312850/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/5295877/> .
+<https://sws.geonames.org/5312850/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/5308916/> .
+<https://sws.geonames.org/5312850/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/5306233/> .
+<https://sws.geonames.org/5312850/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/5551519/> .
+<https://sws.geonames.org/5312850/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/6252001/> .
+<https://sws.geonames.org/5312850/> <http://www.geonames.org/ontology#parentADM1> <https://sws.geonames.org/5551752/> .
+<https://sws.geonames.org/5312850/> <http://www.geonames.org/ontology#parentADM2> <https://sws.geonames.org/5551519/> .
+<https://sws.geonames.org/5312850/> <http://www.geonames.org/ontology#parentADM2> <https://sws.geonames.org/5308916/> .
+<https://sws.geonames.org/5312850/> <http://www.geonames.org/ontology#parentADM2> <https://sws.geonames.org/5306233/> .
+<https://sws.geonames.org/5312850/> <http://www.geonames.org/ontology#parentADM2> <https://sws.geonames.org/5296368/> .
+<https://sws.geonames.org/5312850/> <http://www.geonames.org/ontology#parentADM2> <https://sws.geonames.org/5295877/> .
+<https://sws.geonames.org/5312850/> <http://www.geonames.org/ontology#parentADM2> <https://sws.geonames.org/5296837/> .
+<https://sws.geonames.org/5312850/> <http://www.geonames.org/ontology#childrenFeatures> <https://sws.geonames.org/5312850/contains.rdf> .
+<https://sws.geonames.org/5312850/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/5312850/san-carlos-reservation.html> .
+<https://sws.geonames.org/5312850/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/5312850/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/5312850/> .
+<https://sws.geonames.org/5312850/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/5312850/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/5312850/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/5312850/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/5312850/about.rdf> <http://purl.org/dc/terms/modified> "2013-03-07"^^<https://www.w3.org/2001/XMLSchema#date> .
