@@ -1,0 +1,40 @@
+<https://sws.geonames.org/1858088/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/1858088/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/1858088/about.rdf> .
+<https://sws.geonames.org/1858088/> <http://www.geonames.org/ontology#name> "Kurume" .
+<https://sws.geonames.org/1858088/> <http://www.geonames.org/ontology#alternateName> "구루메 시"@ko .
+<https://sws.geonames.org/1858088/> <http://www.geonames.org/ontology#alternateName> "Kurume"@en .
+<https://sws.geonames.org/1858088/> <http://www.geonames.org/ontology#alternateName> "Kurume-chhī"@nan .
+<https://sws.geonames.org/1858088/> <http://www.geonames.org/ontology#alternateName> "Куруме"@bg .
+<https://sws.geonames.org/1858088/> <http://www.geonames.org/ontology#alternateName> "Куруме"@ru .
+<https://sws.geonames.org/1858088/> <http://www.geonames.org/ontology#alternateName> "Куруме"@sr .
+<https://sws.geonames.org/1858088/> <http://www.geonames.org/ontology#alternateName> "Куруме"@tg .
+<https://sws.geonames.org/1858088/> <http://www.geonames.org/ontology#alternateName> "Куруме"@uk .
+<https://sws.geonames.org/1858088/> <http://www.geonames.org/ontology#alternateName> "كورومي"@ar .
+<https://sws.geonames.org/1858088/> <http://www.geonames.org/ontology#alternateName> "کورومه، فوکوئوکا"@fa .
+<https://sws.geonames.org/1858088/> <http://www.geonames.org/ontology#alternateName> "کورومه، فوکوئوکا"@mzn .
+<https://sws.geonames.org/1858088/> <http://www.geonames.org/ontology#alternateName> "کورومی، فوکوکا"@ur .
+<https://sws.geonames.org/1858088/> <http://www.geonames.org/ontology#alternateName> "คุรุเมะ"@th .
+<https://sws.geonames.org/1858088/> <http://www.geonames.org/ontology#alternateName> "久留米"@ja .
+<https://sws.geonames.org/1858088/> <http://www.geonames.org/ontology#alternateName> "久留米市"@ja .
+<https://sws.geonames.org/1858088/> <http://www.geonames.org/ontology#alternateName> "久留米市"@zh .
+<https://sws.geonames.org/1858088/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#P> .
+<https://sws.geonames.org/1858088/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#P.PPLA2> .
+<https://sws.geonames.org/1858088/> <http://www.geonames.org/ontology#countryCode> "JP" .
+<https://sws.geonames.org/1858088/> <http://www.geonames.org/ontology#population> "303579" .
+<https://sws.geonames.org/1858088/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "33.31667" .
+<https://sws.geonames.org/1858088/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "130.51667" .
+<https://sws.geonames.org/1858088/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/1858087/> .
+<https://sws.geonames.org/1858088/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/1861060/> .
+<https://sws.geonames.org/1858088/> <http://www.geonames.org/ontology#parentADM1> <https://sws.geonames.org/1863958/> .
+<https://sws.geonames.org/1858088/> <http://www.geonames.org/ontology#parentADM2> <https://sws.geonames.org/1858087/> .
+<https://sws.geonames.org/1858088/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/1858088/nearby.rdf> .
+<https://sws.geonames.org/1858088/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/1858088/kurume.html> .
+<https://sws.geonames.org/1858088/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Kurume> .
+<https://sws.geonames.org/1858088/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Kurume> .
+<https://sws.geonames.org/1858088/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/1858088/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/1858088/> .
+<https://sws.geonames.org/1858088/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/1858088/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/1858088/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/1858088/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/1858088/about.rdf> <http://purl.org/dc/terms/modified> "2022-09-02"^^<https://www.w3.org/2001/XMLSchema#date> .
