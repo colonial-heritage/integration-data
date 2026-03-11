@@ -42,8 +42,6 @@
 <https://sws.geonames.org/2750405/> <http://www.geonames.org/ontology#officialName> "i-Netherlands"@zu .
 <https://sws.geonames.org/2750405/> <http://www.geonames.org/ontology#officialName> "in-Netherlands"@mt .
 <https://sws.geonames.org/2750405/> <http://www.geonames.org/ontology#officialName> "Izelvroioù"@br .
-<https://sws.geonames.org/2750405/> <http://www.geonames.org/ontology#alternateName> "Kingdom of the Netherlands"@en .
-<https://sws.geonames.org/2750405/> <http://www.geonames.org/ontology#alternateName> "Koninkrijk der Nederlanden"@nl .
 <https://sws.geonames.org/2750405/> <http://www.geonames.org/ontology#officialName> "Madalmaad"@et .
 <https://sws.geonames.org/2750405/> <http://www.geonames.org/ontology#officialName> "Na Tìrean Ìsle"@gd .
 <https://sws.geonames.org/2750405/> <http://www.geonames.org/ontology#officialName> "Nedalandi"@yo .
@@ -54,6 +52,7 @@
 <https://sws.geonames.org/2750405/> <http://www.geonames.org/ontology#officialName> "Nederland"@af .
 <https://sws.geonames.org/2750405/> <http://www.geonames.org/ontology#alternateName> "Nederland"@li .
 <https://sws.geonames.org/2750405/> <http://www.geonames.org/ontology#officialName> "Nederland"@nb .
+<https://sws.geonames.org/2750405/> <http://www.geonames.org/ontology#alternateName> "Nederland"@nl .
 <https://sws.geonames.org/2750405/> <http://www.geonames.org/ontology#officialName> "Nederland"@nl .
 <https://sws.geonames.org/2750405/> <http://www.geonames.org/ontology#alternateName> "Nederland"@nn .
 <https://sws.geonames.org/2750405/> <http://www.geonames.org/ontology#officialName> "Nederland"@no .
@@ -123,6 +122,7 @@
 <https://sws.geonames.org/2750405/> <http://www.geonames.org/ontology#officialName> "Peyiba"@bm .
 <https://sws.geonames.org/2750405/> <http://www.geonames.org/ontology#officialName> "Peyi Baa"@wo .
 <https://sws.geonames.org/2750405/> <http://www.geonames.org/ontology#officialName> "Țările de Jos"@ro .
+<https://sws.geonames.org/2750405/> <http://www.geonames.org/ontology#alternateName> "The Netherlands"@en .
 <https://sws.geonames.org/2750405/> <http://www.geonames.org/ontology#officialName> "The Netherlands"@en .
 <https://sws.geonames.org/2750405/> <http://www.geonames.org/ontology#alternateName> "The Netherlands" .
 <https://sws.geonames.org/2750405/> <http://www.geonames.org/ontology#alternateName> "Tlanitlalpan"@nah .
@@ -204,7 +204,7 @@
 <https://sws.geonames.org/2750405/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/12718413/> .
 <https://sws.geonames.org/2750405/> <http://www.geonames.org/ontology#childrenFeatures> <https://sws.geonames.org/2750405/contains.rdf> .
 <https://sws.geonames.org/2750405/> <http://www.geonames.org/ontology#neighbouringFeatures> <https://sws.geonames.org/2750405/neighbours.rdf> .
-<https://sws.geonames.org/2750405/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/2750405/kingdom-of-the-netherlands.html> .
+<https://sws.geonames.org/2750405/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/2750405/the-netherlands.html> .
 <https://sws.geonames.org/2750405/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Netherlands> .
 <https://sws.geonames.org/2750405/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Netherlands> .
 <https://sws.geonames.org/2750405/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
@@ -213,4 +213,4 @@
 <https://sws.geonames.org/2750405/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
 <https://sws.geonames.org/2750405/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
 <https://sws.geonames.org/2750405/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
-<https://sws.geonames.org/2750405/about.rdf> <http://purl.org/dc/terms/modified> "2026-02-23"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/2750405/about.rdf> <http://purl.org/dc/terms/modified> "2026-03-03"^^<https://www.w3.org/2001/XMLSchema#date> .
