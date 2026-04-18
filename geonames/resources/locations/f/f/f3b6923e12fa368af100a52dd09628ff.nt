@@ -1,17 +1,38 @@
 <https://sws.geonames.org/104514/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
 <https://sws.geonames.org/104514/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/104514/about.rdf> .
 <https://sws.geonames.org/104514/> <http://www.geonames.org/ontology#name> "Mecca Region" .
+<https://sws.geonames.org/104514/> <http://www.geonames.org/ontology#alternateName> "Eneo la Makkah"@sw .
+<https://sws.geonames.org/104514/> <http://www.geonames.org/ontology#alternateName> "Gobolka Makkah"@so .
 <https://sws.geonames.org/104514/> <http://www.geonames.org/ontology#alternateName> "La Mecque"@fr .
 <https://sws.geonames.org/104514/> <http://www.geonames.org/ontology#alternateName> "Makkah" .
 <https://sws.geonames.org/104514/> <http://www.geonames.org/ontology#alternateName> "Makkah al-Mukarrammah Province"@en .
 <https://sws.geonames.org/104514/> <http://www.geonames.org/ontology#alternateName> "Makkah Province"@en .
 <https://sws.geonames.org/104514/> <http://www.geonames.org/ontology#alternateName> "Makkah Region"@en .
+<https://sws.geonames.org/104514/> <http://www.geonames.org/ontology#alternateName> "Makka minaqasi"@uz .
 <https://sws.geonames.org/104514/> <http://www.geonames.org/ontology#alternateName> "Mecca" .
 <https://sws.geonames.org/104514/> <http://www.geonames.org/ontology#officialName> "Mecca Region"@en .
 <https://sws.geonames.org/104514/> <http://www.geonames.org/ontology#alternateName> "Mekka"@sv .
+<https://sws.geonames.org/104514/> <http://www.geonames.org/ontology#alternateName> "Mekka-Region"@de .
+<https://sws.geonames.org/104514/> <http://www.geonames.org/ontology#alternateName> "Məkkə bölgəsi"@az .
 <https://sws.geonames.org/104514/> <http://www.geonames.org/ontology#alternateName> "Minţaqat Makkah" .
+<https://sws.geonames.org/104514/> <http://www.geonames.org/ontology#alternateName> "Naannoo Makka"@om .
+<https://sws.geonames.org/104514/> <http://www.geonames.org/ontology#alternateName> "Região de Meca"@pt .
+<https://sws.geonames.org/104514/> <http://www.geonames.org/ontology#alternateName> "Región de La Meca"@es .
+<https://sws.geonames.org/104514/> <http://www.geonames.org/ontology#alternateName> "Wilayah Makkah"@jv .
+<https://sws.geonames.org/104514/> <http://www.geonames.org/ontology#alternateName> "Wilayah Mekah"@ms .
+<https://sws.geonames.org/104514/> <http://www.geonames.org/ontology#alternateName> "Yankin Makka"@ha .
+<https://sws.geonames.org/104514/> <http://www.geonames.org/ontology#alternateName> "Макка Чөлөө"@ky .
+<https://sws.geonames.org/104514/> <http://www.geonames.org/ontology#alternateName> "Мәккә регионы"@tt .
+<https://sws.geonames.org/104514/> <http://www.geonames.org/ontology#alternateName> "Мекке облысы"@kk .
+<https://sws.geonames.org/104514/> <http://www.geonames.org/ontology#alternateName> "Минтақаи Макка"@tg .
+<https://sws.geonames.org/104514/> <http://www.geonames.org/ontology#alternateName> "د مکې سیمه"@ps .
 <https://sws.geonames.org/104514/> <http://www.geonames.org/ontology#shortName> "مكة المكرّمة"@ar .
 <https://sws.geonames.org/104514/> <http://www.geonames.org/ontology#officialName> "مِـنْـطَـقَـة مَـكَّـة الـمُـكَـرَّمَـة"@ar .
+<https://sws.geonames.org/104514/> <http://www.geonames.org/ontology#alternateName> "منطقه مکه"@fa .
+<https://sws.geonames.org/104514/> <http://www.geonames.org/ontology#alternateName> "ሜካ ክልል"@am .
+<https://sws.geonames.org/104514/> <http://www.geonames.org/ontology#alternateName> "মক্কা অঞ্চল"@bn .
+<https://sws.geonames.org/104514/> <http://www.geonames.org/ontology#alternateName> "ਮੱਕਾ ਖੇਤਰ"@pa .
+<https://sws.geonames.org/104514/> <http://www.geonames.org/ontology#alternateName> "メッカ州"@ja .
 <https://sws.geonames.org/104514/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#A> .
 <https://sws.geonames.org/104514/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#A.ADM1> .
 <https://sws.geonames.org/104514/> <http://www.geonames.org/ontology#countryCode> "SA" .
@@ -30,4 +51,4 @@
 <https://sws.geonames.org/104514/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
 <https://sws.geonames.org/104514/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
 <https://sws.geonames.org/104514/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
-<https://sws.geonames.org/104514/about.rdf> <http://purl.org/dc/terms/modified> "2024-07-14"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/104514/about.rdf> <http://purl.org/dc/terms/modified> "2026-04-16"^^<https://www.w3.org/2001/XMLSchema#date> .
