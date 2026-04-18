@@ -2,6 +2,12 @@
 <https://sws.geonames.org/2038349/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/2038349/about.rdf> .
 <https://sws.geonames.org/2038349/> <http://www.geonames.org/ontology#name> "Beijing" .
 <https://sws.geonames.org/2038349/> <http://www.geonames.org/ontology#shortName> "Beijing"@en .
+<https://sws.geonames.org/2038349/> <http://www.geonames.org/ontology#alternateName> "Beijing"@ha .
+<https://sws.geonames.org/2038349/> <http://www.geonames.org/ontology#alternateName> "Beijing"@jv .
+<https://sws.geonames.org/2038349/> <http://www.geonames.org/ontology#alternateName> "Beijing"@ms .
+<https://sws.geonames.org/2038349/> <http://www.geonames.org/ontology#alternateName> "Beijing"@om .
+<https://sws.geonames.org/2038349/> <http://www.geonames.org/ontology#alternateName> "Beijing"@so .
+<https://sws.geonames.org/2038349/> <http://www.geonames.org/ontology#alternateName> "Beijing"@sw .
 <https://sws.geonames.org/2038349/> <http://www.geonames.org/ontology#shortName> "Beijing" .
 <https://sws.geonames.org/2038349/> <http://www.geonames.org/ontology#officialName> "Beijing Municipality"@en .
 <https://sws.geonames.org/2038349/> <http://www.geonames.org/ontology#alternateName> "Beijing Shi" .
@@ -9,8 +15,23 @@
 <https://sws.geonames.org/2038349/> <http://www.geonames.org/ontology#alternateName> "Peiping Municipal Administrative Area" .
 <https://sws.geonames.org/2038349/> <http://www.geonames.org/ontology#alternateName> "Peiping Municipality" .
 <https://sws.geonames.org/2038349/> <http://www.geonames.org/ontology#alternateName> "Pei-p’ing Shih" .
+<https://sws.geonames.org/2038349/> <http://www.geonames.org/ontology#alternateName> "Pekin"@az .
+<https://sws.geonames.org/2038349/> <http://www.geonames.org/ontology#alternateName> "Pekin"@uz .
+<https://sws.geonames.org/2038349/> <http://www.geonames.org/ontology#alternateName> "Pekín"@es .
+<https://sws.geonames.org/2038349/> <http://www.geonames.org/ontology#alternateName> "Peking"@de .
 <https://sws.geonames.org/2038349/> <http://www.geonames.org/ontology#alternateName> "Peking" .
 <https://sws.geonames.org/2038349/> <http://www.geonames.org/ontology#alternateName> "Peking Municipality" .
+<https://sws.geonames.org/2038349/> <http://www.geonames.org/ontology#alternateName> "Pequim"@pt .
+<https://sws.geonames.org/2038349/> <http://www.geonames.org/ontology#alternateName> "Бәйжің"@kk .
+<https://sws.geonames.org/2038349/> <http://www.geonames.org/ontology#alternateName> "Бәйҗин"@tt .
+<https://sws.geonames.org/2038349/> <http://www.geonames.org/ontology#alternateName> "Бејжин"@tg .
+<https://sws.geonames.org/2038349/> <http://www.geonames.org/ontology#alternateName> "Бэйжин"@ky .
+<https://sws.geonames.org/2038349/> <http://www.geonames.org/ontology#alternateName> "بیجنګ"@ps .
+<https://sws.geonames.org/2038349/> <http://www.geonames.org/ontology#alternateName> "پکن"@fa .
+<https://sws.geonames.org/2038349/> <http://www.geonames.org/ontology#alternateName> "ቤይጂንግ"@am .
+<https://sws.geonames.org/2038349/> <http://www.geonames.org/ontology#alternateName> "বেইজিং"@bn .
+<https://sws.geonames.org/2038349/> <http://www.geonames.org/ontology#alternateName> "ਬੇਇਜਿੰਗ"@pa .
+<https://sws.geonames.org/2038349/> <http://www.geonames.org/ontology#alternateName> "北京"@ja .
 <https://sws.geonames.org/2038349/> <http://www.geonames.org/ontology#alternateName> "北京"@zh .
 <https://sws.geonames.org/2038349/> <http://www.geonames.org/ontology#alternateName> "北京市"@zh .
 <https://sws.geonames.org/2038349/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#A> .
@@ -31,4 +52,4 @@
 <https://sws.geonames.org/2038349/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
 <https://sws.geonames.org/2038349/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
 <https://sws.geonames.org/2038349/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
-<https://sws.geonames.org/2038349/about.rdf> <http://purl.org/dc/terms/modified> "2021-09-01"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/2038349/about.rdf> <http://purl.org/dc/terms/modified> "2026-04-16"^^<https://www.w3.org/2001/XMLSchema#date> .

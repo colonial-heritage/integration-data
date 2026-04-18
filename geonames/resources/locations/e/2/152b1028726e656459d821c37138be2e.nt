@@ -1,9 +1,21 @@
 <https://sws.geonames.org/1215638/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
 <https://sws.geonames.org/1215638/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/1215638/about.rdf> .
 <https://sws.geonames.org/1215638/> <http://www.geonames.org/ontology#name> "Aceh" .
+<https://sws.geonames.org/1215638/> <http://www.geonames.org/ontology#alternateName> "Aachee"@om .
+<https://sws.geonames.org/1215638/> <http://www.geonames.org/ontology#alternateName> "Aceh"@de .
 <https://sws.geonames.org/1215638/> <http://www.geonames.org/ontology#shortName> "Aceh"@en .
+<https://sws.geonames.org/1215638/> <http://www.geonames.org/ontology#alternateName> "Aceh"@es .
+<https://sws.geonames.org/1215638/> <http://www.geonames.org/ontology#alternateName> "Aceh"@fr .
+<https://sws.geonames.org/1215638/> <http://www.geonames.org/ontology#alternateName> "Aceh"@ha .
 <https://sws.geonames.org/1215638/> <http://www.geonames.org/ontology#shortName> "Aceh"@id .
+<https://sws.geonames.org/1215638/> <http://www.geonames.org/ontology#alternateName> "Aceh"@jv .
+<https://sws.geonames.org/1215638/> <http://www.geonames.org/ontology#alternateName> "Aceh"@ms .
+<https://sws.geonames.org/1215638/> <http://www.geonames.org/ontology#alternateName> "Aceh"@pt .
+<https://sws.geonames.org/1215638/> <http://www.geonames.org/ontology#alternateName> "Aceh"@so .
+<https://sws.geonames.org/1215638/> <http://www.geonames.org/ontology#alternateName> "Aceh"@sw .
 <https://sws.geonames.org/1215638/> <http://www.geonames.org/ontology#officialName> "Aceh" .
+<https://sws.geonames.org/1215638/> <http://www.geonames.org/ontology#alternateName> "Aceх"@az .
+<https://sws.geonames.org/1215638/> <http://www.geonames.org/ontology#alternateName> "Acheh"@uz .
 <https://sws.geonames.org/1215638/> <http://www.geonames.org/ontology#alternateName> "Acheh" .
 <https://sws.geonames.org/1215638/> <http://www.geonames.org/ontology#alternateName> "Achin" .
 <https://sws.geonames.org/1215638/> <http://www.geonames.org/ontology#alternateName> "Daerah Istimewa Aceh" .
@@ -14,6 +26,16 @@
 <https://sws.geonames.org/1215638/> <http://www.geonames.org/ontology#alternateName> "Provinsi Nanggroe Aceh Darussalam"@id .
 <https://sws.geonames.org/1215638/> <http://www.geonames.org/ontology#officialName> "Special Region of Aceh"@en .
 <https://sws.geonames.org/1215638/> <http://www.geonames.org/ontology#alternateName> "Special Territory of Aceh" .
+<https://sws.geonames.org/1215638/> <http://www.geonames.org/ontology#alternateName> "Ачех"@kk .
+<https://sws.geonames.org/1215638/> <http://www.geonames.org/ontology#alternateName> "Ачех"@ky .
+<https://sws.geonames.org/1215638/> <http://www.geonames.org/ontology#alternateName> "Ачех"@tt .
+<https://sws.geonames.org/1215638/> <http://www.geonames.org/ontology#alternateName> "Ачеҳ"@tg .
+<https://sws.geonames.org/1215638/> <http://www.geonames.org/ontology#alternateName> "آچه"@fa .
+<https://sws.geonames.org/1215638/> <http://www.geonames.org/ontology#alternateName> "اچې"@ps .
+<https://sws.geonames.org/1215638/> <http://www.geonames.org/ontology#alternateName> "አቼህ"@am .
+<https://sws.geonames.org/1215638/> <http://www.geonames.org/ontology#alternateName> "আচেহ"@bn .
+<https://sws.geonames.org/1215638/> <http://www.geonames.org/ontology#alternateName> "ਅਚੇ"@pa .
+<https://sws.geonames.org/1215638/> <http://www.geonames.org/ontology#alternateName> "アチェ州"@ja .
 <https://sws.geonames.org/1215638/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#A> .
 <https://sws.geonames.org/1215638/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#A.ADM1> .
 <https://sws.geonames.org/1215638/> <http://www.geonames.org/ontology#countryCode> "ID" .
@@ -33,4 +55,4 @@
 <https://sws.geonames.org/1215638/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
 <https://sws.geonames.org/1215638/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
 <https://sws.geonames.org/1215638/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
-<https://sws.geonames.org/1215638/about.rdf> <http://purl.org/dc/terms/modified> "2022-12-16"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/1215638/about.rdf> <http://purl.org/dc/terms/modified> "2026-04-16"^^<https://www.w3.org/2001/XMLSchema#date> .
