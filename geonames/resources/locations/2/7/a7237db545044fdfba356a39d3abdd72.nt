@@ -1,0 +1,24 @@
+<https://sws.geonames.org/933198/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/933198/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/933198/about.rdf> .
+<https://sws.geonames.org/933198/> <http://www.geonames.org/ontology#name> "Okavango Swamps" .
+<https://sws.geonames.org/933198/> <http://www.geonames.org/ontology#alternateName> "Marshes of the Okavango" .
+<https://sws.geonames.org/933198/> <http://www.geonames.org/ontology#alternateName> "Moerasse van die Okavango" .
+<https://sws.geonames.org/933198/> <http://www.geonames.org/ontology#alternateName> "Okavango Swamps" .
+<https://sws.geonames.org/933198/> <http://www.geonames.org/ontology#alternateName> "Okovanggo Basin" .
+<https://sws.geonames.org/933198/> <http://www.geonames.org/ontology#alternateName> "Okovanggo Swamp" .
+<https://sws.geonames.org/933198/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#H> .
+<https://sws.geonames.org/933198/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#H.MRSH> .
+<https://sws.geonames.org/933198/> <http://www.geonames.org/ontology#countryCode> "BW" .
+<https://sws.geonames.org/933198/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "-19.5" .
+<https://sws.geonames.org/933198/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "23" .
+<https://sws.geonames.org/933198/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/933860/> .
+<https://sws.geonames.org/933198/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/933860/> .
+<https://sws.geonames.org/933198/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/933198/nearby.rdf> .
+<https://sws.geonames.org/933198/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/933198/okavango-swamps.html> .
+<https://sws.geonames.org/933198/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/933198/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/933198/> .
+<https://sws.geonames.org/933198/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/933198/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/933198/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/933198/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/933198/about.rdf> <http://purl.org/dc/terms/modified> "2012-01-18"^^<https://www.w3.org/2001/XMLSchema#date> .
