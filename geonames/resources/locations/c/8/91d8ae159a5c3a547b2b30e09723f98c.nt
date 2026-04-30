@@ -1,0 +1,43 @@
+<https://sws.geonames.org/5498952/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/5498952/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/5498952/about.rdf> .
+<https://sws.geonames.org/5498952/> <http://www.geonames.org/ontology#name> "Zia Pueblo" .
+<https://sws.geonames.org/5498952/> <http://www.geonames.org/ontology#alternateName> "Chia" .
+<https://sws.geonames.org/5498952/> <http://www.geonames.org/ontology#alternateName> "Cia" .
+<https://sws.geonames.org/5498952/> <http://www.geonames.org/ontology#alternateName> "Cuame" .
+<https://sws.geonames.org/5498952/> <http://www.geonames.org/ontology#alternateName> "El-ke-ai *" .
+<https://sws.geonames.org/5498952/> <http://www.geonames.org/ontology#alternateName> "Nuestra Senora de la Asuncion *" .
+<https://sws.geonames.org/5498952/> <http://www.geonames.org/ontology#alternateName> "Okuwaregi'ongwi *" .
+<https://sws.geonames.org/5498952/> <http://www.geonames.org/ontology#alternateName> "Sa'jakwa *" .
+<https://sws.geonames.org/5498952/> <http://www.geonames.org/ontology#alternateName> "Sant Pedro y Sant Pablo" .
+<https://sws.geonames.org/5498952/> <http://www.geonames.org/ontology#alternateName> "Sayaquakwa *" .
+<https://sws.geonames.org/5498952/> <http://www.geonames.org/ontology#alternateName> "Sia" .
+<https://sws.geonames.org/5498952/> <http://www.geonames.org/ontology#alternateName> "Tlogi" .
+<https://sws.geonames.org/5498952/> <http://www.geonames.org/ontology#alternateName> "Tria" .
+<https://sws.geonames.org/5498952/> <http://www.geonames.org/ontology#alternateName> "Tse'ja *" .
+<https://sws.geonames.org/5498952/> <http://www.geonames.org/ontology#alternateName> "Tsia" .
+<https://sws.geonames.org/5498952/> <http://www.geonames.org/ontology#alternateName> "Tsija *" .
+<https://sws.geonames.org/5498952/> <http://www.geonames.org/ontology#alternateName> "Tsiya" .
+<https://sws.geonames.org/5498952/> <http://www.geonames.org/ontology#alternateName> "Tunavwa *" .
+<https://sws.geonames.org/5498952/> <http://www.geonames.org/ontology#alternateName> "Tunawak *" .
+<https://sws.geonames.org/5498952/> <http://www.geonames.org/ontology#alternateName> "Zia" .
+<https://sws.geonames.org/5498952/> <http://www.geonames.org/ontology#officialName> "Zia Pueblo"@en .
+<https://sws.geonames.org/5498952/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#P> .
+<https://sws.geonames.org/5498952/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#P.PPL> .
+<https://sws.geonames.org/5498952/> <http://www.geonames.org/ontology#countryCode> "US" .
+<https://sws.geonames.org/5498952/> <http://www.geonames.org/ontology#population> "737" .
+<https://sws.geonames.org/5498952/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "35.50698" .
+<https://sws.geonames.org/5498952/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-106.72031" .
+<https://sws.geonames.org/5498952/> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "1668" .
+<https://sws.geonames.org/5498952/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/5490135/> .
+<https://sws.geonames.org/5498952/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/6252001/> .
+<https://sws.geonames.org/5498952/> <http://www.geonames.org/ontology#parentADM1> <https://sws.geonames.org/5481136/> .
+<https://sws.geonames.org/5498952/> <http://www.geonames.org/ontology#parentADM2> <https://sws.geonames.org/5490135/> .
+<https://sws.geonames.org/5498952/> <http://www.geonames.org/ontology#nearbyFeatures> <https://sws.geonames.org/5498952/nearby.rdf> .
+<https://sws.geonames.org/5498952/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/5498952/zia-pueblo.html> .
+<https://sws.geonames.org/5498952/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/5498952/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/5498952/> .
+<https://sws.geonames.org/5498952/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/5498952/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/5498952/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/5498952/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/5498952/about.rdf> <http://purl.org/dc/terms/modified> "2011-05-14"^^<https://www.w3.org/2001/XMLSchema#date> .
