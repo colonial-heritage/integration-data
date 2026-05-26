@@ -32,9 +32,9 @@ _:b0_bn1775542 <https://schema.org/encodingFormat> <https://www.iana.org/assignm
 <https://data.colonialcollections.nl/nmvw/collection-archives> <https://schema.org/dateModified> "2026-05-23"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://data.colonialcollections.nl/nmvw/collection-archives> <https://schema.org/datePublished> "2023-01-31"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://data.colonialcollections.nl/nmvw/collection-archives> <https://schema.org/inLanguage> <http://publications.europa.eu/resource/authority/language/ISO> .
-<https://data.colonialcollections.nl/nmvw/collection-archives> <https://schema.org/distribution> _:b0_bn1775539 .
-_:b0_bn1775539 <https://schema.org/contentUrl> <https://data.colonialcollections.nl/nmvw/collection-archives/download.trig.gz> .
-_:b0_bn1775539 <https://schema.org/encodingFormat> <https://www.iana.org/assignments/media-types/application/trig> .
+<https://data.colonialcollections.nl/nmvw/collection-archives> <https://schema.org/distribution> _:b0_bn1775541 .
+_:b0_bn1775541 <https://schema.org/contentUrl> <https://data.colonialcollections.nl/nmvw/collection-archives/download.nq.gz> .
+_:b0_bn1775541 <https://schema.org/encodingFormat> <https://www.iana.org/assignments/media-types/application/n-quads> .
 <https://data.colonialcollections.nl/nmvw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
 <https://data.colonialcollections.nl/nmvw> <https://schema.org/name> "Nationaal Museum van Wereldculturen"@nl .
 <https://data.colonialcollections.nl/nmvw/collection-archives> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Dataset> .
@@ -58,9 +58,9 @@ _:b0_bn1775540 <https://schema.org/encodingFormat> <https://www.iana.org/assignm
 <https://data.colonialcollections.nl/nmvw/collection-archives> <https://schema.org/dateModified> "2026-05-23"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://data.colonialcollections.nl/nmvw/collection-archives> <https://schema.org/datePublished> "2023-01-31"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://data.colonialcollections.nl/nmvw/collection-archives> <https://schema.org/inLanguage> <http://publications.europa.eu/resource/authority/language/ISO> .
-<https://data.colonialcollections.nl/nmvw/collection-archives> <https://schema.org/distribution> _:b0_bn1775541 .
-_:b0_bn1775541 <https://schema.org/contentUrl> <https://data.colonialcollections.nl/nmvw/collection-archives/download.nq.gz> .
-_:b0_bn1775541 <https://schema.org/encodingFormat> <https://www.iana.org/assignments/media-types/application/n-quads> .
+<https://data.colonialcollections.nl/nmvw/collection-archives> <https://schema.org/distribution> _:b0_bn1775539 .
+_:b0_bn1775539 <https://schema.org/contentUrl> <https://data.colonialcollections.nl/nmvw/collection-archives/download.trig.gz> .
+_:b0_bn1775539 <https://schema.org/encodingFormat> <https://www.iana.org/assignments/media-types/application/trig> .
 <https://data.colonialcollections.nl/nmvw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
 <https://data.colonialcollections.nl/nmvw> <https://schema.org/name> "Nationaal Museum van Wereldculturen"@nl .
 <https://id.rijksmuseum.nl/260210> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Dataset> .
@@ -68,9 +68,9 @@ _:b0_bn1775541 <https://schema.org/encodingFormat> <https://www.iana.org/assignm
 <https://id.rijksmuseum.nl/260210> <https://schema.org/license> <https://creativecommons.org/publicdomain/zero/1.0/> .
 <https://id.rijksmuseum.nl/260210> <https://schema.org/publisher> <https://id.rijksmuseum.nl/110378> .
 <https://id.rijksmuseum.nl/260210> <https://schema.org/description> "Het Rijksmuseum vertelt het verhaal van 800 jaar Nederlandse geschiedenis tot nu. In de Rijksmuseumcollectie, die een miljoen objecten telt, bevinden zich kunst en voorwerpen met een relatie met voormalig gekoloniseerd gebied. Het Rijksmuseum is zich bewust van de vraag naar de rechtmatigheid van het beheer van voorwerpen die in koloniale context zijn verworven. Het acht samenwerking met partners uit de herkomstlanden en het consortium een prioriteit.\nDe dataset omvat op dit moment objecten uit Indonesië, Sri Lanka, Suriname, Aruba, Curaçao, Sint Maarten en Caribisch Nederland (Bonaire, Sint Eustatius en Saba). Het doel is om in de loop der tijd de dataset uit te breiden met meer objecten uit de overige Nederlandse koloniën en handelsposten. Voor meer informatie en inzicht in de gehele collectie van het Rijksmuseum: https://www.rijksmuseum.nl/nl/rijksstudio"@nl .
-<https://id.rijksmuseum.nl/260210> <https://schema.org/distribution> _:b0_bn1807085 .
-_:b0_bn1807085 <https://schema.org/contentUrl> <https://data.rijksmuseum.nl/ldes/dataset/260210/collection.json> .
-_:b0_bn1807085 <https://schema.org/encodingFormat> <https://www.iana.org/assignments/media-types/application/ld+json> .
+<https://id.rijksmuseum.nl/260210> <https://schema.org/distribution> _:b0_bn1807087 .
+_:b0_bn1807087 <https://schema.org/contentUrl> <https://data.rijksmuseum.nl/search/collection?memberOfSetId=https://id.rijksmuseum.nl/260210> .
+_:b0_bn1807087 <https://schema.org/encodingFormat> <https://www.iana.org/assignments/media-types/application/ld+json> .
 <https://id.rijksmuseum.nl/110378> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
 <https://id.rijksmuseum.nl/110378> <https://schema.org/name> "Rijksmuseum"@nl .
 <https://id.rijksmuseum.nl/260210> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Dataset> .
@@ -88,9 +88,9 @@ _:b0_bn1807086 <https://schema.org/encodingFormat> <https://www.iana.org/assignm
 <https://id.rijksmuseum.nl/260210> <https://schema.org/license> <https://creativecommons.org/publicdomain/zero/1.0/> .
 <https://id.rijksmuseum.nl/260210> <https://schema.org/publisher> <https://id.rijksmuseum.nl/110378> .
 <https://id.rijksmuseum.nl/260210> <https://schema.org/description> "Het Rijksmuseum vertelt het verhaal van 800 jaar Nederlandse geschiedenis tot nu. In de Rijksmuseumcollectie, die een miljoen objecten telt, bevinden zich kunst en voorwerpen met een relatie met voormalig gekoloniseerd gebied. Het Rijksmuseum is zich bewust van de vraag naar de rechtmatigheid van het beheer van voorwerpen die in koloniale context zijn verworven. Het acht samenwerking met partners uit de herkomstlanden en het consortium een prioriteit.\nDe dataset omvat op dit moment objecten uit Indonesië, Sri Lanka, Suriname, Aruba, Curaçao, Sint Maarten en Caribisch Nederland (Bonaire, Sint Eustatius en Saba). Het doel is om in de loop der tijd de dataset uit te breiden met meer objecten uit de overige Nederlandse koloniën en handelsposten. Voor meer informatie en inzicht in de gehele collectie van het Rijksmuseum: https://www.rijksmuseum.nl/nl/rijksstudio"@nl .
-<https://id.rijksmuseum.nl/260210> <https://schema.org/distribution> _:b0_bn1807087 .
-_:b0_bn1807087 <https://schema.org/contentUrl> <https://data.rijksmuseum.nl/search/collection?memberOfSetId=https://id.rijksmuseum.nl/260210> .
-_:b0_bn1807087 <https://schema.org/encodingFormat> <https://www.iana.org/assignments/media-types/application/ld+json> .
+<https://id.rijksmuseum.nl/260210> <https://schema.org/distribution> _:b0_bn1807085 .
+_:b0_bn1807085 <https://schema.org/contentUrl> <https://data.rijksmuseum.nl/ldes/dataset/260210/collection.json> .
+_:b0_bn1807085 <https://schema.org/encodingFormat> <https://www.iana.org/assignments/media-types/application/ld+json> .
 <https://id.rijksmuseum.nl/110378> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
 <https://id.rijksmuseum.nl/110378> <https://schema.org/name> "Rijksmuseum"@nl .
 <https://id.rijksmuseum.nl/260210> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Dataset> .
@@ -98,9 +98,9 @@ _:b0_bn1807087 <https://schema.org/encodingFormat> <https://www.iana.org/assignm
 <https://id.rijksmuseum.nl/260210> <https://schema.org/license> <https://creativecommons.org/publicdomain/zero/1.0/> .
 <https://id.rijksmuseum.nl/260210> <https://schema.org/publisher> <https://id.rijksmuseum.nl/110378> .
 <https://id.rijksmuseum.nl/260210> <https://schema.org/description> "The Rijksmuseum tells the story of 800 years of Dutch history to the present day. Its collection comprises one million art historical objects, including those with a relation to formerly colonised territories. The Rijksmuseum is aware of the question of the legitimacy of managing objects acquired in a colonial context. It considers cooperation with partners from countries of origin and the Colonial Heritage Consortium a priority.\nThis dataset of object descriptions is compiled for the Colonial Heritage Consortium 'Against Opacity' (2024) programme. It currently includes objects from Indonesia, Sri Lanka, Suriname, Aruba, Curaçao, Sint Maarten, and the Caribbean Netherlands (Bonaire, St. Eustatius, and Saba). The goal is to expand the dataset with more objects from the other Dutch colonised territories and trading posts over time. For more information and to access the entire Rijksmuseum collection: https://www.rijksmuseum.nl/en/rijksstudio"@en .
-<https://id.rijksmuseum.nl/260210> <https://schema.org/distribution> _:b0_bn1807085 .
-_:b0_bn1807085 <https://schema.org/contentUrl> <https://data.rijksmuseum.nl/ldes/dataset/260210/collection.json> .
-_:b0_bn1807085 <https://schema.org/encodingFormat> <https://www.iana.org/assignments/media-types/application/ld+json> .
+<https://id.rijksmuseum.nl/260210> <https://schema.org/distribution> _:b0_bn1807087 .
+_:b0_bn1807087 <https://schema.org/contentUrl> <https://data.rijksmuseum.nl/search/collection?memberOfSetId=https://id.rijksmuseum.nl/260210> .
+_:b0_bn1807087 <https://schema.org/encodingFormat> <https://www.iana.org/assignments/media-types/application/ld+json> .
 <https://id.rijksmuseum.nl/110378> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
 <https://id.rijksmuseum.nl/110378> <https://schema.org/name> "Rijksmuseum"@nl .
 <https://id.rijksmuseum.nl/260210> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Dataset> .
@@ -118,9 +118,9 @@ _:b0_bn1807086 <https://schema.org/encodingFormat> <https://www.iana.org/assignm
 <https://id.rijksmuseum.nl/260210> <https://schema.org/license> <https://creativecommons.org/publicdomain/zero/1.0/> .
 <https://id.rijksmuseum.nl/260210> <https://schema.org/publisher> <https://id.rijksmuseum.nl/110378> .
 <https://id.rijksmuseum.nl/260210> <https://schema.org/description> "The Rijksmuseum tells the story of 800 years of Dutch history to the present day. Its collection comprises one million art historical objects, including those with a relation to formerly colonised territories. The Rijksmuseum is aware of the question of the legitimacy of managing objects acquired in a colonial context. It considers cooperation with partners from countries of origin and the Colonial Heritage Consortium a priority.\nThis dataset of object descriptions is compiled for the Colonial Heritage Consortium 'Against Opacity' (2024) programme. It currently includes objects from Indonesia, Sri Lanka, Suriname, Aruba, Curaçao, Sint Maarten, and the Caribbean Netherlands (Bonaire, St. Eustatius, and Saba). The goal is to expand the dataset with more objects from the other Dutch colonised territories and trading posts over time. For more information and to access the entire Rijksmuseum collection: https://www.rijksmuseum.nl/en/rijksstudio"@en .
-<https://id.rijksmuseum.nl/260210> <https://schema.org/distribution> _:b0_bn1807087 .
-_:b0_bn1807087 <https://schema.org/contentUrl> <https://data.rijksmuseum.nl/search/collection?memberOfSetId=https://id.rijksmuseum.nl/260210> .
-_:b0_bn1807087 <https://schema.org/encodingFormat> <https://www.iana.org/assignments/media-types/application/ld+json> .
+<https://id.rijksmuseum.nl/260210> <https://schema.org/distribution> _:b0_bn1807085 .
+_:b0_bn1807085 <https://schema.org/contentUrl> <https://data.rijksmuseum.nl/ldes/dataset/260210/collection.json> .
+_:b0_bn1807085 <https://schema.org/encodingFormat> <https://www.iana.org/assignments/media-types/application/ld+json> .
 <https://id.rijksmuseum.nl/110378> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
 <https://id.rijksmuseum.nl/110378> <https://schema.org/name> "Rijksmuseum"@nl .
 <https://linkeddata.cultureelerfgoed.nl/rce/datacatalog/id/dataset/601d1744-b1d5-35c1-b42f-9ee55be75911> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Dataset> .
