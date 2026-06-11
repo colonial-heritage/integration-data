@@ -1,0 +1,280 @@
+###############################
+# Query for generating the 'Rijksmuseum Objects' graph in the Knowledge Graph
+#
+# This is a copy of the 'RijksObjectId' query at https://data.colonialcollections.nl/rijksmuseum/-/queries/RijksObjectId 
+# It is kept here for reference and to be able to keep the changes in git. 
+#
+# Updating this file does not update it at triply.
+###############################
+
+prefix aat: <http://vocab.getty.edu/aat/>
+prefix crm: <http://www.cidoc-crm.org/cidoc-crm/>
+prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+prefix skos: <http://www.w3.org/2004/02/skos/core#>
+prefix la: <https://linked.art/ns/terms/>
+prefix dig: <http://www.ics.forth.gr/isl/CRMdig/>
+
+construct{
+  ?humanobjectarkIri a crm:E22_Human-Made_Object;
+                     la:member_of <https://id.rijksmuseum.nl/260210>;
+                     # type
+                     crm:P2_has_type ?type;
+                     # identifier
+                     crm:P1_is_identified_by ?identifierArkIri;
+                     # digital representation
+                     crm:P129i_is_subject_of ?digitalReprIri;
+                     # title
+                     crm:P1_is_identified_by ?titleArkIri;
+                     # material
+                     crm:P45_consists_of ?material ;
+                     # description
+                     crm:P67i_is_referred_to_by ?descriptionArkIri;
+                     #inscription
+                     crm:P128_carries ?inscriptionArkIri ;
+                     # production
+                     crm:P108i_was_produced_by ?productionArkIri ;
+                     # images
+                     crm:P65_shows_visual_item ?visualArkIri.
+
+  # type
+  ?type a crm:E55_Type ;
+        skos:prefLabel ?typeLabel ;
+        la:equivalent ?typeEquivalent .
+
+  # material
+  ?material a crm:E57_Material ;
+            skos:prefLabel ?materialLabel ;
+            la:equivalent ?materialEquivalent .
+
+  # identifier
+  ?identifierArkIri  a crm:E42_Identifier ;
+                     crm:P2_has_type <http://vocab.getty.edu/aat/300404626> ;
+                     rdfs:label "Identification number";
+                     crm:P190_has_symbolic_content ?identifier .
+
+  # digital representation
+  ?digitalReprIri a crm:E33_Linguistic_Object ;
+                  la:digitally_carried_by ?digitalCarrierIri .
+  ?digitalCarrierIri a dig:D1_Digital_Object ;
+                     crm:P2_has_type <http://vocab.getty.edu/aat/300264578> ; # "Web page"
+                     la:access_point ?object .
+
+  # title
+  ?titleArkIri a crm:E33_E41_Linguistic_Appellation ;
+               crm:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+               crm:P72_has_language ?titleLanguageAat;
+               rdfs:label "Title" ;
+               crm:P190_has_symbolic_content ?titleContent.
+
+  # description
+  ?descriptionArkIri a crm:E33_Linguistic_Object;
+                     crm:P2_has_type <http://vocab.getty.edu/aat/300435416>;
+                     crm:P72_has_language ?descriptionLanguageAat;
+                     rdfs:label "Description" ;
+                     crm:P190_has_symbolic_content ?description.
+
+  # inscription
+  ?inscriptionArkIri a crm:E33_Linguistic_Object;
+                     crm:P2_has_type  <http://vocab.getty.edu/aat/300028702>;
+                     crm:P72_has_language ?inscriptionLanguageAat;
+                     rdfs:label 'Inscribed';
+                     crm:P190_has_symbolic_content ?inscriptionText.
+
+  # production
+  ?productionArkIri a crm:E12_Production;
+                    rdfs:label "Production event";
+                    crm:P4_has_time-span ?timeSpanArkIri;
+                    crm:P32_used_general_technique ?technique;
+                    crm:P14_carried_out_by ?maker;
+                    crm:P7_took_place_at ?placeGeoNames.
+
+  # technique
+  ?technique a crm:E55_Type ;
+             skos:prefLabel ?techniqueLabel ;
+             la:equivalent ?techniqueEquivalent .
+
+  # maker
+  ?maker a crm:E39_Actor ;
+         rdfs:label ?makerName .
+
+  # timeSpan
+  ?timeSpanArkIri a crm:E52_Time-Span;
+                  rdfs:label "Time span";
+                  crm:P82a_begin_of_the_begin ?dateBegin;
+                  crm:P82b_end_of_the_end ?dateEnd .
+
+  # images
+  ?visualArkIri a crm:E36_Visual_Item ;
+                la:digitally_shown_by ?imagearkIri.
+  ?imagearkIri a dig:D1_Digital_Object;
+               la:access_point ?accessPoint ;
+               crm:P2_has_type <http://vocab.getty.edu/aat/300215302> ;
+               crm:P104_is_subject_to  ?licensearkIri ;
+               crm:P67i_is_referred_to_by  ?stringArkIri.
+  # license of the image
+  ?licensearkIri a crm:E30_Right;
+                 crm:P2_has_type ?license.
+  # label of the image
+  ?stringArkIri a crm:E33_Linguistic_Object;
+                crm:P2_has_type <http://vocab.getty.edu/aat/300435434> ;
+                rdfs:label "images label";
+                crm:P190_has_symbolic_content ?imageLabel.
+}
+  where {
+  # values ?object {<https://id.rijksmuseum.nl/200414160>}
+    ?object a crm:E22_Human-Made_Object.
+    # type
+    {
+      ?object crm:P2_has_type ?type.
+      ?type crm:P2_has_type <http://vocab.getty.edu/aat/300435443>; # "Type of Work"
+            skos:notation ?typeLabel.
+      optional {
+        ?type la:equivalent ?typeEquivalent.
+      }
+    }
+    # identifier
+    union{
+      ?object crm:P1_is_identified_by ?identifierNode.
+      ?identifierNode crm:P2_has_type  ?identifierAat;
+                      crm:P190_has_symbolic_content ?identifier.
+      values ?identifierAat {
+      <http://vocab.getty.edu/aat/300312355> <https://id.rijksmuseum.nl/22015218>
+    }
+    }
+    # title
+    union{
+      ?object crm:P1_is_identified_by ?titleIdentifier.
+      ?titleIdentifier  a crm:E33_E41_Linguistic_Appellation;
+                        crm:P2_has_type <http://vocab.getty.edu/aat/300417200> ;
+                        crm:P190_has_symbolic_content ?titleContent.
+    #   values ?tittleAat {
+    #   <http://vocab.getty.edu/aat/300404670> <http://vocab.getty.edu/aat/300417200> <http://vocab.getty.edu/aat/300417202>
+    # }
+      optional {
+        ?titleIdentifier  crm:P72_has_language ?titleLanguageAat.
+        values ?titleLanguageAat {
+        <http://vocab.getty.edu/aat/300388256> <http://vocab.getty.edu/aat/300388277>
+      }
+      }
+    }
+    # description
+    union{
+      ?object crm:P67i_is_referred_to_by ?descriptionNode.
+      ?descriptionNode a crm:E33_Linguistic_Object;
+                       crm:P2_has_type ?descriptionAat;
+                       crm:P190_has_symbolic_content ?description.
+      values ?descriptionAat {
+      <http://vocab.getty.edu/aat/300404670> <http://vocab.getty.edu/aat/300435452>
+    }
+      optional {
+        ?descriptionNode  crm:P72_has_language ?descriptionLanguageAat.
+        values ?descriptionLanguageAat {
+        <http://vocab.getty.edu/aat/300388256> <http://vocab.getty.edu/aat/300388277>
+      }
+      }
+    }
+    # inscriptions
+    union{
+      ?object crm:P67i_is_referred_to_by ?inscriptionNode.
+      ?inscriptionNode a crm:E33_Linguistic_Object;
+                       crm:P2_has_type aat:300435414;
+                       crm:P190_has_symbolic_content ?inscriptionText.
+      optional {
+        ?inscriptionNode  crm:P72_has_language ?inscriptionLanguageAat.
+        values ?inscriptionLanguageAat {
+        <http://vocab.getty.edu/aat/300388256> <http://vocab.getty.edu/aat/300388277>
+      }
+      }
+    }
+    # material
+    union{
+      ?object crm:P45_consists_of ?material.
+      ?material skos:notation ?materialLabel.
+      optional {
+        ?material la:equivalent ?materialEquivalent.
+      }
+    }
+    # production: dates, technique, maker, location
+    union{
+      ?object crm:P108i_was_produced_by ?productionNode.
+      ?productionNode a crm:E12_Production.
+      optional{
+        ?productionNode crm:P4_has_time-span ?timeSpanNode.
+        ?timeSpanNode crm:P82a_begin_of_the_begin ?dateBegin.
+        optional{
+          ?timeSpanNode crm:P82b_end_of_the_end ?dateEnd.
+        }
+      }
+      # technique. Only the technique of the top-level production: the
+      # 'technique' of a sub-production denotes the maker's role (e.g. 'printmaker')
+      optional{
+        ?productionNode crm:P32_used_general_technique ?technique.
+        ?technique skos:notation ?techniqueLabel.
+        optional {
+          ?technique la:equivalent ?techniqueEquivalent.
+        }
+      }
+      # maker. Attributed to a sub-production via an attribute assignment
+      optional{
+        ?productionNode crm:P9_consists_of ?makerEventNode.
+        ?makerEventNode crm:P141i_was_assigned_by ?makerAssignment.
+        ?makerAssignment crm:P141_assigned ?maker;
+                         crm:P177_assigned_property_of_type crm:P14_carried_out_by.
+        optional {
+          # the dataset contains legacy (RDA/SKOS) actor records rather than
+          # Linked Art person documents - support both name shapes
+          {
+            ?maker skos:prefLabel ?makerName.
+          }
+          union
+          {
+            ?maker crm:P1_is_identified_by ?makerNameNode.
+            ?makerNameNode crm:P2_has_type <http://vocab.getty.edu/aat/300404670>; # preferred name
+                           crm:P190_has_symbolic_content ?makerName.
+          }
+        }
+      }
+      # location. Only places with a GeoNames equivalent: the geonames
+      # pipeline of the Knowledge Graph enriches these with names and countries
+      optional{
+        ?productionNode crm:P9_consists_of ?placeEventNode.
+        ?placeEventNode crm:P7_took_place_at ?place.
+        ?place la:equivalent ?placeGeoNames.
+        filter(regex(str(?placeGeoNames), "^https://sws\\.geonames\\.org/[0-9]+/$"))
+      }
+    }
+    union {
+      ?object crm:P65_shows_visual_item ?visualItem.
+      ?visualItem a crm:E36_Visual_Item;
+                  la:digitally_shown_by ?digitallyShownBy.
+      ?digitallyShownBy a dig:D1_Digital_Object.
+      optional {
+        ?visualItem crm:P104_is_subject_to ?imageLicense.
+        ?imageLicense a crm:E30_Right;
+                      crm:P2_has_type ?license.
+      }
+      optional{
+        ?digitallyShownBy la:access_point ?accessPoint.
+        optional{
+          ?digitallyShownBy crm:P67i_is_referred_to_by ?imageLabelNode.
+          ?imageLabelNode crm:P190_has_symbolic_content ?imageLabel.
+        }
+      }
+    }
+    bind(str("https://n2t.net/ark:/27023/") as ?prefix)
+    bind(iri(concat(?prefix,md5(str(?object)))) as ?humanobjectarkIri)
+    bind(iri(concat(?prefix,md5(concat(str(?object), str(?titleContent))))) as ?titleArkIri )
+    bind(iri(concat(?prefix,md5(concat(str(?object), "/digitalRepresentation")))) as ?digitalReprIri)
+    bind(iri(concat(?prefix,md5(concat(str(?object), "/digitalCarrier")))) as ?digitalCarrierIri)
+    bind(iri(concat(?prefix,md5(concat(str(?object), str(?identifier))))) as ?identifierArkIri)
+    bind(iri(concat(?prefix,md5(concat(str(?object), str(?description))))) as ?descriptionArkIri)
+    bind(iri(concat(?prefix,md5(concat(str(?object), str(?inscriptionText))))) as ?inscriptionArkIri)
+    # production ark is minted from the object alone, it used to contain the dateBegin and dateEnd but there are a few (less than 10) objects that don't have them which would be discarded
+    # also, omitting the dates mean the uri is stable even if RMA updates the dates
+    bind(if(bound(?productionNode), iri(concat(?prefix,md5(concat(str(?object), "/production")))), ?null) as ?productionArkIri)
+    bind(iri(concat(?prefix,md5(concat(str(?dateBegin), coalesce(str(?dateEnd), ''))))) as ?timeSpanArkIri)
+    bind(iri(concat(?prefix,md5(concat(str(?object), str(?visualItem))))) as  ?visualArkIri)
+    bind(iri(concat(?prefix,md5(concat(str(?object), str(?digitallyShownBy))))) as  ?imagearkIri)
+    bind(iri(concat(?prefix,md5(concat(str(?object), str(?license))))) as  ?licensearkIri)
+    bind(iri(concat(?prefix,md5(concat(str(?object), str(?imageLabel))))) as  ?stringArkIri)
+  }
