@@ -221,9 +221,17 @@ construct{
         ?makerAssignment crm:P141_assigned ?maker;
                          crm:P177_assigned_property_of_type crm:P14_carried_out_by.
         optional {
-          ?maker crm:P1_is_identified_by ?makerNameNode.
-          ?makerNameNode crm:P2_has_type <http://vocab.getty.edu/aat/300404670>; # preferred name
-                         crm:P190_has_symbolic_content ?makerName.
+          # the dataset contains legacy (RDA/SKOS) actor records rather than
+          # Linked Art person documents - support both name shapes
+          {
+            ?maker skos:prefLabel ?makerName.
+          }
+          union
+          {
+            ?maker crm:P1_is_identified_by ?makerNameNode.
+            ?makerNameNode crm:P2_has_type <http://vocab.getty.edu/aat/300404670>; # preferred name
+                           crm:P190_has_symbolic_content ?makerName.
+          }
         }
       }
       # location. Only places with a GeoNames equivalent: the geonames
