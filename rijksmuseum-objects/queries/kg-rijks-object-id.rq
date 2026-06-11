@@ -10,12 +10,15 @@
 prefix aat: <http://vocab.getty.edu/aat/>
 prefix crm: <http://www.cidoc-crm.org/cidoc-crm/>
 prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+prefix skos: <http://www.w3.org/2004/02/skos/core#>
 prefix la: <https://linked.art/ns/terms/>
 prefix dig: <http://www.ics.forth.gr/isl/CRMdig/>
 
 construct{
   ?humanobjectarkIri a crm:E22_Human-Made_Object;
                      la:member_of <https://id.rijksmuseum.nl/260210>;
+                     # type
+                     crm:P2_has_type ?type;
                      # identifier
                      crm:P1_is_identified_by ?identifierArkIri;
                      # digital representation
@@ -32,6 +35,16 @@ construct{
                      crm:P108i_was_produced_by ?productionArkIri ;
                      # images
                      crm:P65_shows_visual_item ?visualArkIri.
+
+  # type
+  ?type a crm:E55_Type ;
+        skos:prefLabel ?typeLabel ;
+        la:equivalent ?typeEquivalent .
+
+  # material
+  ?material a crm:E57_Material ;
+            skos:prefLabel ?materialLabel ;
+            la:equivalent ?materialEquivalent .
 
   # identifier
   ?identifierArkIri  a crm:E42_Identifier ;
@@ -70,8 +83,20 @@ construct{
   # production
   ?productionArkIri a crm:E12_Production;
                     rdfs:label "Production event";
-                    crm:P4_has_time-span ?timeSpanArkIri.
-  
+                    crm:P4_has_time-span ?timeSpanArkIri;
+                    crm:P32_used_general_technique ?technique;
+                    crm:P14_carried_out_by ?maker;
+                    crm:P7_took_place_at ?placeGeoNames.
+
+  # technique
+  ?technique a crm:E55_Type ;
+             skos:prefLabel ?techniqueLabel ;
+             la:equivalent ?techniqueEquivalent .
+
+  # maker
+  ?maker a crm:E39_Actor ;
+         rdfs:label ?makerName .
+
   # timeSpan
   ?timeSpanArkIri a crm:E52_Time-Span;
                   rdfs:label "Time span";
@@ -98,13 +123,17 @@ construct{
   where {
   # values ?object {<https://id.rijksmuseum.nl/200414160>}
     ?object a crm:E22_Human-Made_Object.
-    # keywordType - ?type has the Rijks IRI and not NMVW thesaurus
-    # crm:P2_has_type ?type.
+    # type
     {
-
+      ?object crm:P2_has_type ?type.
+      ?type crm:P2_has_type <http://vocab.getty.edu/aat/300435443>; # "Type of Work"
+            skos:notation ?typeLabel.
+      optional {
+        ?type la:equivalent ?typeEquivalent.
+      }
     }
     # identifier
-    {
+    union{
       ?object crm:P1_is_identified_by ?identifierNode.
       ?identifierNode crm:P2_has_type  ?identifierAat;
                       crm:P190_has_symbolic_content ?identifier.
@@ -157,7 +186,15 @@ construct{
       }
       }
     }
-    # Loction, maker, dates (date begin, date end)
+    # material
+    union{
+      ?object crm:P45_consists_of ?material.
+      ?material skos:notation ?materialLabel.
+      optional {
+        ?material la:equivalent ?materialEquivalent.
+      }
+    }
+    # production: dates, technique, maker, location
     union{
       ?object crm:P108i_was_produced_by ?productionNode.
       ?productionNode a crm:E12_Production.
@@ -168,20 +205,35 @@ construct{
           ?timeSpanNode crm:P82b_end_of_the_end ?dateEnd.
         }
       }
+      # technique. Only the technique of the top-level production: the
+      # 'technique' of a sub-production denotes the maker's role (e.g. 'printmaker')
       optional{
-        ?productionNode crm:P9_consists_of ?subEventNode.
-        # Commented out because ?location and ?maker are Rijks IRI
-        # optional{
-        #   ?subEventNode crm:P7_took_place_at ?location.
-        # }
-        # optional{
-        #   ?subEventNode crm:P14_carried_out_by ?maker.
-        # }
+        ?productionNode crm:P32_used_general_technique ?technique.
+        ?technique skos:notation ?techniqueLabel.
+        optional {
+          ?technique la:equivalent ?techniqueEquivalent.
+        }
       }
-      # filter(
-      #   # bound(?dateBegin) || bound(?location) || bound(?maker)
-      #   bound(?dateBegin) # || bound(?dateEnd)
-      # )
+      # maker. Attributed to a sub-production via an attribute assignment
+      optional{
+        ?productionNode crm:P9_consists_of ?makerEventNode.
+        ?makerEventNode crm:P141i_was_assigned_by ?makerAssignment.
+        ?makerAssignment crm:P141_assigned ?maker;
+                         crm:P177_assigned_property_of_type crm:P14_carried_out_by.
+        optional {
+          ?maker crm:P1_is_identified_by ?makerNameNode.
+          ?makerNameNode crm:P2_has_type <http://vocab.getty.edu/aat/300404670>; # preferred name
+                         crm:P190_has_symbolic_content ?makerName.
+        }
+      }
+      # location. Only places with a GeoNames equivalent: the geonames
+      # pipeline of the Knowledge Graph enriches these with names and countries
+      optional{
+        ?productionNode crm:P9_consists_of ?placeEventNode.
+        ?placeEventNode crm:P7_took_place_at ?place.
+        ?place la:equivalent ?placeGeoNames.
+        filter(regex(str(?placeGeoNames), "^https://sws\\.geonames\\.org/[0-9]+/$"))
+      }
     }
     union {
       ?object crm:P65_shows_visual_item ?visualItem.
@@ -209,8 +261,10 @@ construct{
     bind(iri(concat(?prefix,md5(concat(str(?object), str(?identifier))))) as ?identifierArkIri)
     bind(iri(concat(?prefix,md5(concat(str(?object), str(?description))))) as ?descriptionArkIri)
     bind(iri(concat(?prefix,md5(concat(str(?object), str(?inscriptionText))))) as ?inscriptionArkIri)
-    bind(iri(concat(?prefix,md5(concat(str(?object), str(?dateBegin), coalesce(str(?dateEnd), ''))))) as ?productionArkIri)
-    bind(iri(concat(?prefix,md5(concat(str(?dateBegin), coalesce(str(?dateEnd), ''))))) as ?timeSpanArkIri) 
+    # production ark is minted from the object alone, it used to contain the dateBegin and dateEnd but there are a few (less than 10) objects that don't have them which would be discarded
+    # also, omitting the dates mean the uri is stable even if RMA updates the dates
+    bind(if(bound(?productionNode), iri(concat(?prefix,md5(concat(str(?object), "/production")))), ?null) as ?productionArkIri)
+    bind(iri(concat(?prefix,md5(concat(str(?dateBegin), coalesce(str(?dateEnd), ''))))) as ?timeSpanArkIri)
     bind(iri(concat(?prefix,md5(concat(str(?object), str(?visualItem))))) as  ?visualArkIri)
     bind(iri(concat(?prefix,md5(concat(str(?object), str(?digitallyShownBy))))) as  ?imagearkIri)
     bind(iri(concat(?prefix,md5(concat(str(?object), str(?license))))) as  ?licensearkIri)

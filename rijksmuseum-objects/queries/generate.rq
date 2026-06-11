@@ -14,20 +14,20 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
 CONSTRUCT {
   ?this a cc:HeritageObject ;
-    #cc:additionalType_en ?typeNameEn ;
-    #cc:additionalType_nl ?typeNameNl ;
+    cc:additionalType_en ?typeNameEn ;
+    cc:additionalType_nl ?typeNameNl ;
     cc:identifier ?identifier ;
     cc:name ?name ;
     cc:description ?description ; # Only for indexing
-    #cc:material_en ?materialNameEn ;
-    #cc:material_nl ?materialNameNl ;
+    cc:material_en ?materialNameEn ;
+    cc:material_nl ?materialNameNl ;
     cc:inscription ?inscription ; # Only for indexing
-    #cc:creator ?creatorName ;
+    cc:creator ?creatorName ;
     cc:yearCreatedStart ?beginOfTheBeginYear ;
     cc:yearCreatedEnd ?endOfTheEndYear ;
-    #cc:locationCreated ?locationCreatedName ; # Only for indexing
-    #cc:countryCreated_en ?countryCreatedNameEn ;
-    #cc:countryCreated_nl ?countryCreatedNameNl ;
+    cc:locationCreated ?locationCreatedName ; # Only for indexing
+    cc:countryCreated_en ?countryCreatedNameEn ;
+    cc:countryCreated_nl ?countryCreatedNameNl ;
     #cc:alternateName ?alternateLocationCreatedName, ?alternateCountryCreatedName ; # Only for indexing
     cc:publisher_en ?publisherNameEn ;
     cc:publisher_nl ?publisherNameNl .
@@ -38,17 +38,17 @@ WHERE {
   }
 
   ####################
-  # Type. Currently ignored because it does not use terms from the Wereldmuseum thesaurus
+  # Type
   ####################
 
-  #OPTIONAL {
-  #  ?this crm:P2_has_type [
-  #    skos:prefLabel ?typeName
-  #  ] .
+  OPTIONAL {
+    ?this crm:P2_has_type [
+      skos:prefLabel ?typeName
+    ] .
 
-  #  BIND(IF(LANG(?typeName) = "en", ?typeName, ?null) AS ?typeNameEn)
-  #  BIND(IF(LANG(?typeName) = "nl", ?typeName, ?null) AS ?typeNameNl)
-  #}
+    BIND(IF(LANG(?typeName) = "en", ?typeName, ?null) AS ?typeNameEn)
+    BIND(IF(LANG(?typeName) = "nl", ?typeName, ?null) AS ?typeNameNl)
+  }
 
   ####################
   # Identifier
@@ -93,17 +93,17 @@ WHERE {
   # TBD: not in the KG yet (crm:P62_depicts)
 
   ####################
-  # Material. Currently ignored because it does not use terms from the Wereldmuseum thesaurus
+  # Material
   ####################
 
-  #OPTIONAL {
-  #  ?this crm:P45_consists_of [
-  #    skos:prefLabel ?materialName
-  #  ] .
+  OPTIONAL {
+    ?this crm:P45_consists_of [
+      skos:prefLabel ?materialName
+    ] .
 
-  #  BIND(IF(LANG(?materialName) = "en", ?materialName, ?null) AS ?materialNameEn)
-  #  BIND(IF(LANG(?materialName) = "nl", ?materialName, ?null) AS ?materialNameNl)
-  #}
+    BIND(IF(LANG(?materialName) = "en", ?materialName, ?null) AS ?materialNameEn)
+    BIND(IF(LANG(?materialName) = "nl", ?materialName, ?null) AS ?materialNameNl)
+  }
 
   ####################
   # Inscription - both in Dutch and English
@@ -112,33 +112,26 @@ WHERE {
 
   OPTIONAL {
     ?this crm:P128_carries [
-      crm:P2_has_type <http://vocab.getty.edu/aat/300435414> ; # Inscription description
+      crm:P2_has_type <http://vocab.getty.edu/aat/300028702> ; # Inscription
       crm:P190_has_symbolic_content ?inscription
     ] .
   }
 
   ####################
-  # Technique. Currently ignored because it does not use terms from the Wereldmuseum thesaurus
+  # Technique
   ####################
-
-  #OPTIONAL {
-  #  ?this crm:P108i_was_produced_by/crm:P32_used_general_technique [
-  #    skos:prefLabel ?techniqueName
-  #  ]
-
-  #  BIND(IF(LANG(?techniqueName) = "en", ?techniqueName, ?null) AS ?techniqueNameEn)
-  #  BIND(IF(LANG(?techniqueName) = "nl", ?techniqueName, ?null) AS ?techniqueNameNl)
-  #}
+  # TBD: in the KG (crm:P108i_was_produced_by/crm:P32_used_general_technique)
+  # but not in the search graph data model yet
 
   ####################
-  # Creator. Currently ignored because the Rijksmuseum creator data isn't in the KG yet
+  # Creator
   ####################
 
-  #OPTIONAL {
-  #  ?this crm:P108i_was_produced_by/crm:P14_carried_out_by [
-  #    crm:P190_has_symbolic_content ?creatorName ;
-  #  ] .
-  #}
+  OPTIONAL {
+    ?this crm:P108i_was_produced_by/crm:P14_carried_out_by [
+      rdfs:label ?creatorName
+    ] .
+  }
 
   ####################
   # Date of creation
@@ -159,12 +152,80 @@ WHERE {
   BIND(IF(BOUND(?endOfTheEnd), YEAR(?endOfTheEnd), ?null) AS ?endOfTheEndYear)
 
   ####################
-  # Location of creation. Currently ignored because it does not use terms from GeoNames (although it has la:equivalent with TGN)
+  # Location of creation
   ####################
 
-  #OPTIONAL {
-  #  ?this crm:P108i_was_produced_by/crm:P7_took_place_at ?location .
-  #}
+  OPTIONAL {
+    ?this crm:P108i_was_produced_by/crm:P7_took_place_at ?location .
+    ?location gn:name ?unofficialLocationCreatedName ;
+      gn:featureCode ?featureCode .
+
+    # Official name may not exist, see e.g. https://sws.geonames.org/3827414/
+    OPTIONAL {
+      ?location gn:officialName ?officialLocationCreatedName
+      FILTER(LANG(?officialLocationCreatedName) IN ("en", "nl"))
+    }
+
+    BIND(IF(BOUND(?officialLocationCreatedName), ?officialLocationCreatedName, ?unofficialLocationCreatedName) AS ?locationCreatedName)
+
+    # TBD: useful to have this information in the search index?
+    #OPTIONAL {
+    #  ?location gn:alternateName ?alternateLocationCreatedName
+    #  FILTER(LANG(?alternateLocationCreatedName) IN ("en", "nl"))
+    #}
+
+    # Country of which the location is a part
+    OPTIONAL {
+      ?location gn:parentCountry ?country .
+      ?country gn:name ?unofficialCountryCreatedName .
+
+      # Official name may not exist
+      OPTIONAL {
+        ?country gn:officialName ?officialCountryCreatedName
+        FILTER(LANG(?officialCountryCreatedName) IN ("en", "nl"))
+      }
+
+      BIND(IF(BOUND(?officialCountryCreatedName), ?officialCountryCreatedName, ?unofficialCountryCreatedName) AS ?countryCreatedName)
+
+      # TBD: useful to have this information in the search index?
+      #OPTIONAL {
+      #  ?country gn:alternateName ?alternateCountryCreatedName
+      #  FILTER(LANG(?alternateCountryCreatedName) IN ("en", "nl"))
+      #}
+    }
+
+    # Location could be a country already
+    # https://www.geonames.org/export/codes.html
+    BIND(IF(?featureCode = <https://www.geonames.org/ontology#A.PCLI>, ?locationCreatedName, ?countryCreatedName) AS ?countryCreated)
+
+    # A country can have multiple names - remove redundant
+    BIND(IF(LANG(?countryCreated) = "en" && ?countryCreated NOT IN (
+      "United States of America"@en,
+      "Congo Republic"@en,
+      "DR Congo"@en,
+      "Congo (DRC)"@en,
+      "São Tomé & Príncipe"@en,
+      "Republic of Korea"@en,
+      "St. Helena"@en,
+      "Republic of South Africa"@en,
+      "Hashemite Kingdom of Jordan"@en,
+      "Republic of South Sudan"@en,
+      "Bonaire, Saint Eustatius, and Saba"@en), ?countryCreated, ?null) AS ?countryCreatedNameEn)
+
+    BIND(IF(LANG(?countryCreated) = "nl" && ?countryCreated NOT IN (
+      "Republiek Indonesië"@nl,
+      "Libische Arabische Republiek"@nl,
+      "Bonaire, Sint Eustatius en Saba"@nl,
+      "Micronesia"@nl,
+      "São Tomé and Príncipe"@nl,
+      "Noordelijke Marianeneilanden"@nl,
+      "Amerikaans Samoa"@nl,
+      "Iran (Islamitische Republiek)"@nl,
+      "Sint-Maarten"@nl,
+      "Saudi-Arabië"@nl,
+      "St. Lucia"@nl,
+      "Republiek Korea"@nl), ?countryCreated, ?null) AS ?countryCreatedNameNl)
+  }
 
   ####################
   # Part of dataset
