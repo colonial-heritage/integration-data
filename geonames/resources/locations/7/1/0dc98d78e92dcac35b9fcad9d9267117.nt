@@ -1,0 +1,29 @@
+<https://sws.geonames.org/2759151/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<https://sws.geonames.org/2759151/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/2759151/about.rdf> .
+<https://sws.geonames.org/2759151/> <http://www.geonames.org/ontology#name> "Bergen" .
+<https://sws.geonames.org/2759151/> <http://www.geonames.org/ontology#alternateName> "Bergen"@de .
+<https://sws.geonames.org/2759151/> <http://www.geonames.org/ontology#officialName> "Bergen"@en .
+<https://sws.geonames.org/2759151/> <http://www.geonames.org/ontology#alternateName> "Bergen" .
+<https://sws.geonames.org/2759151/> <http://www.geonames.org/ontology#shortName> "Bergen (NH.)"@nl .
+<https://sws.geonames.org/2759151/> <http://www.geonames.org/ontology#alternateName> "Gemeente Bergen" .
+<https://sws.geonames.org/2759151/> <http://www.geonames.org/ontology#alternateName> "Gemeente Bergen Lb." .
+<https://sws.geonames.org/2759151/> <http://www.geonames.org/ontology#featureClass> <https://www.geonames.org/ontology#A> .
+<https://sws.geonames.org/2759151/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#A.ADM2> .
+<https://sws.geonames.org/2759151/> <http://www.geonames.org/ontology#countryCode> "NL" .
+<https://sws.geonames.org/2759151/> <http://www.geonames.org/ontology#population> "29715" .
+<https://sws.geonames.org/2759151/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "52.65783" .
+<https://sws.geonames.org/2759151/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "4.6761" .
+<https://sws.geonames.org/2759151/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/2749879/> .
+<https://sws.geonames.org/2759151/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/2750405/> .
+<https://sws.geonames.org/2759151/> <http://www.geonames.org/ontology#parentADM1> <https://sws.geonames.org/2749879/> .
+<https://sws.geonames.org/2759151/> <http://www.geonames.org/ontology#childrenFeatures> <https://sws.geonames.org/2759151/contains.rdf> .
+<https://sws.geonames.org/2759151/> <http://www.geonames.org/ontology#locationMap> <https://www.geonames.org/2759151/gemeente-bergen.html> .
+<https://sws.geonames.org/2759151/> <http://www.geonames.org/ontology#wikipediaArticle> <https://en.wikipedia.org/wiki/Bergen,_North_Holland> .
+<https://sws.geonames.org/2759151/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://dbpedia.org/resource/Bergen%2C_North_Holland> .
+<https://sws.geonames.org/2759151/about.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://sws.geonames.org/2759151/about.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <https://sws.geonames.org/2759151/> .
+<https://sws.geonames.org/2759151/about.rdf> <http://creativecommons.org/ns#license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://sws.geonames.org/2759151/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
+<https://sws.geonames.org/2759151/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
+<https://sws.geonames.org/2759151/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/2759151/about.rdf> <http://purl.org/dc/terms/modified> "2023-01-30"^^<https://www.w3.org/2001/XMLSchema#date> .
