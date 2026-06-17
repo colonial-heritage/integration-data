@@ -22,10 +22,22 @@ WHERE {
 
   ####################
   # Name
+  #
+  # Prefer the English name; fall back to the Dutch name; then to a name
+  # without a language tag. cc:name is a required property, so without this
+  # fallback any dataset whose name is only available in Dutch - as the NDE
+  # Dataset Register now supplies - would be dropped from the search graph.
   ####################
 
   ?this schema:name ?name
-  FILTER(LANG(?name) = "" || LANGMATCHES(LANG(?name), "en"))
+  FILTER(LANGMATCHES(LANG(?name), "en") || LANGMATCHES(LANG(?name), "nl") || LANG(?name) = "")
+  FILTER NOT EXISTS {
+    ?this schema:name ?nameWithHigherPriority
+    FILTER(
+      (LANGMATCHES(LANG(?nameWithHigherPriority), "en") && !LANGMATCHES(LANG(?name), "en")) ||
+      (LANGMATCHES(LANG(?nameWithHigherPriority), "nl") && !LANGMATCHES(LANG(?name), "en") && !LANGMATCHES(LANG(?name), "nl"))
+    )
+  }
 
   ####################
   # License

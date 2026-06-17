@@ -42,9 +42,9 @@ jobs:
           ../code/apps/graph-create/dist/cli.js create \
             --resource-dir ./nde-dataset-register/resources \
             --data-file "$RUNNER_TEMP/data.sqlite" \
-            --iterate-endpoint-url "https://triplestore.netwerkdigitaalerfgoed.nl/repositories/registry" \
+            --iterate-endpoint-url "https://datasetregister.netwerkdigitaalerfgoed.nl/sparql" \
             --iterate-query-file ./nde-dataset-register/queries/iterate.rq \
-            --generate-endpoint-url "https://triplestore.netwerkdigitaalerfgoed.nl/repositories/registry" \
+            --generate-endpoint-url "https://datasetregister.netwerkdigitaalerfgoed.nl/sparql" \
             --generate-query-file ./nde-dataset-register/queries/generate.rq \
             --generate-batch-size 5000000 \
             --triplydb-instance-url "${{ vars.TRIPLYDB_INSTANCE_URL }}" \
