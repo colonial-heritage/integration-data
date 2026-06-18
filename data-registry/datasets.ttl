@@ -1,0 +1,14 @@
+###############################
+# Dataset metadata that cannot be derived from other sources (e.g. the NDE Dataset Register).
+# Typically used when the dataset URI used in the data (la:member_of) differs from the
+# dataset URI used in the NDE Dataset Register catalog entry.
+###############################
+
+@prefix schema: <https://schema.org/> .
+
+# The NDE Dataset Register catalog entry for the RCE colonial objects dataset uses a
+# different URI than the one RCE uses as the graph name (and that objects reference via
+# la:member_of). Link the data graph URI to the publisher so the object detail page can
+# look up the correct organization.
+<https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects>
+  schema:publisher <https://linkeddata.cultureelerfgoed.nl/rce> .
