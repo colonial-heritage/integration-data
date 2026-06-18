@@ -50,7 +50,21 @@ WHERE {
   # Publisher
   ####################
 
-  ?this schema:publisher/schema:name ?publisherName
+  ?this schema:publisher ?publisherOrg .
+  ?publisherOrg schema:name ?publisherName .
+
+  # The KG may have multiple names per language for the same publisher (e.g. one
+  # from the NDE Dataset Register and one from the data-registry). Prefer the
+  # NDE Dataset Register name: exclude a name when the NDE register has a different
+  # name in the same language for the same publisher.
+  FILTER NOT EXISTS {
+    GRAPH <https://data.colonialcollections.nl/nde-dataset-register> {
+      ?publisherOrg schema:name ?ndeRegisterName .
+      FILTER(LANG(?ndeRegisterName) = LANG(?publisherName))
+      FILTER(?ndeRegisterName != ?publisherName)
+    }
+  }
+
   BIND(IF(LANG(?publisherName) = "en", ?publisherName, ?null) AS ?publisherNameEn)
   BIND(IF(LANG(?publisherName) = "nl", ?publisherName, ?null) AS ?publisherNameNl)
 
