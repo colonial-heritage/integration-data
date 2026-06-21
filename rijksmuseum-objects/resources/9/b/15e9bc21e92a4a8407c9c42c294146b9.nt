@@ -1,14 +1,14 @@
 <https://n2t.net/ark:/27023/0d9f16063989dcdfe08bccf841fcd75c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0d9f16063989dcdfe08bccf841fcd75c> <https://colonialcollections.nl/schema#additionalType_en> "text sheet"@en .
-<https://n2t.net/ark:/27023/0d9f16063989dcdfe08bccf841fcd75c> <https://colonialcollections.nl/schema#additionalType_nl> "tekstblad"@nl .
 <https://n2t.net/ark:/27023/0d9f16063989dcdfe08bccf841fcd75c> <https://colonialcollections.nl/schema#additionalType_nl> "schetsboekblad"@nl .
+<https://n2t.net/ark:/27023/0d9f16063989dcdfe08bccf841fcd75c> <https://colonialcollections.nl/schema#additionalType_nl> "tekstblad"@nl .
 <https://n2t.net/ark:/27023/0d9f16063989dcdfe08bccf841fcd75c> <https://colonialcollections.nl/schema#identifier> "NG-1996-6-1" .
 <https://n2t.net/ark:/27023/0d9f16063989dcdfe08bccf841fcd75c> <https://colonialcollections.nl/schema#name> "Annotatie van E. Boursse" .
 <https://n2t.net/ark:/27023/0d9f16063989dcdfe08bccf841fcd75c> <https://colonialcollections.nl/schema#description> "Tekstblad in zwarte inkt geschreven: 'ik onder geschreven hebbe dit / tijken boeck, op Silon getijkent, / en verkocht aen mijn broeder / tot mijn contentement den / 1 Jannewarij 1671 / esias boursse'. Blad 1 uit een schetsboek met 117 bladen." .
-<https://n2t.net/ark:/27023/0d9f16063989dcdfe08bccf841fcd75c> <https://colonialcollections.nl/schema#material_en> "paper"@en .
 <https://n2t.net/ark:/27023/0d9f16063989dcdfe08bccf841fcd75c> <https://colonialcollections.nl/schema#material_en> "ink"@en .
-<https://n2t.net/ark:/27023/0d9f16063989dcdfe08bccf841fcd75c> <https://colonialcollections.nl/schema#material_nl> "papier (materiaal)"@nl .
+<https://n2t.net/ark:/27023/0d9f16063989dcdfe08bccf841fcd75c> <https://colonialcollections.nl/schema#material_en> "paper"@en .
 <https://n2t.net/ark:/27023/0d9f16063989dcdfe08bccf841fcd75c> <https://colonialcollections.nl/schema#material_nl> "inkt"@nl .
+<https://n2t.net/ark:/27023/0d9f16063989dcdfe08bccf841fcd75c> <https://colonialcollections.nl/schema#material_nl> "papier (materiaal)"@nl .
 <https://n2t.net/ark:/27023/0d9f16063989dcdfe08bccf841fcd75c> <https://colonialcollections.nl/schema#inscription> "datum" .
 <https://n2t.net/ark:/27023/0d9f16063989dcdfe08bccf841fcd75c> <https://colonialcollections.nl/schema#inscription> "date" .
 <https://n2t.net/ark:/27023/0d9f16063989dcdfe08bccf841fcd75c> <https://colonialcollections.nl/schema#creator> "Esaias Boursse"@nl .
@@ -24,34 +24,34 @@
 <https://n2t.net/ark:/27023/0da39d611263ef3c52c99fa5850899bb> <https://colonialcollections.nl/schema#description> "De viering van het Tadja feest of tajiya-festival door de moslims onder de Brits-Indische immigranten in Suriname. Onderdeel van een verzameling van 68 briefkaarten uit Suriname, bijeengebracht in een album als aandenken aan een verblijf in Suriname in sep" .
 <https://n2t.net/ark:/27023/0da39d611263ef3c52c99fa5850899bb> <https://colonialcollections.nl/schema#material_en> "cardboard"@en .
 <https://n2t.net/ark:/27023/0da39d611263ef3c52c99fa5850899bb> <https://colonialcollections.nl/schema#material_nl> "karton"@nl .
-<https://n2t.net/ark:/27023/0da39d611263ef3c52c99fa5850899bb> <https://colonialcollections.nl/schema#inscription> "serial number: ‘No. 29. Uitgevers C. Kersten & Co., Paramaribo’" .
 <https://n2t.net/ark:/27023/0da39d611263ef3c52c99fa5850899bb> <https://colonialcollections.nl/schema#inscription> "serienummer, links, gedrukt: ‘No. 29. Uitgevers C. Kersten & Co., Paramaribo’" .
+<https://n2t.net/ark:/27023/0da39d611263ef3c52c99fa5850899bb> <https://colonialcollections.nl/schema#inscription> "serial number: ‘No. 29. Uitgevers C. Kersten & Co., Paramaribo’" .
 <https://n2t.net/ark:/27023/0da39d611263ef3c52c99fa5850899bb> <https://colonialcollections.nl/schema#creator> "C. Kersten & Co."@nl .
 <https://n2t.net/ark:/27023/0da39d611263ef3c52c99fa5850899bb> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0da39d611263ef3c52c99fa5850899bb> <https://colonialcollections.nl/schema#yearCreatedEnd> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0da39d611263ef3c52c99fa5850899bb> <https://colonialcollections.nl/schema#publisher_en> "Rijksmuseum Amsterdam"@en .
 <https://n2t.net/ark:/27023/0da39d611263ef3c52c99fa5850899bb> <https://colonialcollections.nl/schema#publisher_nl> "Rijksmuseum Amsterdam"@nl .
 <https://n2t.net/ark:/27023/0da47c82a2629b73675321956600a1e1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0da47c82a2629b73675321956600a1e1> <https://colonialcollections.nl/schema#additionalType_en> "popular print"@en .
 <https://n2t.net/ark:/27023/0da47c82a2629b73675321956600a1e1> <https://colonialcollections.nl/schema#additionalType_en> "print"@en .
-<https://n2t.net/ark:/27023/0da47c82a2629b73675321956600a1e1> <https://colonialcollections.nl/schema#additionalType_nl> "prent"@nl .
+<https://n2t.net/ark:/27023/0da47c82a2629b73675321956600a1e1> <https://colonialcollections.nl/schema#additionalType_en> "popular print"@en .
 <https://n2t.net/ark:/27023/0da47c82a2629b73675321956600a1e1> <https://colonialcollections.nl/schema#additionalType_nl> "volksprent"@nl .
+<https://n2t.net/ark:/27023/0da47c82a2629b73675321956600a1e1> <https://colonialcollections.nl/schema#additionalType_nl> "prent"@nl .
 <https://n2t.net/ark:/27023/0da47c82a2629b73675321956600a1e1> <https://colonialcollections.nl/schema#identifier> "RP-P-OB-200.545" .
 <https://n2t.net/ark:/27023/0da47c82a2629b73675321956600a1e1> <https://colonialcollections.nl/schema#name> "Vegetatie" .
-<https://n2t.net/ark:/27023/0da47c82a2629b73675321956600a1e1> <https://colonialcollections.nl/schema#description> "Blad met 12 voorstellingen van Indische vegetatie. Onder elke afbeelding een onderschrift in het Maleis en het Nederlands. Genummerd rechtsboven: No. 4." .
 <https://n2t.net/ark:/27023/0da47c82a2629b73675321956600a1e1> <https://colonialcollections.nl/schema#description> "Blad met tien voorstellingen van een bamboebos, en meubels en andere voorwerpen gemaakt van bamboe in de voormalige kolonie Nederlands-Indië. Onder elke afbeelding een onderschrift in het Maleis en het Nederlands. Genummerd rechtsboven: No. 3." .
+<https://n2t.net/ark:/27023/0da47c82a2629b73675321956600a1e1> <https://colonialcollections.nl/schema#description> "Blad met 12 voorstellingen van Indische vegetatie. Onder elke afbeelding een onderschrift in het Maleis en het Nederlands. Genummerd rechtsboven: No. 4." .
 <https://n2t.net/ark:/27023/0da47c82a2629b73675321956600a1e1> <https://colonialcollections.nl/schema#material_en> "paper"@en .
 <https://n2t.net/ark:/27023/0da47c82a2629b73675321956600a1e1> <https://colonialcollections.nl/schema#material_nl> "papier (materiaal)"@nl .
 <https://n2t.net/ark:/27023/0da47c82a2629b73675321956600a1e1> <https://colonialcollections.nl/schema#inscription> "verzamelaarsmerk, verso, gestempeld: Lugt 2760" .
 <https://n2t.net/ark:/27023/0da47c82a2629b73675321956600a1e1> <https://colonialcollections.nl/schema#inscription> "collector's mark: Lugt 2760" .
+<https://n2t.net/ark:/27023/0da47c82a2629b73675321956600a1e1> <https://colonialcollections.nl/schema#creator> "jonkheer Josias Cornelis Rappard"@en .
 <https://n2t.net/ark:/27023/0da47c82a2629b73675321956600a1e1> <https://colonialcollections.nl/schema#creator> "jonkheer Josias Cornelis Rappard"@nl .
 <https://n2t.net/ark:/27023/0da47c82a2629b73675321956600a1e1> <https://colonialcollections.nl/schema#creator> "Gualtherus Kolff"@nl .
-<https://n2t.net/ark:/27023/0da47c82a2629b73675321956600a1e1> <https://colonialcollections.nl/schema#creator> "jonkheer Josias Cornelis Rappard"@en .
 <https://n2t.net/ark:/27023/0da47c82a2629b73675321956600a1e1> <https://colonialcollections.nl/schema#creator> "Gualtherus Kolff"@en .
 <https://n2t.net/ark:/27023/0da47c82a2629b73675321956600a1e1> <https://colonialcollections.nl/schema#yearCreatedStart> "1868"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0da47c82a2629b73675321956600a1e1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1881"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/0da47c82a2629b73675321956600a1e1> <https://colonialcollections.nl/schema#locationCreated> "Nederland"@nl .
 <https://n2t.net/ark:/27023/0da47c82a2629b73675321956600a1e1> <https://colonialcollections.nl/schema#locationCreated> "The Netherlands"@en .
+<https://n2t.net/ark:/27023/0da47c82a2629b73675321956600a1e1> <https://colonialcollections.nl/schema#locationCreated> "Nederland"@nl .
 <https://n2t.net/ark:/27023/0da47c82a2629b73675321956600a1e1> <https://colonialcollections.nl/schema#countryCreated_en> "The Netherlands"@en .
 <https://n2t.net/ark:/27023/0da47c82a2629b73675321956600a1e1> <https://colonialcollections.nl/schema#countryCreated_nl> "Nederland"@nl .
 <https://n2t.net/ark:/27023/0da47c82a2629b73675321956600a1e1> <https://colonialcollections.nl/schema#publisher_en> "Rijksmuseum Amsterdam"@en .
@@ -65,10 +65,10 @@
 <https://n2t.net/ark:/27023/0da8dc30836174169e1cc56398aaaa7d> <https://colonialcollections.nl/schema#description> "Deze foto maakt deel uit van een album." .
 <https://n2t.net/ark:/27023/0da8dc30836174169e1cc56398aaaa7d> <https://colonialcollections.nl/schema#material_en> "photographic support"@en .
 <https://n2t.net/ark:/27023/0da8dc30836174169e1cc56398aaaa7d> <https://colonialcollections.nl/schema#material_nl> "fotodrager"@nl .
+<https://n2t.net/ark:/27023/0da8dc30836174169e1cc56398aaaa7d> <https://colonialcollections.nl/schema#inscription> "annotatie, recto, handgeschreven: ‘Kimberley, Diamantmijnen, sorteering’" .
 <https://n2t.net/ark:/27023/0da8dc30836174169e1cc56398aaaa7d> <https://colonialcollections.nl/schema#inscription> "annotation: ‘Kimberley, Diamantmijnen, sorteering’" .
 <https://n2t.net/ark:/27023/0da8dc30836174169e1cc56398aaaa7d> <https://colonialcollections.nl/schema#inscription> "opschrift, recto, afgedrukt: ‘Sorting for diamonds’" .
 <https://n2t.net/ark:/27023/0da8dc30836174169e1cc56398aaaa7d> <https://colonialcollections.nl/schema#inscription> "inscription: ‘Sorting for diamonds’" .
-<https://n2t.net/ark:/27023/0da8dc30836174169e1cc56398aaaa7d> <https://colonialcollections.nl/schema#inscription> "annotatie, recto, handgeschreven: ‘Kimberley, Diamantmijnen, sorteering’" .
 <https://n2t.net/ark:/27023/0da8dc30836174169e1cc56398aaaa7d> <https://colonialcollections.nl/schema#yearCreatedStart> "1896"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0da8dc30836174169e1cc56398aaaa7d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1896"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0da8dc30836174169e1cc56398aaaa7d> <https://colonialcollections.nl/schema#publisher_en> "Rijksmuseum Amsterdam"@en .
@@ -80,11 +80,11 @@
 <https://n2t.net/ark:/27023/0dac62a19f227284a4de0fe4f88e028b> <https://colonialcollections.nl/schema#name> "Jonge anti-Sukarno demonstranten in Indonesië" .
 <https://n2t.net/ark:/27023/0dac62a19f227284a4de0fe4f88e028b> <https://colonialcollections.nl/schema#material_en> "baryta paper"@en .
 <https://n2t.net/ark:/27023/0dac62a19f227284a4de0fe4f88e028b> <https://colonialcollections.nl/schema#material_nl> "barietpapier"@nl .
-<https://n2t.net/ark:/27023/0dac62a19f227284a4de0fe4f88e028b> <https://colonialcollections.nl/schema#inscription> "factory mark: ‘Agfa’" .
 <https://n2t.net/ark:/27023/0dac62a19f227284a4de0fe4f88e028b> <https://colonialcollections.nl/schema#inscription> "fabrieksmerk, verso, gedrukt: ‘Agfa’" .
+<https://n2t.net/ark:/27023/0dac62a19f227284a4de0fe4f88e028b> <https://colonialcollections.nl/schema#inscription> "factory mark: ‘Agfa’" .
 <https://n2t.net/ark:/27023/0dac62a19f227284a4de0fe4f88e028b> <https://colonialcollections.nl/schema#yearCreatedStart> "1966"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/0dac62a19f227284a4de0fe4f88e028b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0dac62a19f227284a4de0fe4f88e028b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1966"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/0dac62a19f227284a4de0fe4f88e028b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0dac62a19f227284a4de0fe4f88e028b> <https://colonialcollections.nl/schema#publisher_en> "Rijksmuseum Amsterdam"@en .
 <https://n2t.net/ark:/27023/0dac62a19f227284a4de0fe4f88e028b> <https://colonialcollections.nl/schema#publisher_nl> "Rijksmuseum Amsterdam"@nl .
 <https://n2t.net/ark:/27023/0db14e2db8aa49d62a9dbfad6777d949> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
@@ -111,10 +111,10 @@
 <https://n2t.net/ark:/27023/0db27a37cce4082cfd1bec3ab7a5ec01> <https://colonialcollections.nl/schema#material_en> "cardboard"@en .
 <https://n2t.net/ark:/27023/0db27a37cce4082cfd1bec3ab7a5ec01> <https://colonialcollections.nl/schema#material_nl> "fotodrager"@nl .
 <https://n2t.net/ark:/27023/0db27a37cce4082cfd1bec3ab7a5ec01> <https://colonialcollections.nl/schema#material_nl> "karton"@nl .
-<https://n2t.net/ark:/27023/0db27a37cce4082cfd1bec3ab7a5ec01> <https://colonialcollections.nl/schema#inscription> "naam, recto, gedrukt: ‘Works and Studios Sun Sculpture trade mark Arlington N.J. Littleton N.H. Washington D.C.’" .
-<https://n2t.net/ark:/27023/0db27a37cce4082cfd1bec3ab7a5ec01> <https://colonialcollections.nl/schema#inscription> "number: ‘181’" .
 <https://n2t.net/ark:/27023/0db27a37cce4082cfd1bec3ab7a5ec01> <https://colonialcollections.nl/schema#inscription> "name: ‘Works and Studios Sun Sculpture trade mark Arlington N.J. Littleton N.H. Washington D.C.’" .
+<https://n2t.net/ark:/27023/0db27a37cce4082cfd1bec3ab7a5ec01> <https://colonialcollections.nl/schema#inscription> "naam, recto, gedrukt: ‘Works and Studios Sun Sculpture trade mark Arlington N.J. Littleton N.H. Washington D.C.’" .
 <https://n2t.net/ark:/27023/0db27a37cce4082cfd1bec3ab7a5ec01> <https://colonialcollections.nl/schema#inscription> "nummer, recto, handgeschreven: ‘181’" .
+<https://n2t.net/ark:/27023/0db27a37cce4082cfd1bec3ab7a5ec01> <https://colonialcollections.nl/schema#inscription> "number: ‘181’" .
 <https://n2t.net/ark:/27023/0db27a37cce4082cfd1bec3ab7a5ec01> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0db27a37cce4082cfd1bec3ab7a5ec01> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0db27a37cce4082cfd1bec3ab7a5ec01> <https://colonialcollections.nl/schema#publisher_en> "Rijksmuseum Amsterdam"@en .
@@ -137,14 +137,14 @@
 <https://n2t.net/ark:/27023/0db58e05309d0e9d8a47e7c91eb96982> <https://colonialcollections.nl/schema#publisher_en> "Rijksmuseum Amsterdam"@en .
 <https://n2t.net/ark:/27023/0db58e05309d0e9d8a47e7c91eb96982> <https://colonialcollections.nl/schema#publisher_nl> "Rijksmuseum Amsterdam"@nl .
 <https://n2t.net/ark:/27023/0db662f30e33e2f65a80e7d472a334a7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0db662f30e33e2f65a80e7d472a334a7> <https://colonialcollections.nl/schema#additionalType_en> "drawing"@en .
 <https://n2t.net/ark:/27023/0db662f30e33e2f65a80e7d472a334a7> <https://colonialcollections.nl/schema#additionalType_en> "topographical view"@en .
-<https://n2t.net/ark:/27023/0db662f30e33e2f65a80e7d472a334a7> <https://colonialcollections.nl/schema#additionalType_nl> "topografische tekening"@nl .
+<https://n2t.net/ark:/27023/0db662f30e33e2f65a80e7d472a334a7> <https://colonialcollections.nl/schema#additionalType_en> "drawing"@en .
 <https://n2t.net/ark:/27023/0db662f30e33e2f65a80e7d472a334a7> <https://colonialcollections.nl/schema#additionalType_nl> "tekening"@nl .
+<https://n2t.net/ark:/27023/0db662f30e33e2f65a80e7d472a334a7> <https://colonialcollections.nl/schema#additionalType_nl> "topografische tekening"@nl .
 <https://n2t.net/ark:/27023/0db662f30e33e2f65a80e7d472a334a7> <https://colonialcollections.nl/schema#identifier> "RP-T-1999-146" .
 <https://n2t.net/ark:/27023/0db662f30e33e2f65a80e7d472a334a7> <https://colonialcollections.nl/schema#name> "Sagopalm, Molukken" .
-<https://n2t.net/ark:/27023/0db662f30e33e2f65a80e7d472a334a7> <https://colonialcollections.nl/schema#material_en> "paper"@en .
 <https://n2t.net/ark:/27023/0db662f30e33e2f65a80e7d472a334a7> <https://colonialcollections.nl/schema#material_en> "chalk"@en .
+<https://n2t.net/ark:/27023/0db662f30e33e2f65a80e7d472a334a7> <https://colonialcollections.nl/schema#material_en> "paper"@en .
 <https://n2t.net/ark:/27023/0db662f30e33e2f65a80e7d472a334a7> <https://colonialcollections.nl/schema#material_nl> "krijt"@nl .
 <https://n2t.net/ark:/27023/0db662f30e33e2f65a80e7d472a334a7> <https://colonialcollections.nl/schema#material_nl> "papier (materiaal)"@nl .
 <https://n2t.net/ark:/27023/0db662f30e33e2f65a80e7d472a334a7> <https://colonialcollections.nl/schema#inscription> "annotatie, midden onder: ‘(wanka)’" .
@@ -160,8 +160,8 @@
 <https://n2t.net/ark:/27023/0dbb5b1a85102cf8bc39fe02cc80e168> <https://colonialcollections.nl/schema#description> "Man lopend over een pad tussen kapokbomen. Onderdeel van een verzameling van 68 briefkaarten uit Suriname, bijeengebracht in een album als aandenken aan een verblijf in Suriname in september 1911." .
 <https://n2t.net/ark:/27023/0dbb5b1a85102cf8bc39fe02cc80e168> <https://colonialcollections.nl/schema#material_en> "cardboard"@en .
 <https://n2t.net/ark:/27023/0dbb5b1a85102cf8bc39fe02cc80e168> <https://colonialcollections.nl/schema#material_nl> "karton"@nl .
-<https://n2t.net/ark:/27023/0dbb5b1a85102cf8bc39fe02cc80e168> <https://colonialcollections.nl/schema#inscription> "serial number: ‘No. 95. Uitgevers C. Kersten & Co., Paramaribo’" .
 <https://n2t.net/ark:/27023/0dbb5b1a85102cf8bc39fe02cc80e168> <https://colonialcollections.nl/schema#inscription> "serienummer, onderaan, gedrukt: ‘No. 95. Uitgevers C. Kersten & Co., Paramaribo’" .
+<https://n2t.net/ark:/27023/0dbb5b1a85102cf8bc39fe02cc80e168> <https://colonialcollections.nl/schema#inscription> "serial number: ‘No. 95. Uitgevers C. Kersten & Co., Paramaribo’" .
 <https://n2t.net/ark:/27023/0dbb5b1a85102cf8bc39fe02cc80e168> <https://colonialcollections.nl/schema#creator> "C. Kersten & Co."@nl .
 <https://n2t.net/ark:/27023/0dbb5b1a85102cf8bc39fe02cc80e168> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0dbb5b1a85102cf8bc39fe02cc80e168> <https://colonialcollections.nl/schema#yearCreatedEnd> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .
@@ -182,9 +182,9 @@
 <https://n2t.net/ark:/27023/0dd2611b6128f21ae8be6536c49ad731> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0dd2611b6128f21ae8be6536c49ad731> <https://colonialcollections.nl/schema#additionalType_en> "carte-de-visite"@en .
 <https://n2t.net/ark:/27023/0dd2611b6128f21ae8be6536c49ad731> <https://colonialcollections.nl/schema#additionalType_en> "photograph"@en .
-<https://n2t.net/ark:/27023/0dd2611b6128f21ae8be6536c49ad731> <https://colonialcollections.nl/schema#additionalType_nl> "foto"@nl .
-<https://n2t.net/ark:/27023/0dd2611b6128f21ae8be6536c49ad731> <https://colonialcollections.nl/schema#additionalType_nl> "albumblad"@nl .
 <https://n2t.net/ark:/27023/0dd2611b6128f21ae8be6536c49ad731> <https://colonialcollections.nl/schema#additionalType_nl> "carte-de-visite"@nl .
+<https://n2t.net/ark:/27023/0dd2611b6128f21ae8be6536c49ad731> <https://colonialcollections.nl/schema#additionalType_nl> "albumblad"@nl .
+<https://n2t.net/ark:/27023/0dd2611b6128f21ae8be6536c49ad731> <https://colonialcollections.nl/schema#additionalType_nl> "foto"@nl .
 <https://n2t.net/ark:/27023/0dd2611b6128f21ae8be6536c49ad731> <https://colonialcollections.nl/schema#identifier> "RP-F-2014-45-2-47" .
 <https://n2t.net/ark:/27023/0dd2611b6128f21ae8be6536c49ad731> <https://colonialcollections.nl/schema#name> "Portret van een onbekend meisje" .
 <https://n2t.net/ark:/27023/0dd2611b6128f21ae8be6536c49ad731> <https://colonialcollections.nl/schema#description> "Deze foto is onderdeel van een album." .
@@ -192,8 +192,8 @@
 <https://n2t.net/ark:/27023/0dd2611b6128f21ae8be6536c49ad731> <https://colonialcollections.nl/schema#material_en> "cardboard"@en .
 <https://n2t.net/ark:/27023/0dd2611b6128f21ae8be6536c49ad731> <https://colonialcollections.nl/schema#material_nl> "papier (materiaal)"@nl .
 <https://n2t.net/ark:/27023/0dd2611b6128f21ae8be6536c49ad731> <https://colonialcollections.nl/schema#material_nl> "karton"@nl .
-<https://n2t.net/ark:/27023/0dd2611b6128f21ae8be6536c49ad731> <https://colonialcollections.nl/schema#creator> "Johann von Petz"@nl .
 <https://n2t.net/ark:/27023/0dd2611b6128f21ae8be6536c49ad731> <https://colonialcollections.nl/schema#creator> "Johann von Petz"@en .
+<https://n2t.net/ark:/27023/0dd2611b6128f21ae8be6536c49ad731> <https://colonialcollections.nl/schema#creator> "Johann von Petz"@nl .
 <https://n2t.net/ark:/27023/0dd2611b6128f21ae8be6536c49ad731> <https://colonialcollections.nl/schema#yearCreatedStart> "1870"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0dd2611b6128f21ae8be6536c49ad731> <https://colonialcollections.nl/schema#yearCreatedEnd> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0dd2611b6128f21ae8be6536c49ad731> <https://colonialcollections.nl/schema#publisher_en> "Rijksmuseum Amsterdam"@en .
@@ -244,10 +244,10 @@
 <https://n2t.net/ark:/27023/0dd7922ab1a19b3724d67e7ba920fe9b> <https://colonialcollections.nl/schema#name> "Groepsportret met Augustine Pauline Bruins (Guus), Frederic Gabriël (Abeng) en Eef Dumas bij een zwembad" .
 <https://n2t.net/ark:/27023/0dd7922ab1a19b3724d67e7ba920fe9b> <https://colonialcollections.nl/schema#material_en> "baryta paper"@en .
 <https://n2t.net/ark:/27023/0dd7922ab1a19b3724d67e7ba920fe9b> <https://colonialcollections.nl/schema#material_nl> "barietpapier"@nl .
-<https://n2t.net/ark:/27023/0dd7922ab1a19b3724d67e7ba920fe9b> <https://colonialcollections.nl/schema#inscription> "inscription: ‘Selabintana./ Han/ rechts/ Guus Bruins en Eef, midden Abeng (F.G.)’" .
-<https://n2t.net/ark:/27023/0dd7922ab1a19b3724d67e7ba920fe9b> <https://colonialcollections.nl/schema#inscription> "inscription: ‘Fotohuis \"Braga\"/ Bandoeng./ (Java)’" .
 <https://n2t.net/ark:/27023/0dd7922ab1a19b3724d67e7ba920fe9b> <https://colonialcollections.nl/schema#inscription> "opschrift, verso, handgeschreven: ‘Selabintana./ Han/ rechts/ Guus Bruins en Eef, midden Abeng (F.G.)’" .
+<https://n2t.net/ark:/27023/0dd7922ab1a19b3724d67e7ba920fe9b> <https://colonialcollections.nl/schema#inscription> "inscription: ‘Fotohuis \"Braga\"/ Bandoeng./ (Java)’" .
 <https://n2t.net/ark:/27023/0dd7922ab1a19b3724d67e7ba920fe9b> <https://colonialcollections.nl/schema#inscription> "opschrift, verso, gedrukt: ‘Fotohuis \"Braga\"/ Bandoeng./ (Java)’" .
+<https://n2t.net/ark:/27023/0dd7922ab1a19b3724d67e7ba920fe9b> <https://colonialcollections.nl/schema#inscription> "inscription: ‘Selabintana./ Han/ rechts/ Guus Bruins en Eef, midden Abeng (F.G.)’" .
 <https://n2t.net/ark:/27023/0dd7922ab1a19b3724d67e7ba920fe9b> <https://colonialcollections.nl/schema#creator> "Fotohuis Braga"@nl .
 <https://n2t.net/ark:/27023/0dd7922ab1a19b3724d67e7ba920fe9b> <https://colonialcollections.nl/schema#yearCreatedStart> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0dd7922ab1a19b3724d67e7ba920fe9b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .
@@ -261,10 +261,10 @@
 <https://n2t.net/ark:/27023/0dd9aab6b08101a1b20eec6353be369c> <https://colonialcollections.nl/schema#description> "Straatgezicht in Pandjang met op straat een aantal slapende honden. Tegne de achtergrond is de gunung Marapi zichtbaar" .
 <https://n2t.net/ark:/27023/0dd9aab6b08101a1b20eec6353be369c> <https://colonialcollections.nl/schema#material_en> "paper"@en .
 <https://n2t.net/ark:/27023/0dd9aab6b08101a1b20eec6353be369c> <https://colonialcollections.nl/schema#material_nl> "papier (materiaal)"@nl .
-<https://n2t.net/ark:/27023/0dd9aab6b08101a1b20eec6353be369c> <https://colonialcollections.nl/schema#inscription> "inscription: ‘Pad Pandjang’" .
 <https://n2t.net/ark:/27023/0dd9aab6b08101a1b20eec6353be369c> <https://colonialcollections.nl/schema#inscription> "opschrift, verso, handgeschreven: ‘Pad Pandjang’" .
-<https://n2t.net/ark:/27023/0dd9aab6b08101a1b20eec6353be369c> <https://colonialcollections.nl/schema#creator> "Christiaan Benjamin Nieuwenhuis"@nl .
+<https://n2t.net/ark:/27023/0dd9aab6b08101a1b20eec6353be369c> <https://colonialcollections.nl/schema#inscription> "inscription: ‘Pad Pandjang’" .
 <https://n2t.net/ark:/27023/0dd9aab6b08101a1b20eec6353be369c> <https://colonialcollections.nl/schema#creator> "Christiaan Benjamin Nieuwenhuis"@en .
+<https://n2t.net/ark:/27023/0dd9aab6b08101a1b20eec6353be369c> <https://colonialcollections.nl/schema#creator> "Christiaan Benjamin Nieuwenhuis"@nl .
 <https://n2t.net/ark:/27023/0dd9aab6b08101a1b20eec6353be369c> <https://colonialcollections.nl/schema#yearCreatedStart> "1891"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0dd9aab6b08101a1b20eec6353be369c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0dd9aab6b08101a1b20eec6353be369c> <https://colonialcollections.nl/schema#publisher_en> "Rijksmuseum Amsterdam"@en .
@@ -291,12 +291,12 @@
 <https://n2t.net/ark:/27023/0ddc466a8ad2b2256e126cf334b17f0f> <https://colonialcollections.nl/schema#name> "Hoelasi Bihari en Karhili Parbati, emigranten echtpaar, in 1913 uit India naar Suriname gekomen" .
 <https://n2t.net/ark:/27023/0ddc466a8ad2b2256e126cf334b17f0f> <https://colonialcollections.nl/schema#material_en> "baryta paper"@en .
 <https://n2t.net/ark:/27023/0ddc466a8ad2b2256e126cf334b17f0f> <https://colonialcollections.nl/schema#material_nl> "barietpapier"@nl .
+<https://n2t.net/ark:/27023/0ddc466a8ad2b2256e126cf334b17f0f> <https://colonialcollections.nl/schema#inscription> "verso, pen: ‘Hoelasi Bihari / Kirhali Parbati / Art G. van Westerloo / 14-6-75’" .
 <https://n2t.net/ark:/27023/0ddc466a8ad2b2256e126cf334b17f0f> <https://colonialcollections.nl/schema#inscription> "verso, potlood: ‘VARIANT UITSNEDE / FRIM p. 27’" .
-<https://n2t.net/ark:/27023/0ddc466a8ad2b2256e126cf334b17f0f> <https://colonialcollections.nl/schema#inscription> ": ‘Hoelasi Bihari / Kirhali Parbati / Art G. van Westerloo / 14-6-75’" .
 <https://n2t.net/ark:/27023/0ddc466a8ad2b2256e126cf334b17f0f> <https://colonialcollections.nl/schema#inscription> "verso, rode inkt: ‘193’" .
 <https://n2t.net/ark:/27023/0ddc466a8ad2b2256e126cf334b17f0f> <https://colonialcollections.nl/schema#inscription> ": ‘193’" .
 <https://n2t.net/ark:/27023/0ddc466a8ad2b2256e126cf334b17f0f> <https://colonialcollections.nl/schema#inscription> ": ‘VARIANT UITSNEDE / FRIM p. 27’" .
-<https://n2t.net/ark:/27023/0ddc466a8ad2b2256e126cf334b17f0f> <https://colonialcollections.nl/schema#inscription> "verso, pen: ‘Hoelasi Bihari / Kirhali Parbati / Art G. van Westerloo / 14-6-75’" .
+<https://n2t.net/ark:/27023/0ddc466a8ad2b2256e126cf334b17f0f> <https://colonialcollections.nl/schema#inscription> ": ‘Hoelasi Bihari / Kirhali Parbati / Art G. van Westerloo / 14-6-75’" .
 <https://n2t.net/ark:/27023/0ddc466a8ad2b2256e126cf334b17f0f> <https://colonialcollections.nl/schema#yearCreatedStart> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0ddc466a8ad2b2256e126cf334b17f0f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0ddc466a8ad2b2256e126cf334b17f0f> <https://colonialcollections.nl/schema#locationCreated> "Amsterdam"@nl .
@@ -306,20 +306,20 @@
 <https://n2t.net/ark:/27023/0ddc466a8ad2b2256e126cf334b17f0f> <https://colonialcollections.nl/schema#publisher_nl> "Rijksmuseum Amsterdam"@nl .
 <https://n2t.net/ark:/27023/0ddf2ae9fca0b88dd334045d0b127c96> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0ddf2ae9fca0b88dd334045d0b127c96> <https://colonialcollections.nl/schema#additionalType_en> "drawing"@en .
-<https://n2t.net/ark:/27023/0ddf2ae9fca0b88dd334045d0b127c96> <https://colonialcollections.nl/schema#additionalType_nl> "boekillustratie (ontwerp)"@nl .
 <https://n2t.net/ark:/27023/0ddf2ae9fca0b88dd334045d0b127c96> <https://colonialcollections.nl/schema#additionalType_nl> "tekening"@nl .
+<https://n2t.net/ark:/27023/0ddf2ae9fca0b88dd334045d0b127c96> <https://colonialcollections.nl/schema#additionalType_nl> "boekillustratie (ontwerp)"@nl .
 <https://n2t.net/ark:/27023/0ddf2ae9fca0b88dd334045d0b127c96> <https://colonialcollections.nl/schema#identifier> "RP-T-2015-41-3431" .
 <https://n2t.net/ark:/27023/0ddf2ae9fca0b88dd334045d0b127c96> <https://colonialcollections.nl/schema#name> "Kaart van de omgeving van het Sentanimeer te Papoea" .
 <https://n2t.net/ark:/27023/0ddf2ae9fca0b88dd334045d0b127c96> <https://colonialcollections.nl/schema#description> "Geïllustreerde kaart van de omgeving van het Sentanimeer te Papoea, Indonesië. Op de kaart staan illustraties van bomen, bergen, huizen, dieren en menselijke figuren." .
-<https://n2t.net/ark:/27023/0ddf2ae9fca0b88dd334045d0b127c96> <https://colonialcollections.nl/schema#material_en> "deck paint"@en .
 <https://n2t.net/ark:/27023/0ddf2ae9fca0b88dd334045d0b127c96> <https://colonialcollections.nl/schema#material_en> "India ink (ink)"@en .
 <https://n2t.net/ark:/27023/0ddf2ae9fca0b88dd334045d0b127c96> <https://colonialcollections.nl/schema#material_en> "tracing paper"@en .
+<https://n2t.net/ark:/27023/0ddf2ae9fca0b88dd334045d0b127c96> <https://colonialcollections.nl/schema#material_en> "deck paint"@en .
 <https://n2t.net/ark:/27023/0ddf2ae9fca0b88dd334045d0b127c96> <https://colonialcollections.nl/schema#material_nl> "Oost-Indische inkt"@nl .
-<https://n2t.net/ark:/27023/0ddf2ae9fca0b88dd334045d0b127c96> <https://colonialcollections.nl/schema#material_nl> "calqueerpapier"@nl .
 <https://n2t.net/ark:/27023/0ddf2ae9fca0b88dd334045d0b127c96> <https://colonialcollections.nl/schema#material_nl> "dekverf"@nl .
-<https://n2t.net/ark:/27023/0ddf2ae9fca0b88dd334045d0b127c96> <https://colonialcollections.nl/schema#inscription> ":" .
+<https://n2t.net/ark:/27023/0ddf2ae9fca0b88dd334045d0b127c96> <https://colonialcollections.nl/schema#material_nl> "calqueerpapier"@nl .
 <https://n2t.net/ark:/27023/0ddf2ae9fca0b88dd334045d0b127c96> <https://colonialcollections.nl/schema#inscription> "clichéaanwijzing, recto en verso, handgeschreven:" .
 <https://n2t.net/ark:/27023/0ddf2ae9fca0b88dd334045d0b127c96> <https://colonialcollections.nl/schema#inscription> "verzamelaarsmerk, verso, gestempeld: Lugt 2228a" .
+<https://n2t.net/ark:/27023/0ddf2ae9fca0b88dd334045d0b127c96> <https://colonialcollections.nl/schema#inscription> ":" .
 <https://n2t.net/ark:/27023/0ddf2ae9fca0b88dd334045d0b127c96> <https://colonialcollections.nl/schema#inscription> "collector's mark: Lugt 2228a" .
 <https://n2t.net/ark:/27023/0ddf2ae9fca0b88dd334045d0b127c96> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0ddf2ae9fca0b88dd334045d0b127c96> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .
@@ -334,12 +334,12 @@
 <https://n2t.net/ark:/27023/0de202ad20ec068f586f550aa53500a7> <https://colonialcollections.nl/schema#description> "Portret van een Javaanse hoffunctionaris ten voeten uit. De man draagt inheemse kleding en een Balinese kris op de rug. Met effen achtergrond en een eenvoudige tegelvloer." .
 <https://n2t.net/ark:/27023/0de202ad20ec068f586f550aa53500a7> <https://colonialcollections.nl/schema#material_en> "gilding (material)"@en .
 <https://n2t.net/ark:/27023/0de202ad20ec068f586f550aa53500a7> <https://colonialcollections.nl/schema#material_en> "paper"@en .
-<https://n2t.net/ark:/27023/0de202ad20ec068f586f550aa53500a7> <https://colonialcollections.nl/schema#material_en> "oil paint (paint)"@en .
 <https://n2t.net/ark:/27023/0de202ad20ec068f586f550aa53500a7> <https://colonialcollections.nl/schema#material_en> "cotton (textile)"@en .
+<https://n2t.net/ark:/27023/0de202ad20ec068f586f550aa53500a7> <https://colonialcollections.nl/schema#material_en> "oil paint (paint)"@en .
 <https://n2t.net/ark:/27023/0de202ad20ec068f586f550aa53500a7> <https://colonialcollections.nl/schema#material_nl> "katoen"@nl .
 <https://n2t.net/ark:/27023/0de202ad20ec068f586f550aa53500a7> <https://colonialcollections.nl/schema#material_nl> "papier (materiaal)"@nl .
-<https://n2t.net/ark:/27023/0de202ad20ec068f586f550aa53500a7> <https://colonialcollections.nl/schema#material_nl> "olieverf"@nl .
 <https://n2t.net/ark:/27023/0de202ad20ec068f586f550aa53500a7> <https://colonialcollections.nl/schema#material_nl> "verguldsel"@nl .
+<https://n2t.net/ark:/27023/0de202ad20ec068f586f550aa53500a7> <https://colonialcollections.nl/schema#material_nl> "olieverf"@nl .
 <https://n2t.net/ark:/27023/0de202ad20ec068f586f550aa53500a7> <https://colonialcollections.nl/schema#yearCreatedStart> "1820"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0de202ad20ec068f586f550aa53500a7> <https://colonialcollections.nl/schema#yearCreatedEnd> "1870"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0de202ad20ec068f586f550aa53500a7> <https://colonialcollections.nl/schema#publisher_en> "Rijksmuseum Amsterdam"@en .
@@ -402,8 +402,8 @@
 <https://n2t.net/ark:/27023/0defd368394747973f023d7520657b22> <https://colonialcollections.nl/schema#description> "Albumblad met zes foto's van de Antilliaanse bevolking op Curaçao. Onderdeel van het fotoalbum van Polidorus Ego over zijn verblijf op Curaçao 1931-1934." .
 <https://n2t.net/ark:/27023/0defd368394747973f023d7520657b22> <https://colonialcollections.nl/schema#material_en> "paper"@en .
 <https://n2t.net/ark:/27023/0defd368394747973f023d7520657b22> <https://colonialcollections.nl/schema#material_en> "photographic support"@en .
-<https://n2t.net/ark:/27023/0defd368394747973f023d7520657b22> <https://colonialcollections.nl/schema#material_nl> "fotodrager"@nl .
 <https://n2t.net/ark:/27023/0defd368394747973f023d7520657b22> <https://colonialcollections.nl/schema#material_nl> "papier (materiaal)"@nl .
+<https://n2t.net/ark:/27023/0defd368394747973f023d7520657b22> <https://colonialcollections.nl/schema#material_nl> "fotodrager"@nl .
 <https://n2t.net/ark:/27023/0defd368394747973f023d7520657b22> <https://colonialcollections.nl/schema#yearCreatedStart> "1931"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0defd368394747973f023d7520657b22> <https://colonialcollections.nl/schema#yearCreatedEnd> "1934"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0defd368394747973f023d7520657b22> <https://colonialcollections.nl/schema#publisher_en> "Rijksmuseum Amsterdam"@en .
@@ -459,12 +459,12 @@
 <https://n2t.net/ark:/27023/0df897804a02e7bf84ca553ee8fe2213> <https://colonialcollections.nl/schema#additionalType_nl> "tekening"@nl .
 <https://n2t.net/ark:/27023/0df897804a02e7bf84ca553ee8fe2213> <https://colonialcollections.nl/schema#identifier> "RP-T-1921-295" .
 <https://n2t.net/ark:/27023/0df897804a02e7bf84ca553ee8fe2213> <https://colonialcollections.nl/schema#name> "De Spaarnwouder Poort te Haarlem" .
-<https://n2t.net/ark:/27023/0df897804a02e7bf84ca553ee8fe2213> <https://colonialcollections.nl/schema#material_en> "paper"@en .
 <https://n2t.net/ark:/27023/0df897804a02e7bf84ca553ee8fe2213> <https://colonialcollections.nl/schema#material_en> "ink"@en .
+<https://n2t.net/ark:/27023/0df897804a02e7bf84ca553ee8fe2213> <https://colonialcollections.nl/schema#material_en> "paper"@en .
 <https://n2t.net/ark:/27023/0df897804a02e7bf84ca553ee8fe2213> <https://colonialcollections.nl/schema#material_nl> "papier (materiaal)"@nl .
 <https://n2t.net/ark:/27023/0df897804a02e7bf84ca553ee8fe2213> <https://colonialcollections.nl/schema#material_nl> "inkt"@nl .
-<https://n2t.net/ark:/27023/0df897804a02e7bf84ca553ee8fe2213> <https://colonialcollections.nl/schema#inscription> "opschrift, verso: ‘de Sparewouder Poort te Haarlem’" .
 <https://n2t.net/ark:/27023/0df897804a02e7bf84ca553ee8fe2213> <https://colonialcollections.nl/schema#inscription> "inscription: ‘de Sparewouder Poort te Haarlem’" .
+<https://n2t.net/ark:/27023/0df897804a02e7bf84ca553ee8fe2213> <https://colonialcollections.nl/schema#inscription> "opschrift, verso: ‘de Sparewouder Poort te Haarlem’" .
 <https://n2t.net/ark:/27023/0df897804a02e7bf84ca553ee8fe2213> <https://colonialcollections.nl/schema#yearCreatedStart> "1733"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0df897804a02e7bf84ca553ee8fe2213> <https://colonialcollections.nl/schema#yearCreatedEnd> "1784"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0df897804a02e7bf84ca553ee8fe2213> <https://colonialcollections.nl/schema#publisher_en> "Rijksmuseum Amsterdam"@en .
@@ -476,9 +476,9 @@
 <https://n2t.net/ark:/27023/0dfb0b8d8d25ec59c2e11b83364de6de> <https://colonialcollections.nl/schema#name> "Creoolse kerkgangers" .
 <https://n2t.net/ark:/27023/0dfb0b8d8d25ec59c2e11b83364de6de> <https://colonialcollections.nl/schema#material_en> "baryta paper"@en .
 <https://n2t.net/ark:/27023/0dfb0b8d8d25ec59c2e11b83364de6de> <https://colonialcollections.nl/schema#material_nl> "barietpapier"@nl .
+<https://n2t.net/ark:/27023/0dfb0b8d8d25ec59c2e11b83364de6de> <https://colonialcollections.nl/schema#inscription> ": ‘20’" .
 <https://n2t.net/ark:/27023/0dfb0b8d8d25ec59c2e11b83364de6de> <https://colonialcollections.nl/schema#inscription> "stempel, verso: ‘PKL / PRENTENKABINET R.U. LEIDEN’" .
 <https://n2t.net/ark:/27023/0dfb0b8d8d25ec59c2e11b83364de6de> <https://colonialcollections.nl/schema#inscription> "stamp: ‘PKL / PRENTENKABINET R.U. LEIDEN’" .
-<https://n2t.net/ark:/27023/0dfb0b8d8d25ec59c2e11b83364de6de> <https://colonialcollections.nl/schema#inscription> ": ‘20’" .
 <https://n2t.net/ark:/27023/0dfb0b8d8d25ec59c2e11b83364de6de> <https://colonialcollections.nl/schema#inscription> "verso, rode inkt: ‘20’" .
 <https://n2t.net/ark:/27023/0dfb0b8d8d25ec59c2e11b83364de6de> <https://colonialcollections.nl/schema#yearCreatedStart> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0dfb0b8d8d25ec59c2e11b83364de6de> <https://colonialcollections.nl/schema#yearCreatedEnd> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .
@@ -488,27 +488,27 @@
 <https://n2t.net/ark:/27023/0dfb0b8d8d25ec59c2e11b83364de6de> <https://colonialcollections.nl/schema#publisher_en> "Rijksmuseum Amsterdam"@en .
 <https://n2t.net/ark:/27023/0dfb0b8d8d25ec59c2e11b83364de6de> <https://colonialcollections.nl/schema#publisher_nl> "Rijksmuseum Amsterdam"@nl .
 <https://n2t.net/ark:/27023/0dfb753d3a80fdd513ebc8971b2c181e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0dfb753d3a80fdd513ebc8971b2c181e> <https://colonialcollections.nl/schema#additionalType_en> "drawing"@en .
 <https://n2t.net/ark:/27023/0dfb753d3a80fdd513ebc8971b2c181e> <https://colonialcollections.nl/schema#additionalType_en> "map"@en .
-<https://n2t.net/ark:/27023/0dfb753d3a80fdd513ebc8971b2c181e> <https://colonialcollections.nl/schema#additionalType_nl> "tekening"@nl .
+<https://n2t.net/ark:/27023/0dfb753d3a80fdd513ebc8971b2c181e> <https://colonialcollections.nl/schema#additionalType_en> "drawing"@en .
 <https://n2t.net/ark:/27023/0dfb753d3a80fdd513ebc8971b2c181e> <https://colonialcollections.nl/schema#additionalType_nl> "kaart"@nl .
+<https://n2t.net/ark:/27023/0dfb753d3a80fdd513ebc8971b2c181e> <https://colonialcollections.nl/schema#additionalType_nl> "tekening"@nl .
 <https://n2t.net/ark:/27023/0dfb753d3a80fdd513ebc8971b2c181e> <https://colonialcollections.nl/schema#identifier> "NG-1998-9" .
 <https://n2t.net/ark:/27023/0dfb753d3a80fdd513ebc8971b2c181e> <https://colonialcollections.nl/schema#name> "Kaart van de aanval op Elmina, 1828" .
 <https://n2t.net/ark:/27023/0dfb753d3a80fdd513ebc8971b2c181e> <https://colonialcollections.nl/schema#description> "Kaart van het kustgebied van Guinea (Ghana) rond Elmina en deel van het achterland. Rechts een rivier. Op de landtong zijn gebouwen aangegeven waaronder het fort Sint George. In het binnenland zijn wegen getekend met aanliggende plaatsen. Verder zijn met g" .
-<https://n2t.net/ark:/27023/0dfb753d3a80fdd513ebc8971b2c181e> <https://colonialcollections.nl/schema#material_en> "watercolor (paint)"@en .
-<https://n2t.net/ark:/27023/0dfb753d3a80fdd513ebc8971b2c181e> <https://colonialcollections.nl/schema#material_en> "paper"@en .
 <https://n2t.net/ark:/27023/0dfb753d3a80fdd513ebc8971b2c181e> <https://colonialcollections.nl/schema#material_en> "ink"@en .
-<https://n2t.net/ark:/27023/0dfb753d3a80fdd513ebc8971b2c181e> <https://colonialcollections.nl/schema#material_nl> "waterverf"@nl .
+<https://n2t.net/ark:/27023/0dfb753d3a80fdd513ebc8971b2c181e> <https://colonialcollections.nl/schema#material_en> "paper"@en .
+<https://n2t.net/ark:/27023/0dfb753d3a80fdd513ebc8971b2c181e> <https://colonialcollections.nl/schema#material_en> "watercolor (paint)"@en .
 <https://n2t.net/ark:/27023/0dfb753d3a80fdd513ebc8971b2c181e> <https://colonialcollections.nl/schema#material_nl> "papier (materiaal)"@nl .
 <https://n2t.net/ark:/27023/0dfb753d3a80fdd513ebc8971b2c181e> <https://colonialcollections.nl/schema#material_nl> "inkt"@nl .
-<https://n2t.net/ark:/27023/0dfb753d3a80fdd513ebc8971b2c181e> <https://colonialcollections.nl/schema#inscription> "inscriptie, rechtsonder, handgeschreven: ‘Positie van den 1 Oct. der beide legers / Positie der Fantynen den 19 Oct. / Positie der Fantynen den 2 Oct. / Positie der Nederlanders den 19 Oct./ Positie der Nederlanders den 2 Oct.’ 2 rechthoeken met resp. kleuren rood-wit-blauw en blauw-geel: Positie van den 1 Oct. der beide legers / 2 rechthoeken met resp. kleuren rood-geel en rood-wit: Positie der Fantynen den 19 Oct. / rechthoek met kleuren rood-geel: Positie der Fantynen den 2 Oct. / 2 rechthoeken met resp. kleuren blauw-wit-rood en blauw-wit: Positie der Nederlanders den 19 Oct./ rechthoek met kleuren blauw-wit-rood: Positie der Nederlanders den 2 Oct." .
-<https://n2t.net/ark:/27023/0dfb753d3a80fdd513ebc8971b2c181e> <https://colonialcollections.nl/schema#inscription> "inscription: ‘Positie van den 1 Oct. der beide legers / Positie der Fantynen den 19 Oct. / Positie der Fantynen den 2 Oct. / Positie der Nederlanders den 19 Oct./ Positie der Nederlanders den 2 Oct.’" .
+<https://n2t.net/ark:/27023/0dfb753d3a80fdd513ebc8971b2c181e> <https://colonialcollections.nl/schema#material_nl> "waterverf"@nl .
 <https://n2t.net/ark:/27023/0dfb753d3a80fdd513ebc8971b2c181e> <https://colonialcollections.nl/schema#inscription> "inscriptie, linksonder, handgeschreven: ‘Plan / van de Nederlandsche hoofd Bezitting / ter kuste Guinea. / met de onderhorige Dorpen enzov. / 1. het hoofdkasteel 's-George. / 2. het Fort Coenraadsburg. / 3. De Veers Redoute. / 4. Beekenstein. / 5. de Koeberg. / 6. de Katoenberg. / 7. het krom Oddenna.’" .
+<https://n2t.net/ark:/27023/0dfb753d3a80fdd513ebc8971b2c181e> <https://colonialcollections.nl/schema#inscription> "inscription: ‘Positie van den 1 Oct. der beide legers / Positie der Fantynen den 19 Oct. / Positie der Fantynen den 2 Oct. / Positie der Nederlanders den 19 Oct./ Positie der Nederlanders den 2 Oct.’" .
 <https://n2t.net/ark:/27023/0dfb753d3a80fdd513ebc8971b2c181e> <https://colonialcollections.nl/schema#inscription> "inscription: ‘Plan / van de Nederlandsche hoofd Bezitting / ter kuste Guinea. / met de onderhorige Dorpen enzov. / 1. het hoofdkasteel 's-George. / 2. het Fort Coenraadsburg. / 3. De Veers Redoute. / 4. Beekenstein. / 5. de Koeberg. / 6. de Katoenberg. / 7. het krom Oddenna.’" .
+<https://n2t.net/ark:/27023/0dfb753d3a80fdd513ebc8971b2c181e> <https://colonialcollections.nl/schema#inscription> "inscriptie, rechtsonder, handgeschreven: ‘Positie van den 1 Oct. der beide legers / Positie der Fantynen den 19 Oct. / Positie der Fantynen den 2 Oct. / Positie der Nederlanders den 19 Oct./ Positie der Nederlanders den 2 Oct.’ 2 rechthoeken met resp. kleuren rood-wit-blauw en blauw-geel: Positie van den 1 Oct. der beide legers / 2 rechthoeken met resp. kleuren rood-geel en rood-wit: Positie der Fantynen den 19 Oct. / rechthoek met kleuren rood-geel: Positie der Fantynen den 2 Oct. / 2 rechthoeken met resp. kleuren blauw-wit-rood en blauw-wit: Positie der Nederlanders den 19 Oct./ rechthoek met kleuren blauw-wit-rood: Positie der Nederlanders den 2 Oct." .
 <https://n2t.net/ark:/27023/0dfb753d3a80fdd513ebc8971b2c181e> <https://colonialcollections.nl/schema#yearCreatedStart> "1828"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0dfb753d3a80fdd513ebc8971b2c181e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1828"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/0dfb753d3a80fdd513ebc8971b2c181e> <https://colonialcollections.nl/schema#locationCreated> "Nederland"@nl .
 <https://n2t.net/ark:/27023/0dfb753d3a80fdd513ebc8971b2c181e> <https://colonialcollections.nl/schema#locationCreated> "The Netherlands"@en .
+<https://n2t.net/ark:/27023/0dfb753d3a80fdd513ebc8971b2c181e> <https://colonialcollections.nl/schema#locationCreated> "Nederland"@nl .
 <https://n2t.net/ark:/27023/0dfb753d3a80fdd513ebc8971b2c181e> <https://colonialcollections.nl/schema#countryCreated_en> "The Netherlands"@en .
 <https://n2t.net/ark:/27023/0dfb753d3a80fdd513ebc8971b2c181e> <https://colonialcollections.nl/schema#countryCreated_nl> "Nederland"@nl .
 <https://n2t.net/ark:/27023/0dfb753d3a80fdd513ebc8971b2c181e> <https://colonialcollections.nl/schema#publisher_en> "Rijksmuseum Amsterdam"@en .
@@ -528,11 +528,11 @@
 <https://n2t.net/ark:/27023/0dff637cc15b309f26a0ee1a14551059> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0dff637cc15b309f26a0ee1a14551059> <https://colonialcollections.nl/schema#additionalType_nl> "schetsboekblad"@nl .
 <https://n2t.net/ark:/27023/0dff637cc15b309f26a0ee1a14551059> <https://colonialcollections.nl/schema#identifier> "NG-1996-6-100" .
-<https://n2t.net/ark:/27023/0dff637cc15b309f26a0ee1a14551059> <https://colonialcollections.nl/schema#name> "Two cinnamon peelers at work" .
 <https://n2t.net/ark:/27023/0dff637cc15b309f26a0ee1a14551059> <https://colonialcollections.nl/schema#name> "Twee kaneelschillers aan het werk" .
+<https://n2t.net/ark:/27023/0dff637cc15b309f26a0ee1a14551059> <https://colonialcollections.nl/schema#name> "Two cinnamon peelers at work" .
 <https://n2t.net/ark:/27023/0dff637cc15b309f26a0ee1a14551059> <https://colonialcollections.nl/schema#description> "Buiten zitten twee mannen gehurkt op een oneffen en hellende grond. De mannen horen tot de Singalese beroepsgroep der kaneelschillers van de kaste der chalia’s of Salagama. De man links draagt een heupkleed (veshti, lungi), deels over zijn linkerknie getro" .
-<https://n2t.net/ark:/27023/0dff637cc15b309f26a0ee1a14551059> <https://colonialcollections.nl/schema#material_en> "paper"@en .
 <https://n2t.net/ark:/27023/0dff637cc15b309f26a0ee1a14551059> <https://colonialcollections.nl/schema#material_en> "ink"@en .
+<https://n2t.net/ark:/27023/0dff637cc15b309f26a0ee1a14551059> <https://colonialcollections.nl/schema#material_en> "paper"@en .
 <https://n2t.net/ark:/27023/0dff637cc15b309f26a0ee1a14551059> <https://colonialcollections.nl/schema#material_nl> "papier (materiaal)"@nl .
 <https://n2t.net/ark:/27023/0dff637cc15b309f26a0ee1a14551059> <https://colonialcollections.nl/schema#material_nl> "inkt"@nl .
 <https://n2t.net/ark:/27023/0dff637cc15b309f26a0ee1a14551059> <https://colonialcollections.nl/schema#yearCreatedStart> "1662"^^<http://www.w3.org/2001/XMLSchema#integer> .
@@ -546,10 +546,10 @@
 <https://n2t.net/ark:/27023/0dff97885b2ad303fe31484ccf76d822> <https://colonialcollections.nl/schema#name> "Vrouwenvertrek te Batavia" .
 <https://n2t.net/ark:/27023/0dff97885b2ad303fe31484ccf76d822> <https://colonialcollections.nl/schema#description> "Voyeuristische inkijk in een vrouwenvertrek in een woonhuis te Batavia. De vrouw des huizes in slaaphemd in kleermakerszit op de grond, bij haar een sirih-slavin en een slavin met dienblad. De vrouw steekt net iets in haar mond en kijkt op naar een dame me" .
 <https://n2t.net/ark:/27023/0dff97885b2ad303fe31484ccf76d822> <https://colonialcollections.nl/schema#description> "Voyeuristische inkijk in een vrouwenvertrek in een woonhuis te Batavia. De vrouw des huizes in slaaphemd in kleermakerszit op de grond, bij haar twee tot slaaf gemaakte bedienden, waarvan een met een sirihdoos en een met een dienblad. De vrouw steekt net i" .
-<https://n2t.net/ark:/27023/0dff97885b2ad303fe31484ccf76d822> <https://colonialcollections.nl/schema#material_en> "pencil"@en .
 <https://n2t.net/ark:/27023/0dff97885b2ad303fe31484ccf76d822> <https://colonialcollections.nl/schema#material_en> "paper"@en .
-<https://n2t.net/ark:/27023/0dff97885b2ad303fe31484ccf76d822> <https://colonialcollections.nl/schema#material_nl> "potlood"@nl .
+<https://n2t.net/ark:/27023/0dff97885b2ad303fe31484ccf76d822> <https://colonialcollections.nl/schema#material_en> "pencil"@en .
 <https://n2t.net/ark:/27023/0dff97885b2ad303fe31484ccf76d822> <https://colonialcollections.nl/schema#material_nl> "papier (materiaal)"@nl .
+<https://n2t.net/ark:/27023/0dff97885b2ad303fe31484ccf76d822> <https://colonialcollections.nl/schema#material_nl> "potlood"@nl .
 <https://n2t.net/ark:/27023/0dff97885b2ad303fe31484ccf76d822> <https://colonialcollections.nl/schema#yearCreatedStart> "1779"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0dff97885b2ad303fe31484ccf76d822> <https://colonialcollections.nl/schema#yearCreatedEnd> "1785"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0dff97885b2ad303fe31484ccf76d822> <https://colonialcollections.nl/schema#publisher_en> "Rijksmuseum Amsterdam"@en .
@@ -560,8 +560,8 @@
 <https://n2t.net/ark:/27023/0e03acb70a5dd67ce1b80f0b29433dfb> <https://colonialcollections.nl/schema#additionalType_nl> "foto"@nl .
 <https://n2t.net/ark:/27023/0e03acb70a5dd67ce1b80f0b29433dfb> <https://colonialcollections.nl/schema#identifier> "NG-2002-84-G-93" .
 <https://n2t.net/ark:/27023/0e03acb70a5dd67ce1b80f0b29433dfb> <https://colonialcollections.nl/schema#name> "Locomobiel ketel" .
-<https://n2t.net/ark:/27023/0e03acb70a5dd67ce1b80f0b29433dfb> <https://colonialcollections.nl/schema#description> "Albumblad met een foto van een locomobiel ketel met oververhitter, vervaardigd 23 december 1935 en bestemd voor Kertasarie. Bij de ketel poseert een man. Onderdeel van een fotoalbum met foto's van machines en constructies van de N.V. Machinefabriek Braat t" .
 <https://n2t.net/ark:/27023/0e03acb70a5dd67ce1b80f0b29433dfb> <https://colonialcollections.nl/schema#description> "Albumblad met een foto van een locomobiel ketel met oververhitter, vervaardigd 23 december 1935 en bestemd voor Kertasarie. Bij de ketel poseert staande een Indische man. Onderdeel van een fotoalbum met foto's van machines en constructies van de N.V. Machi" .
+<https://n2t.net/ark:/27023/0e03acb70a5dd67ce1b80f0b29433dfb> <https://colonialcollections.nl/schema#description> "Albumblad met een foto van een locomobiel ketel met oververhitter, vervaardigd 23 december 1935 en bestemd voor Kertasarie. Bij de ketel poseert een man. Onderdeel van een fotoalbum met foto's van machines en constructies van de N.V. Machinefabriek Braat t" .
 <https://n2t.net/ark:/27023/0e03acb70a5dd67ce1b80f0b29433dfb> <https://colonialcollections.nl/schema#material_en> "photographic support"@en .
 <https://n2t.net/ark:/27023/0e03acb70a5dd67ce1b80f0b29433dfb> <https://colonialcollections.nl/schema#material_en> "cardboard"@en .
 <https://n2t.net/ark:/27023/0e03acb70a5dd67ce1b80f0b29433dfb> <https://colonialcollections.nl/schema#material_nl> "fotodrager"@nl .
@@ -592,8 +592,8 @@
 <https://n2t.net/ark:/27023/0e04f3a21623c8a8ef1717096ac27186> <https://colonialcollections.nl/schema#description> "Man (Hakebeeke) poserend tussen de sisalplanten op Mount Pleasant op Curaçao. Onderdeel van het fotoalbum uit ca. 1912-1913 met 92 foto's van de plantages Peperpot en Dordrecht in Suriname en Mount Pleasant op Curaçao." .
 <https://n2t.net/ark:/27023/0e04f3a21623c8a8ef1717096ac27186> <https://colonialcollections.nl/schema#material_en> "paper"@en .
 <https://n2t.net/ark:/27023/0e04f3a21623c8a8ef1717096ac27186> <https://colonialcollections.nl/schema#material_en> "photographic support"@en .
-<https://n2t.net/ark:/27023/0e04f3a21623c8a8ef1717096ac27186> <https://colonialcollections.nl/schema#material_nl> "fotodrager"@nl .
 <https://n2t.net/ark:/27023/0e04f3a21623c8a8ef1717096ac27186> <https://colonialcollections.nl/schema#material_nl> "papier (materiaal)"@nl .
+<https://n2t.net/ark:/27023/0e04f3a21623c8a8ef1717096ac27186> <https://colonialcollections.nl/schema#material_nl> "fotodrager"@nl .
 <https://n2t.net/ark:/27023/0e04f3a21623c8a8ef1717096ac27186> <https://colonialcollections.nl/schema#yearCreatedStart> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0e04f3a21623c8a8ef1717096ac27186> <https://colonialcollections.nl/schema#yearCreatedEnd> "1913"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0e04f3a21623c8a8ef1717096ac27186> <https://colonialcollections.nl/schema#publisher_en> "Rijksmuseum Amsterdam"@en .
@@ -604,16 +604,16 @@
 <https://n2t.net/ark:/27023/0e052d6c6a315c108d3f18bc640d21a8> <https://colonialcollections.nl/schema#additionalType_nl> "fotomechanische afdruk"@nl .
 <https://n2t.net/ark:/27023/0e052d6c6a315c108d3f18bc640d21a8> <https://colonialcollections.nl/schema#additionalType_nl> "bladzijde"@nl .
 <https://n2t.net/ark:/27023/0e052d6c6a315c108d3f18bc640d21a8> <https://colonialcollections.nl/schema#identifier> "RP-F-2001-7-425-33" .
-<https://n2t.net/ark:/27023/0e052d6c6a315c108d3f18bc640d21a8> <https://colonialcollections.nl/schema#name> "Gezicht op de Duivelspiek te Kaapstad en een gezicht op Bathurst Street te Grahamstad" .
 <https://n2t.net/ark:/27023/0e052d6c6a315c108d3f18bc640d21a8> <https://colonialcollections.nl/schema#name> "Cape Town-Devil's Peak" .
+<https://n2t.net/ark:/27023/0e052d6c6a315c108d3f18bc640d21a8> <https://colonialcollections.nl/schema#name> "Gezicht op de Duivelspiek te Kaapstad en een gezicht op Bathurst Street te Grahamstad" .
 <https://n2t.net/ark:/27023/0e052d6c6a315c108d3f18bc640d21a8> <https://colonialcollections.nl/schema#material_en> "paper"@en .
 <https://n2t.net/ark:/27023/0e052d6c6a315c108d3f18bc640d21a8> <https://colonialcollections.nl/schema#material_nl> "papier (materiaal)"@nl .
-<https://n2t.net/ark:/27023/0e052d6c6a315c108d3f18bc640d21a8> <https://colonialcollections.nl/schema#inscription> "number: ‘63. 64.’" .
 <https://n2t.net/ark:/27023/0e052d6c6a315c108d3f18bc640d21a8> <https://colonialcollections.nl/schema#inscription> "nummer, recto, gedrukt: ‘63. 64.’" .
 <https://n2t.net/ark:/27023/0e052d6c6a315c108d3f18bc640d21a8> <https://colonialcollections.nl/schema#inscription> "opschrift, recto, gedrukt: ‘SA’" .
 <https://n2t.net/ark:/27023/0e052d6c6a315c108d3f18bc640d21a8> <https://colonialcollections.nl/schema#inscription> "inscription: ‘SA’" .
-<https://n2t.net/ark:/27023/0e052d6c6a315c108d3f18bc640d21a8> <https://colonialcollections.nl/schema#creator> "Sam Alexander"@nl .
+<https://n2t.net/ark:/27023/0e052d6c6a315c108d3f18bc640d21a8> <https://colonialcollections.nl/schema#inscription> "number: ‘63. 64.’" .
 <https://n2t.net/ark:/27023/0e052d6c6a315c108d3f18bc640d21a8> <https://colonialcollections.nl/schema#creator> "Sam Alexander"@en .
+<https://n2t.net/ark:/27023/0e052d6c6a315c108d3f18bc640d21a8> <https://colonialcollections.nl/schema#creator> "Sam Alexander"@nl .
 <https://n2t.net/ark:/27023/0e052d6c6a315c108d3f18bc640d21a8> <https://colonialcollections.nl/schema#yearCreatedStart> "1870"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0e052d6c6a315c108d3f18bc640d21a8> <https://colonialcollections.nl/schema#yearCreatedEnd> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0e052d6c6a315c108d3f18bc640d21a8> <https://colonialcollections.nl/schema#publisher_en> "Rijksmuseum Amsterdam"@en .
@@ -627,8 +627,8 @@
 <https://n2t.net/ark:/27023/0e05fe03d21d45211bf20d0468e84f12> <https://colonialcollections.nl/schema#material_en> "paper"@en .
 <https://n2t.net/ark:/27023/0e05fe03d21d45211bf20d0468e84f12> <https://colonialcollections.nl/schema#material_en> "photographic support"@en .
 <https://n2t.net/ark:/27023/0e05fe03d21d45211bf20d0468e84f12> <https://colonialcollections.nl/schema#material_en> "cardboard"@en .
-<https://n2t.net/ark:/27023/0e05fe03d21d45211bf20d0468e84f12> <https://colonialcollections.nl/schema#material_nl> "fotodrager"@nl .
 <https://n2t.net/ark:/27023/0e05fe03d21d45211bf20d0468e84f12> <https://colonialcollections.nl/schema#material_nl> "papier (materiaal)"@nl .
+<https://n2t.net/ark:/27023/0e05fe03d21d45211bf20d0468e84f12> <https://colonialcollections.nl/schema#material_nl> "fotodrager"@nl .
 <https://n2t.net/ark:/27023/0e05fe03d21d45211bf20d0468e84f12> <https://colonialcollections.nl/schema#material_nl> "karton"@nl .
 <https://n2t.net/ark:/27023/0e05fe03d21d45211bf20d0468e84f12> <https://colonialcollections.nl/schema#yearCreatedStart> "1865"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0e05fe03d21d45211bf20d0468e84f12> <https://colonialcollections.nl/schema#yearCreatedEnd> "1865"^^<http://www.w3.org/2001/XMLSchema#integer> .
@@ -643,10 +643,10 @@
 <https://n2t.net/ark:/27023/0e062ceb4151b7ca2ee92914b721e81b> <https://colonialcollections.nl/schema#description> "Deze foto maakt deel uit van een album." .
 <https://n2t.net/ark:/27023/0e062ceb4151b7ca2ee92914b721e81b> <https://colonialcollections.nl/schema#material_en> "photographic support"@en .
 <https://n2t.net/ark:/27023/0e062ceb4151b7ca2ee92914b721e81b> <https://colonialcollections.nl/schema#material_nl> "fotodrager"@nl .
-<https://n2t.net/ark:/27023/0e062ceb4151b7ca2ee92914b721e81b> <https://colonialcollections.nl/schema#inscription> "inscription: ‘[T. OoLe] Photo, Durban’" .
 <https://n2t.net/ark:/27023/0e062ceb4151b7ca2ee92914b721e81b> <https://colonialcollections.nl/schema#inscription> "opschrift, recto, afgedrukt: ‘[T. OoLe] Photo, Durban’" .
-<https://n2t.net/ark:/27023/0e062ceb4151b7ca2ee92914b721e81b> <https://colonialcollections.nl/schema#creator> "T.O. Oole"@en .
+<https://n2t.net/ark:/27023/0e062ceb4151b7ca2ee92914b721e81b> <https://colonialcollections.nl/schema#inscription> "inscription: ‘[T. OoLe] Photo, Durban’" .
 <https://n2t.net/ark:/27023/0e062ceb4151b7ca2ee92914b721e81b> <https://colonialcollections.nl/schema#creator> "T.O. Oole"@nl .
+<https://n2t.net/ark:/27023/0e062ceb4151b7ca2ee92914b721e81b> <https://colonialcollections.nl/schema#creator> "T.O. Oole"@en .
 <https://n2t.net/ark:/27023/0e062ceb4151b7ca2ee92914b721e81b> <https://colonialcollections.nl/schema#yearCreatedStart> "1896"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0e062ceb4151b7ca2ee92914b721e81b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1896"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0e062ceb4151b7ca2ee92914b721e81b> <https://colonialcollections.nl/schema#publisher_en> "Rijksmuseum Amsterdam"@en .
@@ -673,12 +673,12 @@
 <https://n2t.net/ark:/27023/0e0902596114e9294d023651dfc07947> <https://colonialcollections.nl/schema#material_en> "cardboard"@en .
 <https://n2t.net/ark:/27023/0e0902596114e9294d023651dfc07947> <https://colonialcollections.nl/schema#material_nl> "papier (materiaal)"@nl .
 <https://n2t.net/ark:/27023/0e0902596114e9294d023651dfc07947> <https://colonialcollections.nl/schema#material_nl> "karton"@nl .
-<https://n2t.net/ark:/27023/0e0902596114e9294d023651dfc07947> <https://colonialcollections.nl/schema#inscription> "nummer, verso, handgeschreven: ‘9’" .
-<https://n2t.net/ark:/27023/0e0902596114e9294d023651dfc07947> <https://colonialcollections.nl/schema#inscription> "inscription: ‘WOODBURY & PAGE/ PHOTOGRAPHERS/ JAVA.’" .
-<https://n2t.net/ark:/27023/0e0902596114e9294d023651dfc07947> <https://colonialcollections.nl/schema#inscription> "inscription: ‘Kessler/ [...] 45’" .
-<https://n2t.net/ark:/27023/0e0902596114e9294d023651dfc07947> <https://colonialcollections.nl/schema#inscription> "opschrift, verso, gedrukt: ‘WOODBURY & PAGE/ PHOTOGRAPHERS/ JAVA.’ Boven het opschrift is de wapenspreuk 'Je maintiendrai' geplaatst." .
 <https://n2t.net/ark:/27023/0e0902596114e9294d023651dfc07947> <https://colonialcollections.nl/schema#inscription> "opschrift, verso, handgeschreven: ‘Kessler/ [...] 45’" .
+<https://n2t.net/ark:/27023/0e0902596114e9294d023651dfc07947> <https://colonialcollections.nl/schema#inscription> "inscription: ‘Kessler/ [...] 45’" .
+<https://n2t.net/ark:/27023/0e0902596114e9294d023651dfc07947> <https://colonialcollections.nl/schema#inscription> "nummer, verso, handgeschreven: ‘9’" .
 <https://n2t.net/ark:/27023/0e0902596114e9294d023651dfc07947> <https://colonialcollections.nl/schema#inscription> "number: ‘9’" .
+<https://n2t.net/ark:/27023/0e0902596114e9294d023651dfc07947> <https://colonialcollections.nl/schema#inscription> "opschrift, verso, gedrukt: ‘WOODBURY & PAGE/ PHOTOGRAPHERS/ JAVA.’ Boven het opschrift is de wapenspreuk 'Je maintiendrai' geplaatst." .
+<https://n2t.net/ark:/27023/0e0902596114e9294d023651dfc07947> <https://colonialcollections.nl/schema#inscription> "inscription: ‘WOODBURY & PAGE/ PHOTOGRAPHERS/ JAVA.’" .
 <https://n2t.net/ark:/27023/0e0902596114e9294d023651dfc07947> <https://colonialcollections.nl/schema#creator> "Woodbury & Page"@nl .
 <https://n2t.net/ark:/27023/0e0902596114e9294d023651dfc07947> <https://colonialcollections.nl/schema#yearCreatedStart> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0e0902596114e9294d023651dfc07947> <https://colonialcollections.nl/schema#yearCreatedEnd> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .
@@ -694,17 +694,17 @@
 <https://n2t.net/ark:/27023/0e0926e97a701d664e48fd240a312368> <https://colonialcollections.nl/schema#material_en> "cardboard"@en .
 <https://n2t.net/ark:/27023/0e0926e97a701d664e48fd240a312368> <https://colonialcollections.nl/schema#material_nl> "fotodrager"@nl .
 <https://n2t.net/ark:/27023/0e0926e97a701d664e48fd240a312368> <https://colonialcollections.nl/schema#material_nl> "karton"@nl .
-<https://n2t.net/ark:/27023/0e0926e97a701d664e48fd240a312368> <https://colonialcollections.nl/schema#inscription> "datum" .
 <https://n2t.net/ark:/27023/0e0926e97a701d664e48fd240a312368> <https://colonialcollections.nl/schema#inscription> "date" .
-<https://n2t.net/ark:/27023/0e0926e97a701d664e48fd240a312368> <https://colonialcollections.nl/schema#creator> "D.H. Buys"@nl .
+<https://n2t.net/ark:/27023/0e0926e97a701d664e48fd240a312368> <https://colonialcollections.nl/schema#inscription> "datum" .
 <https://n2t.net/ark:/27023/0e0926e97a701d664e48fd240a312368> <https://colonialcollections.nl/schema#creator> "D.H. Buys"@en .
+<https://n2t.net/ark:/27023/0e0926e97a701d664e48fd240a312368> <https://colonialcollections.nl/schema#creator> "D.H. Buys"@nl .
 <https://n2t.net/ark:/27023/0e0926e97a701d664e48fd240a312368> <https://colonialcollections.nl/schema#yearCreatedStart> "1934"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0e0926e97a701d664e48fd240a312368> <https://colonialcollections.nl/schema#yearCreatedEnd> "1934"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0e0926e97a701d664e48fd240a312368> <https://colonialcollections.nl/schema#publisher_en> "Rijksmuseum Amsterdam"@en .
 <https://n2t.net/ark:/27023/0e0926e97a701d664e48fd240a312368> <https://colonialcollections.nl/schema#publisher_nl> "Rijksmuseum Amsterdam"@nl .
 <https://n2t.net/ark:/27023/0e1455ea3e67da7c4a367a939c4609a1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0e1455ea3e67da7c4a367a939c4609a1> <https://colonialcollections.nl/schema#additionalType_en> "page"@en .
 <https://n2t.net/ark:/27023/0e1455ea3e67da7c4a367a939c4609a1> <https://colonialcollections.nl/schema#additionalType_en> "photomechanical print"@en .
+<https://n2t.net/ark:/27023/0e1455ea3e67da7c4a367a939c4609a1> <https://colonialcollections.nl/schema#additionalType_en> "page"@en .
 <https://n2t.net/ark:/27023/0e1455ea3e67da7c4a367a939c4609a1> <https://colonialcollections.nl/schema#additionalType_nl> "fotomechanische afdruk"@nl .
 <https://n2t.net/ark:/27023/0e1455ea3e67da7c4a367a939c4609a1> <https://colonialcollections.nl/schema#additionalType_nl> "bladzijde"@nl .
 <https://n2t.net/ark:/27023/0e1455ea3e67da7c4a367a939c4609a1> <https://colonialcollections.nl/schema#identifier> "RP-F-2001-7-1127-52" .
@@ -724,12 +724,12 @@
 <https://n2t.net/ark:/27023/0e14d8d44c8baaa684a661e20d7097c0> <https://colonialcollections.nl/schema#material_en> "cardboard"@en .
 <https://n2t.net/ark:/27023/0e14d8d44c8baaa684a661e20d7097c0> <https://colonialcollections.nl/schema#material_nl> "papier (materiaal)"@nl .
 <https://n2t.net/ark:/27023/0e14d8d44c8baaa684a661e20d7097c0> <https://colonialcollections.nl/schema#material_nl> "karton"@nl .
-<https://n2t.net/ark:/27023/0e14d8d44c8baaa684a661e20d7097c0> <https://colonialcollections.nl/schema#inscription> "opschrift, recto, handgeschreven: ‘Toko van der/ Zeyl./ daarnevens volgen/ de huizen van secretaris/ en kn[...] en van/ den controleur.’" .
-<https://n2t.net/ark:/27023/0e14d8d44c8baaa684a661e20d7097c0> <https://colonialcollections.nl/schema#inscription> "inscription: ‘Toko van der/ Zeyl./ daarnevens volgen/ de huizen van secretaris/ en kn[...] en van/ den controleur.’" .
-<https://n2t.net/ark:/27023/0e14d8d44c8baaa684a661e20d7097c0> <https://colonialcollections.nl/schema#inscription> "opschrift, recto, handgeschreven: ‘Gezigt van af de brug naar de/ Kratonpoort./ De hooge boom in het midden is/ die waaronder de hoofden der 26/ moskeen[?] de regering van den/ sultan moesten afwachten om in/ den kraton te worden toegelaten.’" .
-<https://n2t.net/ark:/27023/0e14d8d44c8baaa684a661e20d7097c0> <https://colonialcollections.nl/schema#inscription> "opschrift, recto, handgeschreven: ‘Achter het geboomte/ de huizen van majoor/ Mulder en den Asch [...]/ Woning van den/ majoor & chef v.d./ staf./ Societeitsgebouw’" .
 <https://n2t.net/ark:/27023/0e14d8d44c8baaa684a661e20d7097c0> <https://colonialcollections.nl/schema#inscription> "inscription: ‘Gezigt van af de brug naar de/ Kratonpoort./ De hooge boom in het midden is/ die waaronder de hoofden der 26/ moskeen[?] de regering van den/ sultan moesten afwachten om in/ den kraton te worden toegelaten.’" .
 <https://n2t.net/ark:/27023/0e14d8d44c8baaa684a661e20d7097c0> <https://colonialcollections.nl/schema#inscription> "inscription: ‘Achter het geboomte/ de huizen van majoor/ Mulder en den Asch [...]/ Woning van den/ majoor & chef v.d./ staf./ Societeitsgebouw’" .
+<https://n2t.net/ark:/27023/0e14d8d44c8baaa684a661e20d7097c0> <https://colonialcollections.nl/schema#inscription> "inscription: ‘Toko van der/ Zeyl./ daarnevens volgen/ de huizen van secretaris/ en kn[...] en van/ den controleur.’" .
+<https://n2t.net/ark:/27023/0e14d8d44c8baaa684a661e20d7097c0> <https://colonialcollections.nl/schema#inscription> "opschrift, recto, handgeschreven: ‘Achter het geboomte/ de huizen van majoor/ Mulder en den Asch [...]/ Woning van den/ majoor & chef v.d./ staf./ Societeitsgebouw’" .
+<https://n2t.net/ark:/27023/0e14d8d44c8baaa684a661e20d7097c0> <https://colonialcollections.nl/schema#inscription> "opschrift, recto, handgeschreven: ‘Gezigt van af de brug naar de/ Kratonpoort./ De hooge boom in het midden is/ die waaronder de hoofden der 26/ moskeen[?] de regering van den/ sultan moesten afwachten om in/ den kraton te worden toegelaten.’" .
+<https://n2t.net/ark:/27023/0e14d8d44c8baaa684a661e20d7097c0> <https://colonialcollections.nl/schema#inscription> "opschrift, recto, handgeschreven: ‘Toko van der/ Zeyl./ daarnevens volgen/ de huizen van secretaris/ en kn[...] en van/ den controleur.’" .
 <https://n2t.net/ark:/27023/0e14d8d44c8baaa684a661e20d7097c0> <https://colonialcollections.nl/schema#yearCreatedStart> "1870"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0e14d8d44c8baaa684a661e20d7097c0> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0e14d8d44c8baaa684a661e20d7097c0> <https://colonialcollections.nl/schema#publisher_en> "Rijksmuseum Amsterdam"@en .
@@ -745,9 +745,9 @@
 <https://n2t.net/ark:/27023/0e1a4ff63d0423adc5a8fc51a35d6c1a> <https://colonialcollections.nl/schema#material_nl> "papier (materiaal)"@nl .
 <https://n2t.net/ark:/27023/0e1a4ff63d0423adc5a8fc51a35d6c1a> <https://colonialcollections.nl/schema#material_nl> "fotodrager"@nl .
 <https://n2t.net/ark:/27023/0e1a4ff63d0423adc5a8fc51a35d6c1a> <https://colonialcollections.nl/schema#inscription> "stempel, verso, in inkt: ‘Davies Bros. Pritchard St. Johannesburg’" .
-<https://n2t.net/ark:/27023/0e1a4ff63d0423adc5a8fc51a35d6c1a> <https://colonialcollections.nl/schema#inscription> "stamp: ‘Davies Bros. Pritchard St. Johannesburg’" .
 <https://n2t.net/ark:/27023/0e1a4ff63d0423adc5a8fc51a35d6c1a> <https://colonialcollections.nl/schema#inscription> "inscription: ‘dhr. Lev Phillips sprekend over de toestand in Johb.’" .
 <https://n2t.net/ark:/27023/0e1a4ff63d0423adc5a8fc51a35d6c1a> <https://colonialcollections.nl/schema#inscription> "opschrift, verso, handgeschreven: ‘dhr. Lev Phillips sprekend over de toestand in Johb.’" .
+<https://n2t.net/ark:/27023/0e1a4ff63d0423adc5a8fc51a35d6c1a> <https://colonialcollections.nl/schema#inscription> "stamp: ‘Davies Bros. Pritchard St. Johannesburg’" .
 <https://n2t.net/ark:/27023/0e1a4ff63d0423adc5a8fc51a35d6c1a> <https://colonialcollections.nl/schema#yearCreatedStart> "1896"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0e1a4ff63d0423adc5a8fc51a35d6c1a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1896"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0e1a4ff63d0423adc5a8fc51a35d6c1a> <https://colonialcollections.nl/schema#publisher_en> "Rijksmuseum Amsterdam"@en .
@@ -758,10 +758,10 @@
 <https://n2t.net/ark:/27023/0e20e6d2cd832c616cabd92859a72cbb> <https://colonialcollections.nl/schema#identifier> "RP-P-OB-25.767" .
 <https://n2t.net/ark:/27023/0e20e6d2cd832c616cabd92859a72cbb> <https://colonialcollections.nl/schema#name> "Pisangboom in een kampong in Buitenzorg" .
 <https://n2t.net/ark:/27023/0e20e6d2cd832c616cabd92859a72cbb> <https://colonialcollections.nl/schema#description> "Links, midden en rechts zijn drie zittende figuren afgebeeld." .
-<https://n2t.net/ark:/27023/0e20e6d2cd832c616cabd92859a72cbb> <https://colonialcollections.nl/schema#material_en> "chalk"@en .
 <https://n2t.net/ark:/27023/0e20e6d2cd832c616cabd92859a72cbb> <https://colonialcollections.nl/schema#material_en> "paper"@en .
-<https://n2t.net/ark:/27023/0e20e6d2cd832c616cabd92859a72cbb> <https://colonialcollections.nl/schema#material_nl> "krijt"@nl .
+<https://n2t.net/ark:/27023/0e20e6d2cd832c616cabd92859a72cbb> <https://colonialcollections.nl/schema#material_en> "chalk"@en .
 <https://n2t.net/ark:/27023/0e20e6d2cd832c616cabd92859a72cbb> <https://colonialcollections.nl/schema#material_nl> "papier (materiaal)"@nl .
+<https://n2t.net/ark:/27023/0e20e6d2cd832c616cabd92859a72cbb> <https://colonialcollections.nl/schema#material_nl> "krijt"@nl .
 <https://n2t.net/ark:/27023/0e20e6d2cd832c616cabd92859a72cbb> <https://colonialcollections.nl/schema#yearCreatedStart> "1921"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0e20e6d2cd832c616cabd92859a72cbb> <https://colonialcollections.nl/schema#yearCreatedEnd> "1921"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0e20e6d2cd832c616cabd92859a72cbb> <https://colonialcollections.nl/schema#locationCreated> "Amsterdam"@nl .
@@ -777,17 +777,17 @@
 <https://n2t.net/ark:/27023/0e221d5a9661e5b231dc3dc86b27bc28> <https://colonialcollections.nl/schema#description> "Galvanoplastische reproductie van de beker van het St. Maartens- of brouwersgilde van Haarlem. De met renaissance-ornamenten versierde beker bestaat uit een cuppa, die geplaatst is op een voet met een balustervormige stam en vier voluten, welke in vrouwenk" .
 <https://n2t.net/ark:/27023/0e221d5a9661e5b231dc3dc86b27bc28> <https://colonialcollections.nl/schema#material_en> "copper (metal)"@en .
 <https://n2t.net/ark:/27023/0e221d5a9661e5b231dc3dc86b27bc28> <https://colonialcollections.nl/schema#material_en> "silver (metal)"@en .
-<https://n2t.net/ark:/27023/0e221d5a9661e5b231dc3dc86b27bc28> <https://colonialcollections.nl/schema#material_nl> "koper"@nl .
 <https://n2t.net/ark:/27023/0e221d5a9661e5b231dc3dc86b27bc28> <https://colonialcollections.nl/schema#material_nl> "zilver"@nl .
+<https://n2t.net/ark:/27023/0e221d5a9661e5b231dc3dc86b27bc28> <https://colonialcollections.nl/schema#material_nl> "koper"@nl .
 <https://n2t.net/ark:/27023/0e221d5a9661e5b231dc3dc86b27bc28> <https://colonialcollections.nl/schema#yearCreatedStart> "1881"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0e221d5a9661e5b231dc3dc86b27bc28> <https://colonialcollections.nl/schema#yearCreatedEnd> "1881"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0e221d5a9661e5b231dc3dc86b27bc28> <https://colonialcollections.nl/schema#locationCreated> "The Netherlands"@en .
-<https://n2t.net/ark:/27023/0e221d5a9661e5b231dc3dc86b27bc28> <https://colonialcollections.nl/schema#locationCreated> "Nederland"@nl .
 <https://n2t.net/ark:/27023/0e221d5a9661e5b231dc3dc86b27bc28> <https://colonialcollections.nl/schema#locationCreated> "London"@en .
+<https://n2t.net/ark:/27023/0e221d5a9661e5b231dc3dc86b27bc28> <https://colonialcollections.nl/schema#locationCreated> "Nederland"@nl .
 <https://n2t.net/ark:/27023/0e221d5a9661e5b231dc3dc86b27bc28> <https://colonialcollections.nl/schema#countryCreated_en> "The Netherlands"@en .
 <https://n2t.net/ark:/27023/0e221d5a9661e5b231dc3dc86b27bc28> <https://colonialcollections.nl/schema#countryCreated_en> "United Kingdom"@en .
-<https://n2t.net/ark:/27023/0e221d5a9661e5b231dc3dc86b27bc28> <https://colonialcollections.nl/schema#countryCreated_nl> "Nederland"@nl .
 <https://n2t.net/ark:/27023/0e221d5a9661e5b231dc3dc86b27bc28> <https://colonialcollections.nl/schema#countryCreated_nl> "Verenigd Koninkrijk"@nl .
+<https://n2t.net/ark:/27023/0e221d5a9661e5b231dc3dc86b27bc28> <https://colonialcollections.nl/schema#countryCreated_nl> "Nederland"@nl .
 <https://n2t.net/ark:/27023/0e221d5a9661e5b231dc3dc86b27bc28> <https://colonialcollections.nl/schema#publisher_en> "Rijksmuseum Amsterdam"@en .
 <https://n2t.net/ark:/27023/0e221d5a9661e5b231dc3dc86b27bc28> <https://colonialcollections.nl/schema#publisher_nl> "Rijksmuseum Amsterdam"@nl .
 <https://n2t.net/ark:/27023/0e25390983e92d0523b3a66561c2bb8d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
@@ -838,8 +838,8 @@
 <https://n2t.net/ark:/27023/0e2fd5126e858df5a231cd75338fcc90> <https://colonialcollections.nl/schema#description> "De suikerfabriek 'Kemanglen' bij Tegal (of Tagal) op Java, in 1841 opgericht door Th. Lucassen. Gezicht op enkele witte gebouwen (suikerfabriek) met een rokende fabrieksschoorsteen. Links en huis met de Nederlandse vlag ervoor (administrateurshuis). Voor d" .
 <https://n2t.net/ark:/27023/0e2fd5126e858df5a231cd75338fcc90> <https://colonialcollections.nl/schema#material_en> "oil paint (paint)"@en .
 <https://n2t.net/ark:/27023/0e2fd5126e858df5a231cd75338fcc90> <https://colonialcollections.nl/schema#material_en> "canvas"@en .
-<https://n2t.net/ark:/27023/0e2fd5126e858df5a231cd75338fcc90> <https://colonialcollections.nl/schema#material_nl> "doek"@nl .
 <https://n2t.net/ark:/27023/0e2fd5126e858df5a231cd75338fcc90> <https://colonialcollections.nl/schema#material_nl> "olieverf"@nl .
+<https://n2t.net/ark:/27023/0e2fd5126e858df5a231cd75338fcc90> <https://colonialcollections.nl/schema#material_nl> "doek"@nl .
 <https://n2t.net/ark:/27023/0e2fd5126e858df5a231cd75338fcc90> <https://colonialcollections.nl/schema#yearCreatedStart> "1870"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0e2fd5126e858df5a231cd75338fcc90> <https://colonialcollections.nl/schema#yearCreatedEnd> "1875"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0e2fd5126e858df5a231cd75338fcc90> <https://colonialcollections.nl/schema#publisher_en> "Rijksmuseum Amsterdam"@en .
@@ -847,8 +847,8 @@
 <https://n2t.net/ark:/27023/0e2ff232c502e6a921d62f22d760a725> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0e2ff232c502e6a921d62f22d760a725> <https://colonialcollections.nl/schema#additionalType_en> "photograph"@en .
 <https://n2t.net/ark:/27023/0e2ff232c502e6a921d62f22d760a725> <https://colonialcollections.nl/schema#additionalType_en> "stereograph"@en .
-<https://n2t.net/ark:/27023/0e2ff232c502e6a921d62f22d760a725> <https://colonialcollections.nl/schema#additionalType_nl> "foto"@nl .
 <https://n2t.net/ark:/27023/0e2ff232c502e6a921d62f22d760a725> <https://colonialcollections.nl/schema#additionalType_nl> "stereofoto"@nl .
+<https://n2t.net/ark:/27023/0e2ff232c502e6a921d62f22d760a725> <https://colonialcollections.nl/schema#additionalType_nl> "foto"@nl .
 <https://n2t.net/ark:/27023/0e2ff232c502e6a921d62f22d760a725> <https://colonialcollections.nl/schema#identifier> "RP-F-2001-17-207" .
 <https://n2t.net/ark:/27023/0e2ff232c502e6a921d62f22d760a725> <https://colonialcollections.nl/schema#name> "Druk bezochte badplaats Wendit." .
 <https://n2t.net/ark:/27023/0e2ff232c502e6a921d62f22d760a725> <https://colonialcollections.nl/schema#material_en> "paper"@en .
@@ -859,10 +859,13 @@
 <https://n2t.net/ark:/27023/0e2ff232c502e6a921d62f22d760a725> <https://colonialcollections.nl/schema#material_nl> "karton"@nl .
 <https://n2t.net/ark:/27023/0e2ff232c502e6a921d62f22d760a725> <https://colonialcollections.nl/schema#inscription> "signatuur, rechter zijkant op karton, gedrukt in relief: ‘Neville Keasberry, Malang (Java)’" .
 <https://n2t.net/ark:/27023/0e2ff232c502e6a921d62f22d760a725> <https://colonialcollections.nl/schema#inscription> "signature: ‘Neville Keasberry, Malang (Java)’" .
-<https://n2t.net/ark:/27023/0e2ff232c502e6a921d62f22d760a725> <https://colonialcollections.nl/schema#creator> "Neville Keasberry"@nl .
 <https://n2t.net/ark:/27023/0e2ff232c502e6a921d62f22d760a725> <https://colonialcollections.nl/schema#creator> "Neville Keasberry"@en .
+<https://n2t.net/ark:/27023/0e2ff232c502e6a921d62f22d760a725> <https://colonialcollections.nl/schema#creator> "Neville Keasberry"@nl .
 <https://n2t.net/ark:/27023/0e2ff232c502e6a921d62f22d760a725> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0e2ff232c502e6a921d62f22d760a725> <https://colonialcollections.nl/schema#yearCreatedEnd> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/0e2ff232c502e6a921d62f22d760a725> <https://colonialcollections.nl/schema#locationCreated> "Malang" .
+<https://n2t.net/ark:/27023/0e2ff232c502e6a921d62f22d760a725> <https://colonialcollections.nl/schema#countryCreated_en> "Indonesia"@en .
+<https://n2t.net/ark:/27023/0e2ff232c502e6a921d62f22d760a725> <https://colonialcollections.nl/schema#countryCreated_nl> "Indonesië"@nl .
 <https://n2t.net/ark:/27023/0e2ff232c502e6a921d62f22d760a725> <https://colonialcollections.nl/schema#publisher_en> "Rijksmuseum Amsterdam"@en .
 <https://n2t.net/ark:/27023/0e2ff232c502e6a921d62f22d760a725> <https://colonialcollections.nl/schema#publisher_nl> "Rijksmuseum Amsterdam"@nl .
 <https://n2t.net/ark:/27023/0e36a49cbb62ba941a20b5744b4f1d7d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
@@ -898,17 +901,17 @@
 <https://n2t.net/ark:/27023/0e3cfb2a1aecfc888313cb441af8649e> <https://colonialcollections.nl/schema#publisher_nl> "Rijksmuseum Amsterdam"@nl .
 <https://n2t.net/ark:/27023/0e3dcccd9229165c2cf1ef516f7b2aa2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0e3dcccd9229165c2cf1ef516f7b2aa2> <https://colonialcollections.nl/schema#additionalType_en> "invitation"@en .
-<https://n2t.net/ark:/27023/0e3dcccd9229165c2cf1ef516f7b2aa2> <https://colonialcollections.nl/schema#additionalType_nl> "uitnodiging"@nl .
 <https://n2t.net/ark:/27023/0e3dcccd9229165c2cf1ef516f7b2aa2> <https://colonialcollections.nl/schema#additionalType_nl> "fotomechanisch procedé"@nl .
+<https://n2t.net/ark:/27023/0e3dcccd9229165c2cf1ef516f7b2aa2> <https://colonialcollections.nl/schema#additionalType_nl> "uitnodiging"@nl .
 <https://n2t.net/ark:/27023/0e3dcccd9229165c2cf1ef516f7b2aa2> <https://colonialcollections.nl/schema#identifier> "RP-P-2022-4199" .
 <https://n2t.net/ark:/27023/0e3dcccd9229165c2cf1ef516f7b2aa2> <https://colonialcollections.nl/schema#name> "Uitnodiging van het Rijksmuseum Amsterdam voor de opening van de tentoonstelling: Zuid-Afrika op de kaart. De Atlas Gorden, april 2002" .
 <https://n2t.net/ark:/27023/0e3dcccd9229165c2cf1ef516f7b2aa2> <https://colonialcollections.nl/schema#description> "Uitnodiging van het Rijksmuseum Amsterdam voor de opening van de tentoonstelling: Zuid-Afrika op de kaart. De Atlas Gorden, op 13 april 2002. Strandlopers door Robert J. Gordon." .
 <https://n2t.net/ark:/27023/0e3dcccd9229165c2cf1ef516f7b2aa2> <https://colonialcollections.nl/schema#material_en> "paper"@en .
 <https://n2t.net/ark:/27023/0e3dcccd9229165c2cf1ef516f7b2aa2> <https://colonialcollections.nl/schema#material_nl> "papier (materiaal)"@nl .
-<https://n2t.net/ark:/27023/0e3dcccd9229165c2cf1ef516f7b2aa2> <https://colonialcollections.nl/schema#creator> "Rijksmuseum Amsterdam"@en .
-<https://n2t.net/ark:/27023/0e3dcccd9229165c2cf1ef516f7b2aa2> <https://colonialcollections.nl/schema#creator> "Robert Jacob Gordon"@nl .
 <https://n2t.net/ark:/27023/0e3dcccd9229165c2cf1ef516f7b2aa2> <https://colonialcollections.nl/schema#creator> "Robert Jacob Gordon"@en .
+<https://n2t.net/ark:/27023/0e3dcccd9229165c2cf1ef516f7b2aa2> <https://colonialcollections.nl/schema#creator> "Robert Jacob Gordon"@nl .
 <https://n2t.net/ark:/27023/0e3dcccd9229165c2cf1ef516f7b2aa2> <https://colonialcollections.nl/schema#creator> "Rijksmuseum Amsterdam"@nl .
+<https://n2t.net/ark:/27023/0e3dcccd9229165c2cf1ef516f7b2aa2> <https://colonialcollections.nl/schema#creator> "Rijksmuseum Amsterdam"@en .
 <https://n2t.net/ark:/27023/0e3dcccd9229165c2cf1ef516f7b2aa2> <https://colonialcollections.nl/schema#yearCreatedStart> "2002"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0e3dcccd9229165c2cf1ef516f7b2aa2> <https://colonialcollections.nl/schema#yearCreatedEnd> "2002"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0e3dcccd9229165c2cf1ef516f7b2aa2> <https://colonialcollections.nl/schema#locationCreated> "Amsterdam"@nl .
@@ -917,8 +920,8 @@
 <https://n2t.net/ark:/27023/0e3dcccd9229165c2cf1ef516f7b2aa2> <https://colonialcollections.nl/schema#publisher_en> "Rijksmuseum Amsterdam"@en .
 <https://n2t.net/ark:/27023/0e3dcccd9229165c2cf1ef516f7b2aa2> <https://colonialcollections.nl/schema#publisher_nl> "Rijksmuseum Amsterdam"@nl .
 <https://n2t.net/ark:/27023/0e48483d17d6637d90c010f1934194bf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0e48483d17d6637d90c010f1934194bf> <https://colonialcollections.nl/schema#additionalType_en> "page"@en .
 <https://n2t.net/ark:/27023/0e48483d17d6637d90c010f1934194bf> <https://colonialcollections.nl/schema#additionalType_en> "photomechanical print"@en .
+<https://n2t.net/ark:/27023/0e48483d17d6637d90c010f1934194bf> <https://colonialcollections.nl/schema#additionalType_en> "page"@en .
 <https://n2t.net/ark:/27023/0e48483d17d6637d90c010f1934194bf> <https://colonialcollections.nl/schema#additionalType_nl> "fotomechanische afdruk"@nl .
 <https://n2t.net/ark:/27023/0e48483d17d6637d90c010f1934194bf> <https://colonialcollections.nl/schema#additionalType_nl> "bladzijde"@nl .
 <https://n2t.net/ark:/27023/0e48483d17d6637d90c010f1934194bf> <https://colonialcollections.nl/schema#identifier> "RP-F-2001-7-1127-28" .
@@ -932,8 +935,8 @@
 <https://n2t.net/ark:/27023/0e4c5a2286324ef0d2b8b28fdbb1b704> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0e4c5a2286324ef0d2b8b28fdbb1b704> <https://colonialcollections.nl/schema#additionalType_en> "map"@en .
 <https://n2t.net/ark:/27023/0e4c5a2286324ef0d2b8b28fdbb1b704> <https://colonialcollections.nl/schema#additionalType_en> "print"@en .
-<https://n2t.net/ark:/27023/0e4c5a2286324ef0d2b8b28fdbb1b704> <https://colonialcollections.nl/schema#additionalType_nl> "prent"@nl .
 <https://n2t.net/ark:/27023/0e4c5a2286324ef0d2b8b28fdbb1b704> <https://colonialcollections.nl/schema#additionalType_nl> "kaart"@nl .
+<https://n2t.net/ark:/27023/0e4c5a2286324ef0d2b8b28fdbb1b704> <https://colonialcollections.nl/schema#additionalType_nl> "prent"@nl .
 <https://n2t.net/ark:/27023/0e4c5a2286324ef0d2b8b28fdbb1b704> <https://colonialcollections.nl/schema#identifier> "NG-936-9" .
 <https://n2t.net/ark:/27023/0e4c5a2286324ef0d2b8b28fdbb1b704> <https://colonialcollections.nl/schema#name> "Kaart van Ambon en een gezicht op fort Middelburg" .
 <https://n2t.net/ark:/27023/0e4c5a2286324ef0d2b8b28fdbb1b704> <https://colonialcollections.nl/schema#description> "Rechtsboven genummerd: VIII." .
@@ -964,8 +967,8 @@
 <https://n2t.net/ark:/27023/0e511e247e138d37fa12538ccd32e607> <https://colonialcollections.nl/schema#additionalType_nl> "foto"@nl .
 <https://n2t.net/ark:/27023/0e511e247e138d37fa12538ccd32e607> <https://colonialcollections.nl/schema#identifier> "NG-2016-53-17" .
 <https://n2t.net/ark:/27023/0e511e247e138d37fa12538ccd32e607> <https://colonialcollections.nl/schema#name> "Cotonou aan de Golf van Benin" .
-<https://n2t.net/ark:/27023/0e511e247e138d37fa12538ccd32e607> <https://colonialcollections.nl/schema#description> "Eén foto uit een serie die de route van de tot slaaf gemaakte Afrikanen volgt van Benin in Afrika naar Paramaribo en Marrondorpen in Suriname. De serie is een combinatie van portretten en panoramafoto's van landschappen en belangrijke punten op deze route " .
 <https://n2t.net/ark:/27023/0e511e247e138d37fa12538ccd32e607> <https://colonialcollections.nl/schema#description> "Eén foto uit een serie die de route van de tot slaafgemaakte Afrikanen volgt van Benin in Afrika naar Paramaribo en Marrondorpen in Suriname. De serie is een combinatie van portretten en panoramafoto's van landschappen en belangrijke punten op deze route z" .
+<https://n2t.net/ark:/27023/0e511e247e138d37fa12538ccd32e607> <https://colonialcollections.nl/schema#description> "Eén foto uit een serie die de route van de tot slaaf gemaakte Afrikanen volgt van Benin in Afrika naar Paramaribo en Marrondorpen in Suriname. De serie is een combinatie van portretten en panoramafoto's van landschappen en belangrijke punten op deze route " .
 <https://n2t.net/ark:/27023/0e511e247e138d37fa12538ccd32e607> <https://colonialcollections.nl/schema#material_en> "photographic support"@en .
 <https://n2t.net/ark:/27023/0e511e247e138d37fa12538ccd32e607> <https://colonialcollections.nl/schema#material_nl> "fotodrager"@nl .
 <https://n2t.net/ark:/27023/0e511e247e138d37fa12538ccd32e607> <https://colonialcollections.nl/schema#yearCreatedStart> "2002"^^<http://www.w3.org/2001/XMLSchema#integer> .
@@ -998,14 +1001,14 @@
 <https://n2t.net/ark:/27023/0e53e31151ac7462252623aa3193033a> <https://colonialcollections.nl/schema#material_en> "cardboard"@en .
 <https://n2t.net/ark:/27023/0e53e31151ac7462252623aa3193033a> <https://colonialcollections.nl/schema#material_nl> "papier (materiaal)"@nl .
 <https://n2t.net/ark:/27023/0e53e31151ac7462252623aa3193033a> <https://colonialcollections.nl/schema#material_nl> "karton"@nl .
-<https://n2t.net/ark:/27023/0e53e31151ac7462252623aa3193033a> <https://colonialcollections.nl/schema#inscription> "opschrift, verso, gedrukt: Titel vertaald in Frans, Duits, Spaans, Zweeds en Russisch." .
-<https://n2t.net/ark:/27023/0e53e31151ac7462252623aa3193033a> <https://colonialcollections.nl/schema#inscription> "inscription: ‘Works and Studios ~/ Arlington, N.J. Littleton, N.H. Washington, D.C.’" .
-<https://n2t.net/ark:/27023/0e53e31151ac7462252623aa3193033a> <https://colonialcollections.nl/schema#inscription> "copyrightvermelding, recto, gedrukt: ‘Copyright 1900 by Underwood & Underwood.’" .
-<https://n2t.net/ark:/27023/0e53e31151ac7462252623aa3193033a> <https://colonialcollections.nl/schema#inscription> "number: ‘123’" .
 <https://n2t.net/ark:/27023/0e53e31151ac7462252623aa3193033a> <https://colonialcollections.nl/schema#inscription> "opschrift, recto, gedrukt: ‘Works and Studios ~/ Arlington, N.J. Littleton, N.H. Washington, D.C.’" .
 <https://n2t.net/ark:/27023/0e53e31151ac7462252623aa3193033a> <https://colonialcollections.nl/schema#inscription> "copyright notice: ‘Copyright 1900 by Underwood & Underwood.’" .
+<https://n2t.net/ark:/27023/0e53e31151ac7462252623aa3193033a> <https://colonialcollections.nl/schema#inscription> "inscription: ‘Works and Studios ~/ Arlington, N.J. Littleton, N.H. Washington, D.C.’" .
+<https://n2t.net/ark:/27023/0e53e31151ac7462252623aa3193033a> <https://colonialcollections.nl/schema#inscription> "opschrift, verso, gedrukt: Titel vertaald in Frans, Duits, Spaans, Zweeds en Russisch." .
 <https://n2t.net/ark:/27023/0e53e31151ac7462252623aa3193033a> <https://colonialcollections.nl/schema#inscription> "nummer, recto, gedrukt: ‘123’" .
+<https://n2t.net/ark:/27023/0e53e31151ac7462252623aa3193033a> <https://colonialcollections.nl/schema#inscription> "number: ‘123’" .
 <https://n2t.net/ark:/27023/0e53e31151ac7462252623aa3193033a> <https://colonialcollections.nl/schema#inscription> "inscription" .
+<https://n2t.net/ark:/27023/0e53e31151ac7462252623aa3193033a> <https://colonialcollections.nl/schema#inscription> "copyrightvermelding, recto, gedrukt: ‘Copyright 1900 by Underwood & Underwood.’" .
 <https://n2t.net/ark:/27023/0e53e31151ac7462252623aa3193033a> <https://colonialcollections.nl/schema#creator> "Underwood and Underwood"@nl .
 <https://n2t.net/ark:/27023/0e53e31151ac7462252623aa3193033a> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0e53e31151ac7462252623aa3193033a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
@@ -1045,14 +1048,14 @@
 <https://n2t.net/ark:/27023/0e5b21ba18f08e2af424ef7cdccfcafd> <https://colonialcollections.nl/schema#material_en> "cardboard"@en .
 <https://n2t.net/ark:/27023/0e5b21ba18f08e2af424ef7cdccfcafd> <https://colonialcollections.nl/schema#material_nl> "fotodrager"@nl .
 <https://n2t.net/ark:/27023/0e5b21ba18f08e2af424ef7cdccfcafd> <https://colonialcollections.nl/schema#material_nl> "karton"@nl .
-<https://n2t.net/ark:/27023/0e5b21ba18f08e2af424ef7cdccfcafd> <https://colonialcollections.nl/schema#inscription> "inscription: ‘14/9 '96 E[...] No.[...] Veendra Ang[...]’" .
-<https://n2t.net/ark:/27023/0e5b21ba18f08e2af424ef7cdccfcafd> <https://colonialcollections.nl/schema#inscription> "date: ‘1876?’" .
-<https://n2t.net/ark:/27023/0e5b21ba18f08e2af424ef7cdccfcafd> <https://colonialcollections.nl/schema#inscription> "stamp: ‘Bo[...]andel Wed.[...] nd van Eck P[...]t, 128 [...]ag.’" .
-<https://n2t.net/ark:/27023/0e5b21ba18f08e2af424ef7cdccfcafd> <https://colonialcollections.nl/schema#inscription> "stempel, verso: ‘Bo[...]andel Wed.[...] nd van Eck P[...]t, 128 [...]ag.’ Stempel door lijmresten deels onleesbaar." .
-<https://n2t.net/ark:/27023/0e5b21ba18f08e2af424ef7cdccfcafd> <https://colonialcollections.nl/schema#inscription> "datum, onder passe-partout, handgeschreven: ‘1876?’" .
 <https://n2t.net/ark:/27023/0e5b21ba18f08e2af424ef7cdccfcafd> <https://colonialcollections.nl/schema#inscription> "opschrift, verso, handgeschreven: ‘14/9 '96 E[...] No.[...] Veendra Ang[...]’ Opschrift staat verspreid over achterzijde, verschillende handschriften. Door lijmresten deels onleesbaar." .
+<https://n2t.net/ark:/27023/0e5b21ba18f08e2af424ef7cdccfcafd> <https://colonialcollections.nl/schema#inscription> "stempel, verso: ‘Bo[...]andel Wed.[...] nd van Eck P[...]t, 128 [...]ag.’ Stempel door lijmresten deels onleesbaar." .
+<https://n2t.net/ark:/27023/0e5b21ba18f08e2af424ef7cdccfcafd> <https://colonialcollections.nl/schema#inscription> "stamp: ‘Bo[...]andel Wed.[...] nd van Eck P[...]t, 128 [...]ag.’" .
+<https://n2t.net/ark:/27023/0e5b21ba18f08e2af424ef7cdccfcafd> <https://colonialcollections.nl/schema#inscription> "datum, onder passe-partout, handgeschreven: ‘1876?’" .
+<https://n2t.net/ark:/27023/0e5b21ba18f08e2af424ef7cdccfcafd> <https://colonialcollections.nl/schema#inscription> "inscription: ‘14/9 '96 E[...] No.[...] Veendra Ang[...]’" .
 <https://n2t.net/ark:/27023/0e5b21ba18f08e2af424ef7cdccfcafd> <https://colonialcollections.nl/schema#inscription> "address: ‘Java’" .
 <https://n2t.net/ark:/27023/0e5b21ba18f08e2af424ef7cdccfcafd> <https://colonialcollections.nl/schema#inscription> "adres, recto: ‘Java’" .
+<https://n2t.net/ark:/27023/0e5b21ba18f08e2af424ef7cdccfcafd> <https://colonialcollections.nl/schema#inscription> "date: ‘1876?’" .
 <https://n2t.net/ark:/27023/0e5b21ba18f08e2af424ef7cdccfcafd> <https://colonialcollections.nl/schema#yearCreatedStart> "1876"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0e5b21ba18f08e2af424ef7cdccfcafd> <https://colonialcollections.nl/schema#yearCreatedEnd> "1876"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0e5b21ba18f08e2af424ef7cdccfcafd> <https://colonialcollections.nl/schema#publisher_en> "Rijksmuseum Amsterdam"@en .
@@ -1114,23 +1117,23 @@
 <https://n2t.net/ark:/27023/0e604125a8ec4349377d5c454811f63c> <https://colonialcollections.nl/schema#identifier> "RP-F-F00695" .
 <https://n2t.net/ark:/27023/0e604125a8ec4349377d5c454811f63c> <https://colonialcollections.nl/schema#name> "Album met 28 foto's van een Nederlands-Surinaamse familie" .
 <https://n2t.net/ark:/27023/0e604125a8ec4349377d5c454811f63c> <https://colonialcollections.nl/schema#description> "Fotoalbum in bruin leren omslag met een metalen slot. De schutbladen hebben een bloemmotief. Het album bevat veertien bladen van dik karton met goud op snee. Elke pagina bevat twee passe-partouts. Op in totaal 28 cartes-de-visite zijn personen afgebeeld va" .
-<https://n2t.net/ark:/27023/0e604125a8ec4349377d5c454811f63c> <https://colonialcollections.nl/schema#material_en> "leather"@en .
 <https://n2t.net/ark:/27023/0e604125a8ec4349377d5c454811f63c> <https://colonialcollections.nl/schema#material_en> "metal"@en .
 <https://n2t.net/ark:/27023/0e604125a8ec4349377d5c454811f63c> <https://colonialcollections.nl/schema#material_en> "paper"@en .
 <https://n2t.net/ark:/27023/0e604125a8ec4349377d5c454811f63c> <https://colonialcollections.nl/schema#material_en> "photographic support"@en .
+<https://n2t.net/ark:/27023/0e604125a8ec4349377d5c454811f63c> <https://colonialcollections.nl/schema#material_en> "leather"@en .
 <https://n2t.net/ark:/27023/0e604125a8ec4349377d5c454811f63c> <https://colonialcollections.nl/schema#material_en> "cardboard"@en .
+<https://n2t.net/ark:/27023/0e604125a8ec4349377d5c454811f63c> <https://colonialcollections.nl/schema#material_nl> "metaal"@nl .
 <https://n2t.net/ark:/27023/0e604125a8ec4349377d5c454811f63c> <https://colonialcollections.nl/schema#material_nl> "papier (materiaal)"@nl .
 <https://n2t.net/ark:/27023/0e604125a8ec4349377d5c454811f63c> <https://colonialcollections.nl/schema#material_nl> "fotodrager"@nl .
-<https://n2t.net/ark:/27023/0e604125a8ec4349377d5c454811f63c> <https://colonialcollections.nl/schema#material_nl> "metaal"@nl .
-<https://n2t.net/ark:/27023/0e604125a8ec4349377d5c454811f63c> <https://colonialcollections.nl/schema#material_nl> "karton"@nl .
 <https://n2t.net/ark:/27023/0e604125a8ec4349377d5c454811f63c> <https://colonialcollections.nl/schema#material_nl> "leer"@nl .
+<https://n2t.net/ark:/27023/0e604125a8ec4349377d5c454811f63c> <https://colonialcollections.nl/schema#material_nl> "karton"@nl .
 <https://n2t.net/ark:/27023/0e604125a8ec4349377d5c454811f63c> <https://colonialcollections.nl/schema#inscription> "inscription: ‘P. Alzen Papierhandlung Wiesbaden’" .
 <https://n2t.net/ark:/27023/0e604125a8ec4349377d5c454811f63c> <https://colonialcollections.nl/schema#inscription> "opschrift, binnenzijde voorplat, sticker: ‘P. Alzen Papierhandlung Wiesbaden’" .
 <https://n2t.net/ark:/27023/0e604125a8ec4349377d5c454811f63c> <https://colonialcollections.nl/schema#yearCreatedStart> "1865"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0e604125a8ec4349377d5c454811f63c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0e604125a8ec4349377d5c454811f63c> <https://colonialcollections.nl/schema#locationCreated> "The Netherlands"@en .
-<https://n2t.net/ark:/27023/0e604125a8ec4349377d5c454811f63c> <https://colonialcollections.nl/schema#locationCreated> "Amsterdam"@nl .
 <https://n2t.net/ark:/27023/0e604125a8ec4349377d5c454811f63c> <https://colonialcollections.nl/schema#locationCreated> "Nederland"@nl .
+<https://n2t.net/ark:/27023/0e604125a8ec4349377d5c454811f63c> <https://colonialcollections.nl/schema#locationCreated> "Amsterdam"@nl .
 <https://n2t.net/ark:/27023/0e604125a8ec4349377d5c454811f63c> <https://colonialcollections.nl/schema#countryCreated_en> "The Netherlands"@en .
 <https://n2t.net/ark:/27023/0e604125a8ec4349377d5c454811f63c> <https://colonialcollections.nl/schema#countryCreated_nl> "Nederland"@nl .
 <https://n2t.net/ark:/27023/0e604125a8ec4349377d5c454811f63c> <https://colonialcollections.nl/schema#publisher_en> "Rijksmuseum Amsterdam"@en .
@@ -1146,8 +1149,8 @@
 <https://n2t.net/ark:/27023/0e65ab5fa2d18fbfacec81f4a5fde693> <https://colonialcollections.nl/schema#material_en> "cardboard"@en .
 <https://n2t.net/ark:/27023/0e65ab5fa2d18fbfacec81f4a5fde693> <https://colonialcollections.nl/schema#material_nl> "fotodrager"@nl .
 <https://n2t.net/ark:/27023/0e65ab5fa2d18fbfacec81f4a5fde693> <https://colonialcollections.nl/schema#material_nl> "karton"@nl .
-<https://n2t.net/ark:/27023/0e65ab5fa2d18fbfacec81f4a5fde693> <https://colonialcollections.nl/schema#inscription> "date: ‘Elli Hoffman ...’" .
 <https://n2t.net/ark:/27023/0e65ab5fa2d18fbfacec81f4a5fde693> <https://colonialcollections.nl/schema#inscription> "datum, rechts, handgeschreven: ‘Elli Hoffman ...’" .
+<https://n2t.net/ark:/27023/0e65ab5fa2d18fbfacec81f4a5fde693> <https://colonialcollections.nl/schema#inscription> "date: ‘Elli Hoffman ...’" .
 <https://n2t.net/ark:/27023/0e65ab5fa2d18fbfacec81f4a5fde693> <https://colonialcollections.nl/schema#yearCreatedStart> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0e65ab5fa2d18fbfacec81f4a5fde693> <https://colonialcollections.nl/schema#yearCreatedEnd> "1927"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0e65ab5fa2d18fbfacec81f4a5fde693> <https://colonialcollections.nl/schema#publisher_en> "Rijksmuseum Amsterdam"@en .
@@ -1177,10 +1180,10 @@
 <https://n2t.net/ark:/27023/0e68ee8ea0fb1a31db671453d4a9cf2a> <https://colonialcollections.nl/schema#material_nl> "papier (materiaal)"@nl .
 <https://n2t.net/ark:/27023/0e68ee8ea0fb1a31db671453d4a9cf2a> <https://colonialcollections.nl/schema#inscription> "verzamelaarsmerk, verso, gestempeld: Lugt 2228" .
 <https://n2t.net/ark:/27023/0e68ee8ea0fb1a31db671453d4a9cf2a> <https://colonialcollections.nl/schema#inscription> "collector's mark: Lugt 2228" .
-<https://n2t.net/ark:/27023/0e68ee8ea0fb1a31db671453d4a9cf2a> <https://colonialcollections.nl/schema#creator> "Paulus Lauters"@nl .
 <https://n2t.net/ark:/27023/0e68ee8ea0fb1a31db671453d4a9cf2a> <https://colonialcollections.nl/schema#creator> "Charles William Meredith van de Velde"@nl .
-<https://n2t.net/ark:/27023/0e68ee8ea0fb1a31db671453d4a9cf2a> <https://colonialcollections.nl/schema#creator> "Paulus Lauters"@en .
 <https://n2t.net/ark:/27023/0e68ee8ea0fb1a31db671453d4a9cf2a> <https://colonialcollections.nl/schema#creator> "Charles William Meredith van de Velde"@en .
+<https://n2t.net/ark:/27023/0e68ee8ea0fb1a31db671453d4a9cf2a> <https://colonialcollections.nl/schema#creator> "Paulus Lauters"@nl .
+<https://n2t.net/ark:/27023/0e68ee8ea0fb1a31db671453d4a9cf2a> <https://colonialcollections.nl/schema#creator> "Paulus Lauters"@en .
 <https://n2t.net/ark:/27023/0e68ee8ea0fb1a31db671453d4a9cf2a> <https://colonialcollections.nl/schema#yearCreatedStart> "1847"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0e68ee8ea0fb1a31db671453d4a9cf2a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1847"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0e68ee8ea0fb1a31db671453d4a9cf2a> <https://colonialcollections.nl/schema#locationCreated> "Amsterdam"@nl .
@@ -1239,8 +1242,8 @@
 <https://n2t.net/ark:/27023/0e72f5a5b82950bbd82f59d5260f7092> <https://colonialcollections.nl/schema#description> "Jacob Evert Wesenhagen, kampgeneesheer, bij zijn tijdelijke onderkomen in sectie T. Bij de aanleg van de Lawaspoorweg in Suriname in de jaren 1903-1912. Onderdeel van een groep objecten afkomstig van de familie Wesenhagen in Suriname." .
 <https://n2t.net/ark:/27023/0e72f5a5b82950bbd82f59d5260f7092> <https://colonialcollections.nl/schema#material_en> "photographic support"@en .
 <https://n2t.net/ark:/27023/0e72f5a5b82950bbd82f59d5260f7092> <https://colonialcollections.nl/schema#material_nl> "fotodrager"@nl .
-<https://n2t.net/ark:/27023/0e72f5a5b82950bbd82f59d5260f7092> <https://colonialcollections.nl/schema#inscription> "annotatie, achterzijde, handgeschreven in pen en potlood: Beschrijving afbeelding." .
 <https://n2t.net/ark:/27023/0e72f5a5b82950bbd82f59d5260f7092> <https://colonialcollections.nl/schema#inscription> "annotation" .
+<https://n2t.net/ark:/27023/0e72f5a5b82950bbd82f59d5260f7092> <https://colonialcollections.nl/schema#inscription> "annotatie, achterzijde, handgeschreven in pen en potlood: Beschrijving afbeelding." .
 <https://n2t.net/ark:/27023/0e72f5a5b82950bbd82f59d5260f7092> <https://colonialcollections.nl/schema#creator> "Augusta Curiel"@nl .
 <https://n2t.net/ark:/27023/0e72f5a5b82950bbd82f59d5260f7092> <https://colonialcollections.nl/schema#creator> "Augusta Curiel"@en .
 <https://n2t.net/ark:/27023/0e72f5a5b82950bbd82f59d5260f7092> <https://colonialcollections.nl/schema#yearCreatedStart> "1905"^^<http://www.w3.org/2001/XMLSchema#integer> .
@@ -1263,14 +1266,14 @@
 <https://n2t.net/ark:/27023/0e7d558971c4a9ab28535bdeee6fe234> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0e7d558971c4a9ab28535bdeee6fe234> <https://colonialcollections.nl/schema#additionalType_en> "page"@en .
 <https://n2t.net/ark:/27023/0e7d558971c4a9ab28535bdeee6fe234> <https://colonialcollections.nl/schema#additionalType_en> "photomechanical print"@en .
-<https://n2t.net/ark:/27023/0e7d558971c4a9ab28535bdeee6fe234> <https://colonialcollections.nl/schema#additionalType_nl> "bladzijde"@nl .
 <https://n2t.net/ark:/27023/0e7d558971c4a9ab28535bdeee6fe234> <https://colonialcollections.nl/schema#additionalType_nl> "fotomechanische afdruk"@nl .
+<https://n2t.net/ark:/27023/0e7d558971c4a9ab28535bdeee6fe234> <https://colonialcollections.nl/schema#additionalType_nl> "bladzijde"@nl .
 <https://n2t.net/ark:/27023/0e7d558971c4a9ab28535bdeee6fe234> <https://colonialcollections.nl/schema#identifier> "RP-F-2001-7-1586-10" .
 <https://n2t.net/ark:/27023/0e7d558971c4a9ab28535bdeee6fe234> <https://colonialcollections.nl/schema#name> "Gamelanorkest in de Kraton Ngayogyakarta Hadiningrat in Jogyakarta, Indonesië" .
 <https://n2t.net/ark:/27023/0e7d558971c4a9ab28535bdeee6fe234> <https://colonialcollections.nl/schema#material_en> "paper"@en .
 <https://n2t.net/ark:/27023/0e7d558971c4a9ab28535bdeee6fe234> <https://colonialcollections.nl/schema#material_nl> "papier (materiaal)"@nl .
-<https://n2t.net/ark:/27023/0e7d558971c4a9ab28535bdeee6fe234> <https://colonialcollections.nl/schema#inscription> "nummer, recto, gedrukt: ‘IX’" .
 <https://n2t.net/ark:/27023/0e7d558971c4a9ab28535bdeee6fe234> <https://colonialcollections.nl/schema#inscription> "number: ‘IX’" .
+<https://n2t.net/ark:/27023/0e7d558971c4a9ab28535bdeee6fe234> <https://colonialcollections.nl/schema#inscription> "nummer, recto, gedrukt: ‘IX’" .
 <https://n2t.net/ark:/27023/0e7d558971c4a9ab28535bdeee6fe234> <https://colonialcollections.nl/schema#yearCreatedStart> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0e7d558971c4a9ab28535bdeee6fe234> <https://colonialcollections.nl/schema#yearCreatedEnd> "1888"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0e7d558971c4a9ab28535bdeee6fe234> <https://colonialcollections.nl/schema#publisher_en> "Rijksmuseum Amsterdam"@en .
@@ -1322,8 +1325,8 @@
 <https://n2t.net/ark:/27023/0e8752e7999db52d4386f61de8e15720> <https://colonialcollections.nl/schema#name> "Liberia-koffieplanten op plantage Voorburg, Suriname" .
 <https://n2t.net/ark:/27023/0e8752e7999db52d4386f61de8e15720> <https://colonialcollections.nl/schema#material_en> "paper"@en .
 <https://n2t.net/ark:/27023/0e8752e7999db52d4386f61de8e15720> <https://colonialcollections.nl/schema#material_nl> "papier (materiaal)"@nl .
-<https://n2t.net/ark:/27023/0e8752e7999db52d4386f61de8e15720> <https://colonialcollections.nl/schema#creator> "Julius Muller"@en .
 <https://n2t.net/ark:/27023/0e8752e7999db52d4386f61de8e15720> <https://colonialcollections.nl/schema#creator> "Julius Eduard Muller"@nl .
+<https://n2t.net/ark:/27023/0e8752e7999db52d4386f61de8e15720> <https://colonialcollections.nl/schema#creator> "Julius Muller"@en .
 <https://n2t.net/ark:/27023/0e8752e7999db52d4386f61de8e15720> <https://colonialcollections.nl/schema#yearCreatedStart> "1896"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0e8752e7999db52d4386f61de8e15720> <https://colonialcollections.nl/schema#yearCreatedEnd> "1896"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0e8752e7999db52d4386f61de8e15720> <https://colonialcollections.nl/schema#publisher_en> "Rijksmuseum Amsterdam"@en .
@@ -1336,8 +1339,8 @@
 <https://n2t.net/ark:/27023/0e892ace362850815f924a52c30743fe> <https://colonialcollections.nl/schema#description> "Gezicht op het plantagehuis van de plantage Ma Retraite gezien vanuit de loods, op de voorgrond verschillende langwerpige bakken, waarschijnlijk gevuld met cacaobonen. Onderdeel van het fotoalbum Souvenir de Voyage (deel 1), over het leven van de familie D" .
 <https://n2t.net/ark:/27023/0e892ace362850815f924a52c30743fe> <https://colonialcollections.nl/schema#material_en> "photographic support"@en .
 <https://n2t.net/ark:/27023/0e892ace362850815f924a52c30743fe> <https://colonialcollections.nl/schema#material_nl> "fotodrager"@nl .
-<https://n2t.net/ark:/27023/0e892ace362850815f924a52c30743fe> <https://colonialcollections.nl/schema#inscription> "opschrift, bij de foto, handgeschreven: ‘A9 / Plantagehuis van \"Ma retraite\", gezien uit de loods.’" .
 <https://n2t.net/ark:/27023/0e892ace362850815f924a52c30743fe> <https://colonialcollections.nl/schema#inscription> "inscription: ‘A9 / Plantagehuis van \"Ma retraite\", gezien uit de loods.’" .
+<https://n2t.net/ark:/27023/0e892ace362850815f924a52c30743fe> <https://colonialcollections.nl/schema#inscription> "opschrift, bij de foto, handgeschreven: ‘A9 / Plantagehuis van \"Ma retraite\", gezien uit de loods.’" .
 <https://n2t.net/ark:/27023/0e892ace362850815f924a52c30743fe> <https://colonialcollections.nl/schema#yearCreatedStart> "1903"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0e892ace362850815f924a52c30743fe> <https://colonialcollections.nl/schema#yearCreatedEnd> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0e892ace362850815f924a52c30743fe> <https://colonialcollections.nl/schema#publisher_en> "Rijksmuseum Amsterdam"@en .
@@ -1361,8 +1364,8 @@
 <https://n2t.net/ark:/27023/0e8f17e264cf4fedb5fe40b82344850f> <https://colonialcollections.nl/schema#identifier> "NG-2023-92-1-72" .
 <https://n2t.net/ark:/27023/0e8f17e264cf4fedb5fe40b82344850f> <https://colonialcollections.nl/schema#name> "Terrein van het oude Hospitaal in Kaapstad" .
 <https://n2t.net/ark:/27023/0e8f17e264cf4fedb5fe40b82344850f> <https://colonialcollections.nl/schema#description> "Schematische tekeningen op beide zijden van het blad van het terrein waar het oude Hospitaal in Kaapstad op heeft gestaan, dat in percelen is verdeeld en verkocht, augustus 1786. Op elk perceel de naam van de koper en de betaalde prijs. Het terrein wordt b" .
-<https://n2t.net/ark:/27023/0e8f17e264cf4fedb5fe40b82344850f> <https://colonialcollections.nl/schema#material_en> "paper"@en .
 <https://n2t.net/ark:/27023/0e8f17e264cf4fedb5fe40b82344850f> <https://colonialcollections.nl/schema#material_en> "ink"@en .
+<https://n2t.net/ark:/27023/0e8f17e264cf4fedb5fe40b82344850f> <https://colonialcollections.nl/schema#material_en> "paper"@en .
 <https://n2t.net/ark:/27023/0e8f17e264cf4fedb5fe40b82344850f> <https://colonialcollections.nl/schema#material_nl> "papier (materiaal)"@nl .
 <https://n2t.net/ark:/27023/0e8f17e264cf4fedb5fe40b82344850f> <https://colonialcollections.nl/schema#material_nl> "inkt"@nl .
 <https://n2t.net/ark:/27023/0e8f17e264cf4fedb5fe40b82344850f> <https://colonialcollections.nl/schema#inscription> "etiket, verso, handgeschreven: ‘A8’ gekarteld rond plaketiket met handgeschreven nummer" .
@@ -1376,22 +1379,22 @@
 <https://n2t.net/ark:/27023/0e8ff778a22480649ea7a4b95d131e51> <https://colonialcollections.nl/schema#additionalType_nl> "tekening"@nl .
 <https://n2t.net/ark:/27023/0e8ff778a22480649ea7a4b95d131e51> <https://colonialcollections.nl/schema#identifier> "NG-1985-7-2-2" .
 <https://n2t.net/ark:/27023/0e8ff778a22480649ea7a4b95d131e51> <https://colonialcollections.nl/schema#name> "Slaapkamer met zoon Jantje en Bietja, een tot slaaf gemaakt meisje" .
-<https://n2t.net/ark:/27023/0e8ff778a22480649ea7a4b95d131e51> <https://colonialcollections.nl/schema#description> "Kleurtekening van de slaapkamer van het huis van de tekenaar Jan Brandes met een bed met klamboe, staartklok, kapstok. Op de vloer zitten zoon Jantje en het slavinnetje Bietja achter een ABC-reglement. Onderdeel uit het schetsboek van Jan Brandes, dl. 2 (1" .
 <https://n2t.net/ark:/27023/0e8ff778a22480649ea7a4b95d131e51> <https://colonialcollections.nl/schema#description> "Kleurtekening van de slaapkamer van het huis van de tekenaar Jan Brandes met een bed met klamboe, staartklok, kapstok. Op de vloer zitten zoon Jantje en Bietja, een tot slaaf gemaakt meisje, achter een ABC-reglement. Onderdeel uit het schetsboek van Jan Br" .
-<https://n2t.net/ark:/27023/0e8ff778a22480649ea7a4b95d131e51> <https://colonialcollections.nl/schema#material_en> "paper"@en .
-<https://n2t.net/ark:/27023/0e8ff778a22480649ea7a4b95d131e51> <https://colonialcollections.nl/schema#material_en> "watercolor (paint)"@en .
+<https://n2t.net/ark:/27023/0e8ff778a22480649ea7a4b95d131e51> <https://colonialcollections.nl/schema#description> "Kleurtekening van de slaapkamer van het huis van de tekenaar Jan Brandes met een bed met klamboe, staartklok, kapstok. Op de vloer zitten zoon Jantje en het slavinnetje Bietja achter een ABC-reglement. Onderdeel uit het schetsboek van Jan Brandes, dl. 2 (1" .
 <https://n2t.net/ark:/27023/0e8ff778a22480649ea7a4b95d131e51> <https://colonialcollections.nl/schema#material_en> "pencil"@en .
+<https://n2t.net/ark:/27023/0e8ff778a22480649ea7a4b95d131e51> <https://colonialcollections.nl/schema#material_en> "watercolor (paint)"@en .
+<https://n2t.net/ark:/27023/0e8ff778a22480649ea7a4b95d131e51> <https://colonialcollections.nl/schema#material_en> "paper"@en .
 <https://n2t.net/ark:/27023/0e8ff778a22480649ea7a4b95d131e51> <https://colonialcollections.nl/schema#material_nl> "potlood"@nl .
-<https://n2t.net/ark:/27023/0e8ff778a22480649ea7a4b95d131e51> <https://colonialcollections.nl/schema#material_nl> "papier (materiaal)"@nl .
 <https://n2t.net/ark:/27023/0e8ff778a22480649ea7a4b95d131e51> <https://colonialcollections.nl/schema#material_nl> "waterverf"@nl .
+<https://n2t.net/ark:/27023/0e8ff778a22480649ea7a4b95d131e51> <https://colonialcollections.nl/schema#material_nl> "papier (materiaal)"@nl .
 <https://n2t.net/ark:/27023/0e8ff778a22480649ea7a4b95d131e51> <https://colonialcollections.nl/schema#yearCreatedStart> "1784"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0e8ff778a22480649ea7a4b95d131e51> <https://colonialcollections.nl/schema#yearCreatedEnd> "1784"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0e8ff778a22480649ea7a4b95d131e51> <https://colonialcollections.nl/schema#publisher_en> "Rijksmuseum Amsterdam"@en .
 <https://n2t.net/ark:/27023/0e8ff778a22480649ea7a4b95d131e51> <https://colonialcollections.nl/schema#publisher_nl> "Rijksmuseum Amsterdam"@nl .
 <https://n2t.net/ark:/27023/0e91a061393408509be12a5bad9688d2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/0e91a061393408509be12a5bad9688d2> <https://colonialcollections.nl/schema#additionalType_en> "print"@en .
-<https://n2t.net/ark:/27023/0e91a061393408509be12a5bad9688d2> <https://colonialcollections.nl/schema#additionalType_nl> "kostuumprent"@nl .
 <https://n2t.net/ark:/27023/0e91a061393408509be12a5bad9688d2> <https://colonialcollections.nl/schema#additionalType_nl> "prent"@nl .
+<https://n2t.net/ark:/27023/0e91a061393408509be12a5bad9688d2> <https://colonialcollections.nl/schema#additionalType_nl> "kostuumprent"@nl .
 <https://n2t.net/ark:/27023/0e91a061393408509be12a5bad9688d2> <https://colonialcollections.nl/schema#identifier> "RP-P-1960-54" .
 <https://n2t.net/ark:/27023/0e91a061393408509be12a5bad9688d2> <https://colonialcollections.nl/schema#name> "Huzaar van het Nederlands Indische leger, 1820-1825" .
 <https://n2t.net/ark:/27023/0e91a061393408509be12a5bad9688d2> <https://colonialcollections.nl/schema#description> "Uniformvoorstelling van een huzaar te paard, cavalerie van het Nederlands Indische leger. Genummerd rechtsboven: Pl. 49. Onderdeel van de reeks van 53 platen van uniformen van de militairen van het Koninkrijk der Nederlanden in de periode 1820-1825." .
@@ -1399,8 +1402,8 @@
 <https://n2t.net/ark:/27023/0e91a061393408509be12a5bad9688d2> <https://colonialcollections.nl/schema#material_nl> "papier (materiaal)"@nl .
 <https://n2t.net/ark:/27023/0e91a061393408509be12a5bad9688d2> <https://colonialcollections.nl/schema#inscription> "collector's mark: Lugt 2228" .
 <https://n2t.net/ark:/27023/0e91a061393408509be12a5bad9688d2> <https://colonialcollections.nl/schema#inscription> "verzamelaarsmerk, verso, gestempeld: Lugt 2228" .
-<https://n2t.net/ark:/27023/0e91a061393408509be12a5bad9688d2> <https://colonialcollections.nl/schema#creator> "Jean Baptiste Madou"@nl .
 <https://n2t.net/ark:/27023/0e91a061393408509be12a5bad9688d2> <https://colonialcollections.nl/schema#creator> "Jean Baptiste Madou"@en .
+<https://n2t.net/ark:/27023/0e91a061393408509be12a5bad9688d2> <https://colonialcollections.nl/schema#creator> "Jean Baptiste Madou"@nl .
 <https://n2t.net/ark:/27023/0e91a061393408509be12a5bad9688d2> <https://colonialcollections.nl/schema#yearCreatedStart> "1825"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0e91a061393408509be12a5bad9688d2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1827"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0e91a061393408509be12a5bad9688d2> <https://colonialcollections.nl/schema#publisher_en> "Rijksmuseum Amsterdam"@en .
@@ -1410,16 +1413,16 @@
 <https://n2t.net/ark:/27023/0e923e79e8f10888be6d5df122b3040d> <https://colonialcollections.nl/schema#additionalType_nl> "foto"@nl .
 <https://n2t.net/ark:/27023/0e923e79e8f10888be6d5df122b3040d> <https://colonialcollections.nl/schema#identifier> "RP-F-00-5581" .
 <https://n2t.net/ark:/27023/0e923e79e8f10888be6d5df122b3040d> <https://colonialcollections.nl/schema#name> "Gezicht op de Sint-Maartenkerk te Wemeldinge" .
-<https://n2t.net/ark:/27023/0e923e79e8f10888be6d5df122b3040d> <https://colonialcollections.nl/schema#material_en> "cardboard"@en .
 <https://n2t.net/ark:/27023/0e923e79e8f10888be6d5df122b3040d> <https://colonialcollections.nl/schema#material_en> "photographic support"@en .
-<https://n2t.net/ark:/27023/0e923e79e8f10888be6d5df122b3040d> <https://colonialcollections.nl/schema#material_nl> "fotodrager"@nl .
+<https://n2t.net/ark:/27023/0e923e79e8f10888be6d5df122b3040d> <https://colonialcollections.nl/schema#material_en> "cardboard"@en .
 <https://n2t.net/ark:/27023/0e923e79e8f10888be6d5df122b3040d> <https://colonialcollections.nl/schema#material_nl> "karton"@nl .
-<https://n2t.net/ark:/27023/0e923e79e8f10888be6d5df122b3040d> <https://colonialcollections.nl/schema#inscription> "annotation: ‘Wemeldinge’" .
-<https://n2t.net/ark:/27023/0e923e79e8f10888be6d5df122b3040d> <https://colonialcollections.nl/schema#inscription> "annotatie, verso, handgeschreven: ‘Wemeldinge (Zeeland)/ Noord-oostzijde der kerk/ Juni 1898’" .
+<https://n2t.net/ark:/27023/0e923e79e8f10888be6d5df122b3040d> <https://colonialcollections.nl/schema#material_nl> "fotodrager"@nl .
 <https://n2t.net/ark:/27023/0e923e79e8f10888be6d5df122b3040d> <https://colonialcollections.nl/schema#inscription> "annotatie, recto, handgeschreven: ‘Wemeldinge’" .
 <https://n2t.net/ark:/27023/0e923e79e8f10888be6d5df122b3040d> <https://colonialcollections.nl/schema#inscription> "annotation: ‘Wemeldinge (Zeeland)/ Noord-oostzijde der kerk/ Juni 1898’" .
-<https://n2t.net/ark:/27023/0e923e79e8f10888be6d5df122b3040d> <https://colonialcollections.nl/schema#creator> "anoniem (Monumentenzorg)"@nl .
+<https://n2t.net/ark:/27023/0e923e79e8f10888be6d5df122b3040d> <https://colonialcollections.nl/schema#inscription> "annotation: ‘Wemeldinge’" .
+<https://n2t.net/ark:/27023/0e923e79e8f10888be6d5df122b3040d> <https://colonialcollections.nl/schema#inscription> "annotatie, verso, handgeschreven: ‘Wemeldinge (Zeeland)/ Noord-oostzijde der kerk/ Juni 1898’" .
 <https://n2t.net/ark:/27023/0e923e79e8f10888be6d5df122b3040d> <https://colonialcollections.nl/schema#creator> "anoniem (Monumentenzorg)"@en .
+<https://n2t.net/ark:/27023/0e923e79e8f10888be6d5df122b3040d> <https://colonialcollections.nl/schema#creator> "anoniem (Monumentenzorg)"@nl .
 <https://n2t.net/ark:/27023/0e923e79e8f10888be6d5df122b3040d> <https://colonialcollections.nl/schema#yearCreatedStart> "1898"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0e923e79e8f10888be6d5df122b3040d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1898"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0e923e79e8f10888be6d5df122b3040d> <https://colonialcollections.nl/schema#publisher_en> "Rijksmuseum Amsterdam"@en .
@@ -1448,14 +1451,14 @@
 <https://n2t.net/ark:/27023/0e9f98b25b1baff8d4add7199d5eb0a8> <https://colonialcollections.nl/schema#material_en> "paper"@en .
 <https://n2t.net/ark:/27023/0e9f98b25b1baff8d4add7199d5eb0a8> <https://colonialcollections.nl/schema#material_nl> "papier (materiaal)"@nl .
 <https://n2t.net/ark:/27023/0e9f98b25b1baff8d4add7199d5eb0a8> <https://colonialcollections.nl/schema#material_nl> "chine collé"@nl .
-<https://n2t.net/ark:/27023/0e9f98b25b1baff8d4add7199d5eb0a8> <https://colonialcollections.nl/schema#inscription> "inscription: ‘2487-19-1909’" .
-<https://n2t.net/ark:/27023/0e9f98b25b1baff8d4add7199d5eb0a8> <https://colonialcollections.nl/schema#inscription> "collector's mark: Lugt 2228" .
-<https://n2t.net/ark:/27023/0e9f98b25b1baff8d4add7199d5eb0a8> <https://colonialcollections.nl/schema#inscription> "stempel, verso, gestempeld: ‘Koloniaal Museum Haarlem’ Rechthoek met afgeschuinde hoeken en tekst in het midden, in blauw." .
-<https://n2t.net/ark:/27023/0e9f98b25b1baff8d4add7199d5eb0a8> <https://colonialcollections.nl/schema#inscription> "opschrift, verso, handgeschreven: ‘2487-19-1909’" .
-<https://n2t.net/ark:/27023/0e9f98b25b1baff8d4add7199d5eb0a8> <https://colonialcollections.nl/schema#inscription> "etiket, verso, geplakt: ‘Koloniaal Instituut - Amsterdam; No. 1805; Doos No. 19.’" .
-<https://n2t.net/ark:/27023/0e9f98b25b1baff8d4add7199d5eb0a8> <https://colonialcollections.nl/schema#inscription> "label: ‘Koloniaal Instituut - Amsterdam; No. 1805; Doos No. 19.’" .
 <https://n2t.net/ark:/27023/0e9f98b25b1baff8d4add7199d5eb0a8> <https://colonialcollections.nl/schema#inscription> "stamp: ‘Koloniaal Museum Haarlem’" .
+<https://n2t.net/ark:/27023/0e9f98b25b1baff8d4add7199d5eb0a8> <https://colonialcollections.nl/schema#inscription> "collector's mark: Lugt 2228" .
+<https://n2t.net/ark:/27023/0e9f98b25b1baff8d4add7199d5eb0a8> <https://colonialcollections.nl/schema#inscription> "inscription: ‘2487-19-1909’" .
+<https://n2t.net/ark:/27023/0e9f98b25b1baff8d4add7199d5eb0a8> <https://colonialcollections.nl/schema#inscription> "opschrift, verso, handgeschreven: ‘2487-19-1909’" .
+<https://n2t.net/ark:/27023/0e9f98b25b1baff8d4add7199d5eb0a8> <https://colonialcollections.nl/schema#inscription> "label: ‘Koloniaal Instituut - Amsterdam; No. 1805; Doos No. 19.’" .
 <https://n2t.net/ark:/27023/0e9f98b25b1baff8d4add7199d5eb0a8> <https://colonialcollections.nl/schema#inscription> "verzamelaarsmerk, verso, gestempeld: Lugt 2228" .
+<https://n2t.net/ark:/27023/0e9f98b25b1baff8d4add7199d5eb0a8> <https://colonialcollections.nl/schema#inscription> "etiket, verso, geplakt: ‘Koloniaal Instituut - Amsterdam; No. 1805; Doos No. 19.’" .
+<https://n2t.net/ark:/27023/0e9f98b25b1baff8d4add7199d5eb0a8> <https://colonialcollections.nl/schema#inscription> "stempel, verso, gestempeld: ‘Koloniaal Museum Haarlem’ Rechthoek met afgeschuinde hoeken en tekst in het midden, in blauw." .
 <https://n2t.net/ark:/27023/0e9f98b25b1baff8d4add7199d5eb0a8> <https://colonialcollections.nl/schema#creator> "Paulus Lauters"@en .
 <https://n2t.net/ark:/27023/0e9f98b25b1baff8d4add7199d5eb0a8> <https://colonialcollections.nl/schema#creator> "Charles William Meredith van de Velde"@nl .
 <https://n2t.net/ark:/27023/0e9f98b25b1baff8d4add7199d5eb0a8> <https://colonialcollections.nl/schema#creator> "Charles William Meredith van de Velde"@en .
@@ -1523,12 +1526,12 @@
 <https://n2t.net/ark:/27023/0ea4f433800b9084d0b1ec86bd7c368e> <https://colonialcollections.nl/schema#identifier> "NG-1992-2-4-18" .
 <https://n2t.net/ark:/27023/0ea4f433800b9084d0b1ec86bd7c368e> <https://colonialcollections.nl/schema#name> "Onderweg en in Leeuwarden" .
 <https://n2t.net/ark:/27023/0ea4f433800b9084d0b1ec86bd7c368e> <https://colonialcollections.nl/schema#description> "Blad met zeven foto's onderweg (Singapore, Colombo, Deli) tijdens de reis van Indië naar Nederland en in Leeuwarden. Onder de foto's staan onderschriften geschreven in witte inkt. Onderdeel van het fotoalbum (4) van KNIL-sergeant D. de Vries, 1925-1933." .
-<https://n2t.net/ark:/27023/0ea4f433800b9084d0b1ec86bd7c368e> <https://colonialcollections.nl/schema#material_en> "cardboard"@en .
 <https://n2t.net/ark:/27023/0ea4f433800b9084d0b1ec86bd7c368e> <https://colonialcollections.nl/schema#material_en> "photographic support"@en .
-<https://n2t.net/ark:/27023/0ea4f433800b9084d0b1ec86bd7c368e> <https://colonialcollections.nl/schema#material_nl> "fotodrager"@nl .
+<https://n2t.net/ark:/27023/0ea4f433800b9084d0b1ec86bd7c368e> <https://colonialcollections.nl/schema#material_en> "cardboard"@en .
 <https://n2t.net/ark:/27023/0ea4f433800b9084d0b1ec86bd7c368e> <https://colonialcollections.nl/schema#material_nl> "karton"@nl .
-<https://n2t.net/ark:/27023/0ea4f433800b9084d0b1ec86bd7c368e> <https://colonialcollections.nl/schema#inscription> "inscription" .
+<https://n2t.net/ark:/27023/0ea4f433800b9084d0b1ec86bd7c368e> <https://colonialcollections.nl/schema#material_nl> "fotodrager"@nl .
 <https://n2t.net/ark:/27023/0ea4f433800b9084d0b1ec86bd7c368e> <https://colonialcollections.nl/schema#inscription> "opschrift, onder de foto's, handgeschreven met pen in witte inkt" .
+<https://n2t.net/ark:/27023/0ea4f433800b9084d0b1ec86bd7c368e> <https://colonialcollections.nl/schema#inscription> "inscription" .
 <https://n2t.net/ark:/27023/0ea4f433800b9084d0b1ec86bd7c368e> <https://colonialcollections.nl/schema#yearCreatedStart> "1933"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0ea4f433800b9084d0b1ec86bd7c368e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1933"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0ea4f433800b9084d0b1ec86bd7c368e> <https://colonialcollections.nl/schema#publisher_en> "Rijksmuseum Amsterdam"@en .
@@ -1538,14 +1541,14 @@
 <https://n2t.net/ark:/27023/0ea949c405be17832137e06a8a4950bb> <https://colonialcollections.nl/schema#additionalType_nl> "stereofoto"@nl .
 <https://n2t.net/ark:/27023/0ea949c405be17832137e06a8a4950bb> <https://colonialcollections.nl/schema#identifier> "RP-F-F09054" .
 <https://n2t.net/ark:/27023/0ea949c405be17832137e06a8a4950bb> <https://colonialcollections.nl/schema#name> "Geënsceneerde voorstelling van de infanterie van Frederick Sleigh Roberts in Zuid-Afrika met daarachter een luchtballon die in de gaten houdt of er gevaar dreigt" .
-<https://n2t.net/ark:/27023/0ea949c405be17832137e06a8a4950bb> <https://colonialcollections.nl/schema#material_en> "cardboard"@en .
 <https://n2t.net/ark:/27023/0ea949c405be17832137e06a8a4950bb> <https://colonialcollections.nl/schema#material_en> "photographic support"@en .
-<https://n2t.net/ark:/27023/0ea949c405be17832137e06a8a4950bb> <https://colonialcollections.nl/schema#material_nl> "fotodrager"@nl .
+<https://n2t.net/ark:/27023/0ea949c405be17832137e06a8a4950bb> <https://colonialcollections.nl/schema#material_en> "cardboard"@en .
 <https://n2t.net/ark:/27023/0ea949c405be17832137e06a8a4950bb> <https://colonialcollections.nl/schema#material_nl> "karton"@nl .
+<https://n2t.net/ark:/27023/0ea949c405be17832137e06a8a4950bb> <https://colonialcollections.nl/schema#material_nl> "fotodrager"@nl .
+<https://n2t.net/ark:/27023/0ea949c405be17832137e06a8a4950bb> <https://colonialcollections.nl/schema#inscription> "number: ‘160’" .
 <https://n2t.net/ark:/27023/0ea949c405be17832137e06a8a4950bb> <https://colonialcollections.nl/schema#inscription> "naam, recto, gedrukt: ‘Works and Studios Sun Sculpture trade mark Arlington N.J. Littleton N.H. Washington D.C.’" .
 <https://n2t.net/ark:/27023/0ea949c405be17832137e06a8a4950bb> <https://colonialcollections.nl/schema#inscription> "name: ‘Works and Studios Sun Sculpture trade mark Arlington N.J. Littleton N.H. Washington D.C.’" .
 <https://n2t.net/ark:/27023/0ea949c405be17832137e06a8a4950bb> <https://colonialcollections.nl/schema#inscription> "nummer, recto, handgeschreven: ‘160’" .
-<https://n2t.net/ark:/27023/0ea949c405be17832137e06a8a4950bb> <https://colonialcollections.nl/schema#inscription> "number: ‘160’" .
 <https://n2t.net/ark:/27023/0ea949c405be17832137e06a8a4950bb> <https://colonialcollections.nl/schema#creator> "Underwood and Underwood"@nl .
 <https://n2t.net/ark:/27023/0ea949c405be17832137e06a8a4950bb> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0ea949c405be17832137e06a8a4950bb> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
@@ -1560,9 +1563,9 @@
 <https://n2t.net/ark:/27023/0eaaad6de301d91350ed266ec3926d4f> <https://colonialcollections.nl/schema#material_en> "photographic support"@en .
 <https://n2t.net/ark:/27023/0eaaad6de301d91350ed266ec3926d4f> <https://colonialcollections.nl/schema#material_nl> "fotodrager"@nl .
 <https://n2t.net/ark:/27023/0eaaad6de301d91350ed266ec3926d4f> <https://colonialcollections.nl/schema#inscription> "opschrift, verso, typeschrift: ‘No. 65 / Oceaanhaven Belawan / In den bouwput: gereed te laten dryven’" .
-<https://n2t.net/ark:/27023/0eaaad6de301d91350ed266ec3926d4f> <https://colonialcollections.nl/schema#inscription> "inscription: ‘No. 65 / Oceaanhaven Belawan / In den bouwput: gereed te laten dryven’" .
-<https://n2t.net/ark:/27023/0eaaad6de301d91350ed266ec3926d4f> <https://colonialcollections.nl/schema#inscription> "date: ‘3/10-21’" .
 <https://n2t.net/ark:/27023/0eaaad6de301d91350ed266ec3926d4f> <https://colonialcollections.nl/schema#inscription> "datum, rechtsonder, handschrift: ‘3/10-21’" .
+<https://n2t.net/ark:/27023/0eaaad6de301d91350ed266ec3926d4f> <https://colonialcollections.nl/schema#inscription> "date: ‘3/10-21’" .
+<https://n2t.net/ark:/27023/0eaaad6de301d91350ed266ec3926d4f> <https://colonialcollections.nl/schema#inscription> "inscription: ‘No. 65 / Oceaanhaven Belawan / In den bouwput: gereed te laten dryven’" .
 <https://n2t.net/ark:/27023/0eaaad6de301d91350ed266ec3926d4f> <https://colonialcollections.nl/schema#yearCreatedStart> "1921"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0eaaad6de301d91350ed266ec3926d4f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1921"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0eaaad6de301d91350ed266ec3926d4f> <https://colonialcollections.nl/schema#publisher_en> "Rijksmuseum Amsterdam"@en .
@@ -1575,8 +1578,8 @@
 <https://n2t.net/ark:/27023/0eab3ea24dbd99337254076dbf55ffba> <https://colonialcollections.nl/schema#description> "Onderdeel van Album met 191 foto's van een reis naar en door Zuid-Afrika." .
 <https://n2t.net/ark:/27023/0eab3ea24dbd99337254076dbf55ffba> <https://colonialcollections.nl/schema#material_en> "paper"@en .
 <https://n2t.net/ark:/27023/0eab3ea24dbd99337254076dbf55ffba> <https://colonialcollections.nl/schema#material_en> "photographic support"@en .
-<https://n2t.net/ark:/27023/0eab3ea24dbd99337254076dbf55ffba> <https://colonialcollections.nl/schema#material_nl> "fotodrager"@nl .
 <https://n2t.net/ark:/27023/0eab3ea24dbd99337254076dbf55ffba> <https://colonialcollections.nl/schema#material_nl> "papier (materiaal)"@nl .
+<https://n2t.net/ark:/27023/0eab3ea24dbd99337254076dbf55ffba> <https://colonialcollections.nl/schema#material_nl> "fotodrager"@nl .
 <https://n2t.net/ark:/27023/0eab3ea24dbd99337254076dbf55ffba> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0eab3ea24dbd99337254076dbf55ffba> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0eab3ea24dbd99337254076dbf55ffba> <https://colonialcollections.nl/schema#publisher_en> "Rijksmuseum Amsterdam"@en .
@@ -1589,8 +1592,8 @@
 <https://n2t.net/ark:/27023/0eaf1f78cb5efb31ac1b14a389ab70d5> <https://colonialcollections.nl/schema#description> "De regent van Pekalongan, Raden Adipati Ario Wirjodinegoro, ontvangt leden van het Binnenlands Bestuur, 28 juni 1869. Onderdeel van het groene fotoalbum met foto's van Java, uit het bezit van apotheker Specht-Grijp, die in 1865 vanuit Batavia naar Nederlan" .
 <https://n2t.net/ark:/27023/0eaf1f78cb5efb31ac1b14a389ab70d5> <https://colonialcollections.nl/schema#material_en> "photographic support"@en .
 <https://n2t.net/ark:/27023/0eaf1f78cb5efb31ac1b14a389ab70d5> <https://colonialcollections.nl/schema#material_nl> "fotodrager"@nl .
-<https://n2t.net/ark:/27023/0eaf1f78cb5efb31ac1b14a389ab70d5> <https://colonialcollections.nl/schema#inscription> "inscription: ‘Pekalongan - Huis van den Regent’" .
 <https://n2t.net/ark:/27023/0eaf1f78cb5efb31ac1b14a389ab70d5> <https://colonialcollections.nl/schema#inscription> "opschrift, onder de foto, handgeschreven: ‘Pekalongan - Huis van den Regent’" .
+<https://n2t.net/ark:/27023/0eaf1f78cb5efb31ac1b14a389ab70d5> <https://colonialcollections.nl/schema#inscription> "inscription: ‘Pekalongan - Huis van den Regent’" .
 <https://n2t.net/ark:/27023/0eaf1f78cb5efb31ac1b14a389ab70d5> <https://colonialcollections.nl/schema#yearCreatedStart> "1869"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0eaf1f78cb5efb31ac1b14a389ab70d5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1869"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0eaf1f78cb5efb31ac1b14a389ab70d5> <https://colonialcollections.nl/schema#publisher_en> "Rijksmuseum Amsterdam"@en .
