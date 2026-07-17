@@ -12,3 +12,15 @@
 # look up the correct organization.
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects>
   schema:publisher <https://linkeddata.cultureelerfgoed.nl/rce> .
+
+<https://data.colonialcollections.nl/nmvw/collection-archives>
+    schema:distribution <https://data.colonialcollections.nl/nmvw/collection-archives/sparql> .
+
+  <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects>
+    schema:distribution <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects/services/colonialobjects> .
+
+  <https://data.colonialcollections.nl/Bronbeek/Stamboeken>
+    schema:distribution <https://data.colonialcollections.nl/Bronbeek/Stamboeken/services/Stamboeken> .
+
+  <https://id.rijksmuseum.nl/260210>
+    schema:distribution <https://data.rijksmuseum.nl/ldes/dataset/260210/collection.json> .
