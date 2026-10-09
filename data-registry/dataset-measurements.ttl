@@ -62,19 +62,19 @@ cc-measurements:f94d44bd-9e27-4ad0-a361-70d5652b764f
 # Cultural Heritage Agency / RCE - Colonial Objects
 ##################################################
 
-<https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects>
+<https://linkeddata.cultureelerfgoed.nl/rce/datacatalog/id/dataset/601d1744-b1d5-35c1-b42f-9ee55be75911>
   dqv:hasQualityMeasurement cc-measurements:9b4ae711-5b7d-4fe5-b6ce-bd6dea2a12b8 ,
                             cc-measurements:376043c7-5855-407e-9ab3-ab1192eaee6f .
 
 cc-measurements:9b4ae711-5b7d-4fe5-b6ce-bd6dea2a12b8
   a dqv:QualityMeasurement ;
-  dqv:computedOn <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> ;
+  dqv:computedOn <https://linkeddata.cultureelerfgoed.nl/rce/datacatalog/id/dataset/601d1744-b1d5-35c1-b42f-9ee55be75911> ;
   dqv:isMeasurementOf cc-metrics:languages ;
   dqv:value "true"^^xsd:boolean .
 
 cc-measurements:376043c7-5855-407e-9ab3-ab1192eaee6f
   a dqv:QualityMeasurement ;
-  dqv:computedOn <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects> ;
+  dqv:computedOn <https://linkeddata.cultureelerfgoed.nl/rce/datacatalog/id/dataset/601d1744-b1d5-35c1-b42f-9ee55be75911> ;
   dqv:isMeasurementOf cc-metrics:open-license ;
   dqv:value "true"^^xsd:boolean .
 

@@ -11,12 +11,15 @@
 # la:member_of). Link the data graph URI to the publisher so the object detail page can
 # look up the correct organization.
 <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects>
-  schema:publisher <https://linkeddata.cultureelerfgoed.nl/rce> .
+  schema:publisher <https://www.cultureelerfgoed.nl> .
 
 <https://data.colonialcollections.nl/nmvw/collection-archives>
     schema:distribution <https://data.colonialcollections.nl/nmvw/collection-archives/sparql> .
 
   <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects>
+    schema:distribution <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects/services/colonialobjects> .
+
+  <https://linkeddata.cultureelerfgoed.nl/rce/datacatalog/id/dataset/601d1744-b1d5-35c1-b42f-9ee55be75911>
     schema:distribution <https://linkeddata.cultureelerfgoed.nl/rce/colonialobjects/services/colonialobjects> .
 
   <https://data.colonialcollections.nl/Bronbeek/Stamboeken>
