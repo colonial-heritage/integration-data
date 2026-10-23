@@ -1,5 +1,6 @@
 <https://sws.geonames.org/2635167/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
 <https://sws.geonames.org/2635167/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/2635167/about.rdf> .
+<https://sws.geonames.org/2635167/> <http://www.geonames.org/ontology#toponymName> "United Kingdom of Great Britain and Northern Ireland" .
 <https://sws.geonames.org/2635167/> <http://www.geonames.org/ontology#name> "United Kingdom" .
 <https://sws.geonames.org/2635167/> <http://www.geonames.org/ontology#officialName> "영국"@ko .
 <https://sws.geonames.org/2635167/> <http://www.geonames.org/ontology#officialName> "Ahendiman Nkabom"@ak .
@@ -30,6 +31,8 @@
 <https://sws.geonames.org/2635167/> <http://www.geonames.org/ontology#alternateName> "EB"@eu .
 <https://sws.geonames.org/2635167/> <http://www.geonames.org/ontology#officialName> "Egyesült Királyság"@hu .
 <https://sws.geonames.org/2635167/> <http://www.geonames.org/ontology#officialName> "Erresuma Batua"@eu .
+<https://sws.geonames.org/2635167/> <http://www.geonames.org/ontology#officialName> "Feriene Keninkryk"@fy .
+<https://sws.geonames.org/2635167/> <http://www.geonames.org/ontology#alternateName> "FK"@fy .
 <https://sws.geonames.org/2635167/> <http://www.geonames.org/ontology#alternateName> "Geāned Cynerīce"@ang .
 <https://sws.geonames.org/2635167/> <http://www.geonames.org/ontology#officialName> "Gẹ̀ẹ́sì"@yo .
 <https://sws.geonames.org/2635167/> <http://www.geonames.org/ontology#shortName> "Great Britain"@en .
@@ -37,7 +40,6 @@
 <https://sws.geonames.org/2635167/> <http://www.geonames.org/ontology#alternateName> "Großbritannien und Nordirland"@de .
 <https://sws.geonames.org/2635167/> <http://www.geonames.org/ontology#officialName> "Groussbritannien"@lb .
 <https://sws.geonames.org/2635167/> <http://www.geonames.org/ontology#alternateName> "Groussbritannien an Nordirland"@lb .
-<https://sws.geonames.org/2635167/> <http://www.geonames.org/ontology#alternateName> "Grut-Brittanje"@fy .
 <https://sws.geonames.org/2635167/> <http://www.geonames.org/ontology#officialName> "Hononga o Piritene"@mi .
 <https://sws.geonames.org/2635167/> <http://www.geonames.org/ontology#alternateName> "Hukllachasqa Qhapaq Suyu"@qu .
 <https://sws.geonames.org/2635167/> <http://www.geonames.org/ontology#alternateName> "Inggris Raya"@id .
@@ -157,7 +159,6 @@
 <https://sws.geonames.org/2635167/> <http://www.geonames.org/ontology#officialName> "Verenigde Koninkryk"@af .
 <https://sws.geonames.org/2635167/> <http://www.geonames.org/ontology#officialName> "Verenigd Koninkrijk"@nl .
 <https://sws.geonames.org/2635167/> <http://www.geonames.org/ontology#alternateName> "VK"@af .
-<https://sws.geonames.org/2635167/> <http://www.geonames.org/ontology#officialName> "VK"@fy .
 <https://sws.geonames.org/2635167/> <http://www.geonames.org/ontology#shortName> "VK"@nl .
 <https://sws.geonames.org/2635167/> <http://www.geonames.org/ontology#officialName> "Vương quốc Anh"@vi .
 <https://sws.geonames.org/2635167/> <http://www.geonames.org/ontology#alternateName> "Vương quốc Liên hiệp Anh và Bắc Ireland"@vi .
@@ -240,7 +241,7 @@
 <https://sws.geonames.org/2635167/> <http://www.geonames.org/ontology#officialName> "യുണൈറ്റഡ് കിംഗ്ഡം"@ml .
 <https://sws.geonames.org/2635167/> <http://www.geonames.org/ontology#officialName> "එ.රා"@si .
 <https://sws.geonames.org/2635167/> <http://www.geonames.org/ontology#officialName> "สหราชอาณาจักร"@th .
-<https://sws.geonames.org/2635167/> <http://www.geonames.org/ontology#officialName> "ສະຫະລາດຊະອະນາຈັກ"@lo .
+<https://sws.geonames.org/2635167/> <http://www.geonames.org/ontology#officialName> "ສະຫະລ��ດຊະອະນາຈັກ"@lo .
 <https://sws.geonames.org/2635167/> <http://www.geonames.org/ontology#officialName> "དབྱིན་ཇི་"@bo .
 <https://sws.geonames.org/2635167/> <http://www.geonames.org/ontology#officialName> "ཡུ་ནཱའི་ཊེཌ་ ཀིང་ཌམ"@dz .
 <https://sws.geonames.org/2635167/> <http://www.geonames.org/ontology#officialName> "ယူကေ"@my .
@@ -269,4 +270,4 @@
 <https://sws.geonames.org/2635167/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
 <https://sws.geonames.org/2635167/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
 <https://sws.geonames.org/2635167/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
-<https://sws.geonames.org/2635167/about.rdf> <http://purl.org/dc/terms/modified> "2026-10-12"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/2635167/about.rdf> <http://purl.org/dc/terms/modified> "2026-10-20"^^<https://www.w3.org/2001/XMLSchema#date> .

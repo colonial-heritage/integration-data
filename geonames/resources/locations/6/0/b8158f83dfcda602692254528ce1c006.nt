@@ -1,5 +1,6 @@
 <https://sws.geonames.org/3451133/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
 <https://sws.geonames.org/3451133/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/3451133/about.rdf> .
+<https://sws.geonames.org/3451133/> <http://www.geonames.org/ontology#toponymName> "Rio Grande do Sul" .
 <https://sws.geonames.org/3451133/> <http://www.geonames.org/ontology#name> "Rio Grande do Sul" .
 <https://sws.geonames.org/3451133/> <http://www.geonames.org/ontology#officialName> "Estado de Río Grande del Sur"@es .
 <https://sws.geonames.org/3451133/> <http://www.geonames.org/ontology#alternateName> "Estado do Rio Grande do Sul" .
@@ -21,6 +22,8 @@
 <https://sws.geonames.org/3451133/> <http://www.geonames.org/ontology#alternateName> "Рио Гранде дo Сул"@tg .
 <https://sws.geonames.org/3451133/> <http://www.geonames.org/ontology#alternateName> "Рио Гранде дө Сүл"@kk .
 <https://sws.geonames.org/3451133/> <http://www.geonames.org/ontology#alternateName> "Рио Гранде дө Сүл"@ky .
+<https://sws.geonames.org/3451133/> <http://www.geonames.org/ontology#alternateName> "Риу-Гранди-ду-Сул"@ru .
+<https://sws.geonames.org/3451133/> <http://www.geonames.org/ontology#alternateName> "Ріу-Гранді-ду-Сул"@uk .
 <https://sws.geonames.org/3451133/> <http://www.geonames.org/ontology#alternateName> "ریوگرانده دو سول"@fa .
 <https://sws.geonames.org/3451133/> <http://www.geonames.org/ontology#alternateName> "ریو گرانډ دو سول"@ps .
 <https://sws.geonames.org/3451133/> <http://www.geonames.org/ontology#alternateName> "ሪዮ ግራንዴ ዶ ሱል"@am .
@@ -45,4 +48,4 @@
 <https://sws.geonames.org/3451133/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
 <https://sws.geonames.org/3451133/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
 <https://sws.geonames.org/3451133/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
-<https://sws.geonames.org/3451133/about.rdf> <http://purl.org/dc/terms/modified> "2026-04-16"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/3451133/about.rdf> <http://purl.org/dc/terms/modified> "2026-10-20"^^<https://www.w3.org/2001/XMLSchema#date> .

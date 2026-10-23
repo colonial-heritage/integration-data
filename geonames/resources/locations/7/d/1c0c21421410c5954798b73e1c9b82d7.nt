@@ -1,5 +1,6 @@
 <https://sws.geonames.org/2061327/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
 <https://sws.geonames.org/2061327/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/2061327/about.rdf> .
+<https://sws.geonames.org/2061327/> <http://www.geonames.org/ontology#toponymName> "State of South Australia" .
 <https://sws.geonames.org/2061327/> <http://www.geonames.org/ontology#name> "South Australia" .
 <https://sws.geonames.org/2061327/> <http://www.geonames.org/ontology#alternateName> "Australia Kidul"@jv .
 <https://sws.geonames.org/2061327/> <http://www.geonames.org/ontology#alternateName> "Australia Meridional"@es .
@@ -22,6 +23,7 @@
 <https://sws.geonames.org/2061327/> <http://www.geonames.org/ontology#alternateName> "Көньяк Австралия"@tt .
 <https://sws.geonames.org/2061327/> <http://www.geonames.org/ontology#alternateName> "Оңтүстік Австралия"@kk .
 <https://sws.geonames.org/2061327/> <http://www.geonames.org/ontology#alternateName> "Оңтүстік Австралия"@ky .
+<https://sws.geonames.org/2061327/> <http://www.geonames.org/ontology#alternateName> "Південна Австралія"@uk .
 <https://sws.geonames.org/2061327/> <http://www.geonames.org/ontology#alternateName> "Штат Южная Австралия"@ru .
 <https://sws.geonames.org/2061327/> <http://www.geonames.org/ontology#officialName> "Южная Австралия"@ru .
 <https://sws.geonames.org/2061327/> <http://www.geonames.org/ontology#alternateName> "استرالیای جنوبی"@fa .
@@ -48,4 +50,4 @@
 <https://sws.geonames.org/2061327/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
 <https://sws.geonames.org/2061327/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
 <https://sws.geonames.org/2061327/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
-<https://sws.geonames.org/2061327/about.rdf> <http://purl.org/dc/terms/modified> "2026-10-14"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/2061327/about.rdf> <http://purl.org/dc/terms/modified> "2026-10-20"^^<https://www.w3.org/2001/XMLSchema#date> .
