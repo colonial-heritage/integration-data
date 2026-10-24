@@ -1,5 +1,6 @@
 <https://sws.geonames.org/350546/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
 <https://sws.geonames.org/350546/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/350546/about.rdf> .
+<https://sws.geonames.org/350546/> <http://www.geonames.org/ontology#toponymName> "Muḩāfaz̧at Qinā" .
 <https://sws.geonames.org/350546/> <http://www.geonames.org/ontology#name> "Qena" .
 <https://sws.geonames.org/350546/> <http://www.geonames.org/ontology#alternateName> "케나주"@ko .
 <https://sws.geonames.org/350546/> <http://www.geonames.org/ontology#alternateName> "Gobharnóireacht Qena"@ga .
@@ -89,8 +90,8 @@
 <https://sws.geonames.org/350546/> <http://www.geonames.org/ontology#featureCode> <https://www.geonames.org/ontology#A.ADM1> .
 <https://sws.geonames.org/350546/> <http://www.geonames.org/ontology#countryCode> "EG" .
 <https://sws.geonames.org/350546/> <http://www.geonames.org/ontology#population> "3705404" .
-<https://sws.geonames.org/350546/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "25.8" .
-<https://sws.geonames.org/350546/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "32.75" .
+<https://sws.geonames.org/350546/> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "25.81667" .
+<https://sws.geonames.org/350546/> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "32.78333" .
 <https://sws.geonames.org/350546/> <http://www.geonames.org/ontology#parentFeature> <https://sws.geonames.org/357994/> .
 <https://sws.geonames.org/350546/> <http://www.geonames.org/ontology#parentCountry> <https://sws.geonames.org/357994/> .
 <https://sws.geonames.org/350546/> <http://www.geonames.org/ontology#childrenFeatures> <https://sws.geonames.org/350546/contains.rdf> .
@@ -103,4 +104,4 @@
 <https://sws.geonames.org/350546/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
 <https://sws.geonames.org/350546/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
 <https://sws.geonames.org/350546/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
-<https://sws.geonames.org/350546/about.rdf> <http://purl.org/dc/terms/modified> "2026-04-16"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/350546/about.rdf> <http://purl.org/dc/terms/modified> "2026-10-21"^^<https://www.w3.org/2001/XMLSchema#date> .
