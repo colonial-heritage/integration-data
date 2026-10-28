@@ -34,6 +34,10 @@
   a schema:DigitalDocument ;
   schema:name "Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)" .
 
+<https://creativecommons.org/licenses/by-nc-sa/4.0/>
+  a schema:DigitalDocument ;
+  schema:name "Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)" .
+
 <http://creativecommons.org/publicdomain/mark/1.0>
   a schema:DigitalDocument ;
   schema:name "Public Domain Mark 1.0" .
