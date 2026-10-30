@@ -163,16 +163,16 @@ cc-measurements:06c06df2-b809-4cd7-ae7e-36b711345dc5
 ##################################################
 
 <https://data.colonialcollections.nl/Bronbeek/collections>
-  dqv:hasQualityMeasurement cc-measurements:4ad3d49e-7b0d-43c0-a356-c5f7c9a044e7 ,
-                            cc-measurements:7e17d901-4dce-496d-a24d-653b16f14c3c .
+  dqv:hasQualityMeasurement cc-measurements:1c5949b7-5f0c-4bf0-8d9a-f585e4a501a3 ,
+                            cc-measurements:19c58f0b-dd7d-48f6-83ab-d7cef60be58b .
 
-cc-measurements:4ad3d49e-7b0d-43c0-a356-c5f7c9a044e7
+cc-measurements:1c5949b7-5f0c-4bf0-8d9a-f585e4a501a3
   a dqv:QualityMeasurement ;
   dqv:computedOn <https://data.colonialcollections.nl/Bronbeek/collections> ;
   dqv:isMeasurementOf cc-metrics:languages ;
   dqv:value "false"^^xsd:boolean .
 
-cc-measurements:7e17d901-4dce-496d-a24d-653b16f14c3c
+cc-measurements:19c58f0b-dd7d-48f6-83ab-d7cef60be58b
   a dqv:QualityMeasurement ;
   dqv:computedOn <https://data.colonialcollections.nl/Bronbeek/collections> ;
   dqv:isMeasurementOf cc-metrics:open-license ;
