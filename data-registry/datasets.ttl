@@ -27,3 +27,21 @@
 
   <https://id.rijksmuseum.nl/260210>
     schema:distribution <https://data.rijksmuseum.nl/ldes/dataset/260210/collection.json> .
+
+<https://data.colonialcollections.nl/Bronbeek/collections>
+  a schema:Dataset ;
+  schema:additionalType <http://vocab.getty.edu/aat/300460383> ; # Dataset
+  schema:name "Bronbeek Collections" ;
+  schema:license <https://creativecommons.org/licenses/by-nc-sa/4.0/> ;
+  schema:publisher <https://data.colonialcollections.nl/Bronbeek> ;
+  schema:description "Bronbeek dataset for the colonial collections datahub" ;
+  schema:keywords "Provenance research", "colonial collections" ;
+  schema:dateModified "2026-10-28"^^schema:Date ;
+  schema:spatialCoverage <https://hdl.handle.net/20.500.11840/termmaster10058074> ;
+  schema:distribution <https://data.colonialcollections.nl/Bronbeek/collections/sparql> .
+
+<https://data.colonialcollections.nl/Bronbeek/collections/sparql>
+  a schema:DataDownload ;
+  schema:name "SPARQL distribution of the dataset of Bronbeek collections" ;
+  schema:accessURL <https://api.colonialcollections.nl/datasets/Bronbeek/collections/sparql> ;
+  schema:encodingFormat "application/sparql-query" .
