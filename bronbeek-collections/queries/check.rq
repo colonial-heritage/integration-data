@@ -1,0 +1,15 @@
+PREFIX schema: <https://schema.org/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+# Check whether the dataset has been changed since the last run
+SELECT (?dateModified AS ?identifier) ?isChanged
+WHERE {
+  <https://data.colonialcollections.nl/Bronbeek/collections> schema:dateModified ?rawDateModified .
+  BIND(xsd:dateTime(?rawDateModified) AS ?dateModified)
+
+  # If ?_currentIdentifier is an empty string, this check has not been done before.
+  # Make sure it results in '0' so as to flip ?isChanged to '1' and trigger a new run
+  BIND(IF("?_currentIdentifier" = "", "1970-01-01"^^xsd:date, "?_currentIdentifier"^^xsd:dateTime) AS ?dateModifiedOfLastRun)
+
+  BIND(?dateModified > ?dateModifiedOfLastRun AS ?isChanged)
+}
