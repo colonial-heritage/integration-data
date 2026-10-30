@@ -120,7 +120,7 @@ cc-measurements:4ad3d49e-7b0d-43c0-a356-c5f7c9a044e7
   a dqv:QualityMeasurement ;
   dqv:computedOn <https://data.colonialcollections.nl/Bronbeek/Stamboeken> ;
   dqv:isMeasurementOf cc-metrics:languages ;
-  dqv:value "true"^^xsd:boolean .
+  dqv:value "false"^^xsd:boolean .
 
 cc-measurements:7e17d901-4dce-496d-a24d-653b16f14c3c
   a dqv:QualityMeasurement ;
