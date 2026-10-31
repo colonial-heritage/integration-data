@@ -1,7 +1,7 @@
 <https://sws.geonames.org/1278149/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
 <https://sws.geonames.org/1278149/> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://sws.geonames.org/1278149/about.rdf> .
 <https://sws.geonames.org/1278149/> <http://www.geonames.org/ontology#toponymName> "Aurangabad" .
-<https://sws.geonames.org/1278149/> <http://www.geonames.org/ontology#name> "Aurangabad" .
+<https://sws.geonames.org/1278149/> <http://www.geonames.org/ontology#name> "Chhatrapati Sambhajinagar" .
 <https://sws.geonames.org/1278149/> <http://www.geonames.org/ontology#alternateName> "Aurangabad"@de .
 <https://sws.geonames.org/1278149/> <http://www.geonames.org/ontology#alternateName> "Aurangabad"@en .
 <https://sws.geonames.org/1278149/> <http://www.geonames.org/ontology#alternateName> "Aurangabad"@gl .
@@ -10,9 +10,10 @@
 <https://sws.geonames.org/1278149/> <http://www.geonames.org/ontology#alternateName> "Aurangabad"@ro .
 <https://sws.geonames.org/1278149/> <http://www.geonames.org/ontology#alternateName> "Aurangabad"@sv .
 <https://sws.geonames.org/1278149/> <http://www.geonames.org/ontology#alternateName> "Aurangâbâd"@fr .
-<https://sws.geonames.org/1278149/> <http://www.geonames.org/ontology#alternateName> "Aurangābād" .
+<https://sws.geonames.org/1278149/> <http://www.geonames.org/ontology#alternateName> "Aurangābād"@en .
 <https://sws.geonames.org/1278149/> <http://www.geonames.org/ontology#alternateName> "Aurangabadas"@lt .
 <https://sws.geonames.org/1278149/> <http://www.geonames.org/ontology#alternateName> "Aurangabado"@eo .
+<https://sws.geonames.org/1278149/> <http://www.geonames.org/ontology#officialName> "Chhatrapati Sambhajinagar"@en .
 <https://sws.geonames.org/1278149/> <http://www.geonames.org/ontology#officialName> "Chhatrapati Sambhaji Nagar" .
 <https://sws.geonames.org/1278149/> <http://www.geonames.org/ontology#alternateName> "Аурангабад"@ru .
 <https://sws.geonames.org/1278149/> <http://www.geonames.org/ontology#officialName> "أورنك آباد"@ar .
@@ -20,7 +21,8 @@
 <https://sws.geonames.org/1278149/> <http://www.geonames.org/ontology#officialName> "اورنگ آباد"@pnb .
 <https://sws.geonames.org/1278149/> <http://www.geonames.org/ontology#officialName> "اورنگ آباد"@ur .
 <https://sws.geonames.org/1278149/> <http://www.geonames.org/ontology#alternateName> "औरंगाबाद"@hi .
-<https://sws.geonames.org/1278149/> <http://www.geonames.org/ontology#alternateName> "औरंगाबाद शहर"@mr .
+<https://sws.geonames.org/1278149/> <http://www.geonames.org/ontology#alternateName> "औरंगाबाद"@mr .
+<https://sws.geonames.org/1278149/> <http://www.geonames.org/ontology#officialName> "छत्रपती संभाजीनगर"@mr .
 <https://sws.geonames.org/1278149/> <http://www.geonames.org/ontology#alternateName> "আউরঙ্গাবাদ"@bpy .
 <https://sws.geonames.org/1278149/> <http://www.geonames.org/ontology#alternateName> "আওরঙ্গাবাদ"@bn .
 <https://sws.geonames.org/1278149/> <http://www.geonames.org/ontology#alternateName> "アウランガーバード"@ja .
@@ -46,4 +48,4 @@
 <https://sws.geonames.org/1278149/about.rdf> <http://creativecommons.org/ns#attributionURL> <https://www.geonames.org> .
 <https://sws.geonames.org/1278149/about.rdf> <http://creativecommons.org/ns#attributionName> "GeoNames"^^<https://www.w3.org/2001/XMLSchema#string> .
 <https://sws.geonames.org/1278149/about.rdf> <http://purl.org/dc/terms/created> "2006-01-15"^^<https://www.w3.org/2001/XMLSchema#date> .
-<https://sws.geonames.org/1278149/about.rdf> <http://purl.org/dc/terms/modified> "2025-05-25"^^<https://www.w3.org/2001/XMLSchema#date> .
+<https://sws.geonames.org/1278149/about.rdf> <http://purl.org/dc/terms/modified> "2026-10-30"^^<https://www.w3.org/2001/XMLSchema#date> .
