@@ -33,10 +33,10 @@
 <https://n2t.net/ark:/27023/91c3c227f067d3d5d294d8a849190ed8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
 <https://n2t.net/ark:/27023/91c3c227f067d3d5d294d8a849190ed8> <https://colonialcollections.nl/schema#identifier> "nf%20323-32-3" .
 <https://n2t.net/ark:/27023/91c3c227f067d3d5d294d8a849190ed8> <https://colonialcollections.nl/schema#creator> "Avé L'Allemand" .
-<https://n2t.net/ark:/27023/91c3c227f067d3d5d294d8a849190ed8> <https://colonialcollections.nl/schema#yearCreatedStart> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/91c3c227f067d3d5d294d8a849190ed8> <https://colonialcollections.nl/schema#yearCreatedStart> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/91c3c227f067d3d5d294d8a849190ed8> <https://colonialcollections.nl/schema#yearCreatedEnd> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/91c3c227f067d3d5d294d8a849190ed8> <https://colonialcollections.nl/schema#yearCreatedStart> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/91c3c227f067d3d5d294d8a849190ed8> <https://colonialcollections.nl/schema#yearCreatedEnd> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/91c3c227f067d3d5d294d8a849190ed8> <https://colonialcollections.nl/schema#yearCreatedEnd> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/91c3c227f067d3d5d294d8a849190ed8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/91c3c227f067d3d5d294d8a849190ed8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/91c58458c3dac24134e01ddd4ad8a721> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
@@ -45,8 +45,8 @@
 <https://n2t.net/ark:/27023/91c58458c3dac24134e01ddd4ad8a721> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Uit album over de Bali-expeditie 1906.\r\nDe verbindingslaan tussen Den Pasar en het ten westen ervan gelegen Pametjoetan." .
 <https://n2t.net/ark:/27023/91c58458c3dac24134e01ddd4ad8a721> <https://colonialcollections.nl/schema#inscription> "photographieën; Bali-expeditie 1906;" .
 <https://n2t.net/ark:/27023/91c58458c3dac24134e01ddd4ad8a721> <https://colonialcollections.nl/schema#creator> "Jonkheer H.M. van Weede" .
-<https://n2t.net/ark:/27023/91c58458c3dac24134e01ddd4ad8a721> <https://colonialcollections.nl/schema#yearCreatedStart> "1906"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/91c58458c3dac24134e01ddd4ad8a721> <https://colonialcollections.nl/schema#yearCreatedStart> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/91c58458c3dac24134e01ddd4ad8a721> <https://colonialcollections.nl/schema#yearCreatedStart> "1906"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/91c58458c3dac24134e01ddd4ad8a721> <https://colonialcollections.nl/schema#yearCreatedEnd> "1906"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/91c58458c3dac24134e01ddd4ad8a721> <https://colonialcollections.nl/schema#yearCreatedEnd> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/91c58458c3dac24134e01ddd4ad8a721> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
@@ -787,13 +787,13 @@
 <https://n2t.net/ark:/27023/91f79e91ebd65f738ec2633dde78ef8b> <https://colonialcollections.nl/schema#identifier> "S%206245-35" .
 <https://n2t.net/ark:/27023/91f79e91ebd65f738ec2633dde78ef8b> <https://colonialcollections.nl/schema#name> "Danseressen [Ronggengs] met muziek [Gamelan]" .
 <https://n2t.net/ark:/27023/91f79e91ebd65f738ec2633dde78ef8b> <https://colonialcollections.nl/schema#description> "fotoreproductie, zwart/wit, rechthoekig, gedrukt in/op papier/karton, los in map.\r\n\r\nMee gedrukt is de volgende tekst:\r\n\r\nTitel (onder foto): Danseressen [Ronggengs] met muziek [Gamelan].\r\nDaar onder: Uitgave van het Koloniaal Museum te Haarlem\r\nLinks onde" .
-<https://n2t.net/ark:/27023/91f79e91ebd65f738ec2633dde78ef8b> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/91f79e91ebd65f738ec2633dde78ef8b> <https://colonialcollections.nl/schema#creator> "H. Kleinmann & Co, Haarlem" .
+<https://n2t.net/ark:/27023/91f79e91ebd65f738ec2633dde78ef8b> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/91f79e91ebd65f738ec2633dde78ef8b> <https://colonialcollections.nl/schema#creator> "Koninklijke Nederlandsche Papierfabriek te Maastricht" .
-<https://n2t.net/ark:/27023/91f79e91ebd65f738ec2633dde78ef8b> <https://colonialcollections.nl/schema#yearCreatedStart> "1896"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/91f79e91ebd65f738ec2633dde78ef8b> <https://colonialcollections.nl/schema#yearCreatedStart> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/91f79e91ebd65f738ec2633dde78ef8b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1896"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/91f79e91ebd65f738ec2633dde78ef8b> <https://colonialcollections.nl/schema#yearCreatedStart> "1896"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/91f79e91ebd65f738ec2633dde78ef8b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/91f79e91ebd65f738ec2633dde78ef8b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1896"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/91f79e91ebd65f738ec2633dde78ef8b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/91f79e91ebd65f738ec2633dde78ef8b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/91f7e802e2b2a4e8c120bf2e1d26444a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .

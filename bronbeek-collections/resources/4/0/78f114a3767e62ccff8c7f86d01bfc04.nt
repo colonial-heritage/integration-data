@@ -171,12 +171,12 @@
 <https://n2t.net/ark:/27023/306bcc9df91c1e34419adc568e9fecb2> <https://colonialcollections.nl/schema#name> "Pasar (markt) te Fort de Kock" .
 <https://n2t.net/ark:/27023/306bcc9df91c1e34419adc568e9fecb2> <https://colonialcollections.nl/schema#description> "fotoreproductie, zwart/wit, rechthoekig, gedrukt in/op papier/karton, los in map.\r\n\r\nMee gedrukt is de volgende tekst:\r\n\r\nTitel (onder foto): Pasar (markt) te Fort de Kock\r\nDaaronder: Uitgave van het Koloniaal Museum te Haarlem\r\nLinks onder: Gedrukt op Nor" .
 <https://n2t.net/ark:/27023/306bcc9df91c1e34419adc568e9fecb2> <https://colonialcollections.nl/schema#creator> "Koninklijke Nederlandsche Papierfabriek te Maastricht" .
-<https://n2t.net/ark:/27023/306bcc9df91c1e34419adc568e9fecb2> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/306bcc9df91c1e34419adc568e9fecb2> <https://colonialcollections.nl/schema#creator> "H. Kleinmann & Co, Haarlem" .
-<https://n2t.net/ark:/27023/306bcc9df91c1e34419adc568e9fecb2> <https://colonialcollections.nl/schema#yearCreatedStart> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/306bcc9df91c1e34419adc568e9fecb2> <https://colonialcollections.nl/schema#creator> "onbekend" .
 <https://n2t.net/ark:/27023/306bcc9df91c1e34419adc568e9fecb2> <https://colonialcollections.nl/schema#yearCreatedStart> "1896"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/306bcc9df91c1e34419adc568e9fecb2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/306bcc9df91c1e34419adc568e9fecb2> <https://colonialcollections.nl/schema#yearCreatedStart> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/306bcc9df91c1e34419adc568e9fecb2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1896"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/306bcc9df91c1e34419adc568e9fecb2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/306bcc9df91c1e34419adc568e9fecb2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/306bcc9df91c1e34419adc568e9fecb2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/306d89ead208dbcbf73c41c24e3d687e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
@@ -187,8 +187,8 @@
 <https://n2t.net/ark:/27023/306d89ead208dbcbf73c41c24e3d687e> <https://colonialcollections.nl/schema#creator> "Apotheek \"De Gedeh\"" .
 <https://n2t.net/ark:/27023/306d89ead208dbcbf73c41c24e3d687e> <https://colonialcollections.nl/schema#yearCreatedStart> "1906"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/306d89ead208dbcbf73c41c24e3d687e> <https://colonialcollections.nl/schema#yearCreatedStart> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/306d89ead208dbcbf73c41c24e3d687e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/306d89ead208dbcbf73c41c24e3d687e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/306d89ead208dbcbf73c41c24e3d687e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/306d89ead208dbcbf73c41c24e3d687e> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/306d89ead208dbcbf73c41c24e3d687e> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/306e1775c18c62485fc9e206654dff3d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
@@ -445,10 +445,10 @@
 <https://n2t.net/ark:/27023/3084ffc3a08f7dd27b504a0df6c98ce8> <https://colonialcollections.nl/schema#name> "Carte de visite" .
 <https://n2t.net/ark:/27023/3084ffc3a08f7dd27b504a0df6c98ce8> <https://colonialcollections.nl/schema#description> "Carte de visite. 51 stuks.\r\nPhotographed by J.W. Jackson, Burntisland\r\nCharls & Co, Semarang, Bodjong\r\nP. Vlaanderen & C. van der Aa, Alkmaar\r\nA. Greiner Phot. Amsterdam\r\nFr. Jul. von Kolkow, Groningen\r\nTurnbulle & Sons Glasgow\r\nTh. Brüggeman, phot. Amster" .
 <https://n2t.net/ark:/27023/3084ffc3a08f7dd27b504a0df6c98ce8> <https://colonialcollections.nl/schema#creator> "A. Greiner Photograf" .
-<https://n2t.net/ark:/27023/3084ffc3a08f7dd27b504a0df6c98ce8> <https://colonialcollections.nl/schema#yearCreatedStart> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/3084ffc3a08f7dd27b504a0df6c98ce8> <https://colonialcollections.nl/schema#yearCreatedStart> "1860"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/3084ffc3a08f7dd27b504a0df6c98ce8> <https://colonialcollections.nl/schema#yearCreatedEnd> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/3084ffc3a08f7dd27b504a0df6c98ce8> <https://colonialcollections.nl/schema#yearCreatedStart> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/3084ffc3a08f7dd27b504a0df6c98ce8> <https://colonialcollections.nl/schema#yearCreatedEnd> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/3084ffc3a08f7dd27b504a0df6c98ce8> <https://colonialcollections.nl/schema#yearCreatedEnd> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/3084ffc3a08f7dd27b504a0df6c98ce8> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3084ffc3a08f7dd27b504a0df6c98ce8> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/30869e9097bc78594a64bab8757795a1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
@@ -568,10 +568,10 @@
 <https://n2t.net/ark:/27023/3090eec6c1ebda7676110e386073695a> <https://colonialcollections.nl/schema#identifier> "nf%201408-85" .
 <https://n2t.net/ark:/27023/3090eec6c1ebda7676110e386073695a> <https://colonialcollections.nl/schema#name> "Petroleum aftap plaats" .
 <https://n2t.net/ark:/27023/3090eec6c1ebda7676110e386073695a> <https://colonialcollections.nl/schema#description> "afbeelding toont een fabriekshal. Lokale werkkrachten zijn bezig met het vullen van blikken met petroleum.\r\n\r\nDeze afbeelding komt voor op plaat 18.\r\n\r\nAangenomen is dat deze foto ergens op Noord Sumatra is genomen.\r\n                                       " .
-<https://n2t.net/ark:/27023/3090eec6c1ebda7676110e386073695a> <https://colonialcollections.nl/schema#creator> "J.B. Obernetter" .
 <https://n2t.net/ark:/27023/3090eec6c1ebda7676110e386073695a> <https://colonialcollections.nl/schema#creator> "C.J. Kleingrothe" .
-<https://n2t.net/ark:/27023/3090eec6c1ebda7676110e386073695a> <https://colonialcollections.nl/schema#yearCreatedStart> "1898"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/3090eec6c1ebda7676110e386073695a> <https://colonialcollections.nl/schema#creator> "J.B. Obernetter" .
 <https://n2t.net/ark:/27023/3090eec6c1ebda7676110e386073695a> <https://colonialcollections.nl/schema#yearCreatedStart> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/3090eec6c1ebda7676110e386073695a> <https://colonialcollections.nl/schema#yearCreatedStart> "1898"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/3090eec6c1ebda7676110e386073695a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/3090eec6c1ebda7676110e386073695a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/3090eec6c1ebda7676110e386073695a> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
@@ -718,10 +718,10 @@
 <https://n2t.net/ark:/27023/309c7f3a89bcd03c7df64e23905edc67> <https://colonialcollections.nl/schema#name> "Chineesche Dame te Batavia. (in kleur)" .
 <https://n2t.net/ark:/27023/309c7f3a89bcd03c7df64e23905edc67> <https://colonialcollections.nl/schema#description> "Prentbriefkaart. Chineesche Dame te Batavia. (in kleur). Ongebruikt." .
 <https://n2t.net/ark:/27023/309c7f3a89bcd03c7df64e23905edc67> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
-<https://n2t.net/ark:/27023/309c7f3a89bcd03c7df64e23905edc67> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/309c7f3a89bcd03c7df64e23905edc67> <https://colonialcollections.nl/schema#yearCreatedStart> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/309c7f3a89bcd03c7df64e23905edc67> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/309c7f3a89bcd03c7df64e23905edc67> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/309c7f3a89bcd03c7df64e23905edc67> <https://colonialcollections.nl/schema#yearCreatedEnd> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/309c7f3a89bcd03c7df64e23905edc67> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/309c7f3a89bcd03c7df64e23905edc67> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/309c7f3a89bcd03c7df64e23905edc67> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/309d210277c0138190fa77221d8516f0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .

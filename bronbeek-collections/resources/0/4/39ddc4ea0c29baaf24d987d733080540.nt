@@ -459,12 +459,12 @@
 <https://n2t.net/ark:/27023/1cffa0ce343c87477baaf2283d5a5501> <https://colonialcollections.nl/schema#identifier> "1971/03/19-1-2" .
 <https://n2t.net/ark:/27023/1cffa0ce343c87477baaf2283d5a5501> <https://colonialcollections.nl/schema#name> "Landkaart van Java & Madura" .
 <https://n2t.net/ark:/27023/1cffa0ce343c87477baaf2283d5a5501> <https://colonialcollections.nl/schema#description> "Kaart van Java & Madura, 1:1.000.000. Papier op ,linnen, door Le Clercq, Lithogr. A. J. Bogaerts, Breda 1850.\r\nUitg. W.P. van Stockum, Den Haag." .
-<https://n2t.net/ark:/27023/1cffa0ce343c87477baaf2283d5a5501> <https://colonialcollections.nl/schema#creator> "A.J. Bogaerts" .
 <https://n2t.net/ark:/27023/1cffa0ce343c87477baaf2283d5a5501> <https://colonialcollections.nl/schema#creator> "W.P. van Stockum" .
-<https://n2t.net/ark:/27023/1cffa0ce343c87477baaf2283d5a5501> <https://colonialcollections.nl/schema#yearCreatedStart> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/1cffa0ce343c87477baaf2283d5a5501> <https://colonialcollections.nl/schema#creator> "A.J. Bogaerts" .
 <https://n2t.net/ark:/27023/1cffa0ce343c87477baaf2283d5a5501> <https://colonialcollections.nl/schema#yearCreatedStart> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/1cffa0ce343c87477baaf2283d5a5501> <https://colonialcollections.nl/schema#yearCreatedEnd> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/1cffa0ce343c87477baaf2283d5a5501> <https://colonialcollections.nl/schema#yearCreatedStart> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/1cffa0ce343c87477baaf2283d5a5501> <https://colonialcollections.nl/schema#yearCreatedEnd> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/1cffa0ce343c87477baaf2283d5a5501> <https://colonialcollections.nl/schema#yearCreatedEnd> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/1cffa0ce343c87477baaf2283d5a5501> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1cffa0ce343c87477baaf2283d5a5501> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1cfff17daa465d9fa8c8e7daa3e53038> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
@@ -515,8 +515,8 @@
 <https://n2t.net/ark:/27023/1d04493c768eeca1ffcadd86f216541c> <https://colonialcollections.nl/schema#creator> "Nanko" .
 <https://n2t.net/ark:/27023/1d04493c768eeca1ffcadd86f216541c> <https://colonialcollections.nl/schema#yearCreatedStart> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/1d04493c768eeca1ffcadd86f216541c> <https://colonialcollections.nl/schema#yearCreatedStart> "1928"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/1d04493c768eeca1ffcadd86f216541c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/1d04493c768eeca1ffcadd86f216541c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1928"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/1d04493c768eeca1ffcadd86f216541c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/1d04493c768eeca1ffcadd86f216541c> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/1d04493c768eeca1ffcadd86f216541c> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1d0512d0c315590525141480f71db550> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .

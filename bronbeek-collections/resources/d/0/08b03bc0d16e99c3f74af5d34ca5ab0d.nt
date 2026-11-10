@@ -100,12 +100,12 @@
 <https://n2t.net/ark:/27023/37215c85a11671dc6970069eaf867cf0> <https://colonialcollections.nl/schema#identifier> "2006/10/06-1-7/8" .
 <https://n2t.net/ark:/27023/37215c85a11671dc6970069eaf867cf0> <https://colonialcollections.nl/schema#name> "Foto´s van familie Kemmerling,  1895-1938" .
 <https://n2t.net/ark:/27023/37215c85a11671dc6970069eaf867cf0> <https://colonialcollections.nl/schema#description> "Foto´s. Losse foto´s (30) van de familie Kemmerling, periode 1895 - 1912-\r\no.a. Cadetten 1909, Legercommandnat en adjudant Generaal Cramer & Kapitein Kemmerling (1932), Parade 1938 met Kolonel Kemmerling, Mr. Cornelis 1936, De bezetting van Trangon 1916, K" .
-<https://n2t.net/ark:/27023/37215c85a11671dc6970069eaf867cf0> <https://colonialcollections.nl/schema#creator> "Gah Hin" .
 <https://n2t.net/ark:/27023/37215c85a11671dc6970069eaf867cf0> <https://colonialcollections.nl/schema#creator> "E. Reissig" .
-<https://n2t.net/ark:/27023/37215c85a11671dc6970069eaf867cf0> <https://colonialcollections.nl/schema#yearCreatedStart> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/37215c85a11671dc6970069eaf867cf0> <https://colonialcollections.nl/schema#creator> "Gah Hin" .
 <https://n2t.net/ark:/27023/37215c85a11671dc6970069eaf867cf0> <https://colonialcollections.nl/schema#yearCreatedStart> "1895"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/37215c85a11671dc6970069eaf867cf0> <https://colonialcollections.nl/schema#yearCreatedEnd> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/37215c85a11671dc6970069eaf867cf0> <https://colonialcollections.nl/schema#yearCreatedStart> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/37215c85a11671dc6970069eaf867cf0> <https://colonialcollections.nl/schema#yearCreatedEnd> "1938"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/37215c85a11671dc6970069eaf867cf0> <https://colonialcollections.nl/schema#yearCreatedEnd> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/37215c85a11671dc6970069eaf867cf0> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/37215c85a11671dc6970069eaf867cf0> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/372296eff8ed045fa11161541cc4e9c6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
@@ -145,10 +145,10 @@
 <https://n2t.net/ark:/27023/3725994e3bbf13ac00990201b35d754f> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
 <https://n2t.net/ark:/27023/3725994e3bbf13ac00990201b35d754f> <https://colonialcollections.nl/schema#description> "Prentbriefkaart met foto van Batavia, Java, Nederlands-Indië. Foto van: Weltevreden. De \"Harmonie\". The club \"Harmonie\"." .
 <https://n2t.net/ark:/27023/3725994e3bbf13ac00990201b35d754f> <https://colonialcollections.nl/schema#creator> "G. Kolff & Co, Batavia" .
-<https://n2t.net/ark:/27023/3725994e3bbf13ac00990201b35d754f> <https://colonialcollections.nl/schema#yearCreatedStart> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/3725994e3bbf13ac00990201b35d754f> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/3725994e3bbf13ac00990201b35d754f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/3725994e3bbf13ac00990201b35d754f> <https://colonialcollections.nl/schema#yearCreatedStart> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/3725994e3bbf13ac00990201b35d754f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1915"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/3725994e3bbf13ac00990201b35d754f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/3725994e3bbf13ac00990201b35d754f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3725994e3bbf13ac00990201b35d754f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/3725c7bba3b9bcc3de94486c5508f3b0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
@@ -258,8 +258,8 @@
 <https://n2t.net/ark:/27023/372dd92ba8f754b5ed636029ad9cf205> <https://colonialcollections.nl/schema#identifier> "2003/02/17-1-872/3-5" .
 <https://n2t.net/ark:/27023/372dd92ba8f754b5ed636029ad9cf205> <https://colonialcollections.nl/schema#name> "W.3. - Hotel, Wilmington, North Carolina" .
 <https://n2t.net/ark:/27023/372dd92ba8f754b5ed636029ad9cf205> <https://colonialcollections.nl/schema#description> "Prentbriefkaart W.3. - Hotel, Wilmington, North Carolina Wilmington, North Carolina. [in kleurendruk] Genuine Curteich-Chicago, C.T. Art-Colortone Post Card (Reg. U.S. Pat.Off.)" .
-<https://n2t.net/ark:/27023/372dd92ba8f754b5ed636029ad9cf205> <https://colonialcollections.nl/schema#creator> "Service News Co. Wilmington, N.C." .
 <https://n2t.net/ark:/27023/372dd92ba8f754b5ed636029ad9cf205> <https://colonialcollections.nl/schema#creator> "Curt Teich & Co., Inc." .
+<https://n2t.net/ark:/27023/372dd92ba8f754b5ed636029ad9cf205> <https://colonialcollections.nl/schema#creator> "Service News Co. Wilmington, N.C." .
 <https://n2t.net/ark:/27023/372dd92ba8f754b5ed636029ad9cf205> <https://colonialcollections.nl/schema#yearCreatedStart> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/372dd92ba8f754b5ed636029ad9cf205> <https://colonialcollections.nl/schema#yearCreatedEnd> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/372dd92ba8f754b5ed636029ad9cf205> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
@@ -367,10 +367,10 @@
 <https://n2t.net/ark:/27023/373bb26b58649c00b530062505f60105> <https://colonialcollections.nl/schema#identifier> "nf%201678" .
 <https://n2t.net/ark:/27023/373bb26b58649c00b530062505f60105> <https://colonialcollections.nl/schema#description> "Foto, rechthoekig, zwart/wit, nogal verbleekt, opgeplakt op karton, los aangetroffen.\r\n\r\nOp voorkant, onder de foto, zilverkleurige tekst: 'Charls & van Es & Co Batavia'\r\nOp achterkant de volgende meegedrukte tekst:\r\nPhotografie - Charls & van Es & Co - Ba" .
 <https://n2t.net/ark:/27023/373bb26b58649c00b530062505f60105> <https://colonialcollections.nl/schema#creator> "Charls en van Es" .
-<https://n2t.net/ark:/27023/373bb26b58649c00b530062505f60105> <https://colonialcollections.nl/schema#yearCreatedStart> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/373bb26b58649c00b530062505f60105> <https://colonialcollections.nl/schema#yearCreatedStart> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/373bb26b58649c00b530062505f60105> <https://colonialcollections.nl/schema#yearCreatedEnd> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/373bb26b58649c00b530062505f60105> <https://colonialcollections.nl/schema#yearCreatedStart> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/373bb26b58649c00b530062505f60105> <https://colonialcollections.nl/schema#yearCreatedEnd> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/373bb26b58649c00b530062505f60105> <https://colonialcollections.nl/schema#yearCreatedEnd> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/373bb26b58649c00b530062505f60105> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/373bb26b58649c00b530062505f60105> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/373c178e7885007f37fb4dcb855b8119> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
@@ -440,8 +440,8 @@
 <https://n2t.net/ark:/27023/37430d9a4933a0ab7786669eb5cb5c20> <https://colonialcollections.nl/schema#creator> "Officier van Gezondheid der 2e klasse H.M. Neeb" .
 <https://n2t.net/ark:/27023/37430d9a4933a0ab7786669eb5cb5c20> <https://colonialcollections.nl/schema#yearCreatedStart> "1904"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/37430d9a4933a0ab7786669eb5cb5c20> <https://colonialcollections.nl/schema#yearCreatedStart> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/37430d9a4933a0ab7786669eb5cb5c20> <https://colonialcollections.nl/schema#yearCreatedEnd> "1904"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/37430d9a4933a0ab7786669eb5cb5c20> <https://colonialcollections.nl/schema#yearCreatedEnd> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/37430d9a4933a0ab7786669eb5cb5c20> <https://colonialcollections.nl/schema#yearCreatedEnd> "1904"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/37430d9a4933a0ab7786669eb5cb5c20> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/37430d9a4933a0ab7786669eb5cb5c20> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/37432731ee39e1bf300fd9c21dae5534> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
@@ -506,10 +506,10 @@
 <https://n2t.net/ark:/27023/374b9f9adb2ab1f4c06aa5c45fb46482> <https://colonialcollections.nl/schema#name> "Foto diensttijd soldaat OVW M. Rollingswier" .
 <https://n2t.net/ark:/27023/374b9f9adb2ab1f4c06aa5c45fb46482> <https://colonialcollections.nl/schema#description> "Foto, totaal 88 stuks, uit diensttijd soldaat OVW M. Rollingswier 1ste Bataljon 12de Regiment Infanterie (1-12 RI). X-Brigade Soerabaja, Oost-Java.\r\nOfficiële bijeenkomst. Monument met kransen en saluerende militair. Andere militairen op de achtergrond." .
 <https://n2t.net/ark:/27023/374b9f9adb2ab1f4c06aa5c45fb46482> <https://colonialcollections.nl/schema#creator> "Foto Cine Jahn & Zn." .
-<https://n2t.net/ark:/27023/374b9f9adb2ab1f4c06aa5c45fb46482> <https://colonialcollections.nl/schema#yearCreatedStart> "1946"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/374b9f9adb2ab1f4c06aa5c45fb46482> <https://colonialcollections.nl/schema#yearCreatedStart> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/374b9f9adb2ab1f4c06aa5c45fb46482> <https://colonialcollections.nl/schema#yearCreatedEnd> "1948"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/374b9f9adb2ab1f4c06aa5c45fb46482> <https://colonialcollections.nl/schema#yearCreatedStart> "1946"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/374b9f9adb2ab1f4c06aa5c45fb46482> <https://colonialcollections.nl/schema#yearCreatedEnd> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/374b9f9adb2ab1f4c06aa5c45fb46482> <https://colonialcollections.nl/schema#yearCreatedEnd> "1948"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/374b9f9adb2ab1f4c06aa5c45fb46482> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/374b9f9adb2ab1f4c06aa5c45fb46482> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/374c12bb8408e5f707ad05d162287199> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
@@ -532,10 +532,10 @@
 <https://n2t.net/ark:/27023/374c63db83d8eb969de0349d3f5cd481> <https://colonialcollections.nl/schema#identifier> "nf%201424-4" .
 <https://n2t.net/ark:/27023/374c63db83d8eb969de0349d3f5cd481> <https://colonialcollections.nl/schema#description> "Diapositief, kleinbeeld, zwartwit, geknipt in stroken van twee of drie, opgeborgen in zuurvrije kunststof envelop.\r\n\r\nOpname toont een meer, vermoedelijk het Sentanimeer. Rechts een landtong waar enige paalwoningen in het water staan." .
 <https://n2t.net/ark:/27023/374c63db83d8eb969de0349d3f5cd481> <https://colonialcollections.nl/schema#creator> "Jac. Hoogerbrugge" .
-<https://n2t.net/ark:/27023/374c63db83d8eb969de0349d3f5cd481> <https://colonialcollections.nl/schema#yearCreatedStart> "1962"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/374c63db83d8eb969de0349d3f5cd481> <https://colonialcollections.nl/schema#yearCreatedStart> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/374c63db83d8eb969de0349d3f5cd481> <https://colonialcollections.nl/schema#yearCreatedEnd> "1962"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/374c63db83d8eb969de0349d3f5cd481> <https://colonialcollections.nl/schema#yearCreatedStart> "1962"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/374c63db83d8eb969de0349d3f5cd481> <https://colonialcollections.nl/schema#yearCreatedEnd> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/374c63db83d8eb969de0349d3f5cd481> <https://colonialcollections.nl/schema#yearCreatedEnd> "1962"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/374c63db83d8eb969de0349d3f5cd481> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/374c63db83d8eb969de0349d3f5cd481> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/374cb03d3545480743b5f77dbf6e81ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .

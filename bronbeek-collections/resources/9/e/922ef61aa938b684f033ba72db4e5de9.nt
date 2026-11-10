@@ -33,12 +33,12 @@
 <https://n2t.net/ark:/27023/357a7613bb1678134411f6190c5a1f7f> <https://colonialcollections.nl/schema#identifier> "2005/00-635/5" .
 <https://n2t.net/ark:/27023/357a7613bb1678134411f6190c5a1f7f> <https://colonialcollections.nl/schema#name> "Sopo (logeergelegenheid) met rijstbewaarplaats in de Toba-Bataklanden op Sumatra" .
 <https://n2t.net/ark:/27023/357a7613bb1678134411f6190c5a1f7f> <https://colonialcollections.nl/schema#description> "Kalenderblad met linksboven een afbeelding van een \"sopo (logeergelegenheid) met rijstbewaarplaats in de Toba-Bataklanden op Sumatra. Er voor zien we een Batak in adatdracht en een wevende vrouw, en links een tosoeng (rijstblok). De gevel is versierd met d" .
-<https://n2t.net/ark:/27023/357a7613bb1678134411f6190c5a1f7f> <https://colonialcollections.nl/schema#creator> "Dorco uitgave" .
 <https://n2t.net/ark:/27023/357a7613bb1678134411f6190c5a1f7f> <https://colonialcollections.nl/schema#creator> "Indisch Instituut" .
-<https://n2t.net/ark:/27023/357a7613bb1678134411f6190c5a1f7f> <https://colonialcollections.nl/schema#yearCreatedStart> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/357a7613bb1678134411f6190c5a1f7f> <https://colonialcollections.nl/schema#creator> "Dorco uitgave" .
 <https://n2t.net/ark:/27023/357a7613bb1678134411f6190c5a1f7f> <https://colonialcollections.nl/schema#yearCreatedStart> "1948"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/357a7613bb1678134411f6190c5a1f7f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/357a7613bb1678134411f6190c5a1f7f> <https://colonialcollections.nl/schema#yearCreatedStart> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/357a7613bb1678134411f6190c5a1f7f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1948"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/357a7613bb1678134411f6190c5a1f7f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/357a7613bb1678134411f6190c5a1f7f> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/357a7613bb1678134411f6190c5a1f7f> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/357a8a63bc45eca5ffb3b816f3ae723d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
@@ -140,8 +140,8 @@
 <https://n2t.net/ark:/27023/35857598e839f51c5ccbe23b1e7d6130> <https://colonialcollections.nl/schema#creator> "dhr J.H. van Vulpen" .
 <https://n2t.net/ark:/27023/35857598e839f51c5ccbe23b1e7d6130> <https://colonialcollections.nl/schema#yearCreatedStart> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/35857598e839f51c5ccbe23b1e7d6130> <https://colonialcollections.nl/schema#yearCreatedStart> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/35857598e839f51c5ccbe23b1e7d6130> <https://colonialcollections.nl/schema#yearCreatedEnd> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/35857598e839f51c5ccbe23b1e7d6130> <https://colonialcollections.nl/schema#yearCreatedEnd> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/35857598e839f51c5ccbe23b1e7d6130> <https://colonialcollections.nl/schema#yearCreatedEnd> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/35857598e839f51c5ccbe23b1e7d6130> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/35857598e839f51c5ccbe23b1e7d6130> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/3585e35e06c84be95db9f8ba4fb682e1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
@@ -254,10 +254,10 @@
 <https://n2t.net/ark:/27023/35901a4c34dcfeaf7944abf20a689821> <https://colonialcollections.nl/schema#name> "Foto Collectie Van Swieten" .
 <https://n2t.net/ark:/27023/35901a4c34dcfeaf7944abf20a689821> <https://colonialcollections.nl/schema#description> "Foto. Zwartwit. Carte-de-visite uit de Collectie Van Swieten.\r\nVerso: Tante Lien ; Lien van Swieten, dochter van generaal van Swieten.\r\nFotograaf: H.W. Wollrabe, 's Gravenhage." .
 <https://n2t.net/ark:/27023/35901a4c34dcfeaf7944abf20a689821> <https://colonialcollections.nl/schema#creator> "Wollrabe Photographe" .
-<https://n2t.net/ark:/27023/35901a4c34dcfeaf7944abf20a689821> <https://colonialcollections.nl/schema#yearCreatedStart> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/35901a4c34dcfeaf7944abf20a689821> <https://colonialcollections.nl/schema#yearCreatedStart> "1865"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/35901a4c34dcfeaf7944abf20a689821> <https://colonialcollections.nl/schema#yearCreatedEnd> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/35901a4c34dcfeaf7944abf20a689821> <https://colonialcollections.nl/schema#yearCreatedStart> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/35901a4c34dcfeaf7944abf20a689821> <https://colonialcollections.nl/schema#yearCreatedEnd> "1865"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/35901a4c34dcfeaf7944abf20a689821> <https://colonialcollections.nl/schema#yearCreatedEnd> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/35901a4c34dcfeaf7944abf20a689821> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/35901a4c34dcfeaf7944abf20a689821> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/359220d5e40670277375cce63de2b328> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
@@ -331,10 +331,10 @@
 <https://n2t.net/ark:/27023/3595ccd15acbc72d57945d3a133ae44d> <https://colonialcollections.nl/schema#name> "'prauw met onafhankelijke maleijers v kotta'" .
 <https://n2t.net/ark:/27023/3595ccd15acbc72d57945d3a133ae44d> <https://colonialcollections.nl/schema#description> "Glaspositief, dubbelglasplaatje, met rand van zwart papier\r\n\r\nOp de rand is een wit etiket geplakt met een geschreven tekst 'Prauw der onafhankelijke V kottas' en de getallen 17 en 22.\r\n\r\nOp binnenkant deksel staat voor deze opname geschreven: 'prauw met o" .
 <https://n2t.net/ark:/27023/3595ccd15acbc72d57945d3a133ae44d> <https://colonialcollections.nl/schema#creator> "onbekend" .
-<https://n2t.net/ark:/27023/3595ccd15acbc72d57945d3a133ae44d> <https://colonialcollections.nl/schema#yearCreatedStart> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/3595ccd15acbc72d57945d3a133ae44d> <https://colonialcollections.nl/schema#yearCreatedStart> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/3595ccd15acbc72d57945d3a133ae44d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/3595ccd15acbc72d57945d3a133ae44d> <https://colonialcollections.nl/schema#yearCreatedStart> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/3595ccd15acbc72d57945d3a133ae44d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/3595ccd15acbc72d57945d3a133ae44d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/3595ccd15acbc72d57945d3a133ae44d> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/3595ccd15acbc72d57945d3a133ae44d> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/359677a56f22551d34e712e38affc21d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
@@ -668,10 +668,10 @@
 <https://n2t.net/ark:/27023/35b13e471581ff429c55339e2f5b26e6> <https://colonialcollections.nl/schema#name> "Mariniersbrigade in Indië" .
 <https://n2t.net/ark:/27023/35b13e471581ff429c55339e2f5b26e6> <https://colonialcollections.nl/schema#description> "Foto: Koninklijke Marine Voorlichtingsdienst , Batavia. Op achterzijde gestempeld: \"KM MARVO- N.I. Batavia\"" .
 <https://n2t.net/ark:/27023/35b13e471581ff429c55339e2f5b26e6> <https://colonialcollections.nl/schema#creator> "Marine Voorlichtings Dienst" .
-<https://n2t.net/ark:/27023/35b13e471581ff429c55339e2f5b26e6> <https://colonialcollections.nl/schema#yearCreatedStart> "1946"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/35b13e471581ff429c55339e2f5b26e6> <https://colonialcollections.nl/schema#yearCreatedStart> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/35b13e471581ff429c55339e2f5b26e6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1948"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/35b13e471581ff429c55339e2f5b26e6> <https://colonialcollections.nl/schema#yearCreatedStart> "1946"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/35b13e471581ff429c55339e2f5b26e6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/35b13e471581ff429c55339e2f5b26e6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1948"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/35b13e471581ff429c55339e2f5b26e6> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/35b13e471581ff429c55339e2f5b26e6> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/35b1be5b5cfc87b528931d0df273dc78> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
@@ -679,10 +679,10 @@
 <https://n2t.net/ark:/27023/35b1be5b5cfc87b528931d0df273dc78> <https://colonialcollections.nl/schema#name> "Vissersdorp Sedanau" .
 <https://n2t.net/ark:/27023/35b1be5b5cfc87b528931d0df273dc78> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, ongekarteld, los aangetroffen met vele anderen.\r\n\r\nOp achterkant de volgende tekst: Geschenk Mevr. Posan - Sedanau - Visschersdorp Sedanau'.\r\n\r\nOpname toont mogelijk de monding van een rivier naar zee. Duidelijk aanwezig de ve" .
 <https://n2t.net/ark:/27023/35b1be5b5cfc87b528931d0df273dc78> <https://colonialcollections.nl/schema#creator> "onbekend" .
-<https://n2t.net/ark:/27023/35b1be5b5cfc87b528931d0df273dc78> <https://colonialcollections.nl/schema#yearCreatedStart> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/35b1be5b5cfc87b528931d0df273dc78> <https://colonialcollections.nl/schema#yearCreatedStart> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/35b1be5b5cfc87b528931d0df273dc78> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/35b1be5b5cfc87b528931d0df273dc78> <https://colonialcollections.nl/schema#yearCreatedStart> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/35b1be5b5cfc87b528931d0df273dc78> <https://colonialcollections.nl/schema#yearCreatedEnd> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/35b1be5b5cfc87b528931d0df273dc78> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/35b1be5b5cfc87b528931d0df273dc78> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/35b1be5b5cfc87b528931d0df273dc78> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/35b2463a4d46567402d251d12bf6123f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
@@ -697,10 +697,10 @@
 <https://n2t.net/ark:/27023/35b249882ac03560c1508a4087671481> <https://colonialcollections.nl/schema#name> "Prentbriefkaart met foto van Nederlands-Indië." .
 <https://n2t.net/ark:/27023/35b249882ac03560c1508a4087671481> <https://colonialcollections.nl/schema#description> "Prentbriefkaart met foto van Java, Nederlands-Indië. Foto van: Tominibocht, visschers in een rivier.\r\nUitgegeven door de Koninklijke Paketvaart Maaatschappij (Royal Packet Navigation CY.)." .
 <https://n2t.net/ark:/27023/35b249882ac03560c1508a4087671481> <https://colonialcollections.nl/schema#creator> "Koninklijke Paketvaart Maatschappij" .
-<https://n2t.net/ark:/27023/35b249882ac03560c1508a4087671481> <https://colonialcollections.nl/schema#yearCreatedStart> "1915"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/35b249882ac03560c1508a4087671481> <https://colonialcollections.nl/schema#yearCreatedStart> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/35b249882ac03560c1508a4087671481> <https://colonialcollections.nl/schema#yearCreatedEnd> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/35b249882ac03560c1508a4087671481> <https://colonialcollections.nl/schema#yearCreatedStart> "1915"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/35b249882ac03560c1508a4087671481> <https://colonialcollections.nl/schema#yearCreatedEnd> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/35b249882ac03560c1508a4087671481> <https://colonialcollections.nl/schema#yearCreatedEnd> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/35b249882ac03560c1508a4087671481> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/35b249882ac03560c1508a4087671481> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/35b28fa57e86ef45d51764d03bcf8549> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
@@ -717,10 +717,10 @@
 <https://n2t.net/ark:/27023/35b2ac25ba3655abd3791be0a5b289e2> <https://colonialcollections.nl/schema#description> "Schilderij Ploegende boer op Java, ca. 1872 (olieverf op karton) in vergulde houten lijst en witte houten passepartout. Rechtsonder gesigneerd: \"W.Bleckmann No.2.\"" .
 <https://n2t.net/ark:/27023/35b2ac25ba3655abd3791be0a5b289e2> <https://colonialcollections.nl/schema#inscription> "W.Bleckmann No.2" .
 <https://n2t.net/ark:/27023/35b2ac25ba3655abd3791be0a5b289e2> <https://colonialcollections.nl/schema#creator> "Dhr. Wilhelm Christiaan Constant Bleckmann" .
-<https://n2t.net/ark:/27023/35b2ac25ba3655abd3791be0a5b289e2> <https://colonialcollections.nl/schema#yearCreatedStart> "1872"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/35b2ac25ba3655abd3791be0a5b289e2> <https://colonialcollections.nl/schema#yearCreatedStart> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/35b2ac25ba3655abd3791be0a5b289e2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1872"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/35b2ac25ba3655abd3791be0a5b289e2> <https://colonialcollections.nl/schema#yearCreatedStart> "1872"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/35b2ac25ba3655abd3791be0a5b289e2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/35b2ac25ba3655abd3791be0a5b289e2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1872"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/35b2ac25ba3655abd3791be0a5b289e2> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/35b2ac25ba3655abd3791be0a5b289e2> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/35b2c609bdc31cfab3da633e711ba095> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
@@ -785,10 +785,10 @@
 <https://n2t.net/ark:/27023/35b9bb8a91f23641a55f5da642c454ea> <https://colonialcollections.nl/schema#identifier> "nf%201240" .
 <https://n2t.net/ark:/27023/35b9bb8a91f23641a55f5da642c454ea> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, los\r\n\r\nOp achterkant een door H. Muller in inkt gegeven nummer: 4108\r\n\r\nIn potlood tekst en getallen, waaronder No.619\r\nAchterop deze foto nf 1240 staat vermeld dat er een volgorde is: No. 619 (nf 1240) naar No. 621 (nf 1247) " .
 <https://n2t.net/ark:/27023/35b9bb8a91f23641a55f5da642c454ea> <https://colonialcollections.nl/schema#creator> "onbekend" .
-<https://n2t.net/ark:/27023/35b9bb8a91f23641a55f5da642c454ea> <https://colonialcollections.nl/schema#yearCreatedStart> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/35b9bb8a91f23641a55f5da642c454ea> <https://colonialcollections.nl/schema#yearCreatedStart> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/35b9bb8a91f23641a55f5da642c454ea> <https://colonialcollections.nl/schema#yearCreatedEnd> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/35b9bb8a91f23641a55f5da642c454ea> <https://colonialcollections.nl/schema#yearCreatedStart> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/35b9bb8a91f23641a55f5da642c454ea> <https://colonialcollections.nl/schema#yearCreatedEnd> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/35b9bb8a91f23641a55f5da642c454ea> <https://colonialcollections.nl/schema#yearCreatedEnd> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/35b9bb8a91f23641a55f5da642c454ea> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/35b9bb8a91f23641a55f5da642c454ea> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/35ba9a566d79c330c11cd28e2f4e1aae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
