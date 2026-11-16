@@ -37,10 +37,10 @@
 <https://n2t.net/ark:/27023/133711a3f0f31d32553595864d0d9cec> <https://colonialcollections.nl/schema#name> "Bielsen leggen" .
 <https://n2t.net/ark:/27023/133711a3f0f31d32553595864d0d9cec> <https://colonialcollections.nl/schema#description> "Tekening, pentekening. Tekening gemaakt in periode 1985-1995 door Otto Kreeft. Gesigneerd. Bielsen leggen." .
 <https://n2t.net/ark:/27023/133711a3f0f31d32553595864d0d9cec> <https://colonialcollections.nl/schema#creator> "Militie soldaat 2 klas KNIL Otto August Oscar Kreefft" .
-<https://n2t.net/ark:/27023/133711a3f0f31d32553595864d0d9cec> <https://colonialcollections.nl/schema#yearCreatedStart> "1985"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/133711a3f0f31d32553595864d0d9cec> <https://colonialcollections.nl/schema#yearCreatedStart> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/133711a3f0f31d32553595864d0d9cec> <https://colonialcollections.nl/schema#yearCreatedEnd> "1995"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/133711a3f0f31d32553595864d0d9cec> <https://colonialcollections.nl/schema#yearCreatedStart> "1985"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/133711a3f0f31d32553595864d0d9cec> <https://colonialcollections.nl/schema#yearCreatedEnd> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/133711a3f0f31d32553595864d0d9cec> <https://colonialcollections.nl/schema#yearCreatedEnd> "1995"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/133711a3f0f31d32553595864d0d9cec> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/133711a3f0f31d32553595864d0d9cec> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/1339072f98ebe2dc82714379a1b21114> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
@@ -133,10 +133,10 @@
 <https://n2t.net/ark:/27023/133eded6b8dcfd732b4be9e773d0698b> <https://colonialcollections.nl/schema#name> "Rijstvelden in de Pandangse Bovenlanden" .
 <https://n2t.net/ark:/27023/133eded6b8dcfd732b4be9e773d0698b> <https://colonialcollections.nl/schema#description> "onderschrift; 'Rijstvelden in de Pandangsche Bovenlanden'" .
 <https://n2t.net/ark:/27023/133eded6b8dcfd732b4be9e773d0698b> <https://colonialcollections.nl/schema#creator> "onbekend" .
-<https://n2t.net/ark:/27023/133eded6b8dcfd732b4be9e773d0698b> <https://colonialcollections.nl/schema#yearCreatedStart> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/133eded6b8dcfd732b4be9e773d0698b> <https://colonialcollections.nl/schema#yearCreatedStart> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/133eded6b8dcfd732b4be9e773d0698b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/133eded6b8dcfd732b4be9e773d0698b> <https://colonialcollections.nl/schema#yearCreatedStart> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/133eded6b8dcfd732b4be9e773d0698b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/133eded6b8dcfd732b4be9e773d0698b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/133eded6b8dcfd732b4be9e773d0698b> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/133eded6b8dcfd732b4be9e773d0698b> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/133f068cd15448d4b0fc7451469842c9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
@@ -461,8 +461,8 @@
 <https://n2t.net/ark:/27023/1355d9ffdf78ddeb0057c11ebfd1d4fb> <https://colonialcollections.nl/schema#identifier> "1997/10/07-1-3/10" .
 <https://n2t.net/ark:/27023/1355d9ffdf78ddeb0057c11ebfd1d4fb> <https://colonialcollections.nl/schema#name> "Eiland Philé" .
 <https://n2t.net/ark:/27023/1355d9ffdf78ddeb0057c11ebfd1d4fb> <https://colonialcollections.nl/schema#description> "Prent. Eiland Philé.  Genummerd 4 t/m 30 (uit een publicatie?). Inscriptie : \" 's Hage, E. Spanier Lith. ; naar F.W. Conrad\". Afm. 24 x 16 cm. Totaal 28 stuks (inv.nrs 1997/10/09-1-3/1 t/m 1997/10/09-1-3/28)." .
-<https://n2t.net/ark:/27023/1355d9ffdf78ddeb0057c11ebfd1d4fb> <https://colonialcollections.nl/schema#creator> "Elias Spanier" .
 <https://n2t.net/ark:/27023/1355d9ffdf78ddeb0057c11ebfd1d4fb> <https://colonialcollections.nl/schema#creator> "F.W. Conrad" .
+<https://n2t.net/ark:/27023/1355d9ffdf78ddeb0057c11ebfd1d4fb> <https://colonialcollections.nl/schema#creator> "Elias Spanier" .
 <https://n2t.net/ark:/27023/1355d9ffdf78ddeb0057c11ebfd1d4fb> <https://colonialcollections.nl/schema#yearCreatedStart> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/1355d9ffdf78ddeb0057c11ebfd1d4fb> <https://colonialcollections.nl/schema#yearCreatedEnd> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/1355d9ffdf78ddeb0057c11ebfd1d4fb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
@@ -588,10 +588,10 @@
 <https://n2t.net/ark:/27023/135f5144e62432cf83e928f566fbd8ad> <https://colonialcollections.nl/schema#name> "Prentbriefkaarten NIWIN" .
 <https://n2t.net/ark:/27023/135f5144e62432cf83e928f566fbd8ad> <https://colonialcollections.nl/schema#description> "Prentbriefkaart uitgegeven door de NIWIN voor de troepen in Nederlands-Indië / Indonesië.  Foto Foto-sectie Dienst Welfare Niwin-fotowedstrijd" .
 <https://n2t.net/ark:/27023/135f5144e62432cf83e928f566fbd8ad> <https://colonialcollections.nl/schema#creator> "Dienst Welfare" .
-<https://n2t.net/ark:/27023/135f5144e62432cf83e928f566fbd8ad> <https://colonialcollections.nl/schema#yearCreatedStart> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/135f5144e62432cf83e928f566fbd8ad> <https://colonialcollections.nl/schema#yearCreatedStart> "1946"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/135f5144e62432cf83e928f566fbd8ad> <https://colonialcollections.nl/schema#yearCreatedEnd> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/135f5144e62432cf83e928f566fbd8ad> <https://colonialcollections.nl/schema#yearCreatedStart> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/135f5144e62432cf83e928f566fbd8ad> <https://colonialcollections.nl/schema#yearCreatedEnd> "1949"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/135f5144e62432cf83e928f566fbd8ad> <https://colonialcollections.nl/schema#yearCreatedEnd> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/135f5144e62432cf83e928f566fbd8ad> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/135f5144e62432cf83e928f566fbd8ad> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/135f555318f059a754bb449b31e66249> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
@@ -709,8 +709,8 @@
 <https://n2t.net/ark:/27023/136899b5dd3032f7c67af53d0c47bfdb> <https://colonialcollections.nl/schema#identifier> "nf%20836-32-1" .
 <https://n2t.net/ark:/27023/136899b5dd3032f7c67af53d0c47bfdb> <https://colonialcollections.nl/schema#description> "Foto, ongekarteld, zwart/wit, slechts gedeeltelijk vastgeplakt.  Geen tekst op achterkant foto.    Zonder onderschrift.    Deze opname toont een zandweg met een stevige oude eikeboom. Aan de voet daarvan 2 volwassen dames, de een zittend, de ander staand. " .
 <https://n2t.net/ark:/27023/136899b5dd3032f7c67af53d0c47bfdb> <https://colonialcollections.nl/schema#creator> "onbekend" .
-<https://n2t.net/ark:/27023/136899b5dd3032f7c67af53d0c47bfdb> <https://colonialcollections.nl/schema#yearCreatedStart> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/136899b5dd3032f7c67af53d0c47bfdb> <https://colonialcollections.nl/schema#yearCreatedStart> "1928"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/136899b5dd3032f7c67af53d0c47bfdb> <https://colonialcollections.nl/schema#yearCreatedStart> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/136899b5dd3032f7c67af53d0c47bfdb> <https://colonialcollections.nl/schema#yearCreatedEnd> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/136899b5dd3032f7c67af53d0c47bfdb> <https://colonialcollections.nl/schema#yearCreatedEnd> "1928"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/136899b5dd3032f7c67af53d0c47bfdb> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
@@ -783,10 +783,10 @@
 <https://n2t.net/ark:/27023/136ad044e1b566ae4c3aa911cc3c4503> <https://colonialcollections.nl/schema#name> "'dal van Ombilin Rivier SWK'" .
 <https://n2t.net/ark:/27023/136ad044e1b566ae4c3aa911cc3c4503> <https://colonialcollections.nl/schema#description> "Glaspositief, dubbelglasplaatje, met rand van zwart papier    Op de rand staat een geschreven tekst 'dal van Ombilin Rivier SWK' en de getallen 17 en 4.    Aan de binnenkant van het deksel van de doos waarin deze glasplaat is opgeborgen, is een lijst gepla" .
 <https://n2t.net/ark:/27023/136ad044e1b566ae4c3aa911cc3c4503> <https://colonialcollections.nl/schema#creator> "onbekend" .
-<https://n2t.net/ark:/27023/136ad044e1b566ae4c3aa911cc3c4503> <https://colonialcollections.nl/schema#yearCreatedStart> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/136ad044e1b566ae4c3aa911cc3c4503> <https://colonialcollections.nl/schema#yearCreatedStart> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/136ad044e1b566ae4c3aa911cc3c4503> <https://colonialcollections.nl/schema#yearCreatedEnd> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/136ad044e1b566ae4c3aa911cc3c4503> <https://colonialcollections.nl/schema#yearCreatedStart> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/136ad044e1b566ae4c3aa911cc3c4503> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/136ad044e1b566ae4c3aa911cc3c4503> <https://colonialcollections.nl/schema#yearCreatedEnd> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/136ad044e1b566ae4c3aa911cc3c4503> <https://colonialcollections.nl/schema#publisher_en> "Bronbeek Museum"@en .
 <https://n2t.net/ark:/27023/136ad044e1b566ae4c3aa911cc3c4503> <https://colonialcollections.nl/schema#publisher_nl> "Museum Bronbeek"@nl .
 <https://n2t.net/ark:/27023/136b6dd1b7c8be4a224d0dda4736c1a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
